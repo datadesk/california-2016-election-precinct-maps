@@ -15,7 +15,7 @@ Probable ideas of maps
 | Alpine          |                   |                                                     |
 | Amador          |                   |                                                     |
 | Butte           |                   |                                                     |
-| Calaveras       | soon              | none until certified                                |
+| Calaveras       | ![maybe] soon              | ![no] none until certified                                |
 | Colusa          |                   |                                                     |
 | Contra Costa    |                   |                                                     |
 | Del Norte       |                   |                                                     |
@@ -24,40 +24,40 @@ Probable ideas of maps
 | Glenn           |                   |                                                     |
 | Humboldt        |                   |                                                     |
 | Imperial        |                   |                                                     |
-| Inyo            | yes               | yes                                                 |
+| Inyo            | ![yes] yes              | ![yes] yes                                                |
 | Kern            |                   |                                                     |
-| Kings           | yes               |                                                     |
+| Kings           | ![yes] yes               |                                                     |
 | Lake            |                   |                                                     |
-| Lassen          |                   | none until certified, one week after election       |
-| Los Angeles     | yes               | afternoon of Nov. 9                                 |
-| Madera          |                   | no                                                  |
+| Lassen          |                   | ![no] none until certified, one week after election       |
+| Los Angeles     | ![yes] yes               | ![yes] afternoon of Nov. 9                                 |
+| Madera          |                   | ![no] no                                                  |
 | Marin           |                   |                                                     |
 | Mariposa        |                   |                                                     |
 | Mendocino       |                   |                                                     |
 | Merced          |                   |                                                     |
 | Modoc           |                   |                                                     |
-| Mono            |                   | yes, day after or after midnight                    |
-| Monterey        | yes               | no: county-wide results only                        |
+| Mono            |                   | ![yes] yes, day after or after midnight                    |
+| Monterey        | ![yes] yes               | ![no] no: county-wide results only                        |
 | Napa            |                   |                                                     |
 | Nevada          |                   |                                                     |
 | Orange          |                   |                                                     |
-| Placer          | Yes (tentatively) |                                                     |
+| Placer          | ![maybe] Yes (tentatively) |                                                     |
 | Plumas          |                   |                                                     |
 | Riverside       |                   |                                                     |
-| Sacramento      | yes               |                                                     |
-| San Benito      | maybe             | Yes, live on http://sbcvote.us/ in tabular pdf form |
-| San Bernardino  | yes               |                                                     |
-| San Diego       | yes               | no-available later that week                        |
+| Sacramento      | ![yes] yes               |                                                     |
+| San Benito      | ![maybe] maybe             | ![yes] Yes, live on http://sbcvote.us/ in tabular pdf form |
+| San Bernardino  | ![yes] yes               |                                                     |
+| San Diego       | ![yes] yes               | ![no] no-available later that week                        |
 | San Francisco   |                   |                                                     |
 | San Joaquin     |                   |                                                     |
-| San Luis Obispo |                   | yes-Available Nov. 9                                |
+| San Luis Obispo |                   | ![yes] yes-Available Nov. 9                                |
 | San Mateo       |                   |                                                     |
 | Santa Barbara   |                   |                                                     |
 | Santa Clara     |                   |                                                     |
 | Santa Cruz      |                   |                                                     |
 | Shasta          |                   |                                                     |
-| Sierra          | no                | yes                                                 |
-| Siskiyou        | Yes               | None until certified                                |
+| Sierra          | ![no] no                | ![yes] yes                                                 |
+| Siskiyou        | ![yes] Yes               | ![no] None until certified                                |
 | Solano          |                   |                                                     |
 | Sonoma          |                   |                                                     |
 | Stanislaus      |                   |                                                     |
@@ -67,5 +67,10 @@ Probable ideas of maps
 | Tulare          |                   |                                                     |
 | Tuolumne        |                   |                                                     |
 | Ventura         |                   |                                                     |
-| Yolo            | no                | Live updated at http://www.yoloelections.org/       |
+| Yolo            | ![no] no                | ![maybe] Live updated at http://www.yoloelections.org/       |
 | Yuba            |                   |                                                     |
+
+
+[yes]: https://cloud.githubusercontent.com/assets/695934/19056263/f95b9a40-897c-11e6-99b6-d8348a071b0e.png
+[maybe]: https://cloud.githubusercontent.com/assets/695934/19056262/f958961a-897c-11e6-93fd-40f39602a9a5.png
+[no]: https://cloud.githubusercontent.com/assets/695934/19056261/f9586dca-897c-11e6-8b7e-e9606a05f5ee.png
