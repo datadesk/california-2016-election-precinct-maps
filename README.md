@@ -7,3 +7,65 @@ We're gonna make a precinct-level map of results from the 2016 General Election.
 Probable ideas of maps
 - How many people voted for Trump in your neighborhood? (idea being that California reliably will go to Clinton. So, where are the Trump supporters?)
 - Who's for potting it up in California? (Okay, grandpa. Where is support for this Prop 64?)
+
+## County status
+| county          | shapefile?        | results?                                            |
+|-----------------|-------------------|-----------------------------------------------------|
+| Alameda         |                   |                                                     |
+| Alpine          |                   |                                                     |
+| Amador          |                   |                                                     |
+| Butte           |                   |                                                     |
+| Calaveras       | soon              | none until certified                                |
+| Colusa          |                   |                                                     |
+| Contra Costa    |                   |                                                     |
+| Del Norte       |                   |                                                     |
+| El Dorado       |                   |                                                     |
+| Fresno          |                   |                                                     |
+| Glenn           |                   |                                                     |
+| Humboldt        |                   |                                                     |
+| Imperial        |                   |                                                     |
+| Inyo            | yes               | yes                                                 |
+| Kern            |                   |                                                     |
+| Kings           | yes               |                                                     |
+| Lake            |                   |                                                     |
+| Lassen          |                   | none until certified, one week after election       |
+| Los Angeles     | yes               | afternoon of Nov. 9                                 |
+| Madera          |                   | no                                                  |
+| Marin           |                   |                                                     |
+| Mariposa        |                   |                                                     |
+| Mendocino       |                   |                                                     |
+| Merced          |                   |                                                     |
+| Modoc           |                   |                                                     |
+| Mono            |                   | yes, day after or after midnight                    |
+| Monterey        | yes               | no: county-wide results only                        |
+| Napa            |                   |                                                     |
+| Nevada          |                   |                                                     |
+| Orange          |                   |                                                     |
+| Placer          | Yes (tentatively) |                                                     |
+| Plumas          |                   |                                                     |
+| Riverside       |                   |                                                     |
+| Sacramento      | yes               |                                                     |
+| San Benito      | maybe             | Yes, live on http://sbcvote.us/ in tabular pdf form |
+| San Bernardino  | yes               |                                                     |
+| San Diego       | yes               | no-available later that week                        |
+| San Francisco   |                   |                                                     |
+| San Joaquin     |                   |                                                     |
+| San Luis Obispo |                   | yes-Available Nov. 9                                |
+| San Mateo       |                   |                                                     |
+| Santa Barbara   |                   |                                                     |
+| Santa Clara     |                   |                                                     |
+| Santa Cruz      |                   |                                                     |
+| Shasta          |                   |                                                     |
+| Sierra          | no                | yes                                                 |
+| Siskiyou        | Yes               | None until certified                                |
+| Solano          |                   |                                                     |
+| Sonoma          |                   |                                                     |
+| Stanislaus      |                   |                                                     |
+| Sutter          |                   |                                                     |
+| Tehama          |                   |                                                     |
+| Trinity         |                   |                                                     |
+| Tulare          |                   |                                                     |
+| Tuolumne        |                   |                                                     |
+| Ventura         |                   |                                                     |
+| Yolo            | no                | Live updated at http://www.yoloelections.org/       |
+| Yuba            |                   |                                                     |
