@@ -45,7 +45,7 @@ Probable ideas of maps
 | Plumas          |                   |                                                     |
 | Riverside       |                   |                                                     |
 | Sacramento      | ![yes] yes               |                                                     |
-| San Benito      | ![maybe] maybe             | ![yes] Yes, live on http://sbcvote.us/ in tabular pdf form |
+| San Benito      | ![yes] yes             | ![yes] Yes, live on http://sbcvote.us/ in tabular pdf form |
 | San Bernardino  | ![yes] yes               |                                                     |
 | San Diego       | ![yes] yes               | ![no] no-available later that week                        |
 | San Francisco   |                   |                                                     |
