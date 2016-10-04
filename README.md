@@ -12,7 +12,7 @@ Probable ideas of maps
 | county          | shapefile?        | results?                                            |
 |-----------------|-------------------|-----------------------------------------------------|
 | Alameda         |                   |                                                     |
-| Alpine          |                   |                                                     |
+| Alpine          |  ![yes] yes      |    ![yes] yes, on http://www.alpinecountyca.gov/index.aspx?NID=388                    |
 | Amador          |                   |                                                     |
 | Butte           |                   |                                                     |
 | Calaveras       | ![maybe] soon              | ![no] none until certified                                |
