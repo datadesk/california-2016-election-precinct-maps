@@ -35,7 +35,7 @@ Probable ideas of maps
 | Mariposa        |                   |                                                     |
 | Mendocino       |                   |                                                     |
 | Merced          |                   |                                                     |
-| Modoc           |                   |                                                     |
+| Modoc           | ![yes] yes            |    ![yes] yes on their website                                 |
 | Mono            |                   | ![yes] yes, day after or after midnight                    |
 | Monterey        | ![yes] yes               | ![no] no: county-wide results only                        |
 | Napa            |                   |                                                     |
