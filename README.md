@@ -43,7 +43,7 @@ Probable ideas of maps
 | Orange          |                   |                                                     |
 | Placer          | ![maybe] Yes (tentatively) |                                                     |
 | Plumas          |                   |                                                     |
-| Riverside       |                   |                                                     |
+| Riverside       | ![yes] yes | ![yes] Yes, live on http://www.voteinfo.net/ |
 | Sacramento      | ![yes] yes               |                                                     |
 | San Benito      | ![yes] yes             | ![yes] Yes, live on http://sbcvote.us/ in tabular pdf form |
 | San Bernardino  | ![yes] yes               |                                                     |
