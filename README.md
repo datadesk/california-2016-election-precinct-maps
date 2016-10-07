@@ -55,7 +55,7 @@ Probable ideas of maps
 | Santa Barbara   |                   |                                                     |
 | Santa Clara     |                   |                                                     |
 | Santa Cruz      |                   |                                                     |
-| Shasta          |                   |                                                     |
+| Shasta          | ![yes] yes         | ![yes] yes, [online](http://www.elections.co.shasta.ca.us/election-results/election-results/current-election-results/)     |
 | Sierra          | ![no] no                | ![yes] yes                                                 |
 | Siskiyou        | ![yes] Yes               | ![no] None until certified                                |
 | Solano          |                   |                                                     |
