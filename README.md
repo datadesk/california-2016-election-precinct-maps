@@ -62,7 +62,7 @@ Probable ideas of maps
 | Sonoma          |                   |                                                     |
 | Stanislaus      |                   |                                                     |
 | Sutter          |                   |                                                     |
-| Tehama          |                   |                                                     |
+| Tehama          | ![yes] yes        |                                                     |
 | Trinity         |                   |                                                     |
 | Tulare          |                   |                                                     |
 | Tuolumne        |                   |                                                     |
