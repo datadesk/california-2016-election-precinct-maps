@@ -28,7 +28,7 @@ Probable ideas of maps
 | Kern            |                   |                                                     |
 | Kings           | ![yes] yes               |                                                     |
 | Lake            |                   |                                                     |
-| Lassen          |                   | ![no] none until certified, one week after election       |
+| Lassen          | ![no] print maps only     | ![no] none until certified, one week after election       |
 | Los Angeles     | ![yes] yes               | ![yes] afternoon of Nov. 9                                 |
 | Madera          |                   | ![no] no                                                  |
 | Marin           |                   |                                                     |
