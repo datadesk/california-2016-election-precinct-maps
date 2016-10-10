@@ -61,7 +61,7 @@ Probable ideas of maps
 | Solano          |                   |                                                     |
 | Sonoma          |                   |                                                     |
 | Stanislaus      |                   |                                                     |
-| Sutter          |                   |                                                     |
+| Sutter          | ![yes] yes            |                                                     |
 | Tehama          | ![yes] yes        |                                                     |
 | Trinity         |                   |                                                     |
 | Tulare          |                   |                                                     |
