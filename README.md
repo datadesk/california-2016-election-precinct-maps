@@ -23,7 +23,7 @@ Probable ideas of maps
 | Fresno          |                   |                                                     |
 | Glenn           |                   |                                                     |
 | Humboldt        |                   |                                                     |
-| Imperial        |                   |                                                     |
+| Imperial        |                   |  ![no] none until certified                                           |
 | Inyo            | ![yes] yes              | ![yes] yes                                                |
 | Kern            |                   |                                                     |
 | Kings           | ![yes] yes               |                                                     |
