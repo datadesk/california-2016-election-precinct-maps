@@ -66,7 +66,7 @@ Probable ideas of maps
 | Trinity         |                   |                                                     |
 | Tulare          |                   |                                                     |
 | Tuolumne        |                   |                                                     |
-| Ventura         |                   |  ![yes] yes [online](http://recorder.countyofventura.org/elections/election-resultscanvass-of-the-vote/)                                         |
+| Ventura         | ![yes] yes         |  ![yes] yes [online](http://recorder.countyofventura.org/elections/election-resultscanvass-of-the-vote/)                                         |
 | Yolo            | ![no] no                | ![maybe] Live updated at http://www.yoloelections.org/       |
 | Yuba            |                   |                                                     |
 
