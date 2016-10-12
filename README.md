@@ -40,7 +40,7 @@ Probable ideas of maps
 | Monterey        | ![yes] yes               | ![no] no: county-wide results only                        |
 | Napa            |                   |                                                     |
 | Nevada          |                   |                                                     |
-| Orange          |                   |                                                     |
+| Orange          | ![yes] yes |  ![yes] statement of votes cast pdf on site http://www.ocvote.com/ |
 | Placer          | ![maybe] Yes (tentatively) |                                                     |
 | Plumas          |                   |                                                     |
 | Riverside       | ![yes] yes | ![yes] Yes, live on http://www.voteinfo.net/ |
