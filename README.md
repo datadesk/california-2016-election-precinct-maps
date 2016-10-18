@@ -12,7 +12,7 @@ Probable ideas of maps
 | county          | shapefile?        | results?                                            |
 |-----------------|-------------------|-----------------------------------------------------|
 | Alameda         |                   |                                                     |
-| Alpine          |  ![yes] yes      |    ![yes] yes, on http://www.alpinecountyca.gov/index.aspx?NID=388                    |
+| Alpine          |  ![yes] yes      |    ![yes] yes, [online](http://www.alpinecountyca.gov/index.aspx?NID=388)                    |
 | Amador          |  ![yes] yes        | ![yes] yes, [online](http://amadorgov.org/government/elections/election-results)      |
 | Butte           |                   |                                                     |
 | Calaveras       | ![maybe] soon              | ![no] none until certified                                |
@@ -21,13 +21,13 @@ Probable ideas of maps
 | Del Norte       |                   |                                                     |
 | El Dorado       |                   |                                                     |
 | Fresno          | ![maybe] waiting      |                                                     |
-| Glenn           |                   |                                                     |
+| Glenn           | ![yes] yes          |                                                     |
 | Humboldt        |                   |                                                     |
 | Imperial        |                   |  ![no] none until certified                                           |
 | Inyo            | ![yes] yes              | ![yes] yes                                                |
-| Kern            |                   |                                                     |
+| Kern            | ![yes] yes        |                                                     |
 | Kings           | ![yes] yes               |                                                     |
-| Lake            |                   |                                                     |
+| Lake            | ![yes] yes        |  ![no] none until certified                                  |
 | Lassen          | ![no] print maps only     | ![no] none until certified, one week after election       |
 | Los Angeles     | ![yes] yes               | ![yes] afternoon of Nov. 9                                 |
 | Madera          |                   | ![no] no                                                  |
