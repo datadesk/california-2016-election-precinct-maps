@@ -31,18 +31,18 @@ Probable ideas of maps
 | Lassen          | ![no] print maps only     | ![no] none until certified, one week after election       |
 | Los Angeles     | ![yes] yes               | ![yes] afternoon of Nov. 9                                 |
 | Madera          |                   | ![no] no                                                  |
-| Marin           |                   |                                                     |
-| Mariposa        |                   |                                                     |
+| Marin           | ![yes] yes       | ![no] no, but [eventually online](http://www.marincounty.org/depts/rv/election-info/past-elections) |
+| Mariposa        | ![yes] yes       | ![yes] yes, they'll give it to us on Nov. 9 |
 | Mendocino       |                   |                                                     |
 | Merced          |                   |                                                     |
 | Modoc           | ![yes] yes            |    ![yes] yes on their website                                 |
-| Mono            |                   | ![yes] yes, day after or after midnight                    |
+| Mono            | ![yes] yes        | ![yes] yes, day after or [after midnight online](http://www.monocounty.ca.gov/elections/page/election-results) |
 | Monterey        | ![yes] yes               | ![no] no: county-wide results only                        |
 | Napa            |                   |                                                     |
-| Nevada          |                   |                                                     |
+| Nevada          | ![maybe] waiting to be finalized   |  ![yes] yes, they'll email to Jon        |
 | Orange          | ![yes] yes |  ![yes] statement of votes cast pdf on site http://www.ocvote.com/ |
 | Placer          | ![maybe] Yes (tentatively) |                                                     |
-| Plumas          |                   |                                                     |
+| Plumas          | ![yes] yes        |  ![yes] yes, [pdf online](http://www.plumascounty.us/index.aspx?NID=147)   |
 | Riverside       | ![yes] yes | ![yes] Yes, live on http://www.voteinfo.net/ |
 | Sacramento      | ![yes] yes               |                                                     |
 | San Benito      | ![yes] yes             | ![yes] Yes, live on http://sbcvote.us/ in tabular pdf form |
