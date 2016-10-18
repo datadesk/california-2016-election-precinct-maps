@@ -23,8 +23,8 @@ Probable ideas of maps
 | Fresno          | ![maybe] waiting      |                                                     |
 | Glenn           | ![yes] yes          | ![yes] yes, [online](http://www.countyofglenn.net/dept/elections/voting-results)      |
 | Humboldt        |                   |                                                     |
-| Imperial        |                   |  ![no] none until certified                                           |
-| Inyo            | ![yes] yes              | ![yes] yes                                                |
+| Imperial        | ![maybe] waiting      |  ![no] none until certified                                           |
+| Inyo            | ![maybe] need to be consolidated-jon    | ![yes] yes                                                |
 | Kern            | ![yes] yes        |                                                     |
 | Kings           | ![yes] yes               |                                                     |
 | Lake            | ![yes] yes        |  ![no] none until certified                                  |
