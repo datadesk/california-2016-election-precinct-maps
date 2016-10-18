@@ -21,7 +21,7 @@ Probable ideas of maps
 | Del Norte       |                   |                                                     |
 | El Dorado       |                   |                                                     |
 | Fresno          | ![maybe] waiting      |                                                     |
-| Glenn           | ![yes] yes          |                                                     |
+| Glenn           | ![yes] yes          | ![yes] yes, [online](http://www.countyofglenn.net/dept/elections/voting-results)      |
 | Humboldt        |                   |                                                     |
 | Imperial        |                   |  ![no] none until certified                                           |
 | Inyo            | ![yes] yes              | ![yes] yes                                                |
