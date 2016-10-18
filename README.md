@@ -13,14 +13,14 @@ Probable ideas of maps
 |-----------------|-------------------|-----------------------------------------------------|
 | Alameda         |                   |                                                     |
 | Alpine          |  ![yes] yes      |    ![yes] yes, on http://www.alpinecountyca.gov/index.aspx?NID=388                    |
-| Amador          |                   |                                                     |
+| Amador          |  ![yes] yes        | ![yes] yes, [online](http://amadorgov.org/government/elections/election-results)      |
 | Butte           |                   |                                                     |
 | Calaveras       | ![maybe] soon              | ![no] none until certified                                |
-| Colusa          |                   |                                                     |
+| Colusa          |  ![yes] yes          | ![yes] yes, will need to call 530-458-0500                       |
 | Contra Costa    |                   |                                                     |
 | Del Norte       |                   |                                                     |
 | El Dorado       |                   |                                                     |
-| Fresno          |                   |                                                     |
+| Fresno          | ![maybe] waiting      |                                                     |
 | Glenn           |                   |                                                     |
 | Humboldt        |                   |                                                     |
 | Imperial        |                   |  ![no] none until certified                                           |
