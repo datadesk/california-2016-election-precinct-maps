@@ -39,7 +39,7 @@ Probable ideas of maps
 | Mono            | ![yes] yes        | ![yes] yes, day after or [after midnight online](http://www.monocounty.ca.gov/elections/page/election-results) |
 | Monterey        | ![yes] yes               | ![no] no: county-wide results only                        |
 | Napa            |                   |                                                     |
-| Nevada          | ![maybe] waiting to be finalized   |  ![yes] yes, they'll email to Jon        |
+| Nevada          | ![yes] yes   |  ![yes] yes, they'll email to Jon        |
 | Orange          | ![yes] yes |  ![yes] statement of votes cast pdf on site http://www.ocvote.com/ |
 | Placer          | ![maybe] Yes (tentatively) |                                                     |
 | Plumas          | ![yes] yes        |  ![yes] yes, [pdf online](http://www.plumascounty.us/index.aspx?NID=147)   |
