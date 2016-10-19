@@ -52,7 +52,7 @@ Probable ideas of maps
 | San Joaquin     |                   |                                                     |
 | San Luis Obispo |                   | ![yes] yes-Available Nov. 9                                |
 | San Mateo       |                   |                                                     |
-| Santa Barbara   |                   |                                                     |
+| Santa Barbara   |                   | ![yes] yes, [online](http://www.sbcvote.com/elections/UpcomingElections.aspx)    |
 | Santa Clara     |                   |                                                     |
 | Santa Cruz      |                   |                                                     |
 | Shasta          | ![yes] yes         | ![yes] yes, [online](http://www.elections.co.shasta.ca.us/election-results/election-results/current-election-results/)     |
