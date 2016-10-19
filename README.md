@@ -50,7 +50,7 @@ Probable ideas of maps
 | San Diego       | ![yes] yes               | ![no] no-available later that week                        |
 | San Francisco   |                   |                                                     |
 | San Joaquin     |                   |                                                     |
-| San Luis Obispo |                   | ![yes] yes-Available Nov. 9                                |
+| San Luis Obispo |  ![yes] yes  | ![yes] yes-Available Nov. 9                                |
 | San Mateo       |                   |                                                     |
 | Santa Barbara   |                   | ![yes] yes, [online](http://www.sbcvote.com/elections/UpcomingElections.aspx)    |
 | Santa Clara     |                   |                                                     |
