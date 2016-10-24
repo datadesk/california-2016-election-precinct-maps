@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20161024</CreaDate><CreaTime>10254000</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.3\ArcToolbox\Toolboxes\Data Management Tools.tbx\Dissolve" Date="20161021" Time="141023">Dissolve Precincts M:\STAFF\Austin\Projects\2016\088-16\Default.gdb\PrctsDissolve_VotingPrcts PrecinctList.Voting_Precinct # MULTI_PART DISSOLVE_LINES</Process></lineage></DataProperties></Esri></metadata>
