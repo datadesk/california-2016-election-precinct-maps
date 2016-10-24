@@ -46,7 +46,7 @@ Probable ideas of maps
 | Riverside       | ![yes] yes | ![yes] Yes, live on http://www.voteinfo.net/ |
 | Sacramento      | ![yes] yes               |                                                     |
 | San Benito      | ![yes] yes             | ![yes] Yes, live on http://sbcvote.us/ in tabular pdf form |
-| San Bernardino  | ![yes] yes               |                                                     |
+| San Bernardino  | ![yes] yes               | ![yes] yes, will email to Jon                              |
 | San Diego       | ![yes] yes               | ![no] no-available later that week                        |
 | San Francisco   |                   |                                                     |
 | San Joaquin     |                   |                                                     |
@@ -54,7 +54,7 @@ Probable ideas of maps
 | San Mateo       |                   |                                                     |
 | Santa Barbara   |                   | ![yes] yes, [online](http://www.sbcvote.com/elections/UpcomingElections.aspx)    |
 | Santa Clara     |                   |                                                     |
-| Santa Cruz      |                   |                                                     |
+| Santa Cruz      | ![yes] yes         | ![yes] yes, [should be online](http://www.acgov.org/rov/elections/20161108/)      |
 | Shasta          | ![yes] yes         | ![yes] yes, [online](http://www.elections.co.shasta.ca.us/election-results/election-results/current-election-results/)     |
 | Sierra          | ![yes] yes                | ![yes] yes                                                 |
 | Siskiyou        | ![yes] Yes               | ![no] None until certified                                |
