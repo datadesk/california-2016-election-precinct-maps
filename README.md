@@ -19,7 +19,7 @@ Probable ideas of maps
 | Colusa          | ![yes] yes          | ![yes] yes, will need to call 530-458-0500                       |
 | Contra Costa    |                   |                                                     |
 | Del Norte       |                   |                                                     |
-| El Dorado       |                   |                                                     |
+| El Dorado       | ![maybe] will have to consolidate    | ![yes] yes, will provide a CSV on election night |
 | Fresno          | ![maybe] waiting      |                                                     |
 | Glenn           | ![yes] yes          | ![yes] yes, [online](http://www.countyofglenn.net/dept/elections/voting-results)      |
 | Humboldt        |                   |                                                     |
