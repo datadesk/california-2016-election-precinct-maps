@@ -11,12 +11,12 @@ Probable ideas of maps
 ## County status
 | county          | shapefile?        | results?                                            |
 |-----------------|-------------------|-----------------------------------------------------|
-| Alameda         |                   |                                                     |
-| Alpine          |  ![yes] yes      |    ![yes] yes, [online](http://www.alpinecountyca.gov/index.aspx?NID=388)                    |
-| Amador          |  ![yes] yes        | ![yes] yes, [online](http://amadorgov.org/government/elections/election-results)      |
+| Alameda         | ![yes] yes      | ![yes] yes, [should be online](http://www.acgov.org/rov/elections/20161108/)      |
+| Alpine          | ![yes] yes      |    ![yes] yes, [online](http://www.alpinecountyca.gov/index.aspx?NID=388)                    |
+| Amador          | ![yes] yes        | ![yes] yes, [online](http://amadorgov.org/government/elections/election-results)      |
 | Butte           |                   |                                                     |
 | Calaveras       | ![maybe] soon              | ![no] none until certified                                |
-| Colusa          |  ![yes] yes          | ![yes] yes, will need to call 530-458-0500                       |
+| Colusa          | ![yes] yes          | ![yes] yes, will need to call 530-458-0500                       |
 | Contra Costa    |                   |                                                     |
 | Del Norte       |                   |                                                     |
 | El Dorado       |                   |                                                     |
@@ -54,7 +54,7 @@ Probable ideas of maps
 | San Mateo       |                   |                                                     |
 | Santa Barbara   |                   | ![yes] yes, [online](http://www.sbcvote.com/elections/UpcomingElections.aspx)    |
 | Santa Clara     |                   |                                                     |
-| Santa Cruz      | ![yes] yes         | ![yes] yes, [should be online](http://www.acgov.org/rov/elections/20161108/)      |
+| Santa Cruz      | ![yes] yes         | ![yes] yes, [should be online](http://www.votescount.com/Home/UpcomingElections/November8,2016PresidentialGeneralElection.aspx)      |
 | Shasta          | ![yes] yes         | ![yes] yes, [online](http://www.elections.co.shasta.ca.us/election-results/election-results/current-election-results/)     |
 | Sierra          | ![yes] yes                | ![yes] yes                                                 |
 | Siskiyou        | ![yes] Yes               | ![no] None until certified                                |
