@@ -22,7 +22,7 @@ Probable ideas of maps
 | El Dorado       | ![maybe] will have to consolidate    | ![yes] yes, will provide a CSV on election night |
 | Fresno          | ![maybe] waiting      |                                                     |
 | Glenn           | ![yes] yes          | ![yes] yes, [online](http://www.countyofglenn.net/dept/elections/voting-results)      |
-| Humboldt        |                   |                                                     |
+| Humboldt        | ![yes] yes       | ![yes] yes, [online](http://www.humboldtgov.org/Archive.aspx?ADID=1081)    |
 | Imperial        | ![maybe] waiting      |  ![no] none until certified                                           |
 | Inyo            | ![maybe] need to be consolidated-jon    | ![yes] yes                                                |
 | Kern            | ![yes] yes        | ![no] no, but could call and get Nov. 10   |
