@@ -63,7 +63,7 @@ Probable ideas of maps
 | Stanislaus      |                   | ![yes] yes                                |
 | Sutter          | ![yes] yes |                                                     |
 | Tehama          | ![yes] yes        |                                                     |
-| Trinity         |                   |                                                     |
+| Trinity         | ![no] "not anytime soon" | ![maybe] possible after election  |
 | Tulare          |                   |                                                     |
 | Tuolumne        | ![no] no       | ![no] not until certified              |
 | Ventura         | ![yes] yes         |  ![yes] yes [online](http://recorder.countyofventura.org/elections/election-resultscanvass-of-the-vote/)  |
