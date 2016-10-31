@@ -19,7 +19,7 @@ Probable ideas of maps
 | Colusa          | ![yes] yes          | ![yes] yes, will need to call 530-458-0500                       |
 | Contra Costa    |                   |                                                     |
 | Del Norte       | ![maybe] Tommy making | ![yes] yes, call                                  |
-| El Dorado       | ![maybe] will have to consolidate    | ![yes] yes, will provide a CSV on election night |
+| El Dorado       | ![maybe] Jon to consolidate    | ![yes] yes, will provide a CSV on election night |
 | Fresno          | ![yes] yes      | ![no] not until 3 weeks after election                        |
 | Glenn           | ![yes] yes          | ![yes] yes, [online](http://www.countyofglenn.net/dept/elections/voting-results)      |
 | Humboldt        | ![yes] yes       | ![yes] yes, [online](http://www.humboldtgov.org/Archive.aspx?ADID=1081)    |
@@ -52,23 +52,23 @@ Probable ideas of maps
 | San Joaquin     |                   |                                                     |
 | San Luis Obispo |  ![yes] yes  | ![yes] yes-Available Nov. 9                                |
 | San Mateo       |                   |                                                     |
-| Santa Barbara   |                   | ![yes] yes, [online](http://www.sbcvote.com/elections/UpcomingElections.aspx)    |
+| Santa Barbara   | ![yes] yes Jon created     | ![yes] yes, [online](http://www.sbcvote.com/elections/UpcomingElections.aspx)    |
 | Santa Clara     |                   |                                                     |
 | Santa Cruz      | ![yes] yes         | ![yes] yes, [should be online](http://www.votescount.com/Home/UpcomingElections/November8,2016PresidentialGeneralElection.aspx)      |
 | Shasta          | ![yes] yes         | ![yes] yes, [online](http://www.elections.co.shasta.ca.us/election-results/election-results/current-election-results/)     |
 | Sierra          | ![yes] yes                | ![yes] yes                                                 |
 | Siskiyou        | ![yes] Yes               | ![no] None until certified                                |
-| Solano          |                   |                                                     |
+| Solano          | ![maybe] waiting  | ![no] None until certified                  |
 | Sonoma          |                   |                                                     |
-| Stanislaus      |                   |                                                     |
-| Sutter          | ![yes] yes            |                                                     |
+| Stanislaus      |                   | ![yes] yes                                |
+| Sutter          | ![yes] yes |                                                     |
 | Tehama          | ![yes] yes        |                                                     |
 | Trinity         |                   |                                                     |
 | Tulare          |                   |                                                     |
-| Tuolumne        |                   |                                                     |
-| Ventura         | ![yes] yes         |  ![yes] yes [online](http://recorder.countyofventura.org/elections/election-resultscanvass-of-the-vote/)                                         |
+| Tuolumne        | ![no] no       | ![no] not until certified              |
+| Ventura         | ![yes] yes         |  ![yes] yes [online](http://recorder.countyofventura.org/elections/election-resultscanvass-of-the-vote/)  |
 | Yolo            | ![no] no                | ![maybe] Live updated at http://www.yoloelections.org/       |
-| Yuba            |                   |                                                     |
+| Yuba            | ![yes] yes          | ![no] not until certified                          |
 
 
 [yes]: https://cloud.githubusercontent.com/assets/695934/19056263/f95b9a40-897c-11e6-99b6-d8348a071b0e.png
