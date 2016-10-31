@@ -14,13 +14,13 @@ Probable ideas of maps
 | Alameda         | ![yes] yes      | ![yes] yes, [should be online](http://www.acgov.org/rov/elections/20161108/)      |
 | Alpine          | ![yes] yes      |    ![yes] yes, [online](http://www.alpinecountyca.gov/index.aspx?NID=388)                    |
 | Amador          | ![yes] yes        | ![yes] yes, [online](http://amadorgov.org/government/elections/election-results)      |
-| Butte           |                   |                                                     |
-| Calaveras       | ![maybe] soon              | ![no] none until certified                                |
+| Butte           | ![maybe] soon       | ![yes] yes, [online](http://clerk-recorder.buttecounty.net/elections/electhome.html)  |
+| Calaveras       | ![no] no              | ![no] none until certified                                |
 | Colusa          | ![yes] yes          | ![yes] yes, will need to call 530-458-0500                       |
 | Contra Costa    |                   |                                                     |
-| Del Norte       |                   |                                                     |
+| Del Norte       | ![maybe] Tommy making | ![yes] yes, call                                  |
 | El Dorado       | ![maybe] will have to consolidate    | ![yes] yes, will provide a CSV on election night |
-| Fresno          | ![maybe] waiting      |                                                     |
+| Fresno          | ![yes] yes      | ![no] not until 3 weeks after election                        |
 | Glenn           | ![yes] yes          | ![yes] yes, [online](http://www.countyofglenn.net/dept/elections/voting-results)      |
 | Humboldt        | ![yes] yes       | ![yes] yes, [online](http://www.humboldtgov.org/Archive.aspx?ADID=1081)    |
 | Imperial        | ![maybe] waiting      |  ![no] none until certified                                           |
