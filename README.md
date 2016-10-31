@@ -60,11 +60,11 @@ Probable ideas of maps
 | Siskiyou        | ![yes] Yes               | ![no] None until certified                                |
 | Solano          | ![maybe] waiting  | ![no] None until certified                  |
 | Sonoma          |                   |                                                     |
-| Stanislaus      |                   | ![yes] yes                                |
+| Stanislaus      | ![maybe] waiting | ![yes] yes                                |
 | Sutter          | ![yes] yes |                                                     |
 | Tehama          | ![yes] yes        |                                                     |
 | Trinity         | ![no] "not anytime soon" | ![maybe] possible after election  |
-| Tulare          |                   |                                                     |
+| Tulare          | ![maybe] waiting | ![no] not until certified             |
 | Tuolumne        | ![no] no       | ![no] not until certified              |
 | Ventura         | ![yes] yes         |  ![yes] yes [online](http://recorder.countyofventura.org/elections/election-resultscanvass-of-the-vote/)  |
 | Yolo            | ![no] no                | ![maybe] Live updated at http://www.yoloelections.org/       |
