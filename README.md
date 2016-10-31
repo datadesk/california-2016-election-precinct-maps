@@ -33,12 +33,12 @@ Probable ideas of maps
 | Madera          |                   | ![no] no                                                  |
 | Marin           | ![yes] yes       | ![no] no, but [eventually online](http://www.marincounty.org/depts/rv/election-info/past-elections) |
 | Mariposa        | ![yes] yes       | ![yes] yes, they'll give it to us on Nov. 9 |
-| Mendocino       |                   |                                                     |
+| Mendocino       | ![maybe] Tommy making  | ![no] not until certified |
 | Merced          |                   |                                                     |
 | Modoc           | ![yes] yes            |    ![yes] yes on their website                                 |
 | Mono            | ![yes] yes        | ![yes] yes, day after or [after midnight online](http://www.monocounty.ca.gov/elections/page/election-results) |
 | Monterey        | ![yes] yes               | ![no] no: county-wide results only                        |
-| Napa            |                   |                                                     |
+| Napa            | ![maybe] Tommy making  |  ![no] not until certified  |
 | Nevada          | ![yes] yes   |  ![yes] yes, they'll email to Jon        |
 | Orange          | ![yes] yes |  ![yes] statement of votes cast pdf on site http://www.ocvote.com/ |
 | Placer          | ![maybe] Yes (tentatively) |                                                     |
