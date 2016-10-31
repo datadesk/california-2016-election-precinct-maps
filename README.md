@@ -14,13 +14,13 @@ Probable ideas of maps
 | Alameda         | ![yes] yes      | ![yes] yes, [should be online](http://www.acgov.org/rov/elections/20161108/)      |
 | Alpine          | ![yes] yes      |    ![yes] yes, [online](http://www.alpinecountyca.gov/index.aspx?NID=388)                    |
 | Amador          | ![yes] yes        | ![yes] yes, [online](http://amadorgov.org/government/elections/election-results)      |
-| Butte           |                   |                                                     |
-| Calaveras       | ![maybe] soon              | ![no] none until certified                                |
+| Butte           | ![maybe] soon       | ![yes] yes, [online](http://clerk-recorder.buttecounty.net/elections/electhome.html)  |
+| Calaveras       | ![no] no              | ![no] none until certified                                |
 | Colusa          | ![yes] yes          | ![yes] yes, will need to call 530-458-0500                       |
 | Contra Costa    |                   |                                                     |
-| Del Norte       |                   |                                                     |
+| Del Norte       | ![maybe] Tommy making | ![yes] yes, call                                  |
 | El Dorado       | ![maybe] will have to consolidate    | ![yes] yes, will provide a CSV on election night |
-| Fresno          | ![maybe] waiting      |                                                     |
+| Fresno          | ![yes] yes      | ![no] not until 3 weeks after election                        |
 | Glenn           | ![yes] yes          | ![yes] yes, [online](http://www.countyofglenn.net/dept/elections/voting-results)      |
 | Humboldt        | ![yes] yes       | ![yes] yes, [online](http://www.humboldtgov.org/Archive.aspx?ADID=1081)    |
 | Imperial        | ![maybe] waiting      |  ![no] none until certified                                           |
@@ -33,12 +33,12 @@ Probable ideas of maps
 | Madera          |                   | ![no] no                                                  |
 | Marin           | ![yes] yes       | ![no] no, but [eventually online](http://www.marincounty.org/depts/rv/election-info/past-elections) |
 | Mariposa        | ![yes] yes       | ![yes] yes, they'll give it to us on Nov. 9 |
-| Mendocino       |                   |                                                     |
+| Mendocino       | ![maybe] Tommy making  | ![no] not until certified |
 | Merced          |                   |                                                     |
 | Modoc           | ![yes] yes            |    ![yes] yes on their website                                 |
 | Mono            | ![yes] yes        | ![yes] yes, day after or [after midnight online](http://www.monocounty.ca.gov/elections/page/election-results) |
 | Monterey        | ![yes] yes               | ![no] no: county-wide results only                        |
-| Napa            |                   |                                                     |
+| Napa            | ![maybe] Tommy making  |  ![no] not until certified  |
 | Nevada          | ![yes] yes   |  ![yes] yes, they'll email to Jon        |
 | Orange          | ![yes] yes |  ![yes] statement of votes cast pdf on site http://www.ocvote.com/ |
 | Placer          | ![maybe] Yes (tentatively) |                                                     |
