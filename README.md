@@ -26,7 +26,7 @@ Probable ideas of maps
 | Imperial        | ![maybe] waiting      |  ![no] none until certified                                           |
 | Inyo            | ![maybe] need to be consolidated-jon    | ![yes] yes                                                |
 | Kern            | ![yes] yes        | ![no] no, but could call and get Nov. 10   |
-| Kings           | ![yes] yes               |                                                     |
+| Kings           | ![maybe] waiting               |                                                     |
 | Lake            | ![yes] yes        |  ![no] none until certified                                  |
 | Lassen          | ![no] print maps only     | ![no] none until certified, one week after election       |
 | Los Angeles     | ![yes] yes               | ![yes] afternoon of Nov. 9                                 |
