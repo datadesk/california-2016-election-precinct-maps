@@ -51,7 +51,7 @@ Probable ideas of maps
 | San Francisco   |                   |                                                     |
 | San Joaquin     |                   |                                                     |
 | San Luis Obispo |  ![yes] yes  | ![yes] yes-Available Nov. 9                                |
-| San Mateo       |  ![yes] yes                 |  ![yes] yes                                                  |
+| San Mateo       |                  |                                                   |
 | Santa Barbara   | ![yes] yes Jon created     | ![yes] yes, [online](http://www.sbcvote.com/elections/UpcomingElections.aspx)    |
 | Santa Clara     |                   |                                                     |
 | Santa Cruz      | ![yes] yes         | ![yes] yes, [should be online](http://www.votescount.com/Home/UpcomingElections/November8,2016PresidentialGeneralElection.aspx)      |
