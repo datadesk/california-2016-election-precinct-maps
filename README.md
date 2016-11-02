@@ -14,7 +14,7 @@ These results will power these projects
 - Mapping support/opposition of L.A. County measures A and M, School issue CC and L.A. city issues HHH, JJJ, RRR and SSS.
 
 ## Data format
-We'll stitch together all the precincts as one WGS84 file that includes the shapes for the counties. Each feature must have a STRING column named "pct16" with the 3-digit county FIPS code and precinct number. For example, a Los Angeles County precinct might read `037-0080052A`
+We'll stitch together all the (coastline-clipped) precincts as one WGS84 file that includes the shapes for the counties. Each feature must have a STRING column named "pct16" with the 3-digit county FIPS code and precinct number. For example, a Los Angeles County precinct might read `037-0080052A`
 
 Results will need that same format for the unique precinct number and include the following fields:
 - pres_clinton
