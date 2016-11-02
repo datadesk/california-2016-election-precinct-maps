@@ -111,18 +111,18 @@ Results will need that same format for the unique precinct number and include th
 | San Benito      | ![yes] yes             | ![yes] Yes, live on http://sbcvote.us/ in tabular pdf form |
 | San Bernardino  | ![yes] yes               | ![yes] yes, will email to Jon                              |
 | San Diego       | ![yes] yes               | ![no] no-available later that week                        |
-| San Francisco   |                   |                                                     |
-| San Joaquin     |                   |                                                     |
+| San Francisco   |  ![yes] yes| ![yes] three waves night of election, updates 4pm every day till certification (http://sfgov.org/elections/data-results-maps-and-archives)|
+| San Joaquin     |           | ![no] Do not do preliminary results - available 28 days after the election on website                                                    |
 | San Luis Obispo |  ![yes] yes  | ![yes] yes-Available Nov. 9                                |
 | San Mateo       |                  |                                                   |
 | Santa Barbara   | ![yes] yes Jon created     | ![yes] yes, [online](http://www.sbcvote.com/elections/UpcomingElections.aspx)    |
 | Santa Clara     |                   |                                                     |
-| Santa Cruz      | ![yes] yes         | ![yes] yes, [should be online](http://www.votescount.com/Home/UpcomingElections/November8,2016PresidentialGeneralElection.aspx)      |
+| Santa Cruz      | ![yes] yes  | ![yes] yes, [should be online](http://www.votescount.com/Home/UpcomingElections/November8,2016PresidentialGeneralElection.aspx)      |
 | Shasta          | ![yes] yes         | ![yes] yes, [online](http://www.elections.co.shasta.ca.us/election-results/election-results/current-election-results/)     |
 | Sierra          | ![yes] yes                | ![yes] yes                                                 |
 | Siskiyou        | ![yes] Yes               | ![no] None until certified                                |
 | Solano          | ![maybe] waiting  | ![no] None until certified                  |
-| Sonoma          |                   |                                                     |
+| Sonoma          |                   | ![no] None until cerified                                                    |
 | Stanislaus      | ![yes] yes | ![yes] yes, [online](http://stanvote.com/past-results/results.htm)        |
 | Sutter          | ![yes] yes |                                                     |
 | Tehama          | ![yes] yes        |                                                     |
