@@ -60,7 +60,7 @@ Probable ideas of maps
 | Siskiyou        | ![yes] Yes               | ![no] None until certified                                |
 | Solano          | ![maybe] waiting  | ![no] None until certified                  |
 | Sonoma          |                   |                                                     |
-| Stanislaus      | ![maybe] waiting | ![yes] yes                                |
+| Stanislaus      | ![yes] yes | ![yes] yes, [online](http://stanvote.com/past-results/results.htm)        |
 | Sutter          | ![yes] yes |                                                     |
 | Tehama          | ![yes] yes        |                                                     |
 | Trinity         | ![no] "not anytime soon" | ![maybe] possible after election  |
