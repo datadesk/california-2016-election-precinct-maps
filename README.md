@@ -24,7 +24,7 @@ Probable ideas of maps
 | Glenn           | ![yes] yes          | ![yes] yes, [online](http://www.countyofglenn.net/dept/elections/voting-results)      |
 | Humboldt        | ![yes] yes       | ![yes] yes, [online](http://www.humboldtgov.org/Archive.aspx?ADID=1081)    |
 | Imperial        | ![maybe] waiting      |  ![no] none until certified                                           |
-| Inyo            | ![maybe] need to be consolidated-jon    | ![yes] yes                                                |
+| Inyo            | ![yes] yes    | ![yes] yes, [online](http://elections.inyocounty.us/p/election-results.html)  |
 | Kern            | ![yes] yes        | ![no] no, but could call and get Nov. 10   |
 | Kings           | ![maybe] waiting               |                                                     |
 | Lake            | ![yes] yes        |  ![no] none until certified                                  |
