@@ -8,6 +8,53 @@ Probable ideas of maps
 - How many people voted for Trump in your neighborhood? (idea being that California reliably will go to Clinton. So, where are the Trump supporters?)
 - Who's for potting it up in California? (Okay, grandpa. Where is support for this Prop 64?)
 
+## Data format
+We'll stitch together all the precincts as one WGS84 file that includes the shapes for the counties. Each feature must have a STRING column with the 3-digit county FIPS code and precinct number. For example, a Los Angeles County precinct might read `037-0080052A`
+
+Results will need that same format for the unique precinct number and include the following fields:
+- pres_clinton
+- pres_johnson
+- pres_lariva
+- pres_stein
+- pres_trump
+- pres_other
+- us_senate_harris
+- us_senate_sanchez
+- prop_51_yes
+- prop_51_no
+- prop_52_yes
+- prop_52_no
+- prop_53_yes
+- prop_53_no
+- prop_54_yes
+- prop_54_no
+- prop_55_yes
+- prop_55_no
+- prop_56_yes
+- prop_56_no
+- prop_57_yes
+- prop_57_no
+- prop_58_yes
+- prop_58_no
+- prop_59_yes
+- prop_59_no
+- prop_60_yes
+- prop_60_no
+- prop_61_yes
+- prop_61_no
+- prop_62_yes
+- prop_62_no
+- prop_63_yes
+- prop_63_no
+- prop_64_yes
+- prop_64_no
+- prop_65_yes
+- prop_65_no
+- prop_66_yes
+- prop_66_no
+- prop_67_yes
+- prop_67_no
+
 ## County status
 | county          | shapefile?        | results?                                            |
 |-----------------|-------------------|-----------------------------------------------------|
