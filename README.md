@@ -41,7 +41,7 @@ Probable ideas of maps
 | Napa            | ![maybe] Tommy making  |  ![no] not until certified  |
 | Nevada          | ![yes] yes   |  ![yes] yes, they'll email to Jon        |
 | Orange          | ![yes] yes |  ![yes] statement of votes cast pdf on site http://www.ocvote.com/ |
-| Placer          | ![maybe] Yes (tentatively) |                                                     |
+| Placer          | ![yes] yes | ![yes] yes, [online](http://www.placerelections.com/past-elections.aspx#060716)   |
 | Plumas          | ![yes] yes        |  ![yes] yes, [pdf online](http://www.plumascounty.us/index.aspx?NID=147)   |
 | Riverside       | ![yes] yes | ![yes] Yes, live on http://www.voteinfo.net/ |
 | Sacramento      | ![yes] yes               |                                                     |
