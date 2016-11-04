@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+<idinfo>
+<descript>
+<abstract>San Mateo County Datsets</abstract>
+<purpose>San Mateo County Datsets</purpose>
+</descript>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>Hack SMC</themekey>
+<themekey>san mateo county</themekey>
+</theme>
+</keywords>
+<accconst>None</accconst>
+<useconst>Credit lineRedwood City, CA: County of San MateoSan Mateo County GIS Use limitationsThe GIS data (the “data”) is made available by San Mateo County (the “County”) as a public service. The data is for reference purposes only, and the County makes no representatives, warranties, or guarantees as to the accuracy of the data.THE COUNTY MAKES NO WARRANTIES AS TO THE GIS DATADATA CONATINED HEREIN AND DISCLAIMS ALL EXPRESS AND IMPLIED WARRANTIES RELATING TO THE DATA, INCLUDING WARRANTIES OF MERCHANTABILITY, INTEGRATION, TITLE, AND FITNESS FOR A PARTICULAR PURPOSE.</useconst>
+<datacred>Redwood City, CA: County of San Mateo San Mateo County GIS</datacred>
+</idinfo>
+<metainfo>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>
