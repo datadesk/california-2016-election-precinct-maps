@@ -27,9 +27,9 @@ Each county is going to be different based on how the data is formatted and wher
 We'll stitch together all the (coastline-clipped) precincts as one WGS84 file that includes the shapes for the counties. Each feature must have a STRING column named "pct16" with the 3-digit county FIPS code and precinct number. For example, a Los Angeles County precinct might read `037-0080052A`
 
 Results will need that same format for the unique precinct number and include the following fields:
+- pct16
 - pres_clinton
 - pres_johnson
-- pres_lariva
 - pres_stein
 - pres_trump
 - pres_other
