@@ -75,6 +75,7 @@ A "data munger" script will add these fields:
 - pres_trump_per
 - pres_third_per
 - pres_winner
+- pres_margin
 - votedensity
 - prop51_yes_per
 - prop51_no_per
