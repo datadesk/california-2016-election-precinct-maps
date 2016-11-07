@@ -34,10 +34,6 @@ Results will need that same format for the unique precinct number and include th
 - pres_stein
 - pres_trump
 - pres_other
-- pres_clinton_per
-- pres_trump_per
-- pres_third_per
-- pres_winner
 - ussenate_harris
 - ussenate_sanchez
 - prop51_yes
@@ -74,6 +70,47 @@ Results will need that same format for the unique precinct number and include th
 - prop66_no
 - prop67_yes
 - prop67_no
+
+A "data munger" script will add these fields:
+- pres_clinton_per
+- pres_trump_per
+- pres_third_per
+- pres_winner
+- votedensity
+- prop51_yes_per
+- prop51_no_per
+- prop52_yes_per
+- prop52_no_per
+- prop53_yes_per
+- prop53_no_per
+- prop54_yes_per
+- prop54_no_per
+- prop55_yes_per
+- prop55_no_per
+- prop56_yes_per
+- prop56_no_per
+- prop57_yes_per
+- prop57_no_per
+- prop58_yes_per
+- prop58_no_per
+- prop59_yes_per
+- prop59_no_per
+- prop60_yes_per
+- prop60_no_per
+- prop61_yes_per
+- prop61_no_per
+- prop62_yes_per
+- prop62_no_per
+- prop63_yes_per
+- prop63_no_per
+- prop64_yes_per
+- prop64_no_per
+- prop65_yes_per
+- prop65_no_per
+- prop66_yes_per
+- prop66_no_per
+- prop67_yes_per
+- prop67_no_per
 
 ## County status
 | county          | shapefile?        | results?                                            |
