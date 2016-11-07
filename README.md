@@ -4,9 +4,76 @@ We're gonna make a precinct-level map of results from the 2016 General Election.
 
 [Google Spreadsheet with current status](https://docs.google.com/spreadsheets/d/1_4YN6v-GzB5s8DQ7JbImkeJAqj-o3DrISaB7aS-PHHA/edit?usp=drive_web)
 
-Probable ideas of maps
-- How many people voted for Trump in your neighborhood? (idea being that California reliably will go to Clinton. So, where are the Trump supporters?)
-- Who's for potting it up in California? (Okay, grandpa. Where is support for this Prop 64?)
+These results will power these projects
+- How many people near you voted to...[elect Trump|elect Clintion|legalize weed|etc.]
+- 2016: The year Orange County turned blue
+- Support of the repeal of the death penalty
+- Perscription drugs costs
+- Gun control
+- Legalizing recreational marijuana
+- Mapping support/opposition of L.A. County measures A and M, School issue CC and L.A. city issues HHH, JJJ, RRR and SSS.
+
+## Workflow
+Each county is going to be different based on how the data is formatted and where and when we get it. But these should be the basic steps:
+  1. Get data from county
+  2. Reformat data as text-delimited file with column names that match our field template (see below)
+  3. Open data in Excel and paste in percent columns from template file (needs to be made)
+  4. Export as Windows csv
+  5. Pull main csv from this github repo
+  6. Append/merge your csv with the main csv
+  7. Push file back to repo
+  8. Replace current Carto table with new version of the main csv
+
+## Data format
+We'll stitch together all the (coastline-clipped) precincts as one WGS84 file that includes the shapes for the counties. Each feature must have a STRING column named "pct16" with the 3-digit county FIPS code and precinct number. For example, a Los Angeles County precinct might read `037-0080052A`
+
+Results will need that same format for the unique precinct number and include the following fields:
+- pres_clinton
+- pres_johnson
+- pres_lariva
+- pres_stein
+- pres_trump
+- pres_other
+- pres_clinton_per
+- pres_trump_per
+- pres_third_per
+- pres_winner
+- ussenate_harris
+- ussenate_sanchez
+- prop51_yes
+- prop51_no
+- prop52_yes
+- prop52_no
+- prop53_yes
+- prop53_no
+- prop54_yes
+- prop54_no
+- prop55_yes
+- prop55_no
+- prop56_yes
+- prop56_no
+- prop57_yes
+- prop57_no
+- prop58_yes
+- prop58_no
+- prop59_yes
+- prop59_no
+- prop60_yes
+- prop60_no
+- prop61_yes
+- prop61_no
+- prop62_yes
+- prop62_no
+- prop63_yes
+- prop63_no
+- prop64_yes
+- prop64_no
+- prop65_yes
+- prop65_no
+- prop66_yes
+- prop66_no
+- prop67_yes
+- prop67_no
 
 ## County status
 | county          | shapefile?        | results?                                            |
@@ -48,18 +115,18 @@ Probable ideas of maps
 | San Benito      | ![yes] yes             | ![yes] Yes, live on http://sbcvote.us/ in tabular pdf form |
 | San Bernardino  | ![yes] yes               | ![yes] yes, will email to Jon                              |
 | San Diego       | ![yes] yes               | ![no] no-available later that week                        |
-| San Francisco   |                   |                                                     |
-| San Joaquin     |                   |                                                     |
+| San Francisco   |  ![yes] yes| ![yes] three waves night of election, updates 4pm every day till certification (http://sfgov.org/elections/data-results-maps-and-archives)|
+| San Joaquin     |           | ![no] Do not do preliminary results - available 28 days after the election on website                                                    |
 | San Luis Obispo |  ![yes] yes  | ![yes] yes-Available Nov. 9                                |
 | San Mateo       |                  |                                                   |
 | Santa Barbara   | ![yes] yes Jon created     | ![yes] yes, [online](http://www.sbcvote.com/elections/UpcomingElections.aspx)    |
 | Santa Clara     |                   |                                                     |
-| Santa Cruz      | ![yes] yes         | ![yes] yes, [should be online](http://www.votescount.com/Home/UpcomingElections/November8,2016PresidentialGeneralElection.aspx)      |
+| Santa Cruz      | ![yes] yes  | ![yes] yes, [should be online](http://www.votescount.com/Home/UpcomingElections/November8,2016PresidentialGeneralElection.aspx)      |
 | Shasta          | ![yes] yes         | ![yes] yes, [online](http://www.elections.co.shasta.ca.us/election-results/election-results/current-election-results/)     |
 | Sierra          | ![yes] yes                | ![yes] yes                                                 |
 | Siskiyou        | ![yes] Yes               | ![no] None until certified                                |
 | Solano          | ![maybe] waiting  | ![no] None until certified                  |
-| Sonoma          |                   |                                                     |
+| Sonoma          |                   | ![no] None until cerified                                                    |
 | Stanislaus      | ![yes] yes | ![yes] yes, [online](http://stanvote.com/past-results/results.htm)        |
 | Sutter          | ![yes] yes |                                                     |
 | Tehama          | ![yes] yes        |                                                     |
