@@ -16,13 +16,12 @@ These results will power these projects
 ## Workflow
 Each county is going to be different based on how the data is formatted and where and when we get it. But these should be the basic steps:
   1. Get data from county
-  2. Reformat data as text-delimited file with column names that match our field template (see below)
-  3. Open data in Excel and paste in percent columns from template file (needs to be made)
-  4. Export as Windows csv
-  5. Pull main csv from this github repo
-  6. Append/merge your csv with the main csv
-  7. Push file back to repo
-  8. Replace current Carto table with new version of the main csv
+  2. Reformat data as comma-delimited file with column names that match our field template (see below)
+  3. Use the "data munger" to add relevant columns to a new file
+  4. Pull main csv from this github repo
+  5. Append/merge your "munged" csv with the main csv
+  6. Push file back to repo
+  7. Replace current Carto table with new version of the main csv
 
 ## Data format
 We'll stitch together all the (coastline-clipped) precincts as one WGS84 file that includes the shapes for the counties. Each feature must have a STRING column named "pct16" with the 3-digit county FIPS code and precinct number. For example, a Los Angeles County precinct might read `037-0080052A`
