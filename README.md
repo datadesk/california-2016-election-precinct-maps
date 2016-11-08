@@ -16,28 +16,23 @@ These results will power these projects
 ## Workflow
 Each county is going to be different based on how the data is formatted and where and when we get it. But these should be the basic steps:
   1. Get data from county
-  2. Reformat data as text-delimited file with column names that match our field template (see below)
-  3. Open data in Excel and paste in percent columns from template file (needs to be made)
-  4. Export as Windows csv
-  5. Pull main csv from this github repo
-  6. Append/merge your csv with the main csv
-  7. Push file back to repo
-  8. Replace current Carto table with new version of the main csv
+  2. Reformat data as comma-delimited file with column names that match our field template (see below)
+  3. Use the "data munger" to add relevant columns to a new file
+  4. Pull main csv from this github repo
+  5. Append/merge your "munged" csv with the main csv
+  6. Push file back to repo
+  7. Replace current Carto table with new version of the main csv
 
 ## Data format
 We'll stitch together all the (coastline-clipped) precincts as one WGS84 file that includes the shapes for the counties. Each feature must have a STRING column named "pct16" with the 3-digit county FIPS code and precinct number. For example, a Los Angeles County precinct might read `037-0080052A`
 
 Results will need that same format for the unique precinct number and include the following fields:
+- pct16
 - pres_clinton
 - pres_johnson
-- pres_lariva
 - pres_stein
 - pres_trump
 - pres_other
-- pres_clinton_per
-- pres_trump_per
-- pres_third_per
-- pres_winner
 - ussenate_harris
 - ussenate_sanchez
 - prop51_yes
@@ -74,6 +69,48 @@ Results will need that same format for the unique precinct number and include th
 - prop66_no
 - prop67_yes
 - prop67_no
+
+A "data munger" script will add these fields:
+- pres_clinton_per
+- pres_trump_per
+- pres_third_per
+- pres_winner
+- pres_margin
+- votedensity
+- prop51_yes_per
+- prop51_no_per
+- prop52_yes_per
+- prop52_no_per
+- prop53_yes_per
+- prop53_no_per
+- prop54_yes_per
+- prop54_no_per
+- prop55_yes_per
+- prop55_no_per
+- prop56_yes_per
+- prop56_no_per
+- prop57_yes_per
+- prop57_no_per
+- prop58_yes_per
+- prop58_no_per
+- prop59_yes_per
+- prop59_no_per
+- prop60_yes_per
+- prop60_no_per
+- prop61_yes_per
+- prop61_no_per
+- prop62_yes_per
+- prop62_no_per
+- prop63_yes_per
+- prop63_no_per
+- prop64_yes_per
+- prop64_no_per
+- prop65_yes_per
+- prop65_no_per
+- prop66_yes_per
+- prop66_no_per
+- prop67_yes_per
+- prop67_no_per
 
 ## County status
 | county          | shapefile?        | results?                                            |
