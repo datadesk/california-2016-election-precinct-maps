@@ -16,7 +16,7 @@ These results will power these projects
 ## Shapefiles
 All shapefiles should be projected in WGS 84 and contain two columns:
 - pct16
-- area (in meters after calculating under projection NAD83 / UTM zone 10N)
+- area (in meters after calculating under projection NAD83 / UTM zone 10N as a decimal 20-length 5-precision)
 
 ## Workflow
 Each county is going to be different based on how the data is formatted and where and when we get it. But these should be the basic steps:
