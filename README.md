@@ -37,6 +37,7 @@ Results will need that same format for the unique precinct number and include th
 - pres_johnson
 - pres_stein
 - pres_trump
+- pres_lariva
 - pres_other
 - ussenate_harris
 - ussenate_sanchez
