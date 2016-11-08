@@ -13,6 +13,11 @@ These results will power these projects
 - Legalizing recreational marijuana
 - Mapping support/opposition of L.A. County measures A and M, School issue CC and L.A. city issues HHH, JJJ, RRR and SSS.
 
+## Shapefiles
+All shapefiles should be projected in WGS 84 and contain two columns:
+- pct16
+- area (in meters after calculating under projection NAD83 / UTM zone 10N as a decimal 20-length 5-precision)
+
 ## Workflow
 Each county is going to be different based on how the data is formatted and where and when we get it. But these should be the basic steps:
   1. Get data from county
