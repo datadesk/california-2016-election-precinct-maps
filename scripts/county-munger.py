@@ -77,16 +77,12 @@ with open('037-test.csv','r') as csvinput:
                     newvals = newvals + [value1,value2]
 
                 # add these values to the row
-
                 row = row + newvals
-
-                
 
                 # row.append(pres_clinton_per)
                 all.append(row)
 
             writer.writerows(all)
-
 
         else:
             # WARNING
