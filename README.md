@@ -154,7 +154,7 @@ A "data munger" script will add these fields:
 | Placer          | ![yes] yes | ![yes] yes, [online](http://www.placerelections.com/past-elections.aspx#060716)   |
 | Plumas          | ![yes] yes        |  ![yes] yes, [pdf online](http://www.plumascounty.us/index.aspx?NID=147)   |
 | Riverside       | ![yes] yes | ![yes] Yes, live on http://www.voteinfo.net/ |
-| Sacramento      | ![yes] yes               |                                                     |
+| Sacramento      | ![yes] yes               | ![yes] yes, [online](http://sacresults.e-cers.com/resultsPREC.aspx?type=PRE&rid=103&cty=99&osn=103&map=PREC) |
 | San Benito      | ![yes] yes             | ![yes] Yes, live on http://sbcvote.us/ in tabular pdf form |
 | San Bernardino  | ![yes] yes               | ![yes] yes, will email to Jon                              |
 | San Diego       | ![yes] yes               | ![no] no-available later that week                        |
