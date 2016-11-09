@@ -5,7 +5,7 @@ import sys, time, csv, os
 from osgeo import ogr
 
 # should be the 3-digit FIPS and county name
-file = "037-los-angeles"
+file = "075-san-francisco"
 
 inithdrs = ['pct16','pres_clinton','pres_trump','pres_johnson','pres_stein','pres_lariva','pres_other','ussenate_harris','ussenate_sanchez','prop51_yes','prop51_no','prop52_yes','prop52_no','prop53_yes','prop53_no','prop54_yes','prop54_no','prop55_yes','prop55_no','prop56_yes','prop56_no','prop57_yes','prop57_no','prop58_yes','prop58_no','prop59_yes','prop59_no','prop60_yes','prop60_no','prop61_yes','prop61_no','prop62_yes','prop62_no','prop63_yes','prop63_no','prop64_yes','prop64_no','prop65_yes','prop65_no','prop66_yes','prop66_no','prop67_yes','prop67_no']
 
@@ -92,7 +92,7 @@ with open(file+'.csv','r') as csvinput:
                     x2 = x+1 # second val
                     if (row[x1]+row[x2]) == 0:
                         value1 = 0
-                        value2
+                        value2 = 0
                     else:
                         value1 = round(row[x1]/(row[x1]+row[x2])*100,2)
                         value2 = round(row[x2]/(row[x1]+row[x2])*100,2)
