@@ -46,8 +46,11 @@ with open(file+'.csv','r') as csvinput:
                     pres_clinton_per = round(row[1]/sum(row[1:7])*100,2)
                     pres_trump_per = round(row[2]/sum(row[1:7])*100,2)
                     pres_third_per = round(sum(row[3:7])/sum(row[1:7])*100,2)
+
                     # find winner
-                    if row[1] == max(row[1:7]):
+                    if row[1:7].count(max(row[1:7])) > 1:
+                        pres_winner = "tie"
+                    elif row[1] == max(row[1:7]):
                         pres_winner = "clinton"
                     elif row[2] == max(row[1:7]):
                         pres_winner = "trump"
