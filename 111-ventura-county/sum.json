@@ -1,0 +1,5357 @@
+{
+  "VPCFE": false,
+  "Contests": [
+    {
+      "C": "President and Vice President",
+      "K": "4",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 684,
+      "PR": 684,
+      "TV": 442951,
+      "BC": 269779,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "GRN - JILL STEIN",
+        "DEM - HILLARY CLINTON",
+        "P-F - GLORIA ESTELA LA RIVA",
+        "REP,AIP - DONALD J. TRUMP",
+        "LIB - GARY JOHNSON",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "1.58285056516898",
+        "54.0052459758836",
+        "0.388730587058668",
+        "38.250712358236",
+        "3.68652463532919",
+        "2.08593587832355"
+      ],
+      "V": [
+        4194,
+        143095,
+        1030,
+        101351,
+        9768,
+        5527
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "United States Senator",
+      "K": "5",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 684,
+      "PR": 684,
+      "TV": 442951,
+      "BC": 269779,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "DEM - LORETTA L. SANCHEZ",
+        "DEM - KAMALA D. HARRIS"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "37.5720563380282",
+        "62.4279436619718"
+      ],
+      "V": [
+        83363,
+        138512
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "24th Congressional Dist",
+      "K": "6",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 29,
+      "PR": 29,
+      "TV": 5662,
+      "BC": 3429,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "DEM - SALUD CARBAJAL",
+        "REP - JUSTIN DONALD FAREED"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "59.325332468375",
+        "40.674667531625"
+      ],
+      "V": [
+        1829,
+        1254
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "25th Congressional Dist",
+      "K": "7",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 61,
+      "PR": 61,
+      "TV": 68580,
+      "BC": 44322,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "REP - STEVE KNIGHT",
+        "DEM - BRYAN CAFORIO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "57.3021045152755",
+        "42.6978954847245"
+      ],
+      "V": [
+        23389,
+        17428
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "26th Congressional Dist",
+      "K": "8",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 592,
+      "PR": 592,
+      "TV": 367365,
+      "BC": 221086,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "REP - RAFAEL A. DAGNESSES",
+        "DEM - JULIA BROWNLEY"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "40.2838924042902",
+        "59.7161075957099"
+      ],
+      "V": [
+        82443,
+        122212
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "30th Congressional Dist",
+      "K": "9",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 2,
+      "PR": 2,
+      "TV": 1344,
+      "BC": 942,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "DEM - BRAD SHERMAN",
+        "REP - MARK REED"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "54.5970488081725",
+        "45.4029511918275"
+      ],
+      "V": [
+        481,
+        400
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "State Senator District 19",
+      "K": "10",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 467,
+      "PR": 467,
+      "TV": 251662,
+      "BC": 144666,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "DEM - HANNAH-BETH JACKSON",
+        "REP - COLIN PATRICK WALCH"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "63.1585524526416",
+        "36.8414475473584"
+      ],
+      "V": [
+        85919,
+        50118
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "State Senator District 27",
+      "K": "11",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 217,
+      "PR": 217,
+      "TV": 191289,
+      "BC": 125113,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "REP - STEVE FAZIO",
+        "DEM - HENRY STERN"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "54.4381589097454",
+        "45.5618410902546"
+      ],
+      "V": [
+        63513,
+        53157
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Member of the Assembly 37th Dist",
+      "K": "12",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 310,
+      "PR": 310,
+      "TV": 134099,
+      "BC": 81783,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - EDWARD FULLER",
+        "DEM - S. MONIQUE LIMON"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "40.3634844370169",
+        "59.6365155629831"
+      ],
+      "V": [
+        28983,
+        42822
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Member of the Assembly 38th Dist",
+      "K": "13",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 66,
+      "PR": 66,
+      "TV": 73492,
+      "BC": 47258,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "REP - DANTE ACOSTA",
+        "DEM - CHRISTY SMITH"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "55.7690533308729",
+        "44.2309466691271"
+      ],
+      "V": [
+        24177,
+        19175
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Member of the Assembly 44th Dist",
+      "K": "14",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 307,
+      "PR": 307,
+      "TV": 234016,
+      "BC": 139796,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "DEM - JACQUI IRWIN",
+        "REP - KERRY J. NELSON"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "58.1713028397674",
+        "41.8286971602326"
+      ],
+      "V": [
+        76141,
+        54750
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Member of the Assembly 45th Dist",
+      "K": "15",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 1,
+      "PR": 1,
+      "TV": 1344,
+      "BC": 942,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "DEM - MATT DABABNEH",
+        "REP - JERRY KOWAL"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "49.5990836197022",
+        "50.4009163802978"
+      ],
+      "V": [
+        433,
+        440
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Conejo Valley Unified School District",
+      "K": "16",
+      "regvoters": 0,
+      "VF": 2,
+      "TP": 95,
+      "PR": 95,
+      "TV": 83521,
+      "BC": 55933,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - MARLON DELANO WILLIAMS",
+        "NPP - ANGIE SIMPSON",
+        "NPP - SANDEE EVERETT",
+        "NPP - BETSY CONNOLLY",
+        "NPP - JULIE FREEDMAN",
+        "NPP - PEGGY BUCKLES",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "10.6068948845704",
+        "18.0698620754489",
+        "25.3636131666241",
+        "18.8850539208445",
+        "9.79170303917487",
+        "17.1646902405286",
+        "0.118182672808584"
+      ],
+      "V": [
+        7898,
+        13455,
+        18886,
+        14062,
+        7291,
+        12781,
+        88
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Moorpark Unified School District",
+      "K": "17",
+      "regvoters": 0,
+      "VF": 3,
+      "TP": 36,
+      "PR": 36,
+      "TV": 21372,
+      "BC": 13188,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - UTE E. VAN DAM",
+        "NPP - JEFF DONABEDIAN",
+        "NPP - SCOTT DETTORRE",
+        "NPP - BRUCE J. THOMAS",
+        "NPP - GREGORY J. BARKER",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "19.1695530265545",
+        "24.1959426026719",
+        "24.0804882071582",
+        "17.4006267524328",
+        "14.8771235362032",
+        "0.276265874979383"
+      ],
+      "V": [
+        4649,
+        5868,
+        5840,
+        4220,
+        3608,
+        67
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Ojai Unified School District",
+      "K": "18",
+      "regvoters": 0,
+      "VF": 2,
+      "TP": 61,
+      "PR": 61,
+      "TV": 14301,
+      "BC": 9206,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - JEFFREY KETELSEN",
+        "NPP - THAYNE WHIPPLE",
+        "NPP - WILLIAM ULRICH",
+        "NPP - MICHELLE ''SHELLY'' GRIFFEN",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "14.0024549145501",
+        "32.0744027948258",
+        "18.156925691625",
+        "35.5396091020678",
+        "0.226607496931357"
+      ],
+      "V": [
+        1483,
+        3397,
+        1923,
+        3764,
+        24
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Simi Valley Unified School District",
+      "K": "19",
+      "regvoters": 0,
+      "VF": 3,
+      "TP": 71,
+      "PR": 71,
+      "TV": 73564,
+      "BC": 47299,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - DAN WHITE",
+        "NPP - DAWN M. SMOLLEN",
+        "NPP - ERIC LUNDSTROM",
+        "NPP - BOB LABELLE",
+        "NPP - MATTHEW A. BAKER",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "25.8764994021676",
+        "18.2319589617002",
+        "22.3023617592985",
+        "21.3638292127898",
+        "11.9540761882722",
+        "0.271274475771718"
+      ],
+      "V": [
+        20127,
+        14181,
+        17347,
+        16617,
+        9298,
+        211
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Santa Paula Unified School District",
+      "K": "20",
+      "regvoters": 0,
+      "VF": 5,
+      "TP": 25,
+      "PR": 25,
+      "TV": 13171,
+      "BC": 7388,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - MICHELLE KOLBECK",
+        "NPP - CHRIS WILSON",
+        "NPP - KELSEY STEWART",
+        "NPP - TIM HICKS",
+        "NPP - CHRISTINA ''TINA'' URIAS",
+        "NPP - DEREK-JORDON (D.J.) LUNA",
+        "NPP - PAMELA THOMPSON",
+        "NPP - JERI MEAD",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "13.0354760042332",
+        "11.5216491050476",
+        "11.9633736713753",
+        "7.80380067178944",
+        "14.3330419178208",
+        "12.7593981502784",
+        "16.6060829153821",
+        "11.820733446832",
+        "0.156444117241062"
+      ],
+      "V": [
+        2833,
+        2504,
+        2600,
+        1696,
+        3115,
+        2773,
+        3609,
+        2569,
+        34
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Ventura Unified School District",
+      "K": "21",
+      "regvoters": 0,
+      "VF": 2,
+      "TP": 121,
+      "PR": 121,
+      "TV": 71294,
+      "BC": 44510,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - STEVE OFFERMAN",
+        "NPP - DON WOOD",
+        "NPP - ED SUMMERS",
+        "NPP - SABRENA RODRIGUEZ",
+        "NPP - DAVID L. NORRDIN",
+        "NPP - LOU CUNNINGHAM",
+        "NPP - JACKIE MORAN",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "17.1878977108822",
+        "17.8802328146476",
+        "12.8268653170657",
+        "25.99820128625",
+        "2.33663097520829",
+        "5.75588399993212",
+        "17.8259320221954",
+        "0.188355873818534"
+      ],
+      "V": [
+        10129,
+        10537,
+        7559,
+        15321,
+        1377,
+        3392,
+        10505,
+        111
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Hueneme School District",
+      "K": "22",
+      "regvoters": 0,
+      "VF": 2,
+      "TP": 20,
+      "PR": 20,
+      "TV": 20670,
+      "BC": 10224,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - CESAR RAMIREZ",
+        "NPP - VIANEY LOPEZ",
+        "NPP - DARLENE A. BRUNO",
+        "NPP - SARAH BEZARES",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "14.5955971292638",
+        "41.4482703007822",
+        "27.5864849608903",
+        "15.990645915652",
+        "0.379001693411822"
+      ],
+      "V": [
+        1810,
+        5140,
+        3421,
+        1983,
+        47
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Mesa Union School District",
+      "K": "23",
+      "regvoters": 0,
+      "VF": 2,
+      "TP": 16,
+      "PR": 16,
+      "TV": 2149,
+      "BC": 1430,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - ANDREA TIMPANI WALLACE",
+        "NPP - STEVEN SULLIVAN",
+        "NPP - MARY C. CRULL",
+        "NPP - JENNIFER L. LIPPOLD",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "15.5152224824356",
+        "37.5292740046838",
+        "25.2341920374707",
+        "21.3114754098361",
+        "0.409836065573771"
+      ],
+      "V": [
+        265,
+        641,
+        431,
+        364,
+        7
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Oxnard School District Area 1",
+      "K": "24",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 15,
+      "PR": 15,
+      "TV": 14136,
+      "BC": 8240,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - DENIS O'LEARY",
+        "NPP - RUBY DURIAS",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "52.5017818959373",
+        "46.8139700641483",
+        "0.684248039914469"
+      ],
+      "V": [
+        3683,
+        3284,
+        48
+      ],
+      "W": [
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Oxnard School District Area 4",
+      "K": "25",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 9,
+      "PR": 9,
+      "TV": 8818,
+      "BC": 4021,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - VERONICA DIAZ",
+        "NPP - MONICA MADRIGAL LOPEZ",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "48.7601003064921",
+        "50.3204235162998",
+        "0.919476177208136"
+      ],
+      "V": [
+        1750,
+        1806,
+        33
+      ],
+      "W": [
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Pleasant Valley School District",
+      "K": "26",
+      "regvoters": 0,
+      "VF": 2,
+      "TP": 62,
+      "PR": 62,
+      "TV": 47599,
+      "BC": 30202,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - SUZANNE KITCHENS",
+        "NPP - ISRAEL ''IROD'' RODRIGUEZ",
+        "NPP - BRYAN ALEXANDER",
+        "NPP - PATRICK FITZGERALD",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "35.7222418430275",
+        "18.0743839821783",
+        "12.20082045152",
+        "33.7716319378413",
+        "0.23092178543291"
+      ],
+      "V": [
+        13149,
+        6653,
+        4491,
+        12431,
+        85
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Rio School District",
+      "K": "27",
+      "regvoters": 0,
+      "VF": 2,
+      "TP": 36,
+      "PR": 36,
+      "TV": 16894,
+      "BC": 8384,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - ENJOLI M. SHAHEED",
+        "NPP - JOE ESQUIVEL",
+        "NPP - FELIX EISENHAUER",
+        "NPP - EDDIE MORA",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "18.6342357012009",
+        "31.823732953389",
+        "31.1825768369632",
+        "17.606350498677",
+        "0.753104009769998"
+      ],
+      "V": [
+        1831,
+        3127,
+        3064,
+        1730,
+        74
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Supervisor-3rd District",
+      "K": "28",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 147,
+      "PR": 147,
+      "TV": 84355,
+      "BC": 50065,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - CARLA CASTILLA",
+        "NPP - KELLY LONG",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "46.9686098654709",
+        "52.4910313901345",
+        "0.540358744394619"
+      ],
+      "V": [
+        20948,
+        23411,
+        241
+      ],
+      "W": [
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Camarillo City Council",
+      "K": "29",
+      "regvoters": 0,
+      "VF": 2,
+      "TP": 49,
+      "PR": 49,
+      "TV": 41383,
+      "BC": 26264,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - KEVIN KILDEE",
+        "NPP - MATTHEW WAYNE LORIMER",
+        "NPP - JAMESON LINGL",
+        "NPP - BILL LITTLE",
+        "NPP - TONY TREMBLEY",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "31.4007518011904",
+        "11.9661689464342",
+        "15.0229717030385",
+        "19.8966273363266",
+        "21.5124778114232",
+        "0.201002401587136"
+      ],
+      "V": [
+        12029,
+        4584,
+        5755,
+        7622,
+        8241,
+        77
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Fillmore City Council",
+      "K": "30",
+      "regvoters": 0,
+      "VF": 3,
+      "TP": 7,
+      "PR": 7,
+      "TV": 6547,
+      "BC": 3748,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - TIM HOLMGREN",
+        "NPP - MARK A. AUSTIN",
+        "NPP - MANUEL MINJARES",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "27.5260663507109",
+        "32.2464454976303",
+        "38.4644549763033",
+        "1.76303317535545"
+      ],
+      "V": [
+        1452,
+        1701,
+        2029,
+        93
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Fillmore City Clerk",
+      "K": "31",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 7,
+      "PR": 7,
+      "TV": 6547,
+      "BC": 3748,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - OLIVIA CARRERA LOPEZ",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "97.8202548625084",
+        "2.17974513749162"
+      ],
+      "V": [
+        2917,
+        65
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Fillmore City Treasurer",
+      "K": "32",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 7,
+      "PR": 7,
+      "TV": 6547,
+      "BC": 3748,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - SHANNON Y. GODFREY",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "97.0961281708945",
+        "2.90387182910547"
+      ],
+      "V": [
+        2909,
+        87
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Moorpark City Mayor",
+      "K": "33",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 17,
+      "PR": 17,
+      "TV": 20569,
+      "BC": 12703,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - JEFFREY HIRTH",
+        "NPP - JANICE S. PARVIN",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "36.4188832129646",
+        "62.8148670072221",
+        "0.766249779813282"
+      ],
+      "V": [
+        4135,
+        7132,
+        87
+      ],
+      "W": [
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Moorpark City Council",
+      "K": "34",
+      "regvoters": 0,
+      "VF": 2,
+      "TP": 17,
+      "PR": 17,
+      "TV": 20569,
+      "BC": 12703,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - KEN SIMONS",
+        "NPP - JEFFREY SCHOETTLIN",
+        "NPP - TERRI A. DORIA",
+        "NPP - DANIEL GROFF",
+        "NPP - STEVE TARN",
+        "NPP - ROSEANN MIKOS",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "23.5901237383817",
+        "7.52694303472658",
+        "14.4779608827051",
+        "19.7981410731596",
+        "5.58248275075555",
+        "28.8304727148315",
+        "0.193875805439927"
+      ],
+      "V": [
+        4137,
+        1320,
+        2539,
+        3472,
+        979,
+        5056,
+        34
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Ojai City Mayor",
+      "K": "35",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 11,
+      "PR": 11,
+      "TV": 5030,
+      "BC": 3279,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - SEVERO LARA",
+        "NPP - PAUL B. BLATZ",
+        "NPP - JOHN F. JOHNSTON",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "22.9193758127438",
+        "21.0663198959688",
+        "55.6566970091027",
+        "0.357607282184655"
+      ],
+      "V": [
+        705,
+        648,
+        1712,
+        11
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Ojai City Council",
+      "K": "36",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 11,
+      "PR": 11,
+      "TV": 5030,
+      "BC": 3279,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - CHRIS GARDNER",
+        "NPP - SUZA FRANCINA",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "41.5011780545271",
+        "58.0949175361831",
+        "0.403904409289801"
+      ],
+      "V": [
+        1233,
+        1726,
+        12
+      ],
+      "W": [
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Ojai City Clerk",
+      "K": "37",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 11,
+      "PR": 11,
+      "TV": 5030,
+      "BC": 3279,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - CYNTHIA ''CYNDI'' BURELL",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "98.2794796475032",
+        "1.72052035249685"
+      ],
+      "V": [
+        2342,
+        41
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Ojai City Treasurer",
+      "K": "38",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 11,
+      "PR": 11,
+      "TV": 5030,
+      "BC": 3279,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - ALAN RAINS",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "97.9356887653831",
+        "2.06431123461691"
+      ],
+      "V": [
+        2467,
+        52
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Oxnard City Mayor",
+      "K": "39",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 91,
+      "PR": 91,
+      "TV": 79601,
+      "BC": 39249,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - ARMANDO SEPULVEDA",
+        "NPP - MIGUEL LOPEZ",
+        "NPP - TIM FLYNN",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "12.1844633841811",
+        "34.8216709190598",
+        "51.3598610281744",
+        "1.63400466858477"
+      ],
+      "V": [
+        4489,
+        12829,
+        18922,
+        602
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Oxnard City Council",
+      "K": "40",
+      "regvoters": 0,
+      "VF": 2,
+      "TP": 91,
+      "PR": 91,
+      "TV": 79601,
+      "BC": 39249,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - AL VELASQUEZ",
+        "NPP - JACK VILLA",
+        "NPP - AARON STARR",
+        "NPP - ORLANDO DOZIER",
+        "NPP - STEPHEN H. HUBER",
+        "NPP - DAVID ALBANESE",
+        "NPP - ENRIQUE PETRIS",
+        "NPP - DANIEL CHAVEZ, JR",
+        "NPP - GENEVIEVE FLORES-HARO",
+        "NPP - OSCAR MADRIGAL",
+        "NPP - BRYAN A. MACDONALD",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "5.54813850911733",
+        "3.90887735960658",
+        "15.613539959103",
+        "2.4267824852551",
+        "13.2205566728069",
+        "5.38590235411421",
+        "1.14748280465753",
+        "7.14177074003346",
+        "8.82666080813885",
+        "14.2987511195985",
+        "22.1452351579268",
+        "0.336302029641897"
+      ],
+      "V": [
+        3283,
+        2313,
+        9239,
+        1436,
+        7823,
+        3187,
+        679,
+        4226,
+        5223,
+        8461,
+        13104,
+        199
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Oxnard City Clerk",
+      "K": "41",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 91,
+      "PR": 91,
+      "TV": 79601,
+      "BC": 39249,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - PETER DE DOMENICO",
+        "NPP - ALEX REY RIVERA",
+        "NPP - MICHELLE  ASCENCION",
+        "NPP - SILVIA PANIAGUA",
+        "NPP - BRYAN PATINO",
+        "NPP - TIFFANY LOPEZ",
+        "NPP - DESHAY FORD",
+        "NPP - JOSE TORRES",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "12.8647214854111",
+        "6.86195363856533",
+        "20.2341137123746",
+        "17.7113366393726",
+        "9.67304809133895",
+        "16.7656556337216",
+        "9.23480567408603",
+        "6.11232845115904",
+        "0.542036673970707"
+      ],
+      "V": [
+        4462,
+        2380,
+        7018,
+        6143,
+        3355,
+        5815,
+        3203,
+        2120,
+        188
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Oxnard City Treasurer",
+      "K": "42",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 91,
+      "PR": 91,
+      "TV": 79601,
+      "BC": 39249,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - LAWRENCE PAUL STEIN",
+        "NPP - JONATHAN ROYAS",
+        "NPP - PHILLIP S. MOLINA",
+        "NPP - AL JONES",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "37.1711957309823",
+        "12.9578608509034",
+        "36.9565847858241",
+        "12.3662306777646",
+        "0.548127954525681"
+      ],
+      "V": [
+        12817,
+        4468,
+        12743,
+        4264,
+        189
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Port Hueneme City Council",
+      "K": "43",
+      "regvoters": 0,
+      "VF": 2,
+      "TP": 10,
+      "PR": 10,
+      "TV": 9642,
+      "BC": 5170,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - OSCAR SANDOVAL",
+        "NPP - SYLVIA MUNOZ SCHNOPP",
+        "NPP - ELLIS L. GREEN",
+        "NPP - STEVEN A. GAMA",
+        "NPP - WILL BERG",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "18.1347874720358",
+        "24.6504474272931",
+        "15.6459731543624",
+        "16.0514541387025",
+        "25.1118568232662",
+        "0.405480984340045"
+      ],
+      "V": [
+        1297,
+        1763,
+        1119,
+        1148,
+        1796,
+        29
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Santa Paula City Council",
+      "K": "44",
+      "regvoters": 0,
+      "VF": 2,
+      "TP": 14,
+      "PR": 14,
+      "TV": 12126,
+      "BC": 6836,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - FRED W. ROBINSON",
+        "NPP - MARTIN F. HERNANDEZ",
+        "NPP - MICAH CHAPMAN",
+        "NPP - CATHERINE CARTER",
+        "NPP - CLINT GARMAN",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "19.8947265815382",
+        "29.6227702505117",
+        "3.62608441368554",
+        "12.8375085290964",
+        "33.2878448191832",
+        "0.731065405984989"
+      ],
+      "V": [
+        2041,
+        3039,
+        372,
+        1317,
+        3415,
+        75
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Santa Paula City Clerk",
+      "K": "45",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 14,
+      "PR": 14,
+      "TV": 12126,
+      "BC": 6836,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - LUCY BLANCO",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "98.4406905513273",
+        "1.55930944867273"
+      ],
+      "V": [
+        5303,
+        84
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Santa Paula City Treasurer",
+      "K": "46",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 14,
+      "PR": 14,
+      "TV": 12126,
+      "BC": 6836,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - SANDRA EASLEY",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "98.092695021934",
+        "1.90730497806599"
+      ],
+      "V": [
+        5143,
+        100
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Simi Valley City Mayor",
+      "K": "47",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 58,
+      "PR": 58,
+      "TV": 71542,
+      "BC": 46058,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - BOB HUBER",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "95.8787751677852",
+        "4.12122483221477"
+      ],
+      "V": [
+        36572,
+        1572
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Simi Valley City Council",
+      "K": "48",
+      "regvoters": 0,
+      "VF": 2,
+      "TP": 58,
+      "PR": 58,
+      "TV": 71542,
+      "BC": 46058,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - VICTORIA CATHERINE WRIGHT",
+        "NPP - BRIAN E. WILSON",
+        "NPP - KEN SANDBERG",
+        "NPP - THOMAS J. HARTFIELD",
+        "NPP - ASHLEY CHELONIS",
+        "NPP - DEE DEE CAVANAUGH",
+        "NPP - GREG YACOUBIAN",
+        "NPP - KEITH L. MASHBURN",
+        "NPP - TIMOTHY (T.J.) MCINTURFF",
+        "NPP - CLAY MCCARTER",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "8.5168734832181",
+        "5.6214417632065",
+        "8.90761176488545",
+        "7.58734374284537",
+        "8.47261016224797",
+        "22.5956621945449",
+        "7.12944731901644",
+        "24.5310377459285",
+        "3.55174992749973",
+        "2.91985286261581",
+        "0.166369033991178"
+      ],
+      "V": [
+        5580,
+        3683,
+        5836,
+        4971,
+        5551,
+        14804,
+        4671,
+        16072,
+        2327,
+        1913,
+        109
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Thousand Oaks City Council",
+      "K": "49",
+      "regvoters": 0,
+      "VF": 2,
+      "TP": 74,
+      "PR": 74,
+      "TV": 77771,
+      "BC": 52216,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - AL ADAM",
+        "NPP - ANNE LAFIANZA",
+        "NPP - BILLY MARTIN",
+        "NPP - ROB MCCOY",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "37.7222482161656",
+        "25.217861738215",
+        "7.47602058720318",
+        "29.3864779506375",
+        "0.197391507778688"
+      ],
+      "V": [
+        25799,
+        17247,
+        5113,
+        20098,
+        135
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "San Buenaventura City Council",
+      "K": "50",
+      "regvoters": 0,
+      "VF": 3,
+      "TP": 68,
+      "PR": 68,
+      "TV": 65265,
+      "BC": 41171,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - CHRISTY WEIR",
+        "NPP - JEANNETTE SANCHEZ-PALACIOS",
+        "NPP - BRIAN LEE RENCHER",
+        "NPP - RANDALL RICHMAN",
+        "NPP - CHERYL HEITMANN",
+        "NPP - MICHAEL GRAVES",
+        "NPP - DAVE GRAU",
+        "NPP - MATT LAVERE",
+        "NPP - JACKIE MARTENSON",
+        "NPP - LORRIE BROWN",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "16.4528148174771",
+        "10.2972360996298",
+        "3.83016449220669",
+        "2.32062202733949",
+        "14.7983083539997",
+        "4.47711126286406",
+        "12.6334327714481",
+        "21.5505157603422",
+        "4.00028753189807",
+        "9.44302675244702",
+        "0.196480130347794"
+      ],
+      "V": [
+        13733,
+        8595,
+        3197,
+        1937,
+        12352,
+        3737,
+        10545,
+        17988,
+        3339,
+        7882,
+        164
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Channel Islands Beach Comm Serv",
+      "K": "51",
+      "regvoters": 0,
+      "VF": 2,
+      "TP": 2,
+      "PR": 2,
+      "TV": 2090,
+      "BC": 1298,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - BOB NAST",
+        "NPP - JIM ESTOMO",
+        "NPP - KEITH A. MOORE",
+        "NPP - KRISTINA BREWER",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "34.4444444444444",
+        "23.5087719298246",
+        "20.0584795321637",
+        "21.812865497076",
+        "0.175438596491228"
+      ],
+      "V": [
+        589,
+        402,
+        343,
+        373,
+        3
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Oxnard Harbor",
+      "K": "52",
+      "regvoters": 0,
+      "VF": 2,
+      "TP": 110,
+      "PR": 110,
+      "TV": 94702,
+      "BC": 47238,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - JESS J. RAMIREZ",
+        "NPP - LAURA GALLARDO",
+        "NPP - MANUEL M. LOPEZ",
+        "NPP - ARLENE NAOMI FRASER",
+        "NPP - MIKE BARBER",
+        "NPP - MARTIN JONES",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "27.5117992879026",
+        "14.816593524882",
+        "21.6610085286081",
+        "19.7052248074853",
+        "11.216361679225",
+        "4.75283596919765",
+        "0.336176202699346"
+      ],
+      "V": [
+        16613,
+        8947,
+        13080,
+        11899,
+        6773,
+        2870,
+        203
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Ojai Valley Sanitary District Div 1",
+      "K": "53",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 7,
+      "PR": 7,
+      "TV": 1592,
+      "BC": 807,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - WILLIAM M. STONE",
+        "NPP - NICHOLAS BUTCHER",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "66.1993769470405",
+        "32.7102803738318",
+        "1.09034267912773"
+      ],
+      "V": [
+        425,
+        210,
+        7
+      ],
+      "W": [
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Castaic Lake Water Agency At Large",
+      "K": "54",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 2,
+      "PR": 2,
+      "TV": 12,
+      "BC": 4,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - LYNNE PLAMBECK",
+        "NPP - WILLIAM ''BILL'' COOPER",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "0",
+        "100",
+        "0"
+      ],
+      "V": [
+        0,
+        4,
+        0
+      ],
+      "W": [
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Castaic Lake Water Agency Div 3",
+      "K": "55",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 2,
+      "PR": 2,
+      "TV": 12,
+      "BC": 4,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - BONNIE G. NIKOLAI",
+        "NPP - BILL PECSI",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "50",
+        "50",
+        "0"
+      ],
+      "V": [
+        2,
+        2,
+        0
+      ],
+      "W": [
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Ventura River Water District",
+      "K": "56",
+      "regvoters": 0,
+      "VF": 3,
+      "TP": 22,
+      "PR": 22,
+      "TV": 4212,
+      "BC": 2654,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - BRUCE KUEBLER",
+        "NPP - PEGGY WILES",
+        "NPP - MARVIN L HANSON",
+        "NPP - GEORGE GALGAS",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "29.6904761904762",
+        "27.047619047619",
+        "25.1428571428571",
+        "17.7142857142857",
+        "0.404761904761905"
+      ],
+      "V": [
+        1247,
+        1136,
+        1056,
+        744,
+        17
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Calleguas Muni Water Dist Div 2",
+      "K": "57",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 85,
+      "PR": 85,
+      "TV": 76619,
+      "BC": 51301,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - JANNA ORKNEY",
+        "NPP - SCOTT H. QUADY",
+        "NPP - LARRY JOHN MILLER",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "29.1143980527991",
+        "44.256024821462",
+        "25.8860031561773",
+        "0.743573969561612"
+      ],
+      "V": [
+        10885,
+        16546,
+        9678,
+        278
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Casitas Muni Water Dist Div 5",
+      "K": "58",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 27,
+      "PR": 27,
+      "TV": 7923,
+      "BC": 5184,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - BRANDON HANSEN",
+        "NPP - RUSS BAGGERLY",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "43.8628994905049",
+        "55.511811023622",
+        "0.625289485873089"
+      ],
+      "V": [
+        1894,
+        2397,
+        27
+      ],
+      "W": [
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Ventura Co. Resource Conservation Dist.",
+      "K": "59",
+      "regvoters": 0,
+      "VF": 4,
+      "TP": 272,
+      "PR": 272,
+      "TV": 42174,
+      "BC": 25425,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "NPP - TOM CROCKER",
+        "NPP - KEVIN CANNON",
+        "NPP - MARK MOORING",
+        "NPP - BILL MORRIS",
+        "NPP - MICHAEL MOBLEY",
+        "NPP - MELISSA BAFFA",
+        "WRITE-IN"
+      ],
+      "P": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "PCT": [
+        "20.0218046559354",
+        "21.5994356441993",
+        "10.5410547467881",
+        "16.5266465721798",
+        "18.1940614378247",
+        "12.8177173518032",
+        "0.299279591269587"
+      ],
+      "V": [
+        9366,
+        10104,
+        4931,
+        7731,
+        8511,
+        5996,
+        140
+      ],
+      "W": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Prop 51 - School Bonds",
+      "K": "60",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 684,
+      "PR": 684,
+      "TV": 442951,
+      "BC": 269779,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "51.6129921476896",
+        "48.3870078523104"
+      ],
+      "V": [
+        131065,
+        122873
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Prop 52 - State Fees on Hospitals",
+      "K": "61",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 684,
+      "PR": 684,
+      "TV": 442951,
+      "BC": 269779,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "68.3644572944927",
+        "31.6355427055073"
+      ],
+      "V": [
+        172610,
+        79875
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Prop 53 - Revenue Bonds",
+      "K": "62",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 684,
+      "PR": 684,
+      "TV": 442951,
+      "BC": 269779,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "51.4217675288202",
+        "48.5782324711798"
+      ],
+      "V": [
+        127617,
+        120560
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Prop 54 - Legislation and Proceedings",
+      "K": "63",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 684,
+      "PR": 684,
+      "TV": 442951,
+      "BC": 269779,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "66.7606382550282",
+        "33.2393617449719"
+      ],
+      "V": [
+        165768,
+        82534
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Prop 55 - Tax Extension",
+      "K": "64",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 684,
+      "PR": 684,
+      "TV": 442951,
+      "BC": 269779,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "57.7272316499613",
+        "42.2727683500387"
+      ],
+      "V": [
+        146921,
+        107588
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Prop 56 - Cigarette Tax",
+      "K": "65",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 684,
+      "PR": 684,
+      "TV": 442951,
+      "BC": 269779,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "60.8159509674836",
+        "39.1840490325164"
+      ],
+      "V": [
+        157967,
+        101779
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Prop 57 - Criminal Sentences",
+      "K": "66",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 684,
+      "PR": 684,
+      "TV": 442951,
+      "BC": 269779,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "60.5537413477914",
+        "39.4462586522086"
+      ],
+      "V": [
+        155020,
+        100984
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Prop 58 - English Language Education",
+      "K": "67",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 684,
+      "PR": 684,
+      "TV": 442951,
+      "BC": 269779,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "71.4980835621279",
+        "28.5019164378721"
+      ],
+      "V": [
+        184114,
+        73395
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Prop 59 - Campaign Finance",
+      "K": "68",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 684,
+      "PR": 684,
+      "TV": 442951,
+      "BC": 269779,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "49.2556987807833",
+        "50.7443012192167"
+      ],
+      "V": [
+        119946,
+        123571
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Prop 60 - Adult Films",
+      "K": "69",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 684,
+      "PR": 684,
+      "TV": 442951,
+      "BC": 269779,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "49.5697361207123",
+        "50.4302638792877"
+      ],
+      "V": [
+        124770,
+        126936
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Prop 61 - Prescription Drug Purchases",
+      "K": "70",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 684,
+      "PR": 684,
+      "TV": 442951,
+      "BC": 269779,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "42.7507970286456",
+        "57.2492029713544"
+      ],
+      "V": [
+        108080,
+        144734
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Prop 62 - Death Penalty",
+      "K": "71",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 684,
+      "PR": 684,
+      "TV": 442951,
+      "BC": 269779,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "41.321358047291",
+        "58.678641952709"
+      ],
+      "V": [
+        106093,
+        150658
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Prop 63 - Firearms",
+      "K": "72",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 684,
+      "PR": 684,
+      "TV": 442951,
+      "BC": 269779,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "59.6843798578511",
+        "40.3156201421489"
+      ],
+      "V": [
+        154345,
+        104257
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Prop 64 - Marijuana",
+      "K": "73",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 684,
+      "PR": 684,
+      "TV": 442951,
+      "BC": 269779,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "54.6655441604163",
+        "45.3344558395837"
+      ],
+      "V": [
+        142852,
+        118468
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Prop 65 - Carry-Out Bags. Charges",
+      "K": "74",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 684,
+      "PR": 684,
+      "TV": 442951,
+      "BC": 269779,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "44.0455207445994",
+        "55.9544792554006"
+      ],
+      "V": [
+        112202,
+        142539
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Prop 66 - Death Penalty. Procedures",
+      "K": "75",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 684,
+      "PR": 684,
+      "TV": 442951,
+      "BC": 269779,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "54.803872838781",
+        "45.196127161219"
+      ],
+      "V": [
+        133414,
+        110025
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Prop 67 - Overturn Ban on Plastic Bags",
+      "K": "76",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 684,
+      "PR": 684,
+      "TV": 442951,
+      "BC": 269779,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "48.4122992852476",
+        "51.5877007147524"
+      ],
+      "V": [
+        122258,
+        130277
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure D - Oxnard School District Bond",
+      "K": "77",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 66,
+      "PR": 66,
+      "TV": 51688,
+      "BC": 26220,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "BONDS YES",
+        "BONDS NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "67.6631455889107",
+        "32.3368544110893"
+      ],
+      "V": [
+        16206,
+        7745
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure R - Ventura USD Parcel Tax",
+      "K": "78",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 121,
+      "PR": 121,
+      "TV": 71294,
+      "BC": 44510,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "74.071329776724",
+        "25.928670223276"
+      ],
+      "V": [
+        29990,
+        10498
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure S - Oak Park USD Bond",
+      "K": "79",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 9,
+      "PR": 9,
+      "TV": 8771,
+      "BC": 5903,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "BONDS YES",
+        "BONDS NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "61.9879847078099",
+        "38.0120152921901"
+      ],
+      "V": [
+        3405,
+        2088
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure V - Fillmore USD Bond",
+      "K": "80",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 27,
+      "PR": 27,
+      "TV": 8291,
+      "BC": 4780,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "BONDS YES",
+        "BONDS NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "71.2799638172772",
+        "28.7200361827228"
+      ],
+      "V": [
+        3152,
+        1270
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure X - Simi Valley USD Bond",
+      "K": "81",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 71,
+      "PR": 71,
+      "TV": 73564,
+      "BC": 47299,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "BONDS YES",
+        "BONDS NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "64.643499668592",
+        "35.356500331408"
+      ],
+      "V": [
+        27308,
+        14936
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure Y - Simi Valley USD Term Limits",
+      "K": "82",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 71,
+      "PR": 71,
+      "TV": 73564,
+      "BC": 47299,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "79.4212990755193",
+        "20.5787009244807"
+      ],
+      "V": [
+        33075,
+        8570
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure AA - Transportation Sales Tax",
+      "K": "83",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 684,
+      "PR": 684,
+      "TV": 442951,
+      "BC": 269779,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "56.9022651594988",
+        "43.0977348405012"
+      ],
+      "V": [
+        142007,
+        107556
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure C - Ventura County SOAR",
+      "K": "84",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 684,
+      "PR": 684,
+      "TV": 442951,
+      "BC": 269779,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "58.7344856782934",
+        "41.2655143217066"
+      ],
+      "V": [
+        142205,
+        99910
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure F - SUSTAIN VC",
+      "K": "85",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 684,
+      "PR": 684,
+      "TV": 442951,
+      "BC": 269779,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "45.7428341237738",
+        "54.2571658762262"
+      ],
+      "V": [
+        110146,
+        130648
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure A - Fillmore CURB 2050",
+      "K": "86",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 7,
+      "PR": 7,
+      "TV": 6547,
+      "BC": 3748,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "56.9550596147967",
+        "43.0449403852033"
+      ],
+      "V": [
+        1863,
+        1408
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure G - Fillmore CURB 2030",
+      "K": "87",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 7,
+      "PR": 7,
+      "TV": 6547,
+      "BC": 3748,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "47.7685441674361",
+        "52.2314558325639"
+      ],
+      "V": [
+        1552,
+        1697
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure H - Fillmore Marijuana Cult. Tax",
+      "K": "88",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 7,
+      "PR": 7,
+      "TV": 6547,
+      "BC": 3748,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "59.4027202838557",
+        "40.5972797161443"
+      ],
+      "V": [
+        2009,
+        1373
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure I -Fillmore Marijuana Dist. Tax",
+      "K": "89",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 7,
+      "PR": 7,
+      "TV": 6547,
+      "BC": 3748,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "64.1246290801187",
+        "35.8753709198813"
+      ],
+      "V": [
+        2161,
+        1209
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure E - Moorpark SOAR",
+      "K": "90",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 17,
+      "PR": 17,
+      "TV": 20569,
+      "BC": 12703,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "73.6298649722002",
+        "26.3701350277998"
+      ],
+      "V": [
+        8343,
+        2988
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Mesaure J - Camarillo CURB",
+      "K": "91",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 49,
+      "PR": 49,
+      "TV": 41383,
+      "BC": 26264,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "73.4002782124848",
+        "26.5997217875152"
+      ],
+      "V": [
+        16885,
+        6119
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure K - Oxnard SOAR 2030",
+      "K": "92",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 91,
+      "PR": 91,
+      "TV": 79601,
+      "BC": 39249,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "70.2206611336147",
+        "29.7793388663853"
+      ],
+      "V": [
+        24790,
+        10513
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure L - Oxnard SOAR 2050",
+      "K": "93",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 91,
+      "PR": 91,
+      "TV": 79601,
+      "BC": 39249,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "74.6966922284537",
+        "25.3033077715463"
+      ],
+      "V": [
+        26105,
+        8843
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure M - Oxnard Wastewater Rate",
+      "K": "94",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 91,
+      "PR": 91,
+      "TV": 79601,
+      "BC": 39249,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "72.0073396633075",
+        "27.9926603366925"
+      ],
+      "V": [
+        24723,
+        9611
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure N - Ventura Elections",
+      "K": "95",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 68,
+      "PR": 68,
+      "TV": 65265,
+      "BC": 41171,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "58.6947772514783",
+        "41.3052227485217"
+      ],
+      "V": [
+        18959,
+        13342
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure O - Ventura Sales Tax",
+      "K": "96",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 68,
+      "PR": 68,
+      "TV": 65265,
+      "BC": 41171,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "57.5183019961026",
+        "42.4816980038974"
+      ],
+      "V": [
+        21842,
+        16132
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure P - Ventura SOAR",
+      "K": "97",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 68,
+      "PR": 68,
+      "TV": 65265,
+      "BC": 41171,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "71.9765508300217",
+        "28.0234491699783"
+      ],
+      "V": [
+        25538,
+        9943
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure Q - Ventura Term Limits",
+      "K": "98",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 68,
+      "PR": 68,
+      "TV": 65265,
+      "BC": 41171,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "81.9306793643763",
+        "18.0693206356237"
+      ],
+      "V": [
+        29595,
+        6527
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure T - Santa Paula Sales Tax",
+      "K": "99",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 14,
+      "PR": 14,
+      "TV": 12126,
+      "BC": 6836,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "57.5272161741835",
+        "42.4727838258165"
+      ],
+      "V": [
+        3699,
+        2731
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure U - Santa Paula SOAR",
+      "K": "100",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 14,
+      "PR": 14,
+      "TV": 12126,
+      "BC": 6836,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "55.0378469301934",
+        "44.9621530698066"
+      ],
+      "V": [
+        3272,
+        2673
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure W - Thousand Oaks SOAR",
+      "K": "101",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 74,
+      "PR": 74,
+      "TV": 77771,
+      "BC": 52216,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "76.2327372521247",
+        "23.7672627478754"
+      ],
+      "V": [
+        34445,
+        10739
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure Z - Simi Valley SOAR",
+      "K": "102",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 58,
+      "PR": 58,
+      "TV": 71542,
+      "BC": 46058,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "68.075117370892",
+        "31.924882629108"
+      ],
+      "V": [
+        26100,
+        12240
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    },
+    {
+      "C": "Measure B - Blanchard/Sta Paula Library",
+      "K": "103",
+      "regvoters": 0,
+      "VF": 1,
+      "TP": 25,
+      "PR": 25,
+      "TV": 13171,
+      "BC": 7388,
+      "RC": 0,
+      "RO": 0,
+      "CH": [
+        "YES",
+        "NO"
+      ],
+      "P": [
+        "",
+        ""
+      ],
+      "PCT": [
+        "72.8",
+        "27.2"
+      ],
+      "V": [
+        4732,
+        1768
+      ],
+      "W": [
+        0,
+        0
+      ],
+      "CRC": [
+        0,
+        0
+      ],
+      "CRO": [
+        0,
+        0
+      ],
+      "IsCumulative": null,
+      "CumulativeVotes": null,
+      "CumulativeChoices": null,
+      "CumulativePercentages": null
+    }
+  ]
+}

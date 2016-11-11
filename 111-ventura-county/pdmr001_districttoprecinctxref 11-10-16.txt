@@ -1,0 +1,2556 @@
+District To Precinct XRef
+Precinct Set Used: 2012 Re-Apportionment (Active Set)
+Official Districts
+
+District Range: *0-0 to *0-0
+Ventura County
+*0
+
+0000200
+0000202
+0000204
+0000206
+0000208
+0000350
+0000352
+0000354
+0000356
+0000360
+0000362
+0000364
+0000366
+0000368
+0000370
+0000400
+0000402
+0000404
+0000420
+0000422
+0000424
+0000426
+0000500
+0000502
+0000504
+0000506
+0000507
+0000508
+0000510
+0000512
+0000514
+0000516
+0000518
+0000520
+0000522
+0000526
+0000530
+0000532
+0000550
+0000552
+0000554
+0000556
+
+Avenue #101
+Avenue #102
+Avenue #103
+Avenue #104
+Avenue #105
+Bardsdale #301
+Bardsdale #302
+Bardsdale #303
+Bardsdale #304
+Bardsdale #401
+Bardsdale #402
+Bardsdale #403
+Bardsdale #404
+Bardsdale #405
+Bardsdale #406
+Briggs #101
+Briggs #102
+Briggs #103
+Briggs #301
+Briggs #302
+Briggs #303
+Briggs #304
+Calleguas #201
+Calleguas #202
+Calleguas #203
+Calleguas #204a
+Calleguas #204l
+Calleguas #205
+Calleguas #206
+Calleguas #207
+Calleguas #208
+Calleguas #209
+Calleguas #210
+Calleguas #211
+Calleguas #212
+Calleguas #214
+Calleguas #216
+Calleguas #218
+Calleguas #301
+Calleguas #302
+Calleguas #303
+Calleguas #304
+
+PDMR001 - District To Precinct XRef
+Printed: 11/10/2016
+9:11:53AM
+
+0000558
+0000560
+0000562
+0000564
+0000566
+0000568
+0000570
+0000572
+0000574
+0000576
+0000578
+0000600
+0000700
+0000702
+0000704
+0000705
+0000706
+0000707
+0000708
+0000709
+0000710
+0000711
+0000712
+0000713
+0000714
+0000715
+0000716
+0000717
+0000718
+0000719
+0000720
+0000721
+0000722
+0000723
+0000724
+0000726
+0000727
+0000728
+0000730
+0000732
+0000733
+0000734
+0000735
+0000736
+0000737
+0000738
+
+Calleguas #305
+Calleguas #306
+Calleguas #307
+Calleguas #308
+Calleguas #309
+Calleguas #310
+Calleguas #311
+Calleguas #312
+Calleguas #313
+Calleguas #314
+Calleguas #315
+Calleguas #401
+Camarillo #301
+Camarillo #302
+Camarillo #303a
+Camarillo #303f
+Camarillo #303l
+Camarillo #303s
+Camarillo #305a
+Camarillo #305l
+Camarillo #306a
+Camarillo #306f
+Camarillo #306l
+Camarillo #306s
+Camarillo #308a
+Camarillo #308l
+Camarillo #309a
+Camarillo #309l
+Camarillo #310a
+Camarillo #310f
+Camarillo #310l
+Camarillo #310s
+Camarillo #312a
+Camarillo #312l
+Camarillo #313
+Camarillo #314a
+Camarillo #314l
+Camarillo #315
+Camarillo #316
+Camarillo #317a
+Camarillo #317l
+Camarillo #318a
+Camarillo #318f
+Camarillo #318l
+Camarillo #318s
+Camarillo #320
+
+0000740
+0000741
+0000742
+0000744
+0000745
+0000746
+0000748
+0000750
+0000751
+0000752
+0000753
+0000754
+0000755
+0000756
+0000757
+0000758
+0000759
+0000762
+0000764
+0000765
+0000768
+0000769
+0000770
+0000771
+0000774
+0000776
+0000777
+0000778
+0000779
+0000780
+0000782
+0000784
+0000786
+0000788
+0000790
+0000792
+0000794
+0000796
+0000797
+0000798
+0000799
+0000800
+0000802
+0000804
+0000806
+0000808
+
+Camarillo #321a
+Camarillo #321l
+Camarillo #322
+Camarillo #323a
+Camarillo #323l
+Camarillo #324
+Camarillo #325
+Camarillo #326a
+Camarillo #326l
+Camarillo #327a
+Camarillo #327f
+Camarillo #327l
+Camarillo #327s
+Camarillo #329a
+Camarillo #329f
+Camarillo #329l
+Camarillo #329s
+Camarillo #330
+Camarillo #331a
+Camarillo #331l
+Camarillo #333a
+Camarillo #333f
+Camarillo #333l
+Camarillo #333s
+Camarillo #336
+Camarillo #337a
+Camarillo #337f
+Camarillo #337l
+Camarillo #337s
+Camarillo #338
+Camarillo #339
+Camarillo #340
+Camarillo #341
+Camarillo #343
+Camarillo #344
+Camarillo #345
+Camarillo #346
+Camarillo #347a
+Camarillo #347f
+Camarillo #347l
+Camarillo #347s
+Camarillo #348
+Camarillo #349
+Camarillo #350
+Camarillo #351
+Camarillo #352
+
+0000810
+0000812
+0000814
+0000816
+0000818
+0000950
+0000952
+0000954
+0000956
+0000958
+0000960
+0000962
+0000964
+0000966
+0000968
+0000970
+0000972
+0000974
+0000976
+0000982
+0000984
+0000986
+0000988
+0000990
+0000992
+0000994
+0000996
+0000998
+0001000
+0001004
+0001006
+0001008
+0001010
+0001012
+0001014
+0001018
+0001020
+0001022
+0001024
+0001028
+0001030
+0001042
+0001044
+0001046
+0001048
+0001080
+
+Camarillo #353
+Camarillo #354
+Camarillo #355
+Camarillo #356
+Camarillo #357
+Csts Sprgs #101
+Csts Sprgs #102
+Csts Sprgs #103
+Csts Sprgs #104
+Csts Sprgs #105
+Csts Sprgs #106
+Csts Sprgs #107
+Csts Sprgs #108
+Csts Sprgs #109
+Csts Sprgs #110
+Csts Sprgs #111
+Csts Sprgs #112
+Csts Sprgs #113
+Csts Sprgs #114
+Csts Sprgs #117
+Csts Sprgs #118
+Csts Sprgs #119
+Csts Sprgs #120
+Csts Sprgs #121
+Csts Sprgs #122
+Csts Sprgs #123
+Csts Sprgs #124
+Csts Sprgs #125
+Csts Sprgs #126
+Csts Sprgs #128
+Csts Sprgs #129
+Csts Sprgs #130
+Csts Sprgs #131
+Csts Sprgs #132
+Csts Sprgs #133
+Csts Sprgs #135
+Csts Sprgs #136
+Csts Sprgs #137
+Csts Sprgs #138
+Csts Sprgs #140
+Csts Sprgs #141
+Csts Sprgs #147
+Csts Sprgs #148
+Csts Sprgs #149
+Csts Sprgs #150
+Central #301
+
+0001082
+0001084
+0001100
+0001110
+0001120
+0001122
+0001124
+0001126
+0001128
+0001130
+0001132
+0001134
+0001136
+0001290
+0001292
+0001294
+0001296
+0001298
+0001300
+0001302
+0001304
+0001306
+0001308
+0001310
+0001312
+0001314
+0001318
+0001320
+0001322
+0001390
+0001392
+0001394
+0001400
+0001401
+0001402
+0001404
+0001406
+0001408
+0001410
+0001600
+0001601
+0001602
+0001604
+0001605
+0001606
+0001607
+
+Central #303
+Central #304
+Del Norte #201
+Del Norte #301
+Del Norte #501
+Del Norte #502
+Del Norte #503
+Del Norte #504
+Del Norte #505
+Del Norte #506
+Del Norte #507
+Del Norte #508
+Del Norte #509
+East Ojai #101
+East Ojai #102
+East Ojai #103
+East Ojai #104
+East Ojai #105
+East Ojai #106
+East Ojai #107
+East Ojai #108
+East Ojai #109
+East Ojai #110
+East Ojai #111
+East Ojai #112
+East Ojai #113
+East Ojai #115
+East Ojai #116
+East Ojai #117
+El Rio #101
+El Rio #102
+El Rio #103
+El Rio #501a
+El Rio #501l
+El Rio #502
+El Rio #503
+El Rio #504
+El Rio #505
+El Rio #506
+Fillmore #301a
+Fillmore #301l
+Fillmore #302
+Fillmore #303a
+Fillmore #303l
+Fillmore #304a
+Fillmore #304f
+
+1 of 6
+
+District Range: *0-0 to *0-0
+Fillmore #304l
+0001608
+Fillmore #304s
+0001609
+Fillmore #305
+0001610
+Fillmore #306
+0001612
+Gabbert #201
+0001700
+Gabbert #202
+0001702
+Gabbert #203
+0001704
+Gabbert #204
+0001706
+Gabbert #301
+0001710
+Gabbert #302
+0001712
+Gabbert #401
+0001720
+Gabbert #402
+0001722
+Gabbert #403
+0001724
+Gabbert #404
+0001726
+Gabbert #405
+0001728
+Gabbert #406
+0001730
+Gabbert #407
+0001732
+Gabbert #408
+0001734
+Gabbert #409
+0001736
+Gabbert #410
+0001738
+Gabbert #411
+0001740
+Gabbert #412
+0001742
+Goodenough #301
+0001800
+Goodenough #302
+0001802
+Grimes #301
+0001850
+Grimes #302
+0001852
+Heights #301
+0002100
+Heights #302
+0002102
+Heights #304
+0002106
+Heights #305
+0002108
+Heights #306
+0002110
+Hollywood #501
+0002200
+Islands #301
+0002300
+Knolls #401a
+0002400
+Knolls #401l
+0002401
+Knolls #402
+0002402
+Lk Vw Bell #201a
+0002660
+Lk Vw Bell #201l
+0002661
+Las Posas #201
+0002700
+Las Posas #301
+0002710
+Las Posas #302
+0002712
+Las Posas #303
+0002714
+Las Posas #304
+0002716
+Las Posas #305
+0002718
+Las Posas #306
+0002720
+Las Posas #307
+0002722
+Lv Ok Acrs #101
+0002750
+Lv Ok Acrs #102
+0002752
+Lv Ok Acrs #103
+0002754
+PDMR001 - District To Precinct XRef
+Printed: 11/10/2016
+9:11:54AM
+
+Official Districts
+
+0002756
+0002760
+0002762
+0002766
+0002768
+0002780
+0002784
+0002788
+0002790
+0002792
+0002794
+0002796
+0002800
+0002900
+0002902
+0002904
+0002906
+0002908
+0002910
+0002912
+0002914
+0002916
+0002918
+0002920
+0002922
+0002924
+0002926
+0002928
+0002930
+0002932
+0002934
+0002940
+0002942
+0002944
+0002946
+0002948
+0002990
+0002992
+0002993
+0002994
+0002996
+0002998
+0003000
+0003002
+0003004
+0003006
+0003008
+0003010
+0003012
+
+Lv Ok Acrs #104
+Lv Ok Acrs #106
+Lv Ok Acrs #107
+Lv Ok Acrs #109
+Lv Ok Acrs #110
+Lockwood #301
+Lockwood #302
+Lockwood #303
+Lockwood #304
+Lockwood #305
+Lockwood #306
+Lockwood #307
+Mariano #101
+Matilija #101
+Matilija #102
+Matilija #103
+Matilija #104
+Matilija #105
+Matilija #106
+Matilija #107
+Matilija #108
+Matilija #109
+Matilija #110
+Matilija #111
+Matilija #112
+Matilija #113
+Matilija #114
+Matilija #115
+Matilija #116
+Matilija #117
+Matilija #118
+Matilija #121
+Matilija #122
+Matilija #123
+Matilija #124
+Matilija #125
+Mnrs Oaks #101
+Mnrs Oaks #102a
+Mnrs Oaks #102l
+Mnrs Oaks #103
+Mnrs Oaks #104
+Mnrs Oaks #105
+Mnrs Oaks #106
+Mnrs Oaks #107
+Mnrs Oaks #108
+Mnrs Oaks #109
+Mnrs Oaks #110
+Mnrs Oaks #111
+Mnrs Oaks #112
+
+0003014
+0003080
+0003081
+0003082
+0003084
+0003086
+0003088
+0003090
+0003092
+0003094
+0003150
+0003152
+0003154
+0003156
+0003200
+0003202
+0003204
+0003206
+0003248
+0003249
+0003250
+0003251
+0003252
+0003253
+0003254
+0003256
+0003257
+0003258
+0003259
+0003260
+0003261
+0003262
+0003263
+0003264
+0003265
+0003266
+0003267
+0003274
+0003275
+0003276
+0003277
+0003278
+0003279
+0003280
+0003281
+0003282
+0003284
+0003300
+0003302
+
+Mnrs Oaks #113
+Mill #101a
+Mill #101l
+Mill #102
+Mill #103
+Mill #104
+Mill #105
+Mill #106
+Mill #107
+Mill #108
+Mission #101
+Mission #102
+Mission #103
+Mission #104
+Montalvo #101
+Montalvo #102
+Montalvo #103
+Montalvo #104
+Moorpark #401a
+Moorpark #401f
+Moorpark #401l
+Moorpark #401s
+Moorpark #402a
+Moorpark #402l
+Moorpark #403
+Moorpark #404a
+Moorpark #404l
+Moorpark #406a
+Moorpark #406f
+Moorpark #406l
+Moorpark #406s
+Moorpark #407a
+Moorpark #407l
+Moorpark #408a
+Moorpark #408l
+Moorpark #409a
+Moorpark #409l
+Moorpark #413a
+Moorpark #413f
+Moorpark #413l
+Moorpark #413s
+Moorpark #414a
+Moorpark #414f
+Moorpark #414l
+Moorpark #414s
+Moorpark #415
+Moorpark #416
+Mound #101
+Mound #102
+
+0003304
+0003306
+0003308
+0003350
+0003380
+0003382
+0003384
+0003386
+0003388
+0003392
+0003700
+0003702
+0003706
+0003800
+0003801
+0003804
+0003805
+0003806
+0003807
+0003808
+0003810
+0003811
+0003812
+0003813
+0003814
+0003816
+0003818
+0003820
+0003821
+0003822
+0003823
+0003830
+0003930
+0003932
+0003934
+0003936
+0003938
+0003940
+0003942
+0003944
+0003946
+0003948
+0003950
+0003952
+0003954
+0003956
+0003958
+0003960
+0003962
+
+Mound #103
+Mound #104
+Mound #105
+Mugu #201
+Mupu #301
+Mupu #302
+Mupu #303
+Mupu #304
+Mupu #305
+Mupu North #301
+Nylnd Acrs #501
+Nylnd Acrs #502
+Nylnd Acrs #504
+Oak Park #201a
+Oak Park #201l
+Oak Park #203a
+Oak Park #203f
+Oak Park #203l
+Oak Park #203s
+Oak Park #205
+Oak Park #206a
+Oak Park #206f
+Oak Park #206l
+Oak Park #206s
+Oak Park #207
+Oak Park #208
+Oak Park #209
+Oak Park #210a
+Oak Park #210f
+Oak Park #210l
+Oak Park #210s
+Oak Park #401
+Oak View #101
+Oak View #102
+Oak View #103
+Oak View #104
+Oak View #105
+Oak View #106
+Oak View #107
+Oak View #108
+Oak View #109
+Oak View #110
+Oak View #111
+Oak View #112
+Oak View #113
+Oak View #114
+Oak View #115
+Oak View #116
+Oak View #117
+
+0003964
+0003968
+0003974
+0003992
+0003996
+0003998
+0004000
+0004002
+0004004
+0004006
+0004008
+0004010
+0004012
+0004014
+0004016
+0004018
+0004020
+0004022
+0004024
+0004026
+0004028
+0004030
+0004032
+0004034
+0004036
+0004038
+0004039
+0004040
+0004044
+0004048
+0004050
+0004052
+0004054
+0004100
+0004101
+0004102
+0004103
+0004106
+0004107
+0004108
+0004109
+0004114
+0004115
+0004118
+0004119
+0004120
+0004122
+0004124
+0004126
+
+Oak View #118
+Oak View #120
+Oak View #123
+Oaks #202
+Ocean View #201
+Ocean View #202
+Ocean View #203
+Ocean View #213
+Ocean View #301
+Ocean View #302
+Ocean View #303
+Ocean View #304
+Ocean View #305
+Ocean View #306
+Ocean View #307
+Ocean View #501
+Ocean View #502
+Ocean View #503
+Ocean View #504
+Ocean View #505
+Ocean View #506
+Ojai #101
+Ojai #102
+Ojai #103
+Ojai #104
+Ojai #105a
+Ojai #105l
+Ojai #106
+Ojai #108
+Ojai #110
+Ojai #111
+Ojai #112
+Ojai #113
+Oxnard #101a
+Oxnard #101l
+Oxnard #102a
+Oxnard #102l
+Oxnard #103a
+Oxnard #103f
+Oxnard #103l
+Oxnard #103s
+Oxnard #105a
+Oxnard #105l
+Oxnard #106a
+Oxnard #106l
+Oxnard #107
+Oxnard #108
+Oxnard #109
+Oxnard #110
+
+2 of 6
+
+District Range: *0-0 to *0-0
+Oxnard #301
+0004150
+Oxnard #302
+0004152
+Oxnard #303a
+0004154
+Oxnard #303l
+0004155
+Oxnard #304
+0004156
+Oxnard #306a
+0004158
+Oxnard #306f
+0004159
+Oxnard #306l
+0004160
+Oxnard #306s
+0004161
+Oxnard #307
+0004162
+Oxnard #308
+0004164
+Oxnard #309
+0004166
+Oxnard #310
+0004168
+Oxnard #311
+0004170
+Oxnard #313
+0004174
+Oxnard #314
+0004176
+Oxnard #315
+0004178
+Oxnard #316
+0004180
+Oxnard #317
+0004182
+Oxnard #501a
+0004300
+Oxnard #501l
+0004301
+Oxnard #502
+0004304
+Oxnard #504a
+0004306
+Oxnard #504l
+0004307
+Oxnard #505a
+0004308
+Oxnard #505l
+0004309
+Oxnard #506
+0004310
+Oxnard #507a
+0004312
+Oxnard #507l
+0004313
+Oxnard #508
+0004314
+Oxnard #509a
+0004316
+Oxnard #509l
+0004317
+Oxnard #510
+0004318
+Oxnard #511a
+0004320
+Oxnard #511l
+0004321
+Oxnard #512a
+0004322
+Oxnard #512l
+0004323
+Oxnard #513
+0004324
+Oxnard #514a
+0004326
+Oxnard #514l
+0004327
+Oxnard #515a
+0004328
+Oxnard #515l
+0004329
+Oxnard #516
+0004330
+Oxnard #517
+0004332
+Oxnard #518
+0004334
+Oxnard #519
+0004336
+Oxnard #521
+0004338
+Oxnard #522a
+0004340
+Oxnard #522f
+0004341
+PDMR001 - District To Precinct XRef
+Printed: 11/10/2016
+9:11:54AM
+
+Official Districts
+
+0004342
+0004343
+0004344
+0004346
+0004347
+0004348
+0004349
+0004350
+0004351
+0004352
+0004353
+0004354
+0004356
+0004357
+0004358
+0004359
+0004360
+0004361
+0004362
+0004363
+0004364
+0004366
+0004368
+0004369
+0004370
+0004372
+0004374
+0004375
+0004376
+0004377
+0004378
+0004379
+0004380
+0004381
+0004382
+0004386
+0004387
+0004388
+0004389
+0004390
+0004392
+0004394
+0004395
+0004396
+0004397
+0004398
+0004399
+0004400
+0004401
+
+Oxnard #522l
+Oxnard #522s
+Oxnard #523
+Oxnard #524a
+Oxnard #524l
+Oxnard #525a
+Oxnard #525l
+Oxnard #526a
+Oxnard #526f
+Oxnard #526l
+Oxnard #526s
+Oxnard #527
+Oxnard #529a
+Oxnard #529f
+Oxnard #529l
+Oxnard #529r
+Oxnard #530a
+Oxnard #530f
+Oxnard #530l
+Oxnard #530s
+Oxnard #533
+Oxnard #534
+Oxnard #535a
+Oxnard #535l
+Oxnard #536
+Oxnard #537
+Oxnard #538a
+Oxnard #538l
+Oxnard #540a
+Oxnard #540f
+Oxnard #540l
+Oxnard #540s
+Oxnard #541a
+Oxnard #541l
+Oxnard #542
+Oxnard #544a
+Oxnard #544f
+Oxnard #544l
+Oxnard #544s
+Oxnard #545
+Oxnard #546
+Oxnard #547a
+Oxnard #547l
+Oxnard #548a
+Oxnard #548f
+Oxnard #548l
+Oxnard #548s
+Oxnard #550a
+Oxnard #550l
+
+0004402
+0004403
+0004404
+0004405
+0004408
+0004410
+0004412
+0004414
+0004415
+0004416
+0004417
+0004418
+0004420
+0004424
+0004426
+0004430
+0004431
+0004432
+0004434
+0004436
+0004438
+0004440
+0004441
+0004442
+0004443
+0004446
+0004447
+0004450
+0004452
+0004454
+0004456
+0004458
+0004460
+0004462
+0004464
+0004466
+0004468
+0004470
+0004650
+0005700
+0005802
+0005804
+0005806
+0005808
+0005810
+0005812
+0005814
+0005816
+0005818
+
+Oxnard #551a
+Oxnard #551l
+Oxnard #552a
+Oxnard #552l
+Oxnard #553
+Oxnard #554
+Oxnard #556
+Oxnard #557a
+Oxnard #557f
+Oxnard #557l
+Oxnard #557s
+Oxnard #558
+Oxnard #560
+Oxnard #562
+Oxnard #563
+Oxnard #564a
+Oxnard #564l
+Oxnard #565
+Oxnard #566
+Oxnard #567
+Oxnard #568
+Oxnard #570a
+Oxnard #570f
+Oxnard #570l
+Oxnard #570s
+Oxnard #571a
+Oxnard #571l
+Oxnard #572
+Oxnard #573
+Oxnard #574
+Oxnard #575
+Oxnard #576
+Oxnard #577
+Oxnard #578
+Oxnard #580
+Oxnard #581
+Oxnard #582
+Oxnard #583
+Ozena #101
+Pedro #101
+Pedro #501
+Pedro #502
+Pedro #503
+Pedro #504
+Pedro #505
+Pedro #506
+Pedro #508
+Pedro #509
+Pedro #510
+
+0005820
+0005822
+0005824
+0005826
+0005828
+0005830
+0005834
+0005850
+0005852
+0005854
+0005858
+0005860
+0005862
+0005864
+0005868
+0005870
+0005872
+0005874
+0005876
+0005950
+0005952
+0005953
+0005954
+0005955
+0005956
+0005958
+0005959
+0005962
+0005963
+0005964
+0005965
+0005966
+0005967
+0005968
+0005969
+0005970
+0006198
+0006202
+0006240
+0006250
+0006252
+0006254
+0006256
+0006258
+0006260
+0006262
+0006264
+0006266
+0006268
+
+Pedro #511
+Pedro #512
+Pedro #513
+Pedro #514
+Pedro #515
+Pedro #516
+Pedro #520
+Piru #301
+Piru #302
+Piru #303
+Piru North #301
+Piru #401
+Piru #402
+Piru #403
+Piru #405
+Piru #406
+Piru #407
+Piru #408
+Piru #409
+Pt Hue #301
+Pt Hue #302a
+Pt Hue #302f
+Pt Hue #302l
+Pt Hue #302s
+Pt Hue #303
+Pt Hue #305a
+Pt Hue #305l
+Pt Hue #307a
+Pt Hue #307f
+Pt Hue #307l
+Pt Hue #307s
+Pt Hue #308a
+Pt Hue #308l
+Pt Hue #309a
+Pt Hue #309l
+Pt Hue #501
+Rice #301
+Rice #502
+Rincon #101
+Rincon #102
+Rincon #103
+Rincon #104
+Rincon #105
+Rincon #106
+Rincon #107
+Rincon #108
+Rincon #109
+Rincon #110
+Rincon #111
+
+0006270
+0006272
+0006274
+0006276
+0006278
+0006280
+0006290
+0006300
+0006302
+0006304
+0006306
+0006308
+0006310
+0006580
+0006582
+0006584
+0006586
+0006588
+0006590
+0006592
+0006594
+0006596
+0006598
+0006602
+0006620
+0006622
+0006624
+0006626
+0006700
+0006701
+0006702
+0006703
+0006704
+0006705
+0006706
+0006707
+0006708
+0006710
+0006712
+0006713
+0006714
+0006716
+0006718
+0006720
+0006722
+0006724
+0006726
+0006728
+0006760
+
+Rincon #112
+Rincon #113
+Rincon #114
+Rincon #115
+Rincon #116
+Rincon #117
+Rio Mesa #101
+Rio Mesa #501
+Rio Mesa #502
+Rio Mesa #503
+Rio Mesa #504
+Rio Mesa #505
+Rio Mesa #506
+Santa Ana #101
+Santa Ana #102
+Santa Ana #103
+Santa Ana #104
+Santa Ana #105
+Santa Ana #106
+Santa Ana #107
+Santa Ana #108
+Santa Ana #109
+Santa Ana #110
+Santa Ana #112
+Sta Clara #301
+Sta Clara #302
+Sta Clara #303
+Sta Clara #304
+Sta Paula #301a
+Sta Paula #301l
+Sta Paula #302a
+Sta Paula #302l
+Sta Paula #303a
+Sta Paula #303l
+Sta Paula #304a
+Sta Paula #304l
+Sta Paula #305
+Sta Paula #306
+Sta Paula #307a
+Sta Paula #307l
+Sta Paula #308
+Sta Paula #309
+Sta Paula #310
+Sta Paula #311
+Sta Paula #312
+Sta Paula #313
+Sta Paula #314
+Sta Paula #315
+Sta Rosa #201a
+
+3 of 6
+
+District Range: *0-0 to *0-0
+Sta Rosa #201f
+0006761
+Sta Rosa #201l
+0006762
+Sta Rosa #201s
+0006763
+Sta Rosa #203
+0006764
+Sta Rosa #204
+0006766
+Sta Rosa #401
+0006800
+Sta Rosa #402
+0006802
+Saticoy #101
+0006900
+Saticoy #102
+0006902
+Saticoy #103
+0006904
+Saticoy #104
+0006906
+Saticoy #105
+0006908
+Saticoy #106
+0006910
+Sespe #301
+0007000
+Sespe-No #301
+0007010
+Sherwood #201a
+0007050
+Sherwood #201l
+0007051
+Sherwood #203
+0007054
+Sherwood #204
+0007056
+Sherwood #205
+0007058
+Sherwood #206
+0007060
+Sherwood #207
+0007062
+Sherwood #208
+0007064
+Sherwood #209
+0007066
+Sherwood #210
+0007068
+Sherwood #211
+0007070
+Sherwood #212
+0007072
+Sherwood #213
+0007074
+Sherwood #214
+0007076
+Sherwood #215
+0007078
+Sherwood #216
+0007080
+Slvr Strd #501a
+0007100
+Slvr Strd #501l
+0007101
+Simi #402a
+0007152
+Simi #402l
+0007153
+Simi #403a
+0007154
+Simi #403l
+0007155
+Simi #404a
+0007156
+Simi #404l
+0007157
+Simi #405
+0007158
+Simi #406a
+0007160
+Simi #406l
+0007161
+Simi #407a
+0007162
+Simi #407l
+0007163
+Simi #409a
+0007166
+Simi #409l
+0007167
+Simi #410a
+0007168
+Simi #410l
+0007169
+Simi #412a
+0007172
+PDMR001 - District To Precinct XRef
+Printed: 11/10/2016
+9:11:54AM
+
+Official Districts
+
+0007173
+0007174
+0007175
+0007176
+0007177
+0007178
+0007179
+0007180
+0007181
+0007182
+0007183
+0007184
+0007185
+0007188
+0007190
+0007191
+0007192
+0007193
+0007194
+0007195
+0007196
+0007197
+0007200
+0007201
+0007204
+0007205
+0007206
+0007207
+0007208
+0007209
+0007210
+0007211
+0007212
+0007213
+0007214
+0007215
+0007216
+0007217
+0007218
+0007219
+0007220
+0007221
+0007222
+0007223
+0007224
+0007225
+0007228
+0007229
+0007230
+
+Simi #412l
+Simi #413a
+Simi #413f
+Simi #413l
+Simi #413s
+Simi #415a
+Simi #415l
+Simi #416a
+Simi #416f
+Simi #416l
+Simi #416s
+Simi #418a
+Simi #418l
+Simi #420
+Simi #421a
+Simi #421l
+Simi #422a
+Simi #422f
+Simi #422l
+Simi #422s
+Simi #424a
+Simi #424l
+Simi #427a
+Simi #427l
+Simi #428a
+Simi #428l
+Simi #429a
+Simi #429l
+Simi #430a
+Simi #430l
+Simi #432a
+Simi #432f
+Simi #432l
+Simi #432s
+Simi #433a
+Simi #433f
+Simi #433l
+Simi #433s
+Simi #435a
+Simi #435f
+Simi #435l
+Simi #435s
+Simi #437a
+Simi #437f
+Simi #437l
+Simi #437s
+Simi #440a
+Simi #440l
+Simi #441
+
+0007232
+0007233
+0007234
+0007235
+0007236
+0007237
+0007240
+0007241
+0007242
+0007243
+0007244
+0007245
+0007246
+0007247
+0007250
+0007251
+0007252
+0007253
+0007254
+0007255
+0007256
+0007257
+0007258
+0007259
+0007260
+0007262
+0007264
+0007265
+0007266
+0007267
+0007268
+0007270
+0007272
+0007273
+0007280
+0007281
+0007282
+0007283
+0007284
+0007286
+0007288
+0007289
+0007290
+0007294
+0007296
+0007298
+0007500
+0007502
+0007504
+
+Simi #442a
+Simi #442f
+Simi #442l
+Simi #442s
+Simi #443a
+Simi #443l
+Simi #444a
+Simi #444f
+Simi #444l
+Simi #444s
+Simi #445a
+Simi #445l
+Simi #446a
+Simi #446l
+Simi #447a
+Simi #447l
+Simi #448a
+Simi #448f
+Simi #448l
+Simi #448s
+Simi #449a
+Simi #449f
+Simi #449l
+Simi #449s
+Simi #450
+Simi #451
+Simi #452a
+Simi #452f
+Simi #452l
+Simi #452s
+Simi #453
+Simi #454
+Simi #456a
+Simi #456l
+Simi #460a
+Simi #460f
+Simi #460l
+Simi #460s
+Simi #461
+Simi #462
+Simi #463a
+Simi #463l
+Simi #464
+Simi #466
+Simi #467
+Simi #468
+Sinaloa #401
+Sinaloa #402
+Sinaloa #403
+
+0007506
+0007550
+0007552
+0007554
+0007556
+0007558
+0007560
+0007562
+0007564
+0007566
+0007568
+0007570
+0007572
+0007574
+0007576
+0007578
+0007580
+0007600
+0007602
+0007604
+0007606
+0007608
+0007610
+0007612
+0007614
+0007616
+0007618
+0007620
+0007650
+0007652
+0007654
+0008000
+0008002
+0008004
+0008006
+0008008
+0008010
+0008014
+0008016
+0008018
+0008020
+0008022
+0008024
+0008026
+0008028
+0008030
+0008032
+0008034
+0008036
+
+Sinaloa #404
+Somis #201
+Somis #202
+Somis #203
+Somis #204
+Somis #205
+Somis #206
+Somis #207
+Somis #208
+Somis #209
+Somis #210
+Somis #211
+Somis #212
+Somis #213
+Somis #214
+Somis #215
+Somis #216
+Somis #301
+Somis #302
+Somis #303
+Somis #304
+Somis #305
+Somis #306
+Somis #307
+Somis #308
+Somis #309
+Somis #310
+Somis #311
+Somis #401
+Somis #402
+Somis #403
+Tapo #401
+Tapo #402
+Tapo #403
+Tapo #404
+Tapo #405
+Tapo #406
+Tapo #408
+Tapo #409
+Tapo #410
+Tapo #411
+Tapo #412
+Tapo #413
+Tapo #414
+Tapo #415
+Tapo #416
+Tapo #417
+Tapo #418
+Tapo #419
+
+0008050
+0008052
+0008054
+0008058
+0008100
+0008101
+0008102
+0008103
+0008104
+0008105
+0008106
+0008108
+0008109
+0008110
+0008112
+0008113
+0008114
+0008115
+0008116
+0008117
+0008118
+0008119
+0008120
+0008121
+0008122
+0008123
+0008124
+0008125
+0008126
+0008127
+0008128
+0008129
+0008130
+0008132
+0008134
+0008136
+0008137
+0008138
+0008139
+0008140
+0008141
+0008142
+0008143
+0008144
+0008145
+0008148
+0008149
+0008150
+0008151
+
+Teag McKev #301
+Teag McKev #302
+Teag McKev #303
+Teag McKev #305
+Thou Oaks #201a
+Thou Oaks #201l
+Thou Oaks #202a
+Thou Oaks #202l
+Thou Oaks #203a
+Thou Oaks #203l
+Thou Oaks #204
+Thou Oaks #205a
+Thou Oaks #205l
+Thou Oaks #206
+Thou Oaks #207a
+Thou Oaks #207l
+Thou Oaks #208a
+Thou Oaks #208l
+Thou Oaks #209a
+Thou Oaks #209l
+Thou Oaks #210a
+Thou Oaks #210l
+Thou Oaks #211a
+Thou Oaks #211f
+Thou Oaks #211l
+Thou Oaks #211s
+Thou Oaks #213a
+Thou Oaks #213l
+Thou Oaks #214a
+Thou Oaks #214l
+Thou Oaks #215a
+Thou Oaks #215l
+Thou Oaks #216
+Thou Oaks #217
+Thou Oaks #218
+Thou Oaks #219a
+Thou Oaks #219f
+Thou Oaks #219l
+Thou Oaks #219s
+Thou Oaks #221a
+Thou Oaks #221l
+Thou Oaks #222a
+Thou Oaks #222l
+Thou Oaks #223a
+Thou Oaks #223l
+Thou Oaks #225a
+Thou Oaks #225l
+Thou Oaks #226a
+Thou Oaks #226l
+
+4 of 6
+
+District Range: *0-0 to *0-0
+Thou Oaks #227a
+0008152
+Thou Oaks #227l
+0008153
+Thou Oaks #228a
+0008154
+Thou Oaks #228f
+0008155
+Thou Oaks #228l
+0008156
+Thou Oaks #228s
+0008157
+Thou Oaks #230
+0008158
+Thou Oaks #232a
+0008162
+Thou Oaks #232l
+0008163
+Thou Oaks #234a
+0008166
+Thou Oaks #234l
+0008167
+Thou Oaks #235a
+0008168
+Thou Oaks #235l
+0008169
+Thou Oaks #236a
+0008170
+Thou Oaks #236f
+0008171
+Thou Oaks #236l
+0008172
+Thou Oaks #236s
+0008173
+Thou Oaks #237a
+0008174
+Thou Oaks #237f
+0008175
+Thou Oaks #237l
+0008176
+Thou Oaks #237s
+0008177
+Thou Oaks #240a
+0008178
+Thou Oaks #240l
+0008179
+Thou Oaks #242a
+0008182
+Thou Oaks #242l
+0008183
+Thou Oaks #244a
+0008186
+Thou Oaks #244l
+0008187
+Thou Oaks #245a
+0008188
+Thou Oaks #245l
+0008189
+Thou Oaks #246a
+0008190
+Thou Oaks #246f
+0008191
+Thou Oaks #246l
+0008192
+Thou Oaks #246s
+0008193
+Thou Oaks #248a
+0008194
+Thou Oaks #248l
+0008195
+Thou Oaks #249a
+0008196
+Thou Oaks #249f
+0008197
+Thou Oaks #249l
+0008198
+Thou Oaks #249s
+0008199
+Thou Oaks #250
+0008200
+Thou Oaks #252a
+0008202
+Thou Oaks #252l
+0008203
+Thou Oaks #253a
+0008204
+Thou Oaks #253l
+0008205
+Thou Oaks #254a
+0008206
+Thou Oaks #254l
+0008207
+Thou Oaks #255a
+0008208
+Thou Oaks #255f
+0008209
+Thou Oaks #255l
+0008210
+PDMR001 - District To Precinct XRef
+Printed: 11/10/2016
+9:11:54AM
+
+Official Districts
+
+0008211
+0008214
+0008216
+0008220
+0008221
+0008222
+0008223
+0008224
+0008225
+0008226
+0008227
+0008228
+0008229
+0008230
+0008231
+0008232
+0008233
+0008234
+0008235
+0008236
+0008237
+0008238
+0008240
+0008244
+0008246
+0008248
+0008250
+0008252
+0008256
+0008258
+0008260
+0008264
+0008265
+0008266
+0008267
+0008400
+0008402
+0008404
+0008406
+0008408
+0008410
+0008412
+0008414
+0008416
+0008418
+0008420
+0008422
+0008424
+0008426
+
+Thou Oaks #255s
+Thou Oaks #257
+Thou Oaks #258
+Thou Oaks #260a
+Thou Oaks #260f
+Thou Oaks #260l
+Thou Oaks #260s
+Thou Oaks #262a
+Thou Oaks #262f
+Thou Oaks #262l
+Thou Oaks #262s
+Thou Oaks #263a
+Thou Oaks #263l
+Thou Oaks #264a
+Thou Oaks #264f
+Thou Oaks #264l
+Thou Oaks #264s
+Thou Oaks #265a
+Thou Oaks #265f
+Thou Oaks #265l
+Thou Oaks #265s
+Thou Oaks #266
+Thou Oaks #267
+Thou Oaks #269
+Thou Oaks #270
+Thou Oaks #271
+Thou Oaks #272
+Thou Oaks #273
+Thou Oaks #275
+Thou Oaks #276
+Thou Oaks #277
+Thou Oaks #279a
+Thou Oaks #279f
+Thou Oaks #279l
+Thou Oaks #279s
+Tico #101
+Tico #102
+Tico #103
+Tico #104
+Tico #105
+Tico #106
+Tico #107
+Tico #108
+Tico #109
+Tico #110
+Tico #111
+Tico #112
+Tico #113
+Tico #114
+
+0008428
+0008430
+0008432
+0008434
+0008436
+0008438
+0008440
+0008442
+0008444
+0008446
+0008448
+0008450
+0008452
+0008454
+0008456
+0008458
+0008460
+0008462
+0008464
+0008466
+0008470
+0008472
+0008474
+0008600
+0008604
+0008606
+0008608
+0008610
+0008612
+0008614
+0008615
+0008616
+0008617
+0008618
+0008620
+0008622
+0008624
+0008628
+0008630
+0008632
+0008750
+0008752
+0008754
+0008756
+0008758
+0008760
+0008762
+0008764
+0009000
+
+Tico #116
+Tico #118
+Tico #120
+Tico #122
+Tico #124
+Tico #126
+Tico #127
+Tico #129
+Tico #130
+Tico #131
+Tico #132
+Tico #133
+Tico #134
+Tico #135
+Tico #136
+Tico #137
+Tico #138
+Tico #139
+Tico #140
+Tico #141
+Tico #143
+Tico #144
+Tico #145
+Timber #201
+Timber #203
+Timber #204
+Timber #205
+Timber #206
+Timber #207
+Timber #208a
+Timber #208l
+Timber #209a
+Timber #209l
+Timber #210
+Timber #211
+Timber #212
+Timber #213
+Timber #215
+Timber #216
+Timber #217
+Topa Topa #101
+Topa Topa #102
+Topa Topa #103
+Topa Topa #104
+Topa Topa #105
+Topa Topa #106
+Topa Topa #107
+Topa Topa #108
+Ventura #101a
+
+0009001
+0009002
+0009004
+0009005
+0009006
+0009008
+0009009
+0009010
+0009011
+0009012
+0009014
+0009015
+0009016
+0009017
+0009018
+0009020
+0009021
+0009024
+0009025
+0009026
+0009028
+0009029
+0009030
+0009031
+0009032
+0009033
+0009034
+0009035
+0009036
+0009038
+0009039
+0009040
+0009044
+0009045
+0009046
+0009047
+0009048
+0009049
+0009050
+0009051
+0009052
+0009053
+0009054
+0009056
+0009057
+0009058
+0009059
+0009060
+0009061
+
+Ventura #101l
+Ventura #102
+Ventura #103a
+Ventura #103l
+Ventura #104
+Ventura #105a
+Ventura #105l
+Ventura #106a
+Ventura #106l
+Ventura #107
+Ventura #108a
+Ventura #108f
+Ventura #108l
+Ventura #108s
+Ventura #110
+Ventura #111a
+Ventura #111l
+Ventura #113a
+Ventura #113l
+Ventura #114
+Ventura #115a
+Ventura #115l
+Ventura #116a
+Ventura #116l
+Ventura #117a
+Ventura #117l
+Ventura #118a
+Ventura #118l
+Ventura #119
+Ventura #120a
+Ventura #120l
+Ventura #121
+Ventura #123a
+Ventura #123f
+Ventura #123l
+Ventura #123s
+Ventura #125a
+Ventura #125f
+Ventura #125l
+Ventura #125s
+Ventura #127a
+Ventura #127l
+Ventura #128
+Ventura #129a
+Ventura #129l
+Ventura #130a
+Ventura #130l
+Ventura #131a
+Ventura #131f
+
+0009062
+0009063
+0009064
+0009065
+0009066
+0009067
+0009072
+0009073
+0009074
+0009075
+0009076
+0009077
+0009078
+0009079
+0009080
+0009081
+0009082
+0009083
+0009084
+0009085
+0009086
+0009087
+0009088
+0009089
+0009090
+0009094
+0009098
+0009500
+0009501
+0009502
+0009503
+0009504
+0009505
+0009508
+0009509
+0009510
+0009511
+0009512
+0009514
+0009518
+0009522
+0009524
+0009530
+0009531
+0009532
+0009533
+0009536
+0009540
+0009541
+
+Ventura #131l
+Ventura #131s
+Ventura #133a
+Ventura #133l
+Ventura #134a
+Ventura #134l
+Ventura #137a
+Ventura #137l
+Ventura #138a
+Ventura #138l
+Ventura #139a
+Ventura #139l
+Ventura #140a
+Ventura #140f
+Ventura #140l
+Ventura #140s
+Ventura #142a
+Ventura #142l
+Ventura #143a
+Ventura #143l
+Ventura #144a
+Ventura #144l
+Ventura #145a
+Ventura #145l
+Ventura #146
+Ventura #148
+Ventura #150
+Ventura #151a
+Ventura #151f
+Ventura #151l
+Ventura #151s
+Ventura #153a
+Ventura #153l
+Ventura #155a
+Ventura #155l
+Ventura #156a
+Ventura #156l
+Ventura #157
+Ventura #158
+Ventura #160
+Ventura #162
+Ventura #163
+Ventura #165a
+Ventura #165f
+Ventura #165l
+Ventura #165s
+Ventura #166
+Ventura #168a
+Ventura #168f
+
+5 of 6
+
+District Range: *0-0 to *0-0
+Ventura #168l
+0009542
+Ventura #168s
+0009543
+Ventura #169
+0009544
+Ventura #170
+0009546
+Ventura #171
+0009548
+Ventura #172
+0009550
+Ventura #173
+0009552
+Ventura #174a
+0009554
+Ventura #174l
+0009555
+Ventura #175
+0009556
+Ventura #176
+0009560
+Ventura #177
+0009562
+Ventura #179
+0009566
+Ventura #181
+0009570
+Yrba Buena #201
+0009900
+Yrba Buena #202
+0009902
+Yrba Buena #203
+0009904
+Yrba Buena #204
+0009906
+1,224
+0
+
+Official Districts
+
+Precincts
+Portion Precincts
+
+PDMR001 - District To Precinct XRef
+Printed: 11/10/2016
+9:11:54AM
+
+6 of 6
+
+

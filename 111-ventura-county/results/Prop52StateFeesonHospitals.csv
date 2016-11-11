@@ -1,0 +1,685 @@
+pct16,YES,NO
+200 - MB Avenue #101/105,3,1
+202 - MB Avenue #102/103/104,8,2
+350 - Bardsdale #301,130,72
+352 - MB Bardsdale #302/303/304,22,18
+360 - MB Bardsdale #401/402/405/406,0,0
+364 - MB Bardsdale #403/404,0,0
+400 - MB Briggs #101/102/103,51,45
+420 - Briggs #301,131,47
+422 - MB Briggs #302/303,5,5
+426 - MB Briggs 304,5,6
+500 - MB Calleguas #201/212/214,7,2
+502 - MB Calleguas #202/203,0,0
+506 - Calleguas #204AL,382,141
+508 - MB Calleguas #205,13,1
+510 - MB Calleguas #206/208,4,3
+512 - MB Calleguas #207,2,0
+516 - MB Calleguas #209/218,0,0
+518 - MB Calleguas #210,3,0
+520 - MB Calleguas #211,1,0
+530 - MB Calleguas #216,2,0
+550 - MB Calleguas #301/305,4,6
+552 - MB Calleguas #302/307/309,0,0
+554 - MB Calleguas #303/306-315,2,2
+556 - MB Calleguas #304,0,1
+572 - MB Calleguas #312/313/314,0,3
+600 - MB Calleguas #401,0,0
+700 - Camarillo #301,310,135
+702 - Camarillo #302,228,132
+704 - Camarillo #303AF,318,187
+706 - Camarillo #303LS,346,215
+708 - Camarillo #305AL,410,234
+710 - Camarillo #306AF,496,296
+712 - Camarillo #306LS,500,252
+714 - Camarillo #308AL,513,195
+716 - Camarillo #309AL,525,254
+718 - Camarillo #310AF,487,278
+720 - Camarillo #310LS,495,258
+722 - Camarillo #312AL/325,653,371
+724 - MB Camarillo #313/320/354,66,63
+726 - Camarillo #314AL,510,296
+728 - MB Camarillo #315/344,24,1
+730 - Camarillo #316,359,173
+732 - Camarillo #317AL,571,329
+734 - Camarillo #318AF,405,206
+736 - Camarillo #318LS,425,204
+740 - Camarillo #321AL,614,274
+742 - MB Camarillo #322,76,19
+744 - Camarillo #323AL,615,366
+746 - MB Camarillo #324/330,10,5
+750 - Camarillo #326A,326,187
+751 - Camarillo #326L,342,167
+752 - Camarillo #327AF,581,343
+754 - Camarillo #327LS,525,322
+756 - Camarillo #329AF,702,227
+758 - Camarillo #329LS,695,234
+764 - Camarillo #331AL,503,228
+768 - Camarillo #333AF,409,211
+770 - Camarillo #333LS,510,232
+774 - MB Camarillo #336,0,0
+776 - Camarillo #337AF,611,310
+778 - Camarillo #337LS,607,294
+780 - MB Camarillo #338,28,14
+782 - MB Camarillo #339/341,44,16
+784 - MB Camarillo #340/345/346/350,1,1
+788 - MB Camarillo #343,67,28
+796 - Camarillo #347AF,397,206
+798 - Camarillo #347LS,419,231
+800 - MB Camarillo #348,2,0
+802 - MB Camarillo #349,5,1
+806 - MB Camarillo #351,0,0
+808 - MB Camarillo #352,0,0
+810 - MB Camarillo #353,0,0
+814 - MB Camarillo #355,0,0
+816 - MB Camarillo #356,3,0
+818 - MB Camarillo #357,0,0
+950 - MB Csts Sprgs #101/02/04/37/38,52,27
+954 - MB Csts Sprgs #103-124,21,13
+958 - MB Csts Sprgs #105/140-148,14,4
+960 - MB Csts Sprgs #106/108/109,48,25
+970 - MB Csts Sprgs #111,41,41
+972 - MB Csts Sprgs #112/113,1,0
+982 - MB Csts Sprgs #117/118/119,0,0
+990 - MB Csts Sprgs #121-123/125,9,3
+1000 - MB Csts Sprgs #126/128-29/150,24,9
+1008 - MB Csts Sprgs #130-133/135/136,10,10
+1042 - MB Csts Sprgs #149,0,1
+1080 - MB Central #301/303,0,0
+1084 - MB Central #304,0,0
+1100 - MB Del Norte #201,19,24
+1110 - MB Del Norte #301,58,54
+1120 - MB Del Norte #501-509,7,3
+1290 - East Ojai #101,405,126
+1292 - MB East Ojai #102/107-110,9,7
+1294 - MB East Ojai #103,8,0
+1296 - MB East Ojai #104/106/111,15,4
+1298 - MB East Ojai #105/115,0,0
+1310 - MB East Ojai #116/117,4,0
+1312 - MB East Ojai #112/113,62,27
+1390 - MB El Rio #101/102/103,0,0
+1400 - El Rio #501AL,554,204
+1402 - El Rio #502,194,54
+1404 - MB El Rio #503-505,13,2
+1410 - MB El Rio #506,0,0
+1600 - Fillmore #301AL,373,173
+1602 - Fillmore #302,348,140
+1604 - Fillmore #303AL,404,197
+1606 - Fillmore #304AF,487,257
+1608 - Fillmore #304LS,570,258
+1610 - Fillmore #305,122,62
+1612 - MB Fillmore #306,0,0
+1700 - MB Gabbert #201,0,0
+1702 - MB Gabbert #202,3,1
+1704 - MB Gabbert #203,3,5
+1706 - MB Gabbert#204,2,0
+1710 - MB Gabbert #301,0,0
+1712 - MB Gabbert #302,0,0
+1720 - MB Gabbert #401,47,28
+1722 - MB Gabbert #402/411,4,3
+1724 - Gabbert #403,166,92
+1726 - MB Gabbert #404,13,9
+1728 - MB Gabbert #405,0,0
+1730 - MB Gabbert #406/412,2,1
+1732 - MB Gabbert #407,0,0
+1734 - MB Gabbert #408/409,24,13
+1738 - MB Gabbert #410,7,3
+1800 - Goodenough #301/Sespe #301,152,106
+1802 - MB Goodenough #302,2,3
+1850 - MB Grimes #301/302,0,0
+2100 - Heights #301,302,164
+2102 - Heights #302,393,212
+2106 - MB Heights #304,58,22
+2108 - MB Heights #305,23,9
+2110 - MB Heights #306,66,38
+2200 - Hollywood #501,218,149
+2300 - MB Islands #301,0,0
+2400 - Knolls #401AL,447,225
+2402 - MB Knolls #402,1,4
+2660 - LkVw Bell #201AL,598,286
+2700 - MB Las Posas #201,17,11
+2710 - Las Posas #301,222,114
+2712 - Las Posas #302,371,202
+2714 - Las Posas #303,270,162
+2716 - MB Las Posas #304,3,2
+2718 - MB Las Posas #305,1,1
+2720 - MB Las Posas #306,0,1
+2722 - MB Las Posas #307,0,0
+2750 - MB Lv Ok Acrs #101,85,35
+2752 - MB Lv Ok Acrs #102/104/107,5,2
+2756 - MB Lv Ok Acrs #103/106,52,22
+2766 - MB Lv Ok Acrs #109/110,21,13
+2780 - MB Lockwood #301,56,53
+2784 - MB Lockwood #302/303,0,0
+2790 - MB Lockwood #304,0,0
+2792 - MB Lockwood #305/306,0,0
+2796 - MB Lockwood #307,0,0
+2800 - MB Mariano #101,0,0
+2900 - MB Matilija #101,12,6
+2902 - Matilija #102,172,79
+2904 - MB Matilija #103/107/111/113,10,2
+2906 - MB Matilija #104/125,41,13
+2908 - MB Matilija #105,4,1
+2910 - MB Matilija #106/12/16/18/24,24,9
+2914 - MB Matilija #108/117,8,6
+2916 - MB Matilija #109/114/115,19,12
+2918 - MB Matilija #110,0,0
+2940 - MB Matilija #121/122/123,8,2
+2990 - Mnrs Oaks #101,142,58
+2992 - Mnrs Oaks #102AL,412,165
+2994 - MB Mnrs Oaks #103/111/112,27,11
+2996 - MB Mnrs Oaks #104,73,35
+2998 - MB Mnrs Oaks #105,73,37
+3000 - MB Mnrs Oaks #106/108/109,1,0
+3002 - MB Mnrs Oaks #107/113,3,3
+3008 - MB Mnrs Oaks #110,0,0
+3080 - Mill #101AL,271,150
+3082 - MB Mill #102/105/106,0,0
+3084 - MB Mill #103,0,0
+3086 - MB Mill #104,0,0
+3092 - MB Mill #107,0,0
+3094 - MB Mill #108,2,1
+3150 - MB Mission #101,67,32
+3152 - MB Mission #102/103/104,16,11
+3200 - MB Montalvo #101/102/103/104,1,1
+3248 - Moorpark #401AF,473,229
+3250 - Moorpark #401LS,461,236
+3252 - Moorpark #402AL,514,247
+3254 - MB Moorpark #403,0,0
+3256 - Moorpark #404AL,511,189
+3258 - Moorpark #406AF,455,254
+3260 - Moorpark #406LS,474,263
+3262 - Moorpark #407AL,521,218
+3264 - Moorpark #408A,355,175
+3265 - Moorpark #408L,370,222
+3266 - Moorpark #409AL,712,399
+3274 - Moorpark #413AF,626,337
+3276 - Moorpark #413LS,591,360
+3278 - Moorpark #414AF,529,342
+3280 - Moorpark #414LS,517,338
+3282 - Moorpark #415,327,213
+3284 - MB Moorpark #416,0,0
+3300 - MB Mound #101-105,14,7
+3350 - MB Mugu #201,52,31
+3380 - MB Mupu #301-303,46,28
+3386 - MB Mupu 304-305,0,2
+3392 - MB Mupu North #301,0,0
+3700 - Nylnd Acrs #501,180,63
+3702 - MB Nylnd Acrs #502,0,0
+3704 - MB Nylnd Acrs #504,0,0
+3800 - Oak Park #201AL,469,192
+3804 - Oak Park #203AF,469,176
+3806 - Oak Park #203LS,451,196
+3808 - MB Oak Park #205/207-209,0,0
+3810 - Oak Park #206AF,741,307
+3812 - Oak Park #206LS,740,326
+3820 - Oak Park #210AF,372,172
+3822 - Oak Park #210LS,495,223
+3830 - MB Oak Park #401,0,0
+3930 - Oak View #101,200,102
+3932 - Oak View #102,221,93
+3934 - Oak View #103,147,99
+3936 - MB Oak View #104,34,18
+3938 - MB Oak View #105,55,36
+3940 - Oak View #106,126,62
+3942 - MB Oak View #107,63,38
+3944 - MB Oak View #108,0,0
+3946 - MB Oak View #109,46,30
+3948 - MB Oak View #110/111/113/114,0,0
+3952 - MB Oak View #112/116,65,27
+3958 - MB Oak View #115,3,2
+3962 - MB Oak View #117,64,39
+3964 - MB Oak View #118/120,28,12
+3974 - MB Oak View #123,29,16
+3992 - MB Oaks #202,17,25
+3996 - MB Ocean View #201-203/213,9,4
+4004 - MB Ocean View #301/302,4,0
+4008 - MB Ocean View #303-307,10,1
+4018 - MB Ocean View #501/504/506,7,8
+4020 - MB Ocean View #502,3,1
+4022 - MB Ocean View #503,0,3
+4026 - MB Ocean View #505,1,0
+4030 - MB Ojai #101,47,28
+4032 - Ojai #102,424,152
+4034 - Ojai #103,117,31
+4036 - Ojai #104,368,94
+4038 - Ojai #105A,440,143
+4039 - Ojai #105L,447,151
+4040 - MB Ojai #106,55,9
+4044 - MB Ojai #108/113,67,27
+4048 - MB Ojai #110,77,23
+4050 - Ojai #111,122,66
+4052 - MB Ojai #112,6,2
+4100 - Oxnard #101AL,355,131
+4102 - Oxnard #102AL,488,212
+4106 - Oxnard #103AF,595,268
+4108 - Oxnard #103LS,628,246
+4114 - Oxnard #105AL,682,190
+4118 - Oxnard #106AL,433,141
+4120 - MB Oxnard #107,3,1
+4122 - MB Oxnard #108/109,52,16
+4126 - Oxnard #110,320,115
+4150 - MB Oxnard #301,1,0
+4152 - MB Oxnard #302,0,0
+4154 - Oxnard #303AL,674,197
+4156 - Oxnard #304,323,143
+4158 - Oxnard #306AF,289,97
+4160 - Oxnard #306LS,342,102
+4162 - Oxnard #307,442,136
+4164 - MB Oxnard #308/309,20,8
+4168 - MB Oxnard #310,0,0
+4170 - MB Oxnard #311,0,0
+4174 - Oxnard #313,253,83
+4176 - MB Oxnard #314-317,0,0
+4300 - Oxnard #501AL,412,140
+4304 - MB Oxnard #502/508/558,22,8
+4306 - Oxnard #504AL,420,146
+4308 - Oxnard #505AL,498,168
+4310 - MB Oxnard #506/553,10,4
+4312 - Oxnard #507AL,515,175
+4316 - Oxnard #509AL,427,149
+4318 - MB Oxnard #510,7,2
+4320 - Oxnard #511AL,319,119
+4322 - Oxnard #512A,376,134
+4323 - Oxnard #512L,331,110
+4324 - Oxnard #513,353,172
+4326 - Oxnard #514AL,327,91
+4328 - Oxnard #515AL,399,142
+4330 - MB Oxnard #516,0,0
+4332 - MB Oxnard #517,0,0
+4334 - MB Oxnard #518,73,17
+4336 - Oxnard #519,349,92
+4338 - Oxnard #521,263,87
+4340 - Oxnard #522AF,329,66
+4342 - Oxnard #522LS,317,68
+4344 - MB Oxnard #523,38,9
+4346 - Oxnard #524AL,522,192
+4348 - Oxnard #525AL,511,191
+4350 - Oxnard #526AF,276,125
+4352 - Oxnard #526LS,332,154
+4354 - Oxnard #527,198,80
+4356 - Oxnard #529AF,323,110
+4358 - Oxnard #529LR,435,124
+4360 - Oxnard #530AF,267,81
+4362 - Oxnard #530LS,334,97
+4364 - MB Oxnard #533,44,3
+4366 - Oxnard #534,284,96
+4368 - Oxnard #535AL,587,274
+4370 - Oxnard #536,302,81
+4372 - MB Oxnard #537,43,28
+4374 - Oxnard #538AL,435,128
+4376 - Oxnard #540AF,427,168
+4378 - Oxnard #540LS,468,199
+4380 - Oxnard #541AL,506,186
+4382 - Oxnard #542,305,109
+4386 - Oxnard #544AF,531,214
+4388 - Oxnard #544LS,584,227
+4390 - Oxnard #545,178,51
+4392 - Oxnard #546,341,164
+4394 - Oxnard #547AL,515,122
+4396 - Oxnard #548AF,356,115
+4398 - Oxnard #548LS,348,117
+4400 - Oxnard #550AL,335,96
+4402 - Oxnard #551AL,418,107
+4404 - Oxnard #552AL,423,119
+4410 - MB Oxnard #554,0,0
+4412 - MB Oxnard #556,6,4
+4414 - Oxnard #557AF,459,165
+4416 - Oxnard #557LS,455,154
+4420 - Oxnard #560,186,79
+4424 - MB Oxnard #562,0,0
+4426 - MB Oxnard #563,0,0
+4430 - Oxnard #564A,334,121
+4431 - Oxnard #564L,351,144
+4432 - Oxnard #565,292,129
+4434 - MB Oxnard #566-568/573/581,9,7
+4440 - Oxnard #570AF,463,228
+4442 - Oxnard #570LS,509,229
+4446 - Oxnard #571AL,369,248
+4450 - MB Oxnard #572/576,0,0
+4454 - MB Oxnard #574,0,0
+4456 - MB Oxnard #575/580,22,1
+4460 - MB Oxnard #577/578/582,0,0
+4470 - MB Oxnard #583,78,14
+4650 - MB Ozena #101,18,11
+5700 - MB Pedro #101,0,0
+5802 - MB Pedro #501-516,7,3
+5804 - MB Pedro #502/504/514,3,1
+5806 - MB Pedro #503,0,0
+5814 - MB Pedro #508/509,0,0
+5818 - MB Pedro #510/511/513,0,0
+5834 - MB Pedro #520,0,0
+5850 - Piru #301,327,103
+5852 - MB Piru #302,0,0
+5854 - MB Piru #303,4,0
+5858 - MB Piru North #301,0,1
+5860 - MB Piru #401/403,0,0
+5862 - MB Piru #402,0,0
+5868 - MB Piru #405/409,0,0
+5870 - MB Piru #406/407/408,0,0
+5950 - MB Pt Hue #301,43,15
+5952 - Pt Hue # 302AF,522,202
+5954 - Pt Hue # 302LS,571,194
+5956 - MB Pt Hue #303,2,2
+5958 - Pt Hue #305AL,519,203
+5962 - Pt Hue #307AF,484,167
+5964 - Pt Hue #307LS,445,137
+5966 - Pt Hue #308AL,343,142
+5968 - Pt Hue #309AL,486,227
+5970 - MB Pt Hue #501,1,0
+6198 - MB Rice #301,3,1
+6202 - MB Rice #502,0,0
+6240 - MB Rincon #101/104/105/106/107,17,4
+6250 - MB Rincon #102,84,42
+6252 - MB Rincon #103,0,1
+6262 - MB Rincon #108/109/117,16,3
+6266 - MB Rincon #110/111/112,0,0
+6272 - MB Rincon #113/114/116,95,30
+6276 - MB Rincon #115,15,5
+6290 - MB Rio Mesa #101,0,0
+6300 - MB Rio Mesa #501/502/503,1,0
+6306 - MB Rio Mesa #504,81,26
+6308 - MB Rio Mesa #505/506,0,0
+6580 - MB Santa Ana #101,47,24
+6582 - MB Santa Ana #102/105/112,11,4
+6584 - MB Santa Ana #103,0,1
+6586 - MB Santa Ana #104/106-109,15,11
+6598 - MB Santa Ana #110,2,0
+6620 - MB Sta Clara #301/302/304,29,19
+6624 - MB Sta Clara #303,0,0
+6700 - Sta Paula #301AL,532,286
+6702 - Sta Paula #302AL,435,187
+6704 - Sta Paula #303AL,537,198
+6706 - Sta Paula #304AL,576,214
+6708 - Sta Paula #305,346,101
+6710 - MB Sta Paula #306,0,0
+6712 - Sta Paula #307AL,678,281
+6714 - Sta Paula #308,295,105
+6716 - Sta Paula #309,258,128
+6718 - Sta Paula #310,341,115
+6720 - MB Sta Paula #311,51,5
+6722 - Sta Paula #312,183,70
+6724 - MB Sta Paula #313/314,52,37
+6726 - MB Sta Paula #315,4,0
+6760 - Sta Rosa #201AF,421,258
+6762 - Sta Rosa #201LS,487,312
+6764 - MB Sta Rosa #203,1,5
+6766 - MB Sta Rosa #204,0,2
+6800 - MB Sta Rosa #401/402,16,12
+6900 - MB Saticoy #101/102/103/105,5,1
+6906 - Saticoy #104,84,37
+6910 - MB Saticoy #106,0,0
+7010 - MB Sespe-No #301,0,0
+7050 - Sherwood #201AL,461,300
+7054 - MB Sherwood #203/204/215/216,15,16
+7058 - MB Sherwood #205/206/208/213,1,7
+7062 - MB Sherwood #207,15,8
+7066 - MB Sherwood #209,0,0
+7068 - MB Sherwood #210/214,17,2
+7070 - MB Sherwood #211,1,1
+7072 - MB Sherwood #212,0,0
+7100 - Slvr Strd #501AL,544,271
+7152 - Simi # 402AL,664,313
+7154 - Simi #403AL,501,237
+7156 - Simi #404AL,514,210
+7158 - Simi #405,354,193
+7160 - Simi #406AL,483,268
+7162 - Simi #407AL,624,275
+7166 - Simi #409AL,519,279
+7168 - Simi #410AL,653,302
+7172 - Simi #412AL,416,244
+7174 - Simi #413AF,393,215
+7176 - Simi #413LS,453,273
+7178 - Simi #415AL,433,206
+7180 - Simi #416AF,475,235
+7182 - Simi #416LS,449,239
+7184 - Simi #418AL,577,286
+7190 - Simi #421AL/420,700,337
+7192 - Simi #422AF,527,240
+7194 - Simi #422LS,549,257
+7196 - Simi #424A,369,238
+7197 - Simi #424L,361,196
+7200 - Simi #427A,391,165
+7201 - Simi #427L,434,218
+7204 - Simi #428AL,624,371
+7206 - Simi #429AL,498,243
+7208 - Simi #430AL,772,337
+7210 - Simi #432AF,547,267
+7212 - Simi #432LS,572,233
+7214 - Simi #433AF,349,254
+7216 - Simi #433LS,422,320
+7218 - Simi #435AF,468,270
+7220 - Simi #435LS,509,270
+7222 - Simi #437AF,644,413
+7224 - Simi #437LS,679,408
+7228 - Simi #440AL,551,314
+7230 - MB Simi #441/464/466,0,0
+7232 - Simi #442AF,599,277
+7234 - Simi #442LS,558,254
+7236 - Simi #443AL,705,299
+7240 - Simi #444AFLS,658,317
+7244 - Simi #445AL,535,289
+7246 - Simi #446AL,711,351
+7250 - Simi #447AL,533,331
+7252 - Simi #448AF,418,267
+7254 - Simi #448LS,432,276
+7256 - Simi #449AF,502,276
+7258 - Simi #449LS,548,309
+7260 - MB Simi #450/453/454,47,34
+7262 - Simi #451,335,167
+7264 - Simi #452AF,404,212
+7266 - Simi #452LS,384,221
+7272 - Simi #456AL,590,340
+7280 - Simi #460AL,464,209
+7282 - Simi #460LS,463,232
+7284 - MB Simi #461,1,1
+7286 - MB Simi #462,0,0
+7288 - Simi #463AL,432,206
+7296 - Simi #467,173,75
+7298 - Simi #468,404,238
+7500 - Sinaloa #401,125,104
+7502 - MB Sinaloa #402,0,0
+7504 - MB Sinaloa #403,3,1
+7506 - MB Sinaloa #404,8,2
+7550 - Somis #201/204/210,530,301
+7552 - MB Somis #202/211,9,8
+7554 - MB Somis #203/207-209,15,10
+7558 - MB Somis #205/214,35,22
+7560 - MB Somis #206/215,19,17
+7572 - MB Somis #212/213/216,2,5
+7600 - MB Somis #301,0,2
+7602 - MB Somis #302/311,0,0
+7604 - MB Somis #303/305-307,3,2
+7606 - MB Somis #304,0,0
+7614 - MB Somis #308/309/310,0,0
+7650 - MB Somis #401/403,24,19
+7652 - MB Somis #402,0,0
+8000 - MB Tapo #401/403,26,3
+8002 - MB Tapo #402,1,0
+8006 - MB Tapo #404,0,0
+8008 - MB Tapo #405,0,0
+8010 - MB Tapo #406-411/413/414/419,23,12
+8016 - MB Tapo #409,70,28
+8022 - MB Tapo #412,33,22
+8028 - MB Tapo #415,0,0
+8030 - MB Tapo #416,0,0
+8032 - MB Tapo #417,0,0
+8034 - MB Tapo #418,0,0
+8050 - MB Teag McKev #301/302/303,35,16
+8058 - MB Teag McKev #305,0,0
+8100 - Thou Oaks #201AL,726,259
+8102 - Thou Oaks #202AL,555,217
+8104 - Thou Oaks #203AL,594,219
+8106 - Thou Oaks #204,193,161
+8108 - Thou Oaks #205AL,619,309
+8110 - Thou Oaks #206,347,182
+8112 - Thou Oaks #207AL,382,211
+8114 - Thou Oaks #208A,403,193
+8115 - Thou Oaks #208L,375,189
+8116 - Thou Oaks #209AL,411,235
+8118 - Thou Oaks #210AL,352,211
+8120 - Thou Oaks #211AF,357,165
+8122 - Thou Oaks #211LS,369,170
+8124 - Thou Oaks #213A,337,200
+8125 - Thou Oaks #213L,390,191
+8126 - Thou Oaks #214AL,593,289
+8128 - Thou Oaks #215AL,749,421
+8130 - Thou Oaks #216,231,70
+8132 - Thou Oaks #217,319,131
+8134 - Thou Oaks #218,357,165
+8136 - Thou Oaks #219AF,439,192
+8138 - Thou Oaks #219LS,471,199
+8140 - Thou Oaks #221AL,332,175
+8142 - Thou Oaks #222AL,476,240
+8144 - Thou Oaks 233AL,602,246
+8148 - Thou Oaks #225AL,775,293
+8150 - Thou Oaks #226AL,637,342
+8152 - Thou Oaks #227AL,600,279
+8154 - Thou Oaks #228AF,410,216
+8156 - Thou Oaks #228LS,452,215
+8158 - Thou Oaks #230,396,169
+8162 - Thou Oaks #232A,329,163
+8163 - Thou Oaks #232L,378,213
+8166 - Thou Oaks #234AL,658,265
+8168 - Thou Oaks #235AL,503,201
+8170 - Thou Oaks #236AF,410,222
+8172 - Thou Oaks #236LS,471,281
+8174 - Thou Oaks #237AF,582,272
+8176 - Thou Oaks #237LS,667,331
+8178 - Thou Oaks #240AL,575,296
+8182 - Thou Oaks #242AL,368,196
+8186 - Thou Oaks #244A,406,149
+8187 - Thou Oaks #244L,382,169
+8188 - Thou Oaks #245A,347,204
+8189 - Thou Oaks #245L,408,222
+8190 - Thou Oaks #246AF,468,209
+8192 - Thou Oaks #246LS,465,203
+8194 - Thou Oaks #248AL,667,337
+8196 - Thou Oaks #249A/264A,563,241
+8197 - Thou Oaks #249F/264F,501,203
+8198 - Thou Oaks #249L/264L,630,238
+8199 - Thou Oaks #249S/264S,473,265
+8200 - MB Thou Oaks #250,40,13
+8202 - Thou Oaks #252AL,371,167
+8204 - Thou Oaks #253AL,476,232
+8206 - Thou Oaks #254AL,661,273
+8208 - Thou Oaks #255AF,390,211
+8210 - Thou Oaks #255LS,364,226
+8214 - Thou Oaks #257,223,73
+8216 - Thou Oaks #258,200,119
+8220 - Thou Oaks #260AF,430,196
+8222 - Thou Oaks #260LS,441,226
+8224 - Thou Oaks #262AF,475,219
+8226 - Thou Oaks #262LS,506,256
+8228 - Thou Oaks #263AL,556,281
+8234 - Thou Oaks #265AF,400,223
+8236 - Thou Oaks #265LS,498,228
+8238 - Thou Oaks #266,345,168
+8240 - MB Thou Oaks #267/269/276/277,7,2
+8246 - Thou Oaks #270,279,193
+8248 - MB Thou Oaks #271/272,50,22
+8252 - MB Thou Oaks #273/275,0,0
+8264 - Thou Oaks #279AF,419,204
+8266 - Thou Oaks #279LS,436,228
+8400 - MB Tico #101/106,8,4
+8402 - MB Tico #102/118,35,11
+8404 - Tico 103,325,130
+8406 - Tico #104/111,282,124
+8408 - MB Tico #105,0,0
+8412 - MB Tico #107,0,0
+8414 - MB Tico #108/112/114/116,30,11
+8416 - MB Tico #109,57,49
+8418 - Tico #110/134,427,146
+8424 - MB Tico #113,15,5
+8432 - MB Tico #120/122/124/126,4,1
+8440 - MB Tico #127-143,19,4
+8442 - Tico #129,141,48
+8444 - MB Tico #130/137,26,20
+8448 - MB Tico #132/139/141/144,10,9
+8454 - MB Tico #135,61,43
+8464 - MB Tico #140,106,36
+8474 - MB Tico #145,0,0
+8600 - Timber #201,281,146
+8604 - MB Timber #203/204/206,10,3
+8608 - MB Timber #205/207/217,0,0
+8614 - Timber #208AL,594,305
+8616 - Timber #209AL,548,261
+8618 - Timber #210,186,141
+8620 - MB Timber #211/212/213,17,4
+8628 - MB Timber #215,0,0
+8630 - MB Timber #216,0,0
+8750 - MB Topa Topa #101/106/107,22,7
+8752 - MB Topa Topa #102/104/108,1,2
+8754 - Topa Topa #103,196,111
+8758 - MB Topa Topa #105,59,37
+9000 - Ventura #101AL,645,276
+9002 - MB Ventura #102,29,10
+9004 - Ventura #103AL,418,149
+9006 - MB Ventura #104,0,0
+9008 - Ventura #105AL,522,221
+9010 - Ventura #106AL,709,418
+9012 - MB Ventura #107,51,18
+9014 - Ventura #108AF,347,158
+9016 - Ventura #108LS,393,140
+9018 - Ventura #110,317,125
+9020 - Ventura #111AL,468,164
+9024 - Ventura #113AL,632,230
+9026 - MB Ventura #114,0,0
+9028 - Ventura #115AL,623,242
+9030 - Ventura #116AL,716,285
+9032 - Ventura #117AL,440,167
+9034 - Ventura #118AL,596,266
+9036 - Ventura #119,364,160
+9038 - Ventura #120AL,593,251
+9040 - MB Ventura #121/148/160,104,31
+9044 - Ventura #123AF,485,236
+9046 - Ventura #123LS,526,254
+9048 - Ventura #125AF,444,253
+9050 - Ventura #125LS,518,269
+9052 - Ventura #127AL,625,299
+9054 - Ventura #128,326,183
+9056 - Ventura #129AL,534,310
+9058 - Ventura #130AL,414,214
+9060 - Ventura #131AF,571,251
+9062 - Ventura #131LS,565,200
+9064 - Ventura #133AL,447,157
+9066 - Ventura #134AL,368,173
+9072 - Ventura #137AL,438,214
+9074 - Ventura #138AL,598,266
+9076 - Ventura #139AL,581,233
+9078 - Ventura #140AF,466,237
+9080 - Ventura #140LS,473,243
+9082 - Ventura #142AL,446,172
+9084 - Ventura #143AL,609,302
+9086 - Ventura #144A,346,172
+9087 - Ventura #144L,348,164
+9088 - Ventura #145AL,577,295
+9090 - Ventura #146,286,118
+9098 - MB Ventura #150,0,0
+9500 - Ventura #151AF,408,174
+9502 - Ventura #151LS,404,169
+9504 - Ventura #153AL,595,249
+9508 - Ventura #155AL,522,216
+9510 - Ventura #156AL,470,158
+9512 - Ventura #157,249,91
+9514 - Ventura #158,269,84
+9522 - MB Ventura #162,0,0
+9524 - MB Ventura #163/170,3,4
+9530 - Ventura #165AF,366,184
+9532 - Ventura #165LS,437,240
+9536 - MB Ventura #166,58,28
+9540 - Ventura #168AF,408,215
+9542 - Ventura #168LS,384,164
+9544 - MB Ventura #169,0,0
+9548 - MB Ventura #171,77,27
+9550 - Ventura #172,230,97
+9552 - MB Ventura #173,45,23
+9554 - Ventura #174AL,478,186
+9556 - Ventura #175,126,54
+9560 - Ventura #176,160,81
+9562 - MB Ventura #177,45,16
+9566 - MB Ventura #179,0,0
+9570 - MB Ventura #181,0,1
+9900 - MB Yrba Buena #201,98,31
+9902 - MB Yrba Buena #202/204,45,14
+9904 - MB Yrba Buena #203,0,0
