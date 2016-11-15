@@ -1587,5 +1587,3 @@ MAIL PCT 99977
 Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
 NO (NON)	0	0	0	0	0
 YES (NON)	0	0	0	0	0
-
-Copyright © 2016 Integra Business Services. All rights reserved.
