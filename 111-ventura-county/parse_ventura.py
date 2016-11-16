@@ -33,7 +33,8 @@ for r in range(len(races)):
 		race_name = races[r]['K']
 
 	for x in range(len(races[r]['P'])):
-		precinct_results = [races[r]['P'][x]]
+		precinct_results = ['111-%s' % re.search(r'(\d+)(?: )',races[r]['P'][x]).group(0)]
+		# print precinct_results
 		for y in range(len(races[r]['V'][x])):
 			precinct_results.append(races[r]['V'][x][y])
 		csvwriter.writerow(precinct_results)
