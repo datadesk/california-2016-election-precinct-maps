@@ -1,1 +1,0 @@
-precinct,prop51_yes,prop51_no
