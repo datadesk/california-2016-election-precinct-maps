@@ -1,0 +1,492 @@
+                                                                              List of Polling Sites with Voting Precincts
+                                                                                  2016 GENERAL ELECTION - November 08, 2016
+                                                                                           Sorted by City / Poll Place
+ ID               Polling Place Name                    Phone                                                                                Ballot    Table    Reg       AV
+                  Sample Ballot Address                 Map Number              User Codes      Accessible    Voting Precinct(s)             Type      ID      Count   Count*   Consolidation
+ Home Pct:
+ All                                                          All Precincts
+ 104              Arcata City Hall*                     (707)825-2103                           Usable        3A--1 300104                   000011              570     271    3A--1
+ 3A--4                                                                                                        3A--4 300107                   000011              829     433    3A--4
+                  736 F Street
+                  Arcata, CA 95521-6211
+                                                                                                                                                 Sub Total:    1,399     704
+
+ 106              Arcata Lutheran Church*               (707)822-5117                           Usable        3A--3 300106                   000011              941     550    3A--3   3A--3A
+ 3A--3A
+                  151 E 16th Street
+                  Arcata, CA 95521
+                                                                                                                                                 Sub Total:      941     550
+
+ 110              Arcata Methodist Church*              (707)822-1963                           Usable        3A--7 300110                   000011              727     359    3A--7   3A--8
+ 3A--9                                                                                                        3A--9 300112                   000011            1,053     489    3A--9
+                  1761 11th Street
+                  Arcata, CA 95521
+                                                                                                                                                 Sub Total:    1,780     848
+
+ 108              Arcata Veterans Memorial Building*    (707)822-1552                           Usable        3A-11 300114                   000011            1,113     572    3A--6   3A-11
+ 3A--7                                                                                                        3A-13 300116                   000011            1,203     678    3A--5   3A-13
+                  1425 J Street
+                  Arcata, CA 95521
+                                                                                                                                                 Sub Total:    2,316    1,250
+
+ 115              H S U Jolly Giant Commons*            (707)826-5528                           Yes           3A-12 300115                   000011              583     338    3A--5A 3A-12
+ 3A-12
+                  355 Granite Avenue
+                  Arcata, CA 95521
+                                                                                                                                                 Sub Total:      583     338
+
+ 339              Mad River Rapids Rv Park*             (707)822-7275                           Usable        3A-P4 300125                   000013            1,229     688    3A-P1   3A-P2A 3A-P4
+ 3A-P6                                                                                                                                                                          3A-P5   3A-P6 3A-P7
+                                                                                                              3PA-1 300162                   000001              887     473    3PA-1 3PA-2 3PA-3
+                  3501 Janes Rd
+                                                                                                                                                                                3PA-3A 3PA-3B 3PA-4
+                  Arcata, CA 95521-4529                                                                                                                                         3PA-5 3PA-6 3PAE
+                                                                                                                                                 Sub Total:    2,116    1,161
+
+ 160              Manila Community Center*              (707)444-3803                           Usable        3MA-1 300159                   000014              571     270    3MA-1    3MA-2   3MA-3
+ 3MA-2
+                  1611 Peninsula Drive
+                  Arcata, CA 95521
+                                                                                                                                                 Sub Total:      571     270
+
+ 122              Pacific Union School*                 (707)822-4619                           Usable        3A-P2 300122                   000013            1,178     593    3A-P2   3A-P3    3A-P8
+ 3A-P2
+                  3001 Janes Road
+                  Arcata, CA 95521
+
+
+PODR009 - List of Polling Sites with Voting Precincts                   *NOTE: Absentee counts are included in Registration count as well.                                                           Page 1 of 10
+Printed:   12/6/2016    4:18:23PM
+ ID               Polling Place Name                    Phone                                                                                Ballot    Table    Reg       AV
+                  Sample Ballot Address                 Map Number              User Codes      Accessible    Voting Precinct(s)             Type      ID      Count   Count*   Consolidation
+ Home Pct:
+ All                                                         All Precincts
+                                                                                                                                                 Sub Total:    1,178     593
+
+ 105              Sunny Brae Middle School*             (707)822-5988                           Usable        3A--2 300105                   000011              834     414    3A--2
+ 3A-J2                                                                                                        3A-J1 300118                   000012              743     405    3A-J1 3A-J2     3A-JW
+                  1430 Buttermilk Lane                                                                                                                                          3A-JWA
+                  Arcata, CA 95521
+                                                                                                                                                 Sub Total:    1,577     819
+
+ 113              Trinity Baptist Church*               (707)822-7668                           Usable        3A-10 300113                   000011            1,098     546    3A-10   3A-14
+ 3A-14
+                  2450 Alliance Road
+                  Arcata, CA 95521
+                                                                                                                                                 Sub Total:    1,098     546
+
+ 148              Jacoby Creek School*                  (707)822-4896                           Usable        3JCFR 300149                   000017              605     327    3JC   3JC-R 3JCFR       3JCM
+ 3A-JW                                                                                                                                                                          3JCM-1 3JCW
+                                                                                                              3JCWR 300155                   000017              790     445    3JCF 3JCFRA 3JCFRB
+                  1617 Old Arcata Road
+                                                                                                                                                                                3JCFRC 3JCWF 3JCWR
+                  Bayside, CA 95524                                                                                                                                             3JCWRA
+                                                                                                                                                 Sub Total:    1,395     772
+
+ 323              Blue Lake Elementary School*          (707)668-5674                           Usable        5BL 500207                     000001              836     423    5BL   5BL-1 5BLF 5BLF-1
+ 3B--1                                                                                                                                                                          5BLF-2 5BLF-3 5BLFS
+                                                                                                                                                                                5BLFS-1 5BLS 5BM
+                  631 Greenwood Ave
+                  Blue Lake, CA 95525
+                                                                                                                                                 Sub Total:      836     423
+
+ 324              Skinner Store*                        (707)668-5655                           Usable        3B--1 300206                   000015              839     411    3B--1
+ 3B--1
+                  111 Greenwood Ave
+                  Blue Lake, CA 95525
+                                                                                                                                                 Sub Total:      839      411
+
+ 48               Bridgeville Community Center*         (707)777-1775                           Usable        2BV-1 200311                   000001              343     203    2BV-1   2BV-2   2BV-3   2BV-4
+ 2BVF                                                                                                                                                                           2BV-5   2BV-6   2BVF
+
+                  38717 Kneeland Road
+                  Bridgeville, CA 95526
+                                                                                                                                                 Sub Total:      343     203
+
+ 49               Cuddeback School*                     (707)768-3372                           Usable        2CU 200049                     000001              521     291    2CU     2CUS
+ 2CUS
+                  300 Wilder Road
+                  Carlotta, CA 95528
+                                                                                                                                                 Sub Total:      521     291
+
+ 341              Calvary Chapel Eureka*                (707)443-1196                           Usable        4E-12 400169                   000002              826     401    4E-12
+ 4E-13
+                  1300 California St
+                  Eureka, CA 95501-2217
+                                                                                                                                                 Sub Total:      826     401
+
+
+
+
+PODR009 - List of Polling Sites with Voting Precincts                   *NOTE: Absentee counts are included in Registration count as well.                                                          Page 2 of 10
+Printed:   12/6/2016    4:18:25PM
+ ID               Polling Place Name                     Phone                                                                                Ballot    Table    Reg       AV
+                  Sample Ballot Address                  Map Number              User Codes      Accessible    Voting Precinct(s)             Type      ID      Count   Count*   Consolidation
+ Home Pct:
+ All                                                           All Precincts
+ 331              Calvary Lutheran Church*               (707)443-1575                           Usable        4E-52 400185                   000002              584     321    4E-52
+ 4E-53                                                                                                         4E-54 400187                   000002            1,118     602    4E-53   4E-54
+                  716 South Ave, Prospect Ave Entrance
+                  Eureka, CA 95503-5042
+                                                                                                                                                  Sub Total:    1,702     923
+
+ 13               Cutten School*                         (707)441-3900                           Usable        1CS-1 100013                   000001              808     456    1CS-1
+ 1CS-1                                                                                                         1CS-2 100014                   000001              812     434    1CS-2
+                  4182 Walnut Drive
+                  Cutten, CA 95534
+                                                                                                                                                  Sub Total:    1,620     890
+
+ 177              Eureka City Schools Marshall Annex* (707)441-2434                              Usable        4E-25 400177                   000002              855     472    4E-25   4E-47   4E-48
+ 4E-34                                                                                                         4E-34 400181                   000002              798     440    4E-34   4E-35
+                  2100 J Street
+                  Eureka, CA 95501
+                                                                                                                                                  Sub Total:    1,653     912
+
+ 169              Eureka Municipal Auditorium*           (707)441-4241                           Usable        4E-13 400170                   000002              651     358    4E-13
+ 4E-31                                                                                                         4E-31 400178                   000002              634     336    4E-31
+                  1120 F Street                                                                                4E-33 400180                   000002              698     405    4E-33
+                  Eureka, CA 95501
+                                                                                                                                                  Sub Total:    1,983    1,099
+
+ 1                First Covenant Church*                 (707)442-6774                           Usable        1E-36 100001                   000002              948     532    1E-36   1E-41   1E-42
+ 4E-34                                                                                                         1E-43 100004                   000002              842     458    1E-43   1E-44
+                  2500 J Street
+                  Eureka, CA 95501
+                                                                                                                                                  Sub Total:    1,790     990
+
+ 139              Freshwater School*                     (707)442-2969                           Usable        3FW 300139                     000001            1,026     544    3FW     3FWF    3FWF-A
+ 3FWS                                                                                                          3FWS 300142                    000001              964     510    3FWS    3FWW 3GF
+                  75 Greenwood Hts Drive                                                                                                                                         3GF-1   3GFF 3GFF-A
+                  Eureka, CA 95503
+                                                                                                                                                  Sub Total:    1,990    1,054
+
+ 333              Grace Baptist Church Lobby*            (707)444-9677                           Usable        4E-51 400184                   000002              596     308    4E-51   4E-51A 4E-55A
+ 4E-51
+                  220 Buhne Street
+                  Eureka, CA 95501
+                                                                                                                                                  Sub Total:      596     308
+
+ 8                Grace Baptist Church*                  (707)444-9677                           Usable        1E-55 100008                   000002              721     387    1E-55   1E-56   1E-57
+ 4E-51
+                  220 Buhne Street
+                  Eureka, CA 95501
+                                                                                                                                                  Sub Total:      721     387
+
+
+
+
+PODR009 - List of Polling Sites with Voting Precincts                    *NOTE: Absentee counts are included in Registration count as well.                                                              Page 3 of 10
+Printed:   12/6/2016    4:18:25PM
+ ID               Polling Place Name                    Phone                                                                                Ballot    Table    Reg       AV
+                  Sample Ballot Address                 Map Number              User Codes      Accessible    Voting Precinct(s)             Type      ID      Count   Count*   Consolidation
+ Home Pct:
+ All                                                          All Precincts
+ 6                Grant School*                         (707)441-2552                           Usable        1E-45 100006                   000002              855     511    1E-45   1E-46
+ 1ES-1                                                                                                        1ES-1 100017                   000001            1,257     658    1ES-1   1ES-2   1ES-3
+                  3901 G Street
+                  Eureka, CA 95501
+                                                                                                                                                 Sub Total:    2,112    1,169
+
+ 15               Humboldt C S D*                       (707)443-4558                           Usable        1CS-3 100015                   000001              812     441    1CS-3
+ 1CS-3
+                  5055 Walnut Drive
+                  Eureka, CA 95503
+                                                                                                                                                 Sub Total:      812     441
+
+ 173              Humboldt County Office Of Education* (707)445-7000                            Usable        4E-21 400173                   000002              819     421    4E-21   4E-2F   4E-2FW
+ 4E-22                                                                                                        4E-22 400174                   000002              763     432    4E-22
+                  901 Myrtle Avenue                                                                           4E-32 400179                   000002              650     327    4E-32
+                  Eureka, CA 95501
+                                                                                                                                                 Sub Total:    2,232    1,180
+
+ 328              Jefferson School Community Center* (707)444-2988                              Usable        4E-11 400168                   000002              938     466    4E-11
+ 4E-11
+                  1000 B St
+                  Eureka, CA 95501-1611
+                                                                                                                                                 Sub Total:      938     466
+
+ 330              Lincoln School*                       (707)441-2574                           Usable        4E-14 400171                   000002            1,008     551    4E-14   4E-15
+ 4E-15
+                  216 W Harris St
+                  Eureka, CA 95503
+                                                                                                                                                 Sub Total:    1,008     551
+
+ 297              Pine Hill School*                     (707)443-4596                           Usable        1SB-1 100031                   000008            1,421     782    1SB-1   1SB-2   1SB-3
+ 1SB-2
+                  5230 Vance Ave
+                  Eureka, CA 95503
+                                                                                                                                                 Sub Total:    1,421     782
+
+ 16               Ridgewood School*                     (707)441-3930                           Usable        1CS-4 100016                   000001              936     487    1CS-4
+ 1CS-4
+                  2060 Ridgewood Drive
+                  Cutten, CA 95534
+                                                                                                                                                 Sub Total:      936     487
+
+ 188              Sacred Heart Church*               (707)443-8429                              Usable        4ES-4 400189                   000001              787     428    4ES-4   4ES-8
+ 4ES-5            2085 Myrtle Avenue (mailing)                                                                4ES-5 400190                   000001            1,025     534    4ES-3   4ES-5
+                  3100 Edgewood Road (voter Entrance)                                                         4ES-6 400191                   000001              822     493    4ES-6
+                  Eureka, CA 95501-2775
+                                                                                                                                                 Sub Total:    2,634    1,455
+
+
+
+
+PODR009 - List of Polling Sites with Voting Precincts                   *NOTE: Absentee counts are included in Registration count as well.                                                          Page 4 of 10
+Printed:   12/6/2016    4:18:25PM
+ ID               Polling Place Name                    Phone                                                                                Ballot    Table    Reg       AV
+                  Sample Ballot Address                 Map Number              User Codes      Accessible    Voting Precinct(s)             Type      ID      Count   Count*   Consolidation
+ Home Pct:
+ All                                                          All Precincts
+ 34               South Bay School*                     (707)443-4825                           Usable        1SB-4 100034                   000008            1,272     761    1SB-4   1SB-5    1SB-6    1SB-8
+ 1SB-6                                                                                                        1SB10 100042                   000008            1,118     624    1SB-9   1SB10
+                  6077 Loma Avenue
+                  Eureka, CA 95503
+                                                                                                                                                 Sub Total:    2,390    1,385
+
+ 311              Washington School*                    (707)441-2547                           Usable        3ES-6 300136                   000001              568     331    3ES-6 3ES-7 3ES-9         3ES10
+ 1E-44                                                                                                                                                                          3ES11 3ESS6
+
+                  3322 Dolbeer St
+                  Eureka, CA 95503
+                                                                                                                                                 Sub Total:      568     331
+
+ 175              Zane Middle School*                   (707)441-2469                           Usable        4E-23 400175                   000002              623     326    4E-23
+ 4E-25                                                                                                        4E-24 400176                   000002              679     335    4E-24
+                  2155 S Street
+                  Eureka, CA 95501
+                                                                                                                                                 Sub Total:    1,302     661
+
+ 20               Humboldt County Fairgrounds*          (707)786-9511                           Usable        1F--1 100020                   000004            1,018     576    1F--1
+ 1F--1                                                                                                        1FS 100022                     000006              876     437    1FS     1FSF    1FSF-1 1FSL
+                  1250 5th Street
+                  Ferndale, CA 95536
+                                                                                                                                                 Sub Total:    1,894    1,013
+
+ 58               Ambrosini School*                     (707)725-4688                           Usable        2F-R2 200059                   000005              868     536    2F-R2
+ 2F-R2
+                  3850 Rohnerville Road
+                  Fortuna, CA 95540
+                                                                                                                                                 Sub Total:      868     536
+
+ 51               Fortuna City Hall*                    (707)725-1411                           Usable        2F--2 200052                   000005            1,029     637    2F--2   2F--5   2F--6
+ 2F--2                                                                                                        2F--4 200055                   000005            1,088     578    2F--1   2F--4
+                  621 11th Street
+                  Fortuna, CA 95540
+                                                                                                                                                 Sub Total:    2,117    1,215
+
+ 78               Fortuna Volunteer Fire Department*    (707)725-5021                           Usable        2F--3 200053                   000005              760     470    2F--3
+ 2F--4                                                                                                        2F-R1 200058                   000005            1,259     679    2F--3A 2F-R1
+                  320 S Fortuna Blvd                                                                          2RV-1 200078                   000001              288     173    2FS-3   2RV-1
+                  Fortuna, CA 95540
+                                                                                                                                                 Sub Total:    2,307    1,322
+
+ 340              Toddy Thomas School*                                                          Usable        2F-R3 200060                   000005              868     467    2F-R3   2F-R5
+ 2F-R3                                                                                                        2F-R4 200061                   000005              853     487    2F-R4
+                  2800 Thomas St
+                  Fortuna, CA 95540
+                                                                                                                                                 Sub Total:    1,721     954
+
+
+
+
+PODR009 - List of Polling Sites with Voting Precincts                   *NOTE: Absentee counts are included in Registration count as well.                                                              Page 5 of 10
+Printed:   12/6/2016    4:18:25PM
+ ID               Polling Place Name                    Phone                                                                                Ballot    Table    Reg       AV
+                  Sample Ballot Address                 Map Number              User Codes      Accessible    Voting Precinct(s)             Type      ID      Count   Count*   Consolidation
+ Home Pct:
+ All                                                          All Precincts
+ 88               New Wine Fellowship*                  (707)923-2069                           Usable        2SH-4 200088                   000001              729     439    2SH-4
+ 2SHF7                                                                                                        2SHS4 200090                   000001              712     384    2SH-4A 2SH-4B 2SHF4
+                  1180 Evergreen Road                                                                                                                                           2SHS4
+                  Garberville, CA 95542
+                                                                                                                                                 Sub Total:    1,441     823
+
+ 221              Hoopa Neighborhood Facility*          (530)625-4211                           Usable        5KT-4 500221                   000001            1,105     304    5KT-4   5KT-5
+ 5KT-5
+                  11860 Highway 96
+                  Hoopa, CA 95546
+                                                                                                                                                 Sub Total:    1,105     304
+
+ 71               Hydesville Fire Hall*                 (707)768-3855                           Usable        2HV-1 00072                    000001              831     477    2HV-1   2HV-2   2HVF      2HVW
+ 2HVW
+                  3495 Highway 36
+                  Hydesville, CA 95547
+                                                                                                                                                 Sub Total:      831     477
+
+ 26               Loleta Fire Station*                  (707)733-5433                           Usable        1LU 100026                     000001              855     424    1LU    1LU-1    1LUR     1LUS
+ 1LUS-1                                                                                                                                                                         1LUS-1
+
+                  567 Park Ave
+                  Loleta, CA 95551
+                                                                                                                                                 Sub Total:      855     424
+
+ 236              Azalea Hall*                          (707)839-9003                           Usable        5MK-7 500236                   000001              775     412    5MK-7
+ 5MK-7
+                  1620 Pickett Road
+                  Mckinleyville, CA 95519
+                                                                                                                                                 Sub Total:      775     412
+
+ 228              Christ The King Catholic Church*      (707)839-2911                           Usable        5MK-1 500228                   000001            1,107     598    5MK-1
+ 5MK-1                                                                                                        5MK-3 500230                   000001              761     396    5MK-3
+                  1951 Mckinleyville Ave
+                  Mckinleyville, CA 95519
+                                                                                                                                                 Sub Total:    1,868     994
+
+ 239              Dows Prairie School*                  (707)839-1558                           Usable        5MK-8 500237                   000001              916     440    5MK-8 5MK-9 5MK-9A
+ 5MK-8                                                                                                                                                                          5MK-9B 5MKS8 5MKS8-1
+                                                                                                                                                                                5MKS9
+                  3940 Dows Prairie Road
+                  Mckinleyville, CA 95519-8008
+                                                                                                                                                 Sub Total:      916     440
+
+ 214              Fieldbrook School*                    (707)839-3201                           Usable        5FB 500214                     000001              696     307    5FB     5FBS
+ 5FBS
+                  4070 Fieldbrook Road
+                  Mckinleyville, CA 95519
+                                                                                                                                                 Sub Total:      696     307
+
+
+
+
+PODR009 - List of Polling Sites with Voting Precincts                   *NOTE: Absentee counts are included in Registration count as well.                                                             Page 6 of 10
+Printed:   12/6/2016    4:18:25PM
+ ID               Polling Place Name                    Phone                                                                                Ballot    Table    Reg       AV
+                  Sample Ballot Address                 Map Number              User Codes      Accessible    Voting Precinct(s)             Type      ID      Count   Count*   Consolidation
+ Home Pct:
+ All                                                          All Precincts
+ 259              Morris School*                        (707)839-1529x7009                      Usable        5MK-5 500233                   000001              923     535    5MK-5
+ 5MK-6                                                                                                        5MK-5A 500262                  000001              902     465    5MK-5A
+                  2395 Mckinleyville Avenue                                                                   5MK-6 500234                   000001            1,017     542    5MK-6
+                  Mckinleyville, CA 95519                                                                     5MK-6A 500235                  000001              718     360    5MK-6A
+                                                                                                                                                 Sub Total:    3,560    1,902
+
+ 326              Seventh Day Advent Church*            (707)839-5580                           Usable        5MK-2 500229                   000001              899     523    5MK-2
+ 5MK-2                                                                                                        5MK-4 500231                   000001            1,190     608    5MK-4    5MK-4B
+                  1200 Central Ave                                                                            5MK-4A 500232                  000001              773     405    5MK-4A
+                  Mckinleyville, CA 95519-4302
+                                                                                                                                                 Sub Total:    2,862    1,536
+
+ 91               South Fork High School*               (707)943-3144x3100                      Usable        2SH-5 200091                   000001            1,038     587    2SH-5 2SH-5A 2SH-6
+ 2SHS5                                                                                                                                                                          2SH-6N 2SHF6 2SHS5
+
+                  6831 Avenue Of The Giants
+                  Miranda, CA 95553
+                                                                                                                                                 Sub Total:    1,038     587
+
+ 96               Healy Senior Center*                  (707)923-2399                           Usable        2SHS7 200099                   000001            1,107     543    2SHF7    2SHF9    2SHS7
+ 2SHS7
+                  456 Briceland Road
+                  Redway, CA 95560
+                                                                                                                                                 Sub Total:    1,107     543
+
+ 74               Monument Middle School*               (707)764-5694                           Usable        2R--1 200074                   000010              831     420    2R--1
+ 2R--2                                                                                                        2R--2 200075                   000010              985     490    2R--2
+                  95 Center Street
+                  Rio Dell, CA 95562
+                                                                                                                                                 Sub Total:    1,816     910
+
+ 76               Scotia Fire Hall*                     (707)764-4322                           Usable        1SU 100103                     000001              572     292    1RD      1RDF    1SCD     1SU
+ 1SCD
+                  145 Main Street
+                  Scotia, CA 95565
+                                                                                                                                                 Sub Total:      572     292
+
+ 212              Trinidad City Hall*                   (707)677-0223                           Usable        5T--1 500246                   000018              258     156    5T--1
+ 5T--1                                                                                                        5TU-1 500247                   000001              866     480    5BU   5BUS       5BUS-1 5TU-1
+                  409 Trinity Street                                                                                                                                            5TU-2
+                  Trinidad, CA 95570
+                                                                                                                                                 Sub Total:    1,124     636
+
+ 249              Westhaven Fire Hall*                                                          Usable        5TU-4 500250                   000001              732     312    5TU-3    5TU-4
+ 5TU-4
+                  446 6th Avenue
+                  Trinidad, CA 95570
+                                                                                                                                                 Sub Total:      732     312
+
+
+
+
+PODR009 - List of Polling Sites with Voting Precincts                   *NOTE: Absentee counts are included in Registration count as well.                                                           Page 7 of 10
+Printed:   12/6/2016    4:18:25PM
+ ID               Polling Place Name                    Phone                                                                             Ballot    Table    Reg       AV
+                  Sample Ballot Address                 Map Number           User Codes      Accessible    Voting Precinct(s)             Type      ID      Count   Count*   Consolidation
+ Home Pct:
+ All                                                      All Precincts
+ 310              Willow Creek Community Resource Center*
+                                                    (530)629-3141                            Yes           5KT-6 500223                   000001              995     558    5KT-6   5KTF6   5KTS6
+ 5KTF6
+                  38883 Hwy 299
+                  Willow Creek, CA 95573
+                                                                                                                                              Sub Total:      995     558
+
+
+
+
+PODR009 - List of Polling Sites with Voting Precincts                *NOTE: Absentee counts are included in Registration count as well.                                                         Page 8 of 10
+Printed:   12/6/2016    4:18:25PM
+ ID               Polling Place Name                    Phone                                                                               Ballot       Table    Reg        AV
+                  Sample Ballot Address                 Map Number           User Codes      Accessible    Voting Precinct(s)               Type         ID      Count    Count*   Consolidation
+ Home Pct:
+ Total Selected Poll Sites: 57                                                                                                            Grand Total:           77,927   41,548
+ Total Selected Voting Precincts: 91
+ Total Unassigned Voting Precincts: 0
+
+
+
+
+PODR009 - List of Polling Sites with Voting Precincts                *NOTE: Absentee counts are included in Registration count as well.                                                            Page 9 of 10
+Printed:   12/6/2016    4:18:25PM
+ ID                Polling Place Name                   Phone                                                                                 Ballot   Table    Reg       AV
+                   Sample Ballot Address                Map Number           User Codes      Accessible    Voting Precinct(s)                 Type     ID      Count   Count*   Consolidation
+ Home Pct:
+ Mail Ballot Precincts:
+
+      1E-59             100012                            BT: 0000     3E-2J               300135                                  BT: 0000
+                                                              03                                                                       16
+      1F--7             100319                            BT: 0000     3KL                 300158                                  BT: 0000
+                                                              05                                                                       01
+      1FS-1             100064                            BT: 0000     3KL-1               300158                                  BT: 0000
+                                                              01                                                                       01
+      1FS-4             100067                            BT: 0000     3PESF               300252                                  BT: 0000
+                                                              01                                                                       01
+      1FS-9             100299                            BT: 0000     4E-2J               400183                                  BT: 0000
+                                                              01                                                                       16
+      1MU               100029                            BT: 0000     4PEF                400195                                  BT: 0000
+                                                              07                                                                       01
+      1MUF              100030                            BT: 0000     5AS-4               500199                                  BT: 0000
+                                                              07                                                                       14
+      1RV-2             100079                            BT: 0000     5GP                 500216                                  BT: 0000
+                                                              01                                                                       01
+      1SB12             100044                            BT: 0000     5KT-1               500217                                  BT: 0000
+                                                              08                                                                       01
+      2MR               200073                            BT: 0000     5KT-3               500219                                  BT: 0000
+                                                              09                                                                       01
+      2SH-1             200081                            BT: 0000     5KTS3               500220                                  BT: 0000
+                                                              01                                                                       01
+      2SH-2             200085                            BT: 0000     5MC                 500226                                  BT: 0000
+                                                              01                                                                       01
+      2SH-3             200087                            BT: 0000     5OR                 500241                                  BT: 0000
+                                                              01                                                                       01
+      2SH-7             200304                            BT: 0000     5PA-3               500243                                  BT: 0000
+                                                              01                                                                       01
+      2SH-8             200100                            BT: 0000
+                                                              01
+      2SHF1             200082                            BT: 0000
+                                                              01
+      2SHR1             200083                            BT: 0000
+                                                              01
+      2SHR2             200281                            BT: 0000
+                                                              01
+      2SHVF             200086                            BT: 0000
+                                                              01
+      3AS-1             300130                            BT: 0000
+                                                              14
+      3AS-9             300298                            BT: 0000
+                                                              14
+      3BLF              300306                            BT: 0000
+                                                              01
+
+PODR009 - List of Polling Sites with Voting Precincts                *NOTE: Absentee counts are included in Registration count as well.                                                         Page 10 of 10
+Printed:    12/6/2016   4:18:25PM
+
