@@ -21,7 +21,8 @@ for r in range(len(races)):
 		has_headers = True
 		header_row = ['pct16']
 		for c in range(len(headers[r]['CH'])):
-			header_row.append(headers[r]['CH'][c])
+			raceheaders = re.sub(r'[^\x00-\x7F]+','X', headers[r]['CH'][c])
+			header_row.append(raceheaders)
 		output = open('results/%s.csv' % re.sub(r'\W','',race_name),'w')
 		csvwriter = csv.writer(output)
 		csvwriter.writerow(header_row)
