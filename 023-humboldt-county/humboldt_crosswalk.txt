@@ -1,492 +1,367 @@
-                                                                              List of Polling Sites with Voting Precincts
-                                                                                  2016 GENERAL ELECTION - November 08, 2016
-                                                                                           Sorted by City / Poll Place
- ID               Polling Place Name                    Phone                                                                                Ballot    Table    Reg       AV
-                  Sample Ballot Address                 Map Number              User Codes      Accessible    Voting Precinct(s)             Type      ID      Count   Count*   Consolidation
- Home Pct:
- All                                                          All Precincts
- 104              Arcata City Hall*                     (707)825-2103                           Usable        3A--1 300104                   000011              570     271    3A--1
- 3A--4                                                                                                        3A--4 300107                   000011              829     433    3A--4
-                  736 F Street
-                  Arcata, CA 95521-6211
-                                                                                                                                                 Sub Total:    1,399     704
-
- 106              Arcata Lutheran Church*               (707)822-5117                           Usable        3A--3 300106                   000011              941     550    3A--3   3A--3A
- 3A--3A
-                  151 E 16th Street
-                  Arcata, CA 95521
-                                                                                                                                                 Sub Total:      941     550
-
- 110              Arcata Methodist Church*              (707)822-1963                           Usable        3A--7 300110                   000011              727     359    3A--7   3A--8
- 3A--9                                                                                                        3A--9 300112                   000011            1,053     489    3A--9
-                  1761 11th Street
-                  Arcata, CA 95521
-                                                                                                                                                 Sub Total:    1,780     848
-
- 108              Arcata Veterans Memorial Building*    (707)822-1552                           Usable        3A-11 300114                   000011            1,113     572    3A--6   3A-11
- 3A--7                                                                                                        3A-13 300116                   000011            1,203     678    3A--5   3A-13
-                  1425 J Street
-                  Arcata, CA 95521
-                                                                                                                                                 Sub Total:    2,316    1,250
-
- 115              H S U Jolly Giant Commons*            (707)826-5528                           Yes           3A-12 300115                   000011              583     338    3A--5A 3A-12
- 3A-12
-                  355 Granite Avenue
-                  Arcata, CA 95521
-                                                                                                                                                 Sub Total:      583     338
-
- 339              Mad River Rapids Rv Park*             (707)822-7275                           Usable        3A-P4 300125                   000013            1,229     688    3A-P1   3A-P2A 3A-P4
- 3A-P6                                                                                                                                                                          3A-P5   3A-P6 3A-P7
-                                                                                                              3PA-1 300162                   000001              887     473    3PA-1 3PA-2 3PA-3
-                  3501 Janes Rd
-                                                                                                                                                                                3PA-3A 3PA-3B 3PA-4
-                  Arcata, CA 95521-4529                                                                                                                                         3PA-5 3PA-6 3PAE
-                                                                                                                                                 Sub Total:    2,116    1,161
-
- 160              Manila Community Center*              (707)444-3803                           Usable        3MA-1 300159                   000014              571     270    3MA-1    3MA-2   3MA-3
- 3MA-2
-                  1611 Peninsula Drive
-                  Arcata, CA 95521
-                                                                                                                                                 Sub Total:      571     270
-
- 122              Pacific Union School*                 (707)822-4619                           Usable        3A-P2 300122                   000013            1,178     593    3A-P2   3A-P3    3A-P8
- 3A-P2
-                  3001 Janes Road
-                  Arcata, CA 95521
-
-
-PODR009 - List of Polling Sites with Voting Precincts                   *NOTE: Absentee counts are included in Registration count as well.                                                           Page 1 of 10
-Printed:   12/6/2016    4:18:23PM
- ID               Polling Place Name                    Phone                                                                                Ballot    Table    Reg       AV
-                  Sample Ballot Address                 Map Number              User Codes      Accessible    Voting Precinct(s)             Type      ID      Count   Count*   Consolidation
- Home Pct:
- All                                                         All Precincts
-                                                                                                                                                 Sub Total:    1,178     593
-
- 105              Sunny Brae Middle School*             (707)822-5988                           Usable        3A--2 300105                   000011              834     414    3A--2
- 3A-J2                                                                                                        3A-J1 300118                   000012              743     405    3A-J1 3A-J2     3A-JW
-                  1430 Buttermilk Lane                                                                                                                                          3A-JWA
-                  Arcata, CA 95521
-                                                                                                                                                 Sub Total:    1,577     819
-
- 113              Trinity Baptist Church*               (707)822-7668                           Usable        3A-10 300113                   000011            1,098     546    3A-10   3A-14
- 3A-14
-                  2450 Alliance Road
-                  Arcata, CA 95521
-                                                                                                                                                 Sub Total:    1,098     546
-
- 148              Jacoby Creek School*                  (707)822-4896                           Usable        3JCFR 300149                   000017              605     327    3JC   3JC-R 3JCFR       3JCM
- 3A-JW                                                                                                                                                                          3JCM-1 3JCW
-                                                                                                              3JCWR 300155                   000017              790     445    3JCF 3JCFRA 3JCFRB
-                  1617 Old Arcata Road
-                                                                                                                                                                                3JCFRC 3JCWF 3JCWR
-                  Bayside, CA 95524                                                                                                                                             3JCWRA
-                                                                                                                                                 Sub Total:    1,395     772
-
- 323              Blue Lake Elementary School*          (707)668-5674                           Usable        5BL 500207                     000001              836     423    5BL   5BL-1 5BLF 5BLF-1
- 3B--1                                                                                                                                                                          5BLF-2 5BLF-3 5BLFS
-                                                                                                                                                                                5BLFS-1 5BLS 5BM
-                  631 Greenwood Ave
-                  Blue Lake, CA 95525
-                                                                                                                                                 Sub Total:      836     423
-
- 324              Skinner Store*                        (707)668-5655                           Usable        3B--1 300206                   000015              839     411    3B--1
- 3B--1
-                  111 Greenwood Ave
-                  Blue Lake, CA 95525
-                                                                                                                                                 Sub Total:      839      411
-
- 48               Bridgeville Community Center*         (707)777-1775                           Usable        2BV-1 200311                   000001              343     203    2BV-1   2BV-2   2BV-3   2BV-4
- 2BVF                                                                                                                                                                           2BV-5   2BV-6   2BVF
-
-                  38717 Kneeland Road
-                  Bridgeville, CA 95526
-                                                                                                                                                 Sub Total:      343     203
-
- 49               Cuddeback School*                     (707)768-3372                           Usable        2CU 200049                     000001              521     291    2CU     2CUS
- 2CUS
-                  300 Wilder Road
-                  Carlotta, CA 95528
-                                                                                                                                                 Sub Total:      521     291
-
- 341              Calvary Chapel Eureka*                (707)443-1196                           Usable        4E-12 400169                   000002              826     401    4E-12
- 4E-13
-                  1300 California St
-                  Eureka, CA 95501-2217
-                                                                                                                                                 Sub Total:      826     401
-
-
-
-
-PODR009 - List of Polling Sites with Voting Precincts                   *NOTE: Absentee counts are included in Registration count as well.                                                          Page 2 of 10
-Printed:   12/6/2016    4:18:25PM
- ID               Polling Place Name                     Phone                                                                                Ballot    Table    Reg       AV
-                  Sample Ballot Address                  Map Number              User Codes      Accessible    Voting Precinct(s)             Type      ID      Count   Count*   Consolidation
- Home Pct:
- All                                                           All Precincts
- 331              Calvary Lutheran Church*               (707)443-1575                           Usable        4E-52 400185                   000002              584     321    4E-52
- 4E-53                                                                                                         4E-54 400187                   000002            1,118     602    4E-53   4E-54
-                  716 South Ave, Prospect Ave Entrance
-                  Eureka, CA 95503-5042
-                                                                                                                                                  Sub Total:    1,702     923
-
- 13               Cutten School*                         (707)441-3900                           Usable        1CS-1 100013                   000001              808     456    1CS-1
- 1CS-1                                                                                                         1CS-2 100014                   000001              812     434    1CS-2
-                  4182 Walnut Drive
-                  Cutten, CA 95534
-                                                                                                                                                  Sub Total:    1,620     890
-
- 177              Eureka City Schools Marshall Annex* (707)441-2434                              Usable        4E-25 400177                   000002              855     472    4E-25   4E-47   4E-48
- 4E-34                                                                                                         4E-34 400181                   000002              798     440    4E-34   4E-35
-                  2100 J Street
-                  Eureka, CA 95501
-                                                                                                                                                  Sub Total:    1,653     912
-
- 169              Eureka Municipal Auditorium*           (707)441-4241                           Usable        4E-13 400170                   000002              651     358    4E-13
- 4E-31                                                                                                         4E-31 400178                   000002              634     336    4E-31
-                  1120 F Street                                                                                4E-33 400180                   000002              698     405    4E-33
-                  Eureka, CA 95501
-                                                                                                                                                  Sub Total:    1,983    1,099
-
- 1                First Covenant Church*                 (707)442-6774                           Usable        1E-36 100001                   000002              948     532    1E-36   1E-41   1E-42
- 4E-34                                                                                                         1E-43 100004                   000002              842     458    1E-43   1E-44
-                  2500 J Street
-                  Eureka, CA 95501
-                                                                                                                                                  Sub Total:    1,790     990
-
- 139              Freshwater School*                     (707)442-2969                           Usable        3FW 300139                     000001            1,026     544    3FW     3FWF    3FWF-A
- 3FWS                                                                                                          3FWS 300142                    000001              964     510    3FWS    3FWW 3GF
-                  75 Greenwood Hts Drive                                                                                                                                         3GF-1   3GFF 3GFF-A
-                  Eureka, CA 95503
-                                                                                                                                                  Sub Total:    1,990    1,054
-
- 333              Grace Baptist Church Lobby*            (707)444-9677                           Usable        4E-51 400184                   000002              596     308    4E-51   4E-51A 4E-55A
- 4E-51
-                  220 Buhne Street
-                  Eureka, CA 95501
-                                                                                                                                                  Sub Total:      596     308
-
- 8                Grace Baptist Church*                  (707)444-9677                           Usable        1E-55 100008                   000002              721     387    1E-55   1E-56   1E-57
- 4E-51
-                  220 Buhne Street
-                  Eureka, CA 95501
-                                                                                                                                                  Sub Total:      721     387
-
-
-
-
-PODR009 - List of Polling Sites with Voting Precincts                    *NOTE: Absentee counts are included in Registration count as well.                                                              Page 3 of 10
-Printed:   12/6/2016    4:18:25PM
- ID               Polling Place Name                    Phone                                                                                Ballot    Table    Reg       AV
-                  Sample Ballot Address                 Map Number              User Codes      Accessible    Voting Precinct(s)             Type      ID      Count   Count*   Consolidation
- Home Pct:
- All                                                          All Precincts
- 6                Grant School*                         (707)441-2552                           Usable        1E-45 100006                   000002              855     511    1E-45   1E-46
- 1ES-1                                                                                                        1ES-1 100017                   000001            1,257     658    1ES-1   1ES-2   1ES-3
-                  3901 G Street
-                  Eureka, CA 95501
-                                                                                                                                                 Sub Total:    2,112    1,169
-
- 15               Humboldt C S D*                       (707)443-4558                           Usable        1CS-3 100015                   000001              812     441    1CS-3
- 1CS-3
-                  5055 Walnut Drive
-                  Eureka, CA 95503
-                                                                                                                                                 Sub Total:      812     441
-
- 173              Humboldt County Office Of Education* (707)445-7000                            Usable        4E-21 400173                   000002              819     421    4E-21   4E-2F   4E-2FW
- 4E-22                                                                                                        4E-22 400174                   000002              763     432    4E-22
-                  901 Myrtle Avenue                                                                           4E-32 400179                   000002              650     327    4E-32
-                  Eureka, CA 95501
-                                                                                                                                                 Sub Total:    2,232    1,180
-
- 328              Jefferson School Community Center* (707)444-2988                              Usable        4E-11 400168                   000002              938     466    4E-11
- 4E-11
-                  1000 B St
-                  Eureka, CA 95501-1611
-                                                                                                                                                 Sub Total:      938     466
-
- 330              Lincoln School*                       (707)441-2574                           Usable        4E-14 400171                   000002            1,008     551    4E-14   4E-15
- 4E-15
-                  216 W Harris St
-                  Eureka, CA 95503
-                                                                                                                                                 Sub Total:    1,008     551
-
- 297              Pine Hill School*                     (707)443-4596                           Usable        1SB-1 100031                   000008            1,421     782    1SB-1   1SB-2   1SB-3
- 1SB-2
-                  5230 Vance Ave
-                  Eureka, CA 95503
-                                                                                                                                                 Sub Total:    1,421     782
-
- 16               Ridgewood School*                     (707)441-3930                           Usable        1CS-4 100016                   000001              936     487    1CS-4
- 1CS-4
-                  2060 Ridgewood Drive
-                  Cutten, CA 95534
-                                                                                                                                                 Sub Total:      936     487
-
- 188              Sacred Heart Church*               (707)443-8429                              Usable        4ES-4 400189                   000001              787     428    4ES-4   4ES-8
- 4ES-5            2085 Myrtle Avenue (mailing)                                                                4ES-5 400190                   000001            1,025     534    4ES-3   4ES-5
-                  3100 Edgewood Road (voter Entrance)                                                         4ES-6 400191                   000001              822     493    4ES-6
-                  Eureka, CA 95501-2775
-                                                                                                                                                 Sub Total:    2,634    1,455
-
-
-
-
-PODR009 - List of Polling Sites with Voting Precincts                   *NOTE: Absentee counts are included in Registration count as well.                                                          Page 4 of 10
-Printed:   12/6/2016    4:18:25PM
- ID               Polling Place Name                    Phone                                                                                Ballot    Table    Reg       AV
-                  Sample Ballot Address                 Map Number              User Codes      Accessible    Voting Precinct(s)             Type      ID      Count   Count*   Consolidation
- Home Pct:
- All                                                          All Precincts
- 34               South Bay School*                     (707)443-4825                           Usable        1SB-4 100034                   000008            1,272     761    1SB-4   1SB-5    1SB-6    1SB-8
- 1SB-6                                                                                                        1SB10 100042                   000008            1,118     624    1SB-9   1SB10
-                  6077 Loma Avenue
-                  Eureka, CA 95503
-                                                                                                                                                 Sub Total:    2,390    1,385
-
- 311              Washington School*                    (707)441-2547                           Usable        3ES-6 300136                   000001              568     331    3ES-6 3ES-7 3ES-9         3ES10
- 1E-44                                                                                                                                                                          3ES11 3ESS6
-
-                  3322 Dolbeer St
-                  Eureka, CA 95503
-                                                                                                                                                 Sub Total:      568     331
-
- 175              Zane Middle School*                   (707)441-2469                           Usable        4E-23 400175                   000002              623     326    4E-23
- 4E-25                                                                                                        4E-24 400176                   000002              679     335    4E-24
-                  2155 S Street
-                  Eureka, CA 95501
-                                                                                                                                                 Sub Total:    1,302     661
-
- 20               Humboldt County Fairgrounds*          (707)786-9511                           Usable        1F--1 100020                   000004            1,018     576    1F--1
- 1F--1                                                                                                        1FS 100022                     000006              876     437    1FS     1FSF    1FSF-1 1FSL
-                  1250 5th Street
-                  Ferndale, CA 95536
-                                                                                                                                                 Sub Total:    1,894    1,013
-
- 58               Ambrosini School*                     (707)725-4688                           Usable        2F-R2 200059                   000005              868     536    2F-R2
- 2F-R2
-                  3850 Rohnerville Road
-                  Fortuna, CA 95540
-                                                                                                                                                 Sub Total:      868     536
-
- 51               Fortuna City Hall*                    (707)725-1411                           Usable        2F--2 200052                   000005            1,029     637    2F--2   2F--5   2F--6
- 2F--2                                                                                                        2F--4 200055                   000005            1,088     578    2F--1   2F--4
-                  621 11th Street
-                  Fortuna, CA 95540
-                                                                                                                                                 Sub Total:    2,117    1,215
-
- 78               Fortuna Volunteer Fire Department*    (707)725-5021                           Usable        2F--3 200053                   000005              760     470    2F--3
- 2F--4                                                                                                        2F-R1 200058                   000005            1,259     679    2F--3A 2F-R1
-                  320 S Fortuna Blvd                                                                          2RV-1 200078                   000001              288     173    2FS-3   2RV-1
-                  Fortuna, CA 95540
-                                                                                                                                                 Sub Total:    2,307    1,322
-
- 340              Toddy Thomas School*                                                          Usable        2F-R3 200060                   000005              868     467    2F-R3   2F-R5
- 2F-R3                                                                                                        2F-R4 200061                   000005              853     487    2F-R4
-                  2800 Thomas St
-                  Fortuna, CA 95540
-                                                                                                                                                 Sub Total:    1,721     954
-
-
-
-
-PODR009 - List of Polling Sites with Voting Precincts                   *NOTE: Absentee counts are included in Registration count as well.                                                              Page 5 of 10
-Printed:   12/6/2016    4:18:25PM
- ID               Polling Place Name                    Phone                                                                                Ballot    Table    Reg       AV
-                  Sample Ballot Address                 Map Number              User Codes      Accessible    Voting Precinct(s)             Type      ID      Count   Count*   Consolidation
- Home Pct:
- All                                                          All Precincts
- 88               New Wine Fellowship*                  (707)923-2069                           Usable        2SH-4 200088                   000001              729     439    2SH-4
- 2SHF7                                                                                                        2SHS4 200090                   000001              712     384    2SH-4A 2SH-4B 2SHF4
-                  1180 Evergreen Road                                                                                                                                           2SHS4
-                  Garberville, CA 95542
-                                                                                                                                                 Sub Total:    1,441     823
-
- 221              Hoopa Neighborhood Facility*          (530)625-4211                           Usable        5KT-4 500221                   000001            1,105     304    5KT-4   5KT-5
- 5KT-5
-                  11860 Highway 96
-                  Hoopa, CA 95546
-                                                                                                                                                 Sub Total:    1,105     304
-
- 71               Hydesville Fire Hall*                 (707)768-3855                           Usable        2HV-1 00072                    000001              831     477    2HV-1   2HV-2   2HVF      2HVW
- 2HVW
-                  3495 Highway 36
-                  Hydesville, CA 95547
-                                                                                                                                                 Sub Total:      831     477
-
- 26               Loleta Fire Station*                  (707)733-5433                           Usable        1LU 100026                     000001              855     424    1LU    1LU-1    1LUR     1LUS
- 1LUS-1                                                                                                                                                                         1LUS-1
-
-                  567 Park Ave
-                  Loleta, CA 95551
-                                                                                                                                                 Sub Total:      855     424
-
- 236              Azalea Hall*                          (707)839-9003                           Usable        5MK-7 500236                   000001              775     412    5MK-7
- 5MK-7
-                  1620 Pickett Road
-                  Mckinleyville, CA 95519
-                                                                                                                                                 Sub Total:      775     412
-
- 228              Christ The King Catholic Church*      (707)839-2911                           Usable        5MK-1 500228                   000001            1,107     598    5MK-1
- 5MK-1                                                                                                        5MK-3 500230                   000001              761     396    5MK-3
-                  1951 Mckinleyville Ave
-                  Mckinleyville, CA 95519
-                                                                                                                                                 Sub Total:    1,868     994
-
- 239              Dows Prairie School*                  (707)839-1558                           Usable        5MK-8 500237                   000001              916     440    5MK-8 5MK-9 5MK-9A
- 5MK-8                                                                                                                                                                          5MK-9B 5MKS8 5MKS8-1
-                                                                                                                                                                                5MKS9
-                  3940 Dows Prairie Road
-                  Mckinleyville, CA 95519-8008
-                                                                                                                                                 Sub Total:      916     440
-
- 214              Fieldbrook School*                    (707)839-3201                           Usable        5FB 500214                     000001              696     307    5FB     5FBS
- 5FBS
-                  4070 Fieldbrook Road
-                  Mckinleyville, CA 95519
-                                                                                                                                                 Sub Total:      696     307
-
-
-
-
-PODR009 - List of Polling Sites with Voting Precincts                   *NOTE: Absentee counts are included in Registration count as well.                                                             Page 6 of 10
-Printed:   12/6/2016    4:18:25PM
- ID               Polling Place Name                    Phone                                                                                Ballot    Table    Reg       AV
-                  Sample Ballot Address                 Map Number              User Codes      Accessible    Voting Precinct(s)             Type      ID      Count   Count*   Consolidation
- Home Pct:
- All                                                          All Precincts
- 259              Morris School*                        (707)839-1529x7009                      Usable        5MK-5 500233                   000001              923     535    5MK-5
- 5MK-6                                                                                                        5MK-5A 500262                  000001              902     465    5MK-5A
-                  2395 Mckinleyville Avenue                                                                   5MK-6 500234                   000001            1,017     542    5MK-6
-                  Mckinleyville, CA 95519                                                                     5MK-6A 500235                  000001              718     360    5MK-6A
-                                                                                                                                                 Sub Total:    3,560    1,902
-
- 326              Seventh Day Advent Church*            (707)839-5580                           Usable        5MK-2 500229                   000001              899     523    5MK-2
- 5MK-2                                                                                                        5MK-4 500231                   000001            1,190     608    5MK-4    5MK-4B
-                  1200 Central Ave                                                                            5MK-4A 500232                  000001              773     405    5MK-4A
-                  Mckinleyville, CA 95519-4302
-                                                                                                                                                 Sub Total:    2,862    1,536
-
- 91               South Fork High School*               (707)943-3144x3100                      Usable        2SH-5 200091                   000001            1,038     587    2SH-5 2SH-5A 2SH-6
- 2SHS5                                                                                                                                                                          2SH-6N 2SHF6 2SHS5
-
-                  6831 Avenue Of The Giants
-                  Miranda, CA 95553
-                                                                                                                                                 Sub Total:    1,038     587
-
- 96               Healy Senior Center*                  (707)923-2399                           Usable        2SHS7 200099                   000001            1,107     543    2SHF7    2SHF9    2SHS7
- 2SHS7
-                  456 Briceland Road
-                  Redway, CA 95560
-                                                                                                                                                 Sub Total:    1,107     543
-
- 74               Monument Middle School*               (707)764-5694                           Usable        2R--1 200074                   000010              831     420    2R--1
- 2R--2                                                                                                        2R--2 200075                   000010              985     490    2R--2
-                  95 Center Street
-                  Rio Dell, CA 95562
-                                                                                                                                                 Sub Total:    1,816     910
-
- 76               Scotia Fire Hall*                     (707)764-4322                           Usable        1SU 100103                     000001              572     292    1RD      1RDF    1SCD     1SU
- 1SCD
-                  145 Main Street
-                  Scotia, CA 95565
-                                                                                                                                                 Sub Total:      572     292
-
- 212              Trinidad City Hall*                   (707)677-0223                           Usable        5T--1 500246                   000018              258     156    5T--1
- 5T--1                                                                                                        5TU-1 500247                   000001              866     480    5BU   5BUS       5BUS-1 5TU-1
-                  409 Trinity Street                                                                                                                                            5TU-2
-                  Trinidad, CA 95570
-                                                                                                                                                 Sub Total:    1,124     636
-
- 249              Westhaven Fire Hall*                                                          Usable        5TU-4 500250                   000001              732     312    5TU-3    5TU-4
- 5TU-4
-                  446 6th Avenue
-                  Trinidad, CA 95570
-                                                                                                                                                 Sub Total:      732     312
-
-
-
-
-PODR009 - List of Polling Sites with Voting Precincts                   *NOTE: Absentee counts are included in Registration count as well.                                                           Page 7 of 10
-Printed:   12/6/2016    4:18:25PM
- ID               Polling Place Name                    Phone                                                                             Ballot    Table    Reg       AV
-                  Sample Ballot Address                 Map Number           User Codes      Accessible    Voting Precinct(s)             Type      ID      Count   Count*   Consolidation
- Home Pct:
- All                                                      All Precincts
- 310              Willow Creek Community Resource Center*
-                                                    (530)629-3141                            Yes           5KT-6 500223                   000001              995     558    5KT-6   5KTF6   5KTS6
- 5KTF6
-                  38883 Hwy 299
-                  Willow Creek, CA 95573
-                                                                                                                                              Sub Total:      995     558
-
-
-
-
-PODR009 - List of Polling Sites with Voting Precincts                *NOTE: Absentee counts are included in Registration count as well.                                                         Page 8 of 10
-Printed:   12/6/2016    4:18:25PM
- ID               Polling Place Name                    Phone                                                                               Ballot       Table    Reg        AV
-                  Sample Ballot Address                 Map Number           User Codes      Accessible    Voting Precinct(s)               Type         ID      Count    Count*   Consolidation
- Home Pct:
- Total Selected Poll Sites: 57                                                                                                            Grand Total:           77,927   41,548
- Total Selected Voting Precincts: 91
- Total Unassigned Voting Precincts: 0
-
-
-
-
-PODR009 - List of Polling Sites with Voting Precincts                *NOTE: Absentee counts are included in Registration count as well.                                                            Page 9 of 10
-Printed:   12/6/2016    4:18:25PM
- ID                Polling Place Name                   Phone                                                                                 Ballot   Table    Reg       AV
-                   Sample Ballot Address                Map Number           User Codes      Accessible    Voting Precinct(s)                 Type     ID      Count   Count*   Consolidation
- Home Pct:
- Mail Ballot Precincts:
-
-      1E-59             100012                            BT: 0000     3E-2J               300135                                  BT: 0000
-                                                              03                                                                       16
-      1F--7             100319                            BT: 0000     3KL                 300158                                  BT: 0000
-                                                              05                                                                       01
-      1FS-1             100064                            BT: 0000     3KL-1               300158                                  BT: 0000
-                                                              01                                                                       01
-      1FS-4             100067                            BT: 0000     3PESF               300252                                  BT: 0000
-                                                              01                                                                       01
-      1FS-9             100299                            BT: 0000     4E-2J               400183                                  BT: 0000
-                                                              01                                                                       16
-      1MU               100029                            BT: 0000     4PEF                400195                                  BT: 0000
-                                                              07                                                                       01
-      1MUF              100030                            BT: 0000     5AS-4               500199                                  BT: 0000
-                                                              07                                                                       14
-      1RV-2             100079                            BT: 0000     5GP                 500216                                  BT: 0000
-                                                              01                                                                       01
-      1SB12             100044                            BT: 0000     5KT-1               500217                                  BT: 0000
-                                                              08                                                                       01
-      2MR               200073                            BT: 0000     5KT-3               500219                                  BT: 0000
-                                                              09                                                                       01
-      2SH-1             200081                            BT: 0000     5KTS3               500220                                  BT: 0000
-                                                              01                                                                       01
-      2SH-2             200085                            BT: 0000     5MC                 500226                                  BT: 0000
-                                                              01                                                                       01
-      2SH-3             200087                            BT: 0000     5OR                 500241                                  BT: 0000
-                                                              01                                                                       01
-      2SH-7             200304                            BT: 0000     5PA-3               500243                                  BT: 0000
-                                                              01                                                                       01
-      2SH-8             200100                            BT: 0000
-                                                              01
-      2SHF1             200082                            BT: 0000
-                                                              01
-      2SHR1             200083                            BT: 0000
-                                                              01
-      2SHR2             200281                            BT: 0000
-                                                              01
-      2SHVF             200086                            BT: 0000
-                                                              01
-      3AS-1             300130                            BT: 0000
-                                                              14
-      3AS-9             300298                            BT: 0000
-                                                              14
-      3BLF              300306                            BT: 0000
-                                                              01
-
-PODR009 - List of Polling Sites with Voting Precincts                *NOTE: Absentee counts are included in Registration count as well.                                                         Page 10 of 10
-Printed:    12/6/2016   4:18:25PM
+                                                        Voting/Absentee/Regular Pct Xref (Summary - Voting Pct Order)
+                                                                             2016 GENERAL ELECTION - 11/8/2016
+Voting Precinct                          MB? Abs Pct         Regular Pct              Ballot Type     Voting Precinct   MB?   Abs Pct   Regular Pct      Ballot Type
+
+ 1CS-1 - 100013                                1CS-1A        1CS-1 100013                      1    1FS-9 - 100299      Yes   1FS-9A    1FS-9 100299              1
+
+ 1CS-2 - 100014                                1CS-2A        1CS-2 100014                      1    1LU - 100026              1LUA      1LU 100026                1
+
+ 1CS-3 - 100015                                1CS-3A        1CS-3 100015                      1                              1LUA      1LU-1 100270              1
+
+ 1CS-4 - 100016                                1CS-4A        1CS-4 100016                      1                              1LUA      1LUR 100027               1
+
+ 1E-36 - 100001                                1E-36A        1E-36 100001                      2                              1LUA      1LUS 100028               1
+
+                                               1E-36A        1E-41 100002                      2                              1LUA      1LUS-1 100271             1
+
+                                               1E-36A        1E-42 100003                      2    1MU - 100029        Yes   1MUA      1MU 100029                7
+
+ 1E-43 - 100004                                1E-43A        1E-43 100004                      2    1MUF - 100030       Yes   1MUFA     1MUF 100030               7
+
+                                               1E-43A        1E-44 100005                      2    1RV-2 - 100079      Yes   1RV-2A    1FSL2 100050              1
+
+ 1E-45 - 100006                                1E-45A        1E-45 100006                      2                        Yes   1RV-2A    1RV-2 100079              1
+
+                                               1E-45A        1E-46 100007                      2                        Yes   1RV-2A    1RV-3 100080              1
+
+ 1E-55 - 100008                                1E-55A        1E-55 100008                      2    1SB-1 - 100031            1SB-1A    1SB-1 100031              8
+
+                                               1E-55A        1E-56 100009                      2                              1SB-1A    1SB-2 100032              8
+
+                                               1E-55A        1E-57 100010                      2                              1SB-1A    1SB-3 100033              8
+
+ 1E-59 - 100012                          Yes   1E-59A        1E-58 100011                      3    1SB-4 - 100034            1SB-4A    1SB-4 100034              8
+
+                                         Yes   1E-59A        1E-59 100012                      3                              1SB-4A    1SB-5 100035              8
+
+ 1ES-1 - 100017                                1ES-1A        1ES-1 100017                      1                              1SB-4A    1SB-6 100036              8
+
+                                               1ES-1A        1ES-2 100018                      1                              1SB-4A    1SB-8 100039              8
+
+                                               1ES-1A        1ES-3 100019                      1    1SB10 - 100042            1SB10A    1SB-9 100041              8
+
+ 1F--1 - 100020                                1F--1A        1F--1 100020                      4                              1SB10A    1SB10 100042              8
+
+ 1F--7 - 100319                          Yes   1F--7A        1F--7 100319                      5    1SB12 - 100044      Yes   1SB12A    1SB-7 100037              8
+
+                                         Yes   1F--7A        1F--8 100320                      5                        Yes   1SB12A    1SB-7A 100038             8
+
+ 1FS - 100022                                  1FSA          1FS 100022                        6                        Yes   1SB12A    1SB-8A 100040             8
+
+                                               1FSA          1FSF 100023                       6                        Yes   1SB12A    1SB11 100043              8
+
+                                               1FSA          1FSF-1 100024                     6                        Yes   1SB12A    1SB11A 100063             8
+
+                                               1FSA          1FSL 100025                       6                        Yes   1SB12A    1SB12 100044              8
+
+ 1FS-1 - 100064                          Yes   1FS-1A        1FB-1 100021                      1                        Yes   1SB12A    1SB13 100045              8
+
+                                         Yes   1FS-1A        1FS-1 100064                      1                        Yes   1SB12A    1SB14 100046              8
+
+                                         Yes   1FS-1A        1FS-2 100266                      1                        Yes   1SB12A    1SB15 100047              8
+
+                                         Yes   1FS-1A        1FS-3 100051                      1                        Yes   1SB12A    1SB15-1 100265            8
+
+                                         Yes   1FS-1A        1FS-5 100275                      1                        Yes   1SB12A    1SB17 100052              8
+
+                                         Yes   1FS-1A        1FS-6 100276                      1    1SU - 100103              1SUA      1RD 100076                1
+
+                                         Yes   1FS-1A        1FS-8 100065                      1                              1SUA      1RDF 100077               1
+
+ 1FS-4 - 100067                          Yes   1FS-4A        1FS-4 100067                      1                              1SUA      1SCD 100278               1
+
+                                         Yes   1FS-4A        1FS-7 100277                      1                              1SUA      1SU 100103                1
+
+EWMR008 Voting/Absentee/Regular Pct Xref (Summary) Voting Pct Order                                                                                           Page 1 of 5
+Printed: 12/8/2016 4:04:11PM
+Voting Precinct                          MB? Abs Pct         Regular Pct     Ballot Type     Voting Precinct   MB?   Abs Pct   Regular Pct     Ballot Type
+
+ 2BV-1 - 200311                                2BV-1A        2BV-1 200311             1                              2SH-5A    2SH-5A 200092            1
+
+                                               2BV-1A        2BV-2 200312             1                              2SH-5A    2SH-6 200094             1
+
+                                               2BV-1A        2BV-3 200313             1                              2SH-5A    2SH-6N 200301            1
+
+                                               2BV-1A        2BV-4 200314             1                              2SH-5A    2SHF6 200095             1
+
+                                               2BV-1A        2BV-5 200315             1                              2SH-5A    2SHS5 200093             1
+
+                                               2BV-1A        2BV-6 200316             1    2SH-7 - 200304      Yes   2SH-7A    2SH-7 200304             1
+
+                                               2BV-1A        2BVF 200048              1                        Yes   2SH-7A    2SH-9 200282             1
+
+ 2CU - 200049                                  2CUA          2CU 200049               1                        Yes   2SH-7A    2SHS9 200097             1
+
+                                               2CUA          2CUS 200050              1    2SH-8 - 200100      Yes   2SH-8A    2SH-8 200100             1
+
+ 2F--2 - 200052                                2F--2A        2F--2 200052             5                        Yes   2SH-8A    2SHM8 200101             1
+
+                                               2F--2A        2F--5 200056             5                        Yes   2SH-8A    2SHS8 200102             1
+
+                                               2F--2A        2F--6 200057             5    2SHF1 - 200082      Yes   2SHF1A    2SHF1 200082             1
+
+ 2F--3 - 200053                                2F--3A        2F--3 200053             5    2SHR1 - 200083      Yes   2SHR1A    2SHR1 200083             1
+
+ 2F--4 - 200055                                2F--4A        2F--1 200051             5    2SHR2 - 200281      Yes   2SHR2A    2SHR2 200281             1
+
+                                               2F--4A        2F--4 200055             5    2SHS4 - 200090            2SHS4A    2SH-4A 200105            1
+
+ 2F-R1 - 200058                                2F-R1A        2F--3A 200054            5                              2SHS4A    2SH-4B 200106            1
+
+                                               2F-R1A        2F-R1 200058             5                              2SHS4A    2SHF4 200089             1
+
+ 2F-R2 - 200059                                2F-R2A        2F-R2 200059             5                              2SHS4A    2SHS4 200090             1
+
+ 2F-R3 - 200060                                2F-R3A        2F-R3 200060             5    2SHS7 - 200099            2SHS7A    2SHF7 200098             1
+
+                                               2F-R3A        2F-R5 200062             5                              2SHS7A    2SHF9 200096             1
+
+ 2F-R4 - 200061                                2F-R4A        2F-R4 200061             5                              2SHS7A    2SHS7 200099             1
+
+ 2HV-1 - 00072                                 2HV-1A        2HV-1 200072             1    2SHVF - 200086      Yes   2SHVFA    2SHVF 200084             1
+
+                                               2HV-1A        2HV-2 200069             1    3A--1 - 300104            3A--1A    3A--1 300104            11
+
+                                               2HV-1A        2HVF 200070              1    3A--2 - 300105            3A--2A    3A--2 300105            11
+
+                                               2HV-1A        2HVW 200071              1    3A--3 - 300106            3A--3A    3A--3 300106            11
+
+ 2MR - 200073                            Yes   2MRA          2MR 200073               9                              3A--3A    3A--3A 300251           11
+
+ 2R--1 - 200074                                2R--1A        2R--1 200074            10    3A--4 - 300107            3A--4A    3A--4 300107            11
+
+ 2R--2 - 200075                                2R--2A        2R--2 200075            10    3A--7 - 300110            3A--7A    3A--7 300110            11
+
+ 2RV-1 - 200078                                2RV-1A        2FS-3 200066             1                              3A--7A    3A--8 300111            11
+
+                                               2RV-1A        2RV-1 200078             1    3A--9 - 300112            3A--9A    3A--9 300112            11
+
+ 2SH-1 - 200081                          Yes   2SH-1A        2SH-1 200081             1    3A-10 - 300113            3A-10A    3A-10 300113            11
+
+ 2SH-2 - 200085                          Yes   2SH-2A        2SH-2 200085             1                              3A-10A    3A-14 300117            11
+
+                                         Yes   2SH-2A        2SHW2 200086             1    3A-11 - 300114            3A-11A    3A--6 300109            11
+
+ 2SH-3 - 200087                          Yes   2SH-3A        2SH-3 200087             1                              3A-11A    3A-11 300114            11
+
+                                         Yes   2SH-3A        2SHF3 200290             1    3A-12 - 300115            3A-12A    3A--5A 300283           11
+
+ 2SH-4 - 200088                                2SH-4A        2SH-4 200088             1                              3A-12A    3A-12 300115            11
+
+ 2SH-5 - 200091                                2SH-5A        2SH-5 200091             1    3A-13 - 300116            3A-13A    3A--5 300108            11
+
+
+EWMR008 Voting/Absentee/Regular Pct Xref (Summary) Voting Pct Order                                                                                 Page 2 of 5
+Printed: 12/8/2016 4:04:11PM
+Voting Precinct                          MB? Abs Pct         Regular Pct     Ballot Type     Voting Precinct   MB?   Abs Pct   Regular Pct     Ballot Type
+
+ 3A-13 - 300116                                3A-13A        3A-13 300116             11                             3FWA      3FWF-A 300141            1
+
+ 3A-J1 - 300118                                3A-J1A        3A-J1 300118            12    3FWS - 300142             3FWSA     3FWS 300142              1
+
+                                               3A-J1A        3A-J2 300253            12                              3FWSA     3FWW 300143              1
+
+                                               3A-J1A        3A-JW 300119            12                              3FWSA     3GF 300144               1
+
+                                               3A-J1A        3A-JWA 300120           12                              3FWSA     3GF-1 300270             1
+
+ 3A-P2 - 300122                                3A-P2A        3A-P2 300122            13                              3FWSA     3GFF 300145              1
+
+                                               3A-P2A        3A-P3 300124            13                              3FWSA     3GFF-A 300146            1
+
+                                               3A-P2A        3A-P8 300129            13    3JCFR - 300149            3JCFRA    3JC 300147              17
+
+ 3A-P4 - 300125                                3A-P4A        3A-P1 300121            13                              3JCFRA    3JC-R 300152            17
+
+                                               3A-P4A        3A-P2A 300123           13                              3JCFRA    3JCFR 300149            17
+
+                                               3A-P4A        3A-P4 300125            13                              3JCFRA    3JCM 300151             17
+
+                                               3A-P4A        3A-P5 300126            13                              3JCFRA    3JCM-1 300256           17
+
+                                               3A-P4A        3A-P6 300127            13                              3JCFRA    3JCW 300153             17
+
+                                               3A-P4A        3A-P7 300128            13    3JCWR - 300155            3JCWRA    3JCF 300148             17
+
+ 3AS-1 - 300130                          Yes   3AS-1A        3AS-1 300130            14                              3JCWRA    3JCFRA 300150           17
+
+                                         Yes   3AS-1A        3AS-2 300131            14                              3JCWRA    3JCFRB 300263           17
+
+                                         Yes   3AS-1A        3AS-3 300132            14                              3JCWRA    3JCFRC 300264           17
+
+                                         Yes   3AS-1A        3AS-4 300133            14                              3JCWRA    3JCWF 300154            17
+
+                                         Yes   3AS-1A        3AS-5 300134            14                              3JCWRA    3JCWR 300155            17
+
+                                         Yes   3AS-1A        3AS-7 300297            14                              3JCWRA    3JCWRA 300156           17
+
+                                         Yes   3AS-1A        3AS-8 300203            14    3KL - 300158        Yes   3KLA      3KL 300157               1
+
+ 3AS-9 - 300298                          Yes   3AS-9A        3AS-9 300298            14    3KL-1 - 300158      Yes   3KL-1A    3KL-1 300158             1
+
+                                         Yes   3AS-9A        3AS10 300205            14                        Yes   3KL-1A    3KLF 300317              1
+
+                                         Yes   3AS-9A        3AS11 300300            14    3MA-1 - 300159            3MA-1A    3MA-1 300159            14
+
+                                         Yes   3AS-9A        3AS12 300279            14                              3MA-1A    3MA-2 300160            14
+
+ 3B--1 - 300206                                3B--1A        3B--1 300206            15                              3MA-1A    3MA-3 300161            14
+
+ 3BLF - 300306                           Yes   3BLFA         3BLF 300306              1    3PA-1 - 300162            3PA-1A    3PA-1 300162             1
+
+                                         Yes   3BLFA         3BLFS 300307             1                              3PA-1A    3PA-2 300163             1
+
+ 3E-2J - 300135                          Yes   3E-2JA        3E-2J 300135            16                              3PA-1A    3PA-3 300164             1
+
+ 3ES-6 - 300136                                3ES-6A        3ES-6 300136             1                              3PA-1A    3PA-3A 300165            1
+
+                                               3ES-6A        3ES-7 300138             1                              3PA-1A    3PA-3B 300305            1
+
+                                               3ES-6A        3ES-9 300272             1                              3PA-1A    3PA-4 300166             1
+
+                                               3ES-6A        3ES10 300273             1                              3PA-1A    3PA-5 300167             1
+
+                                               3ES-6A        3ES11 300274             1                              3PA-1A    3PA-6 300196             1
+
+                                               3ES-6A        3ESS6 300137             1                              3PA-1A    3PAE 300244              1
+
+ 3FW - 300139                                  3FWA          3FW 300139               1    3PESF - 300252      Yes   3PESFA    3PESF 300252             1
+
+                                               3FWA          3FWF 300140              1    4E-11 - 400168            4E-11A    4E-11 400168             2
+
+
+EWMR008 Voting/Absentee/Regular Pct Xref (Summary) Voting Pct Order                                                                                 Page 3 of 5
+Printed: 12/8/2016 4:04:11PM
+Voting Precinct                          MB? Abs Pct         Regular Pct     Ballot Type     Voting Precinct   MB?   Abs Pct   Regular Pct      Ballot Type
+
+ 4E-12 - 400169                                4E-12A        4E-12 400169             2                        Yes   5AS-4A    5AS-6 500201             14
+
+ 4E-13 - 400170                                4E-13A        4E-13 400170             2                        Yes   5AS-4A    5AS-7 500202             14
+
+ 4E-14 - 400171                                4E-14A        4E-14 400171             2                        Yes   5AS-4A    5AS-9 500204             14
+
+                                               4E-14A        4E-15 400172             2    5BL - 500207              5BLA      5BL 500207                1
+
+ 4E-21 - 400173                                4E-21A        4E-21 400173             2                              5BLA      5BL-1 500255              1
+
+                                               4E-21A        4E-2F 400182             2                              5BLA      5BLF 500208               1
+
+                                               4E-21A        4E-2FW 400267            2                              5BLA      5BLF-1 500258             1
+
+ 4E-22 - 400174                                4E-22A        4E-22 400174             2                              5BLA      5BLF-2 500323             1
+
+ 4E-23 - 400175                                4E-23A        4E-23 400175             2                              5BLA      5BLF-3 500324             1
+
+ 4E-24 - 400176                                4E-24A        4E-24 400176             2                              5BLA      5BLFS 500209              1
+
+ 4E-25 - 400177                                4E-25A        4E-25 400177             2                              5BLA      5BLFS-1 500257            1
+
+                                               4E-25A        4E-47 400293             2                              5BLA      5BLS 500210               1
+
+                                               4E-25A        4E-48 400294             2                              5BLA      5BM 500211                1
+
+ 4E-2J - 400183                          Yes   4E-2JA        4E-2J 400183            16    5FB - 500214              5FBA      5FB 500214                1
+
+ 4E-31 - 400178                                4E-31A        4E-31 400178             2                              5FBA      5FBS 500215               1
+
+ 4E-32 - 400179                                4E-32A        4E-32 400179             2    5GP - 500216        Yes   5GPA      5GP 500216                1
+
+ 4E-33 - 400180                                4E-33A        4E-33 400180             2    5KT-1 - 500217      Yes   5KT-1A    5KT-1 500217              1
+
+ 4E-34 - 400181                                4E-34A        4E-34 400181             2                        Yes   5KT-1A    5KT-2 500218              1
+
+                                               4E-34A        4E-35 400292             2    5KT-3 - 500219      Yes   5KT-3A    5KT-3 500219              1
+
+ 4E-51 - 400184                                4E-51A        4E-51 400184             2    5KT-4 - 500221            5KT-4A    5KT-4 500221              1
+
+                                               4E-51A        4E-51A 400254            2                              5KT-4A    5KT-5 500222              1
+
+                                               4E-51A        4E-55A 400295            2    5KT-6 - 500223            5KT-6A    5KT-6 500223              1
+
+ 4E-52 - 400185                                4E-52A        4E-52 400185             2                              5KT-6A    5KTF6 500224              1
+
+ 4E-54 - 400187                                4E-54A        4E-53 400186             2                              5KT-6A    5KTS6 500225              1
+
+                                               4E-54A        4E-54 400187             2    5KTS3 - 500220      Yes   5KTS3A    5KTS3 500220              1
+
+ 4ES-4 - 400189                                4ES-4A        4ES-4 400189             1    5MC - 500226        Yes   5MCA      5MC 500226                1
+
+                                               4ES-4A        4ES-8 400291             1                        Yes   5MCA      5MCF 500318               1
+
+ 4ES-5 - 400190                                4ES-5A        4ES-3 400188             1                        Yes   5MCA      5MCK 500227               1
+
+                                               4ES-5A        4ES-5 400190             1    5MK-1 - 500228            5MK-1A    5MK-1 500228              1
+
+ 4ES-6 - 400191                                4ES-6A        4ES-6 400191             1    5MK-2 - 500229            5MK-2A    5MK-2 500229              1
+
+ 4PEF - 400195                           Yes   4PEFA         4FW 400192               1    5MK-3 - 500230            5MK-3A    5MK-3 500230              1
+
+                                         Yes   4PEFA         4FWS 400193              1    5MK-4 - 500231            5MK-4A    5MK-4 500231              1
+
+                                         Yes   4PEFA         4PE 400194               1                              5MK-4A    5MK-4B 500261             1
+
+                                         Yes   4PEFA         4PEF 400195              1    5MK-4A - 500232           5MK-4AA   5MK-4A 500232             1
+
+ 5AS-4 - 500199                          Yes   5AS-4A        5AS-4 500199            14    5MK-5 - 500233            5MK-5A    5MK-5 500233              1
+
+                                         Yes   5AS-4A        5AS-5 500200            14    5MK-5A - 500262           5MK-5AA   5MK-5A 500262             1
+
+                                         Yes   5AS-4A        5AS-5A 500322           14    5MK-6 - 500234            5MK-6A    5MK-6 500234              1
+
+
+EWMR008 Voting/Absentee/Regular Pct Xref (Summary) Voting Pct Order                                                                                  Page 4 of 5
+Printed: 12/8/2016 4:04:11PM
+ Voting Precinct                         MB? Abs Pct         Regular Pct      Ballot Type   Voting Precinct   MB?   Abs Pct   Regular Pct   Ballot Type
+
+ 5MK-6A - 500235                               5MK-6AA       5MK-6A 500235             1
+
+ 5MK-7 - 500236                                5MK-7A        5MK-7 500236              1
+
+ 5MK-8 - 500237                                5MK-8A        5MK-8 500237              1
+
+                                               5MK-8A        5MK-9 500239              1
+
+                                               5MK-8A        5MK-9A 500268             1
+
+                                               5MK-8A        5MK-9B 500321             1
+
+                                               5MK-8A        5MKS8 500238              1
+
+                                               5MK-8A        5MKS8-1 500259            1
+
+                                               5MK-8A        5MKS9 500240              1
+
+ 5OR - 500241                            Yes   5ORA          5OR 500241                1
+
+                                         Yes   5ORA          5ORS 500242               1
+
+ 5PA-3 - 500243                          Yes   5PA-3A        5PA-3 500243              1
+
+                                         Yes   5PA-3A        5PA-3A 500260             1
+
+                                         Yes   5PA-3A        5PAS 500245               1
+
+ 5T--1 - 500246                                5T--1A        5T--1 500246             18
+
+ 5TU-1 - 500247                                5TU-1A        5BU 500212                1
+
+                                               5TU-1A        5BUS 500213               1
+
+                                               5TU-1A        5BUS-1 500251             1
+
+                                               5TU-1A        5TU-1 500247              1
+
+                                               5TU-1A        5TU-2 500248              1
+
+ 5TU-4 - 500250                                5TU-4A        5TU-3 500249              1
+
+                                               5TU-4A        5TU-4 500250              1
+
+Total Voting Precincts: 127
+
+
+
+
+EWMR008 Voting/Absentee/Regular Pct Xref (Summary) Voting Pct Order                                                                              Page 5 of 5
+Printed: 12/8/2016 4:04:11PM
 
