@@ -5,12 +5,16 @@ import sys, time, csv, os
 from osgeo import ogr
 
 # should be the 3-digit FIPS and county name
-file = "023-humboldt"
+file = sys.argv[1]
 
 inithdrs = ['pct16','pres_clinton','pres_trump','pres_johnson','pres_stein','pres_lariva','pres_other','ussenate_harris','ussenate_sanchez','prop51_yes','prop51_no','prop52_yes','prop52_no','prop53_yes','prop53_no','prop54_yes','prop54_no','prop55_yes','prop55_no','prop56_yes','prop56_no','prop57_yes','prop57_no','prop58_yes','prop58_no','prop59_yes','prop59_no','prop60_yes','prop60_no','prop61_yes','prop61_no','prop62_yes','prop62_no','prop63_yes','prop63_no','prop64_yes','prop64_no','prop65_yes','prop65_no','prop66_yes','prop66_no','prop67_yes','prop67_no']
 
 addedhdrs = ['pres_clinton_per','pres_trump_per','pres_third_per','pres_winner','pres_margin','votedensity','prop51_yes_per','prop51_no_per','prop52_yes_per','prop52_no_per','prop53_yes_per','prop53_no_per','prop54_yes_per','prop54_no_per','prop55_yes_per','prop55_no_per','prop56_yes_per','prop56_no_per','prop57_yes_per','prop57_no_per','prop58_yes_per','prop58_no_per','prop59_yes_per','prop59_no_per','prop60_yes_per','prop60_no_per','prop61_yes_per','prop61_no_per','prop62_yes_per','prop62_no_per','prop63_yes_per','prop63_no_per','prop64_yes_per','prop64_no_per','prop65_yes_per','prop65_no_per','prop66_yes_per','prop66_no_per','prop67_yes_per','prop67_no_per']
 
+csvtheaders = '"String","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Integer","Real","Real","Real","String","Real","Real","Real","Real","Real","Real","Real","Real","Real","Real","Real","Real","Real","Real","Real","Real","Real","Real","Real","Real","Real","Real","Real","Real","Real","Real","Real","Real","Real","Real","Real","Real"'
+csvt = open(file+'-munged.csvt','w')
+csvt.write(csvtheaders)
+csvt.close()
 
 
 with open(file+'.csv','r') as csvinput:
