@@ -1,0 +1,1589 @@
+Precinct
+VALLEJO 17005
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	1029	65.54	262	682	85
+BONDS - NO (NON)	541	34.46	138	380	23
+
+Precinct
+VALLEJO 17045
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	1599	70.22	441	937	221
+BONDS - NO (NON)	678	29.78	152	464	62
+
+Precinct
+VALLEJO 17070
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	1652	72.23	503	970	179
+BONDS - NO (NON)	635	27.77	171	414	50
+
+Precinct
+VALLEJO 17100
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	1290	71.71	396	792	102
+BONDS - NO (NON)	509	28.29	155	321	33
+
+Precinct
+VALLEJO 17110
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	561	58.68	152	377	32
+BONDS - NO (NON)	395	41.32	90	294	11
+
+Precinct
+VALLEJO 17115
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	808	59.06	186	556	66
+BONDS - NO (NON)	560	40.94	154	383	23
+
+Precinct
+VALLEJO 17140
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	823	65.63	268	501	54
+BONDS - NO (NON)	431	34.37	139	268	24
+
+Precinct
+VALLEJO 17152
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	577	66.55	170	323	84
+BONDS - NO (NON)	290	33.45	73	192	25
+
+Precinct
+VALLEJO 17180
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	327	69.72	110	180	37
+BONDS - NO (NON)	142	30.28	45	88	9
+
+Precinct
+VALLEJO 17185
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	983	65.75	298	577	108
+BONDS - NO (NON)	512	34.25	148	337	27
+
+Precinct
+VALLEJO 17205
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	705	59.75	245	399	61
+BONDS - NO (NON)	475	40.25	148	306	21
+
+Precinct
+VALLEJO 17220
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	535	56.85	162	348	25
+BONDS - NO (NON)	406	43.15	145	248	13
+
+Precinct
+VALLEJO 17245
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	1266	59.6	344	810	112
+BONDS - NO (NON)	858	40.4	240	577	41
+
+Precinct
+VALLEJO 17265
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	541	61.55	151	352	38
+BONDS - NO (NON)	338	38.45	103	226	9
+
+Precinct
+VALLEJO 17285
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	920	61.58	183	700	37
+BONDS - NO (NON)	574	38.42	110	441	23
+
+Precinct
+VALLEJO 17289
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	733	60.93	201	484	48
+BONDS - NO (NON)	470	39.07	99	352	19
+
+Precinct
+VALLEJO 17290
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	673	60.25	190	440	43
+BONDS - NO (NON)	444	39.75	109	320	15
+
+Precinct
+VALLEJO 17310
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	798	72.09	235	475	88
+BONDS - NO (NON)	309	27.91	78	212	19
+
+Precinct
+VALLEJO 17335
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	589	62.2	175	352	62
+BONDS - NO (NON)	358	37.8	99	237	22
+
+Precinct
+VALLEJO 17380
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	711	50.07	205	475	31
+BONDS - YES (NON)	709	49.93	228	452	29
+
+Precinct
+VALLEJO 17395
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	1332	59.38	355	846	131
+BONDS - NO (NON)	911	40.62	221	647	43
+
+Precinct
+VALLEJO 17400
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	15	65.22	1	13	1
+BONDS - NO (NON)	8	34.78	1	6	1
+
+Precinct
+VALLEJO 19805
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	3	75	0	3	0
+BONDS - YES (NON)	1	25	0	1	0
+
+Precinct
+VALLEJO 19820
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	4	66.67	2	1	1
+BONDS - YES (NON)	2	33.33	1	1	0
+
+Precinct
+BENICIA 21005
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	996	52.98	324	621	51
+BONDS - NO (NON)	884	47.02	241	620	23
+
+Precinct
+BENICIA 21007
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	961	50.39	268	671	22
+BONDS - YES (NON)	946	49.61	296	591	59
+
+Precinct
+BENICIA 21020
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	677	50.48	277	373	27
+BONDS - NO (NON)	664	49.52	251	392	21
+
+Precinct
+BENICIA 21035
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	788	53.17	255	494	39
+BONDS - NO (NON)	694	46.83	198	475	21
+
+Precinct
+BENICIA 21090
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	518	51.9	138	344	36
+BONDS - NO (NON)	480	48.1	125	340	15
+
+Precinct
+BENICIA 21095
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	1277	50.04	440	770	67
+BONDS - NO (NON)	1275	49.96	384	842	49
+
+Precinct
+BENICIA 21125
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	1467	52.32	354	1079	34
+BONDS - YES (NON)	1337	47.68	348	929	60
+
+Precinct
+BENICIA 21130
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	956	51.45	271	661	24
+BONDS - YES (NON)	902	48.55	275	603	24
+
+Precinct
+FAIRFIELD 23005
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	760	53.22	224	491	45
+BONDS - NO (NON)	668	46.78	183	461	24
+
+Precinct
+FAIRFIELD 23016
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	1157	58.97	365	710	82
+BONDS - NO (NON)	805	41.03	228	536	41
+
+Precinct
+FAIRFIELD 23018
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	2	66.67	0	2	0
+BONDS - YES (NON)	1	33.33	0	1	0
+
+Precinct
+FAIRFIELD 23020
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	1042	57.19	291	676	75
+BONDS - NO (NON)	780	42.81	234	511	35
+
+Precinct
+FAIRFIELD 23050
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	6	85.71	0	5	1
+BONDS - NO (NON)	1	14.29	1	0	0
+
+Precinct
+FAIRFIELD 23055
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	343	60.49	134	190	19
+BONDS - NO (NON)	224	39.51	62	155	7
+
+Precinct
+FAIRFIELD 23090
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	366	65.95	112	229	25
+BONDS - NO (NON)	189	34.05	40	144	5
+
+Precinct
+FAIRFIELD 23095
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	425	60.63	134	267	24
+BONDS - NO (NON)	276	39.37	77	189	10
+
+Precinct
+VALLEJO 27020
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	190	54.6	48	130	12
+BONDS - NO (NON)	158	45.4	41	111	6
+
+Precinct
+VALLEJO 27050
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	842	70.23	316	457	69
+BONDS - NO (NON)	357	29.77	104	234	19
+
+Precinct
+VALLEJO 27055
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	310	57.41	103	190	17
+BONDS - NO (NON)	230	42.59	70	153	7
+
+Precinct
+VALLEJO 27070
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	769	63.29	237	441	91
+BONDS - NO (NON)	446	36.71	113	308	25
+
+Precinct
+VALLEJO 27080
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	543	63.81	174	332	37
+BONDS - NO (NON)	308	36.19	73	221	14
+
+Precinct
+VALLEJO 27090
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	820	61.65	247	510	63
+BONDS - NO (NON)	510	38.35	124	369	17
+
+Precinct
+VALLEJO 27110
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	806	59.75	229	525	52
+BONDS - NO (NON)	543	40.25	137	386	20
+
+Precinct
+VALLEJO 27115
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	823	61.51	198	550	75
+BONDS - NO (NON)	515	38.49	117	368	30
+
+Precinct
+VALLEJO 27130
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	677	57.67	238	394	45
+BONDS - NO (NON)	497	42.33	157	319	21
+
+Precinct
+VALLEJO 27165
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	861	58.02	256	540	65
+BONDS - NO (NON)	623	41.98	158	433	32
+
+Precinct
+VALLEJO 27175
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	471	54.39	166	273	32
+BONDS - NO (NON)	395	45.61	130	247	18
+
+Precinct
+VALLEJO 27185
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	360	54.3	86	241	33
+BONDS - NO (NON)	303	45.7	62	225	16
+
+Precinct
+VALLEJO 27187
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	149	55.6	51	86	12
+BONDS - NO (NON)	119	44.4	33	80	6
+
+Precinct
+FAIRFIELD 29405
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	300	63.83	82	213	5
+BONDS - YES (NON)	170	36.17	53	112	5
+
+Precinct
+FAIRFIELD 29406
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	295	64.55	63	228	4
+BONDS - YES (NON)	162	35.45	44	114	4
+
+Precinct
+FAIRFIELD 29407
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	71	68.93	13	57	1
+BONDS - YES (NON)	32	31.07	6	24	2
+
+Precinct
+FAIRFIELD 29408
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	52	68.42	16	35	1
+BONDS - YES (NON)	24	31.58	4	20	0
+
+Precinct
+VALLEJO 29820
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	222	62.71	75	119	28
+BONDS - NO (NON)	132	37.29	36	88	8
+
+Precinct
+VALLEJO 29830
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	14	60.87	5	6	3
+BONDS - NO (NON)	9	39.13	1	8	0
+
+Precinct
+VALLEJO 29835
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	19	61.29	0	19	0
+BONDS - NO (NON)	12	38.71	1	11	0
+
+Precinct
+VALLEJO 29840
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	168	69.14	46	96	26
+BONDS - NO (NON)	75	30.86	21	51	3
+
+Precinct
+FAIRFIELD 33010
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	367	50.9	93	264	10
+BONDS - NO (NON)	354	49.1	83	257	14
+
+Precinct
+FAIRFIELD 33015
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	698	51.51	194	481	23
+BONDS - YES (NON)	657	48.49	207	414	36
+
+Precinct
+FAIRFIELD 33025
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	427	53.44	129	273	25
+BONDS - NO (NON)	372	46.56	74	288	10
+
+Precinct
+FAIRFIELD 33040
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	455	50.5	123	302	30
+BONDS - NO (NON)	446	49.5	113	316	17
+
+Precinct
+FAIRFIELD 33041
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	274	52.69	80	185	9
+BONDS - NO (NON)	246	47.31	56	181	9
+
+Precinct
+FAIRFIELD 33042
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	203	62.85	61	125	17
+BONDS - NO (NON)	120	37.15	34	84	2
+
+Precinct
+FAIRFIELD 33043
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	129	50.79	30	95	4
+BONDS - YES (NON)	125	49.21	40	80	5
+
+Precinct
+FAIRFIELD 33045
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	384	52.89	92	276	16
+BONDS - YES (NON)	342	47.11	102	226	14
+
+Precinct
+FAIRFIELD 33050
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	693	51.83	187	483	23
+BONDS - YES (NON)	644	48.17	176	442	26
+
+Precinct
+FAIRFIELD 33065
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	636	50.52	187	407	42
+BONDS - NO (NON)	623	49.48	174	426	23
+
+Precinct
+FAIRFIELD 33070
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	883	63.34	259	542	82
+BONDS - NO (NON)	511	36.66	177	309	25
+
+Precinct
+FAIRFIELD 33075
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	559	60.69	176	327	56
+BONDS - NO (NON)	362	39.31	108	234	20
+
+Precinct
+FAIRFIELD 33080
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	151	51.71	38	110	3
+BONDS - YES (NON)	141	48.29	45	89	7
+
+Precinct
+FAIRFIELD 33115
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	710	52.01	161	505	44
+BONDS - NO (NON)	655	47.99	137	493	25
+
+Precinct
+FAIRFIELD 33117
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+FAIRFIELD 33119
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	101	63.52	14	81	6
+BONDS - YES (NON)	58	36.48	6	43	9
+
+Precinct
+FAIRFIELD 33190
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	883	59.82	259	507	117
+BONDS - NO (NON)	593	40.18	177	384	32
+
+Precinct
+FAIRFIELD 33195
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	452	64.02	145	260	47
+BONDS - NO (NON)	254	35.98	70	170	14
+
+Precinct
+FAIRFIELD 33215
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	212	61.99	64	125	23
+BONDS - NO (NON)	130	38.01	58	64	8
+
+Precinct
+FAIRFIELD 33216
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	89	61.38	27	52	10
+BONDS - NO (NON)	56	38.62	17	37	2
+
+Precinct
+FAIRFIELD 33217
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	282	66.82	71	181	30
+BONDS - NO (NON)	140	33.18	33	105	2
+
+Precinct
+FAIRFIELD 33218
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	168	62.69	60	97	11
+BONDS - NO (NON)	100	37.31	35	52	13
+
+Precinct
+FAIRFIELD 33230
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	547	68.98	171	308	68
+BONDS - NO (NON)	246	31.02	82	146	18
+
+Precinct
+FAIRFIELD 33240
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	315	61.76	94	191	30
+BONDS - NO (NON)	195	38.24	52	134	9
+
+Precinct
+FAIRFIELD 33245
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	560	58.95	176	343	41
+BONDS - NO (NON)	390	41.05	96	276	18
+
+Precinct
+FAIRFIELD 33250
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	370	56.49	132	195	43
+BONDS - NO (NON)	285	43.51	95	175	15
+
+Precinct
+FAIRFIELD 33252
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	5	83.33	0	4	1
+BONDS - YES (NON)	1	16.67	0	1	0
+
+Precinct
+FAIRFIELD 33254
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	29	65.91	1	28	0
+BONDS - YES (NON)	15	34.09	2	13	0
+
+Precinct
+FAIRFIELD 33255
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	11	64.71	3	7	1
+BONDS - NO (NON)	6	35.29	1	4	1
+
+Precinct
+FAIRFIELD 33256
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	160	67.51	49	99	12
+BONDS - YES (NON)	77	32.49	25	46	6
+
+Precinct
+FAIRFIELD 33265
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	292	71.05	104	151	37
+BONDS - NO (NON)	119	28.95	31	70	18
+
+Precinct
+FAIRFIELD 33267
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	264	65.51	97	145	22
+BONDS - NO (NON)	139	34.49	36	94	9
+
+Precinct
+SUISUN 35005
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	535	55.67	191	300	44
+BONDS - NO (NON)	426	44.33	128	276	22
+
+Precinct
+SUISUN 35020
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	631	65.25	185	387	59
+BONDS - NO (NON)	336	34.75	92	219	25
+
+Precinct
+SUISUN 35025
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	386	58.84	147	209	30
+BONDS - NO (NON)	270	41.16	90	166	14
+
+Precinct
+SUISUN 35040
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	1051	62.52	342	582	127
+BONDS - NO (NON)	630	37.48	171	417	42
+
+Precinct
+SUISUN 35045
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	900	60.32	269	579	52
+BONDS - NO (NON)	592	39.68	152	427	13
+
+Precinct
+SUISUN 35055
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	684	65.9	197	446	41
+BONDS - NO (NON)	354	34.1	97	241	16
+
+Precinct
+SUISUN 35057
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	169	62.36	40	114	15
+BONDS - NO (NON)	102	37.64	23	75	4
+
+Precinct
+FAIRFIELD 39452
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	131	70.81	20	109	2
+BONDS - YES (NON)	54	29.19	9	38	7
+
+Precinct
+FAIRFIELD 39454
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	86	55.13	7	76	3
+BONDS - YES (NON)	70	44.87	10	52	8
+
+Precinct
+DIXON 42010
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	729	53.8	202	500	27
+BONDS - YES (NON)	626	46.2	187	395	44
+
+Precinct
+DIXON 42012
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	113	55.67	34	75	4
+BONDS - YES (NON)	90	44.33	39	46	5
+
+Precinct
+DIXON 42020
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	451	51.19	168	241	42
+BONDS - NO (NON)	430	48.81	145	267	18
+
+Precinct
+DIXON 42022
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	324	50.08	105	194	25
+BONDS - NO (NON)	323	49.92	86	220	17
+
+Precinct
+DIXON 42025
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	244	51.05	75	153	16
+BONDS - NO (NON)	234	48.95	58	162	14
+
+Precinct
+DIXON 42045
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	269	64.98	41	220	8
+BONDS - YES (NON)	145	35.02	27	114	4
+
+Precinct
+DIXON 42047
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	109	65.27	14	95	0
+BONDS - YES (NON)	58	34.73	10	44	4
+
+Precinct
+DIXON 42048
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	41	53.95	11	26	4
+BONDS - YES (NON)	35	46.05	6	25	4
+
+Precinct
+DIXON 42049
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	51	55.43	6	45	0
+BONDS - YES (NON)	41	44.57	4	37	0
+
+Precinct
+DIXON 42050
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	674	55.89	170	483	21
+BONDS - YES (NON)	532	44.11	148	346	38
+
+Precinct
+DIXON 42055
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	274	60.22	56	208	10
+BONDS - YES (NON)	181	39.78	42	134	5
+
+Precinct
+DIXON 42060
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	67	61.47	17	44	6
+BONDS - NO (NON)	42	38.53	6	32	4
+
+Precinct
+DIXON 42065
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	744	52.17	180	527	37
+BONDS - YES (NON)	682	47.83	191	451	40
+
+Precinct
+DIXON 42070
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	329	59.28	115	184	30
+BONDS - NO (NON)	226	40.72	63	150	13
+
+Precinct
+VACAVILLE 46015
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	507	58.68	164	334	9
+BONDS - YES (NON)	357	41.32	123	217	17
+
+Precinct
+VACAVILLE 46020
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	810	53.36	242	547	21
+BONDS - YES (NON)	708	46.64	258	415	35
+
+Precinct
+VACAVILLE 46030
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	61	54.95	16	42	3
+BONDS - YES (NON)	50	45.05	8	39	3
+
+Precinct
+VACAVILLE 46050
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	872	55.9	256	581	35
+BONDS - YES (NON)	688	44.1	191	454	43
+
+Precinct
+VACAVILLE 46065
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	675	54.57	186	463	26
+BONDS - YES (NON)	562	45.43	129	399	34
+
+Precinct
+VACAVILLE 46070
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	525	50.1	138	364	23
+BONDS - YES (NON)	523	49.9	149	306	68
+
+Precinct
+VACAVILLE 46120
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	866	50	243	584	39
+BONDS - YES (NON)	866	50	237	538	91
+
+Precinct
+VACAVILLE 46123
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	127	69.78	29	96	2
+BONDS - YES (NON)	55	30.22	11	43	1
+
+Precinct
+VACAVILLE 46124
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	41	75.93	5	35	1
+BONDS - YES (NON)	13	24.07	2	10	1
+
+Precinct
+VACAVILLE 46125
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	36	80	8	28	0
+BONDS - YES (NON)	9	20	0	9	0
+
+Precinct
+VACAVILLE 46127
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	310	63.14	81	219	10
+BONDS - YES (NON)	181	36.86	50	126	5
+
+Precinct
+VACAVILLE 46129
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	194	66.21	48	141	5
+BONDS - YES (NON)	99	33.79	22	74	3
+
+Precinct
+VACAVILLE 46130
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	913	59.13	270	613	30
+BONDS - YES (NON)	631	40.87	188	400	43
+
+Precinct
+VACAVILLE 46150
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	957	56.06	239	687	31
+BONDS - YES (NON)	750	43.94	257	450	43
+
+Precinct
+VACAVILLE 46155
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+VACAVILLE 46157
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	298	66.97	76	208	14
+BONDS - YES (NON)	147	33.03	37	100	10
+
+Precinct
+VACAVILLE 46158
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	42	68.85	6	36	0
+BONDS - YES (NON)	19	31.15	2	17	0
+
+Precinct
+VACAVILLE 46159
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	61	57.55	9	48	4
+BONDS - YES (NON)	45	42.45	8	36	1
+
+Precinct
+VACAVILLE 46180
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	195	56.2	52	125	18
+BONDS - NO (NON)	152	43.8	37	97	18
+
+Precinct
+VACAVILLE 46185
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	401	55.54	102	267	32
+BONDS - NO (NON)	321	44.46	61	241	19
+
+Precinct
+VACAVILLE 46190
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	600	50.55	183	360	57
+BONDS - NO (NON)	587	49.45	179	382	26
+
+Precinct
+VACAVILLE 46210
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	557	55.87	174	351	32
+BONDS - YES (NON)	440	44.13	154	252	34
+
+Precinct
+VACAVILLE 46270
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	731	51.41	240	437	54
+BONDS - NO (NON)	691	48.59	207	456	28
+
+Precinct
+VACAVILLE 46380
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	691	52.55	176	441	74
+BONDS - NO (NON)	624	47.45	182	410	32
+
+Precinct
+VACAVILLE 46400
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	982	52.26	263	668	51
+BONDS - YES (NON)	897	47.74	249	577	71
+
+Precinct
+VACAVILLE 46405
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	61	64.89	19	37	5
+BONDS - NO (NON)	33	35.11	9	22	2
+
+Precinct
+VACAVILLE 49730
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	319	69.5	66	240	13
+BONDS - YES (NON)	140	30.5	39	91	10
+
+Precinct
+VACAVILLE 49733
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	612	66.96	185	413	14
+BONDS - YES (NON)	302	33.04	83	202	17
+
+Precinct
+VACAVILLE 49740
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	63	64.29	14	47	2
+BONDS - YES (NON)	35	35.71	9	22	4
+
+Precinct
+VACAVILLE 49742
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	15	65.22	5	10	0
+BONDS - YES (NON)	8	34.78	2	3	3
+
+Precinct
+VACAVILLE 49744
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	164	54.49	23	132	9
+BONDS - YES (NON)	137	45.51	27	104	6
+
+Precinct
+TRAVIS 53005
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	1403	63.17	370	941	92
+BONDS - NO (NON)	818	36.83	186	591	41
+
+Precinct
+TRAVIS 53007
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	4	100	2	0	2
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+FAIRFIELD 53070
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	1336	60.89	398	859	79
+BONDS - NO (NON)	858	39.11	210	615	33
+
+Precinct
+FAIRFIELD 53075
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	2	50	0	2	0
+BONDS - YES (NON)	2	50	0	1	1
+
+Precinct
+FAIRFIELD 53100
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	1408	60.27	413	881	114
+BONDS - NO (NON)	928	39.73	245	640	43
+
+Precinct
+FAIRFIELD 53125
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	1298	54.58	379	840	79
+BONDS - NO (NON)	1080	45.42	264	774	42
+
+Precinct
+FAIRFIELD 53140
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	876	50.4	164	692	20
+BONDS - YES (NON)	862	49.6	196	626	40
+
+Precinct
+RIO VISTA 54005
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	907	52.31	300	584	23
+BONDS - YES (NON)	827	47.69	255	526	46
+
+Precinct
+RIO VISTA 54020
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	1612	53.41	263	1326	23
+BONDS - YES (NON)	1406	46.59	260	1127	19
+
+Precinct
+SUISUN 55005
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	1360	56.98	474	794	92
+BONDS - NO (NON)	1027	43.02	274	705	48
+
+Precinct
+SUISUN 55010
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	86	54.78	20	52	14
+BONDS - NO (NON)	71	45.22	18	49	4
+
+Precinct
+VACAVILLE 56010
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	1024	54.73	168	836	20
+BONDS - YES (NON)	847	45.27	148	668	31
+
+Precinct
+VACAVILLE 56012
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	69	52.67	18	41	10
+BONDS - YES (NON)	62	47.33	12	43	7
+
+Precinct
+VACAVILLE 56020
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	750	57.65	175	545	30
+BONDS - YES (NON)	551	42.35	145	369	37
+
+Precinct
+VACAVILLE 56050
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	613	56.29	141	451	21
+BONDS - YES (NON)	476	43.71	136	317	23
+
+Precinct
+VACAVILLE 56055
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+VACAVILLE 56100
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	551	50.32	166	363	22
+BONDS - YES (NON)	544	49.68	165	331	48
+
+Precinct
+VACAVILLE 56105
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	725	50.42	161	463	101
+BONDS - NO (NON)	713	49.58	158	497	58
+
+Precinct
+VACAVILLE 56107
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	877	50.4	276	514	87
+BONDS - NO (NON)	863	49.6	248	565	50
+
+Precinct
+VACAVILLE 56109
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	57	52.29	19	32	6
+BONDS - NO (NON)	52	47.71	16	32	4
+
+Precinct
+VACAVILLE 56110
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	763	50.73	237	498	28
+BONDS - YES (NON)	741	49.27	238	451	52
+
+Precinct
+VACAVILLE 56125
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	809	51.86	241	509	59
+BONDS - NO (NON)	751	48.14	181	534	36
+
+Precinct
+VACAVILLE 56155
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	67	52.76	16	47	4
+BONDS - YES (NON)	60	47.24	17	39	4
+
+Precinct
+VACAVILLE 56165
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	363	51.34	92	256	15
+BONDS - YES (NON)	344	48.66	96	226	22
+
+Precinct
+VACAVILLE 56175
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	444	52.67	101	322	21
+BONDS - YES (NON)	399	47.33	99	276	24
+
+Precinct
+VACAVILLE 56190
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	841	56.03	246	573	22
+BONDS - YES (NON)	660	43.97	202	422	36
+
+Precinct
+VACAVILLE 56210
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	657	51.13	222	401	34
+BONDS - NO (NON)	628	48.87	195	418	15
+
+Precinct
+VACAVILLE 56215
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	7	53.85	1	2	4
+BONDS - NO (NON)	6	46.15	0	2	4
+
+Precinct
+RIO VISTA 59530
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	76	51.35	8	66	2
+BONDS - YES (NON)	72	48.65	10	61	1
+
+Precinct
+ELMIRA 59700
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	83	56.85	28	50	5
+BONDS - YES (NON)	63	43.15	31	25	7
+
+Precinct
+ELMIRA 59705
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	82	61.19	33	47	2
+BONDS - YES (NON)	52	38.81	17	33	2
+
+Precinct
+MAIL PCT 99001
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	30	58.82	0	29	1
+BONDS - YES (NON)	21	41.18	0	17	4
+
+Precinct
+MAIL PCT 99002
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	5	62.5	0	4	1
+BONDS - NO (NON)	3	37.5	0	3	0
+
+Precinct
+MAIL PCT 99003
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	27	62.79	0	27	0
+BONDS - YES (NON)	16	37.21	0	16	0
+
+Precinct
+MAIL PCT 99004
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	67	69.79	0	66	1
+BONDS - YES (NON)	29	30.21	0	29	0
+
+Precinct
+MAIL PCT 99005
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	26	65	0	25	1
+BONDS - YES (NON)	14	35	0	14	0
+
+Precinct
+MAIL PCT 99006
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	74	67.27	0	67	7
+BONDS - YES (NON)	36	32.73	0	30	6
+
+Precinct
+MAIL PCT 99008
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	1	100	0	1	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99009
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	21	70	0	21	0
+BONDS - YES (NON)	9	30	0	8	1
+
+Precinct
+MAIL PCT 99010
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	96	56.8	0	91	5
+BONDS - YES (NON)	73	43.2	0	67	6
+
+Precinct
+MAIL PCT 99011
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	36	52.17	0	33	3
+BONDS - NO (NON)	33	47.83	0	31	2
+
+Precinct
+MAIL PCT 99015
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	1	50	0	1	0
+BONDS - YES (NON)	1	50	0	1	0
+
+Precinct
+MAIL PCT 99016
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	39	63.93	0	39	0
+BONDS - NO (NON)	22	36.07	0	22	0
+
+Precinct
+MAIL PCT 99018
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	10	58.82	0	10	0
+BONDS - YES (NON)	7	41.18	0	7	0
+
+Precinct
+MAIL PCT 99020
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	34	60.71	0	32	2
+BONDS - YES (NON)	22	39.29	0	21	1
+
+Precinct
+MAIL PCT 99024
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	40	57.14	0	40	0
+BONDS - YES (NON)	30	42.86	0	29	1
+
+Precinct
+MAIL PCT 99025
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	1	100	0	1	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99027
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	12	54.55	0	12	0
+BONDS - YES (NON)	10	45.45	0	10	0
+
+Precinct
+MAIL PCT 99028
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	2	100	0	2	0
+BONDS - NO (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99029
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	48	57.83	0	45	3
+BONDS - YES (NON)	35	42.17	0	31	4
+
+Precinct
+MAIL PCT 99031
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	11	73.33	0	10	1
+BONDS - NO (NON)	4	26.67	0	4	0
+
+Precinct
+MAIL PCT 99032
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	68	78.16	0	58	10
+BONDS - NO (NON)	19	21.84	0	16	3
+
+Precinct
+MAIL PCT 99033
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	4	66.67	0	4	0
+BONDS - NO (NON)	2	33.33	0	2	0
+
+Precinct
+MAIL PCT 99034
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	7	77.78	0	7	0
+BONDS - YES (NON)	2	22.22	0	2	0
+
+Precinct
+MAIL PCT 99035
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	17	68	0	17	0
+BONDS - YES (NON)	8	32	0	8	0
+
+Precinct
+MAIL PCT 99038
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	6	54.55	0	6	0
+BONDS - NO (NON)	5	45.45	0	5	0
+
+Precinct
+MAIL PCT 99039
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	11	64.71	0	11	0
+BONDS - NO (NON)	6	35.29	0	6	0
+
+Precinct
+MAIL PCT 99043
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	6	60	0	6	0
+BONDS - NO (NON)	4	40	0	4	0
+
+Precinct
+MAIL PCT 99045
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	15	62.5	0	15	0
+BONDS - YES (NON)	9	37.5	0	8	1
+
+Precinct
+MAIL PCT 99046
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	15	68.18	0	14	1
+BONDS - NO (NON)	7	31.82	0	7	0
+
+Precinct
+MAIL PCT 99047
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	3	100	0	3	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99049
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	29	67.44	0	28	1
+BONDS - YES (NON)	14	32.56	0	14	0
+
+Precinct
+MAIL PCT 99051
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	19	54.29	0	19	0
+BONDS - YES (NON)	16	45.71	0	16	0
+
+Precinct
+MAIL PCT 99055
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	4	80	0	4	0
+BONDS - YES (NON)	1	20	0	1	0
+
+Precinct
+MAIL PCT 99057
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	102	72.86	0	100	2
+BONDS - YES (NON)	38	27.14	0	38	0
+
+Precinct
+MAIL PCT 99059
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	16	51.61	0	16	0
+BONDS - YES (NON)	15	48.39	0	15	0
+
+Precinct
+MAIL PCT 99061
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	42	60	0	42	0
+BONDS - YES (NON)	28	40	0	28	0
+
+Precinct
+MAIL PCT 99063
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	70	70	0	69	1
+BONDS - YES (NON)	30	30	0	30	0
+
+Precinct
+MAIL PCT 99067
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	6	54.55	0	6	0
+BONDS - YES (NON)	5	45.45	0	5	0
+
+Precinct
+MAIL PCT 99071
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	6	50	0	6	0
+BONDS - NO (NON)	6	50	0	6	0
+
+Precinct
+MAIL PCT 99073
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	6	60	0	6	0
+BONDS - YES (NON)	4	40	0	2	2
+
+Precinct
+MAIL PCT 99075
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	5	50	0	5	0
+BONDS - NO (NON)	5	50	0	5	0
+
+Precinct
+MAIL PCT 99079
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	17	70.83	0	17	0
+BONDS - YES (NON)	7	29.17	0	7	0
+
+Precinct
+MAIL PCT 99081
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99083
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	53	59.55	0	49	4
+BONDS - NO (NON)	36	40.45	0	35	1
+
+Precinct
+MAIL PCT 99085
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	19	51.35	0	19	0
+BONDS - YES (NON)	18	48.65	0	18	0
+
+Precinct
+MAIL PCT 99087
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	15	50	0	15	0
+BONDS - YES (NON)	15	50	0	15	0
+
+Precinct
+MAIL PCT 99089
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	2	100	0	2	0
+BONDS - NO (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99091
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	11	57.89	0	11	0
+BONDS - YES (NON)	8	42.11	0	8	0
+
+Precinct
+MAIL PCT 99093
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	11	91.67	0	11	0
+BONDS - YES (NON)	1	8.33	0	0	1
+
+Precinct
+MAIL PCT 99095
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	2	66.67	0	2	0
+BONDS - YES (NON)	1	33.33	0	1	0
+
+Precinct
+MAIL PCT 99904
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99905
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99907
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99909
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99913
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99915
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99917
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99918
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99919
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MIAL PCT 99921
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99925
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99926
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99927
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99929
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99930
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99932
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99933
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99941
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99944
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99945
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99947
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99948
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - YES (NON)	22	78.57	0	19	3
+BONDS - NO (NON)	6	21.43	0	6	0
+
+Precinct
+MAIL PCT 99949
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99952
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99953
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99954
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99955
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99956
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99957
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99958
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99959
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99960
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99961
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99962
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99965
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99969
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
+
+Precinct
+MAIL PCT 99977
+Candidate Name	Total Votes	Vote %	Elec Day	VBM	Prov
+BONDS - NO (NON)	0	0	0	0	0
+BONDS - YES (NON)	0	0	0	0	0
