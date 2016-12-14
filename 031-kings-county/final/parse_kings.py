@@ -5,21 +5,21 @@ import csv
 import pandas as pd
 import numpy as np
 from subprocess import call
-fips = '065'
+fips = '031'
 
-# call(['pdftotext','-layout',sys.argv[1]])
+call(['pdftotext','-layout',sys.argv[1]])
 pages = []
 currentPage = ''
 pageNo = 0
 if not os.path.exists('results/'):
     os.makedirs('results/')
 
-with open(sys.argv[1]) as file:
-	filename = '%s.csv' % sys.argv[1].replace('.txt','')
+with open(sys.argv[1].replace('pdf','txt')) as file:
+	filename = '%s.csv' % sys.argv[1].replace('.pdf','')
 	out = open(filename,'w')
 	csvwriter = csv.writer(out)
 	# remove the top of each page (some number of lines after the )
-	resultstring = re.sub(r'(.*\n)+?(\d{4} )',r'\2',file.read(),flags=re.MULTILINE)
+	resultstring = re.sub(r'()(.*\n)+?(CONSOLIDATED \d{3,4} )',r'\3','%s' % file.read(),flags=re.MULTILINE)
 
 	# remove the bottom with precinct totals
 	resultstring = re.sub(r'(\n\nPrecinct Totals)(.*\n)+',r'',resultstring,flags=re.MULTILINE)
@@ -27,13 +27,13 @@ with open(sys.argv[1]) as file:
 	# resultstring = re.sub(r' +Turnout \(%\)\n +',',',resultstring,flags=re.MULTILINE)
 
 	# remove insufficient turnout line, while keeping numbers scattered through it
-	resultstring = re.sub(r'\*+|\s+Insufficient\n +|\n +| +Turnout\s+| +to +Protect |Voter +Privacy\n +| +\*+ *','  ',resultstring,flags=re.MULTILINE)
+	# resultstring = re.sub(r'\*+|\s+Insufficient\n +|\n +| +Turnout\s+| +to +Protect |Voter +Privacy\n +| +\*+ *','  ',resultstring,flags=re.MULTILINE)
 	
 	# replace multiple spaces with a comma
 	resultstring = re.sub(r' {2,}(?!\n)',',',resultstring,flags=re.MULTILINE)
 
 	# remove precinct names after the number (we only care about the number)
-	resultstring = re.sub(r'(\n?\d{4})( .+?,)',r'\1,',resultstring)
+	resultstring = re.sub(r'(CONSOLIDATED )(\d{3,4})( .+?,)',r'\2,',resultstring)
 	results = resultstring.split('\n')
 
 	# cut off the last leftover line
@@ -44,8 +44,8 @@ with open(sys.argv[1]) as file:
 	# column_names = ['pct16','reg','ballots','turnout','prop51_yes','prop51_no','prop52_yes','prop52_no','prop53_yes','prop53_no','prop54_yes','prop54_no']
 	# column_names = ['pct16','reg','ballots','turnout','prop55_yes','prop55_no','prop56_yes','prop56_no','prop57_yes','prop57_no','prop58_yes','prop58_no']
 	# column_names = ['pct16','reg','ballots','turnout','prop59_yes','prop59_no','prop60_yes','prop60_no','prop61_yes','prop61_no','prop62_yes','prop62_no']
-	# column_names = ['pct16','reg','ballots','turnout','prop63_yes','prop63_no','prop64_yes','prop64_no','prop65_yes','prop65_no','prop66_yes','prop66_no']
-	column_names = ['pct16','reg','ballots','turnout','prop67_yes','prop67_no']
+	column_names = ['pct16','reg','ballots','turnout','prop63_yes','prop63_no','prop64_yes','prop64_no','prop65_yes','prop65_no','prop66_yes','prop66_no']
+	# column_names = ['pct16','reg','ballots','turnout','prop67_yes','prop67_no']
 	csvwriter.writerow(column_names)
 	# print final_results[2191]
 	results_array = []
@@ -63,7 +63,7 @@ with open(sys.argv[1]) as file:
 	
 	result_table = pd.read_csv(filename,dtype={'pct16':str})
 	by_pct = result_table.groupby(['pct16']).sum()
-	by_pct.to_csv('results/%s-results.csv' % sys.argv[1].replace('.txt',''))
+	by_pct.to_csv('results/%s-results.csv' % sys.argv[1].replace('.pdf',''))
 
 	# print resultstring
 	# results = [re.findall(r'(?: *)(\d{7})(?:(\n)(.*\n){2,3} *)(Total.+)',resultstring,flags=re.MULTILINE)]
