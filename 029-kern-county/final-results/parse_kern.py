@@ -6,16 +6,19 @@ import csv, time
 # import pandas as pd
 import numpy as np
 from subprocess import call
-fips = '065'
+fips = '029'
 
 call(['pdftotext','-layout',sys.argv[1]])
 pages = []
 currentPage = ''
 pageNo = 0
-if not os.path.exists('results/'):
-    os.makedirs('results/')
 
-precinctre = re.compile("[.\n](\d{5})")
+precinctre = re.compile("[.\n](\d{5})") # a pinch of regex to find precinct number
+
+# file and header
+outfile = open(sys.argv[1][:-4]+'.csv','w')
+outfile.write('pct16,candidate,total\n')
+
 
 with open(sys.argv[1].replace('pdf','txt')) as file:
 	# extract every other page (because of write in candidates)
@@ -23,15 +26,29 @@ with open(sys.argv[1].replace('pdf','txt')) as file:
 	pages = raw.split('')
 
 	# loop through pages
+	prop = ''
 	for page in pages:
 		# look for candidate versus write in page
+		pagetype = ''
 		if 'HILLARY CLINTON' in page:
-			print 'MAIN CANDIDATE PAGE'
+			# print 'MAIN CANDIDATE PAGE'
+			pagetype = 'main'
 		elif 'EVAN MCMULLIN' in page:
-			print 'write-in page'
+			# print 'write-in page'
+			pagetype = 'writein'
+		elif 'KAMALA' in page:
+			pagetype = 'senate'
+		elif 'Yes' in page:
+			pagetype = 'prop'
+		else:
+			pagetype = "null"
 
 		lines = page.split('\n')
 		for line in lines:
+			# look for proposition
+			if 'PROPOSITION' in line:
+				prop = 'prop' + line[12:14]
+
 			# look for precinct number, which is five 
 			precinct = line[:7].strip()
 			if precinct.isdigit():
@@ -39,44 +56,24 @@ with open(sys.argv[1].replace('pdf','txt')) as file:
 				print precinct
 
 				lineindex = lines.index(line)
-				totalline = lineindex+4
-				print[int(s) for s in lines[totalline].split() if s.isdigit()]
+				totalline = lines[lineindex+4].replace(',','')
+				numbers = [int(s) for s in totalline.split() if s.isdigit()]
+
+				print numbers
+				if pagetype == 'main':
+					outfile.write('029-'+precinct+',pres_clinton,'+str(numbers[1])+'\n')
+					outfile.write('029-'+precinct+',pres_trump,'+str(numbers[3])+'\n')
+					outfile.write('029-'+precinct+',pres_johnson,'+str(numbers[4])+'\n')
+					outfile.write('029-'+precinct+',pres_stein,'+str(numbers[0])+'\n')
+					outfile.write('029-'+precinct+',pres_lariva,'+str(numbers[2])+'\n')
+				elif pagetype == 'writein':
+					outfile.write('029-'+precinct+',pres_other,'+str(numbers[0])+'\n')
+				elif pagetype == 'senate':
+					outfile.write('029-'+precinct+',ussenate_harris,'+str(numbers[1])+'\n')
+					outfile.write('029-'+precinct+',ussenate_sanchez,'+str(numbers[0])+'\n')
+				elif pagetype == 'prop':
+					outfile.write('029-'+precinct+','+prop+'_yes,'+str(numbers[0])+'\n')
+					outfile.write('029-'+precinct+','+prop+'_no,'+str(numbers[1])+'\n')
 				# print lines[lineindex+4]
 
-
-			# result = precinctre.search(line)
-			# print result
-		# print page
-		time.sleep(1)
-
-
-	# filename = 'results/%s.csv' % sys.argv[1].replace('.pdf','')
-	# out = open(filename,'w') # open out file
-	# header row
-	# out.write('pct16,total,voters,count,votes,%s_yes,yespct,%s_no,nopct\n' % (sys.argv[1].replace('.pdf',''),sys.argv[1].replace('.pdf','')))
-
-	# if "Precinct                           Precinct" in line
-
-	# resultstring = re.sub(r'(.*\n){12}( *(Jurisdiction|Total|Polling|VBM|\d{7})?)',r'\2',file.read(),flags=re.MULTILINE)
-	# resultstring = re.sub(r'(?:\n\s{3,})(Total.+)',r'\n\1',resultstring,flags=re.MULTILINE)
-	# # resultstring = re.sub(r'(?:\n\s{3,})(\w{3} \d{3}-\d{2}|MB\d{2})',r'\n\1',resultstring,flags=re.MULTILINE)
-	# print resultstring
-	# results = [re.findall(r'(?: *)(\d{7})(?:(\n)(.*\n){2,3} *)(Total.+)',resultstring,flags=re.MULTILINE)]
-	# # print results
-	# for x in range(0,len(results[0])):
-	# 	out.write('%s,%s\n' % (results[0][x][0],re.sub(r' +',',',''.join(results[0][x][len(results[0][x])-1]))))
-
-
-
-# with open(sys.argv[1].replace('pdf','txt')) as file:
-# 	filename = 'results/%s.csv' % sys.argv[1].replace('.pdf','')
-# 	out = open(filename,'w')
-# 	out.write('pct16,total,voters,count,votes,%s_yes,yespct,%s_no,nopct\n' % (sys.argv[1].replace('.pdf',''),sys.argv[1].replace('.pdf','')))
-# 	resultstring = re.sub(r'(.*\n){12}( *(Jurisdiction|Total|Polling|VBM|\d{7})?)',r'\2',file.read(),flags=re.MULTILINE)
-# 	resultstring = re.sub(r'(?:\n\s{3,})(Total.+)',r'\n\1',resultstring,flags=re.MULTILINE)
-# 	# resultstring = re.sub(r'(?:\n\s{3,})(\w{3} \d{3}-\d{2}|MB\d{2})',r'\n\1',resultstring,flags=re.MULTILINE)
-# 	print resultstring
-# 	results = [re.findall(r'(?: *)(\d{7})(?:(\n)(.*\n){2,3} *)(Total.+)',resultstring,flags=re.MULTILINE)]
-# 	# print results
-# 	for x in range(0,len(results[0])):
-# 		out.write('%s,%s\n' % (results[0][x][0],re.sub(r' +',',',''.join(results[0][x][len(results[0][x])-1]))))
+outfile.close()
