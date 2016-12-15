@@ -1,0 +1,2148 @@
+                                                                  Regular/Absentee/Voting Pct Xref (Summary - Regular Pct Order)
+                                                                                       General Election - 11/8/2016
+  Regular Precinct                         Absentee      Voting Precinct        MB?   Bal Type     Regular Precinct   Absentee         Voting Precinct       MB?   Bal Type
+
+  102001 Exeter                            8102801     102801 - MB EXETER       Yes        1     102042 Exeter        8102801    102801 - MB EXETER          Yes        1
+
+  102002 Exeter                            8102801     102801 - MB EXETER       Yes        1     102043 Exeter        8102801    102801 - MB EXETER          Yes        1
+
+  102003 Exeter                            8102801     102801 - MB EXETER       Yes        1     103001 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102004 Exeter                            8102004     102004 - EXETER MEM 1               1     103002 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102005 Exeter                            8102802     102802 - MB EXETER       Yes        2     103003 Lindsay       8103003    103003 - LINDSAY MEM                   4
+
+  102006 Exeter                            8102801     102801 - MB EXETER       Yes        1     103004 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102007 Exeter                            8102801     102801 - MB EXETER       Yes        1     103005 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102008 Exeter                            8102801     102801 - MB EXETER       Yes        1     103006 Lindsay       8103003    103003 - LINDSAY MEM                   4
+
+  102009 Exeter                            8102801     102801 - MB EXETER       Yes        1     103007 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102010 Exeter                            8102801     102801 - MB EXETER       Yes        1     103008 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102011 Exeter                            8102801     102801 - MB EXETER       Yes        1     103009 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102012 Exeter                            8102801     102801 - MB EXETER       Yes        1     103010 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102013 Exeter                            8102801     102801 - MB EXETER       Yes        1     103011 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102014 Exeter                            8102801     102801 - MB EXETER       Yes        1     103012 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102015 Exeter                            8102801     102801 - MB EXETER       Yes        1     103013 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102016 Exeter                            8102004     102004 - EXETER MEM 1               1     103014 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102017 Exeter                            8102801     102801 - MB EXETER       Yes        1     103015 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102018 Exeter                            8102801     102801 - MB EXETER       Yes        1     103016 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102020 Exeter                            8102801     102801 - MB EXETER       Yes        1     103017 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102021 Exeter                            8102801     102801 - MB EXETER       Yes        1     103018 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102022 Exeter                            8102022     102022 - EXETER MEM 2               2     103019 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102023 Exeter                            8102801     102801 - MB EXETER       Yes        1     103020 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102024 Exeter                            8102802     102802 - MB EXETER       Yes        2     103021 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102025 Exeter                            8102801     102801 - MB EXETER       Yes        1     103022 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102026 Exeter                            8102801     102801 - MB EXETER       Yes        1     103023 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102027 Exeter                            8102801     102801 - MB EXETER       Yes        1     103024 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102028 Exeter                            8102801     102801 - MB EXETER       Yes        1     103025 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102029 Exeter                            8102801     102801 - MB EXETER       Yes        1     103026 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102030 Exeter                            8102801     102801 - MB EXETER       Yes        1     103027 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102031 Exeter                            8102801     102801 - MB EXETER       Yes        1     103028 Lindsay       8103801    103801 - MB LINDSAY         Yes        4
+
+  102032 Exeter                            8102801     102801 - MB EXETER       Yes        1     106001 Visalia       8106801    106801 - MB VISALIA         Yes        5
+
+  102033 Exeter                            8102801     102801 - MB EXETER       Yes        1     106002 Visalia       8106002    106002 - SIERRA BAPTIST 2              6
+
+  102034 Exeter                            8102801     102801 - MB EXETER       Yes        1     106003 Visalia       8106003    106003 - CAL FIRE 1                    6
+
+  102035 Exeter                            8102801     102801 - MB EXETER       Yes        1     106004 Visalia       8106004    106004 - SIERRA BAPTIST 1              5
+
+  102036 Exeter                            8102802     102802 - MB EXETER       Yes        2     106005 Visalia       8106003    106003 - CAL FIRE 1                    6
+
+  102037 Exeter                            8102802     102802 - MB EXETER       Yes        2     106006 Visalia       8106004    106004 - SIERRA BAPTIST 1              5
+
+  102038 Exeter                            8102803     102803 - MB EXETER       Yes        3     106007 Visalia       8106007    106007 - CAL FIRE 2                    6
+
+
+
+
+                                                                                                                                                                              C-1
+  102039 Exeter                            8102803     102803 - MB EXETER       Yes        3     106008 Visalia       8106802    106802 - MB VISALIA         Yes        6
+
+  102040 Exeter                            8102801     102801 - MB EXETER       Yes        1     106009 Visalia       8106007    106007 - CAL FIRE 2                    6
+
+  102041 Exeter                            8102801     102801 - MB EXETER       Yes        1     106010 Visalia       8106004    106004 - SIERRA BAPTIST 1              5
+
+
+EWMR010 Regular/Absentee/Voting Pct Xref (Summary) Regular Pct Order
+Printed: 12/5/2016 10:11:39AM
+  Regular Precinct                         Absentee      Voting Precinct               MB?   Bal Type     Regular Precinct    Absentee         Voting Precinct      MB?   Bal Type
+
+  106011 Visalia                           8106002     106002 - SIERRA BAPTIST 2                  6     199008 Tulare         8199807    199807 - MB SUNDALE        Yes       12
+
+  106012 Visalia                           8106802     106802 - MB VISALIA             Yes        6     199009 Tulare         8199810    199810 - MB TULARE         Yes       13
+
+  106013 Visalia                           8106802     106802 - MB VISALIA             Yes        6     199010 Tulare         8199807    199807 - MB SUNDALE        Yes       12
+
+  106014 Visalia                           8106002     106002 - SIERRA BAPTIST 2                  6     199011 Woodville      8199807    199807 - MB SUNDALE        Yes       12
+
+  106015 Visalia                           8106002     106002 - SIERRA BAPTIST 2                  6     199012 Strathmore     8199809    199809 - MB STRATHMORE     Yes       13
+
+  106016 Visalia                           8106002     106002 - SIERRA BAPTIST 2                  6     199013 Strathmore     8199809    199809 - MB STRATHMORE     Yes       13
+
+  106017 Visalia                           8106801     106801 - MB VISALIA             Yes        5     199014 Strathmore     8199809    199809 - MB STRATHMORE     Yes       13
+
+  106901 Visalia                           8106901     106901 - GRACE COMMUNITY 1                 7     199015 Strathmore     8199811    199811 - MB STRATHMORE     Yes       14
+
+  106902 Visalia                           8106901     106901 - GRACE COMMUNITY 1                 7     199016 Strathmore     8199811    199811 - MB STRATHMORE     Yes       14
+
+  106903 Visalia                           8106901     106901 - GRACE COMMUNITY 1                 7     199017 Woodville      8199812    199812 - MB WOODVILLE      Yes       15
+
+  106904 Visalia                           8106901     106901 - GRACE COMMUNITY 1                 7     199018 Woodville      8199813    199813 - MB WOODVILLE      Yes       16
+
+  106905 Visalia                           8106803     106803 - MB VISALIA             Yes        7     199019 Woodville      8199812    199812 - MB WOODVILLE      Yes       15
+
+  106906 Visalia                           8106901     106901 - GRACE COMMUNITY 1                 7     199020 Visalia        8199805    199805 - MB FARMERSVILLE   Yes        3
+
+  106907 Visalia                           8106907     106907 - GRACE COMMUNITY 2                 7     199021 Lindsay        8199806    199806 - MB LINDSAY        Yes        4
+
+  106908 Visalia                           8106803     106803 - MB VISALIA             Yes        7     199022 Woodville      8199812    199812 - MB WOODVILLE      Yes       15
+
+  106909 Visalia                           8106907     106907 - GRACE COMMUNITY 2                 7     199023 Woodville      8199812    199812 - MB WOODVILLE      Yes       15
+
+  106910 Visalia                           8106901     106901 - GRACE COMMUNITY 1                 7     199024 Woodville      8199812    199812 - MB WOODVILLE      Yes       15
+
+  106911 Visalia                           8106803     106803 - MB VISALIA             Yes        7     199025 Woodville      8199812    199812 - MB WOODVILLE      Yes       15
+
+  106912 Visalia                           8106907     106907 - GRACE COMMUNITY 2                 7     199026 Strathmore     8199809    199809 - MB STRATHMORE     Yes       13
+
+  106913 Visalia                           8106803     106803 - MB VISALIA             Yes        7     199027 Visalia        8199814    199814 - MB VISALIA        Yes       17
+
+  106914 Visalia                           8106804     106804 - MB VISALIA             Yes        8     199028 Woodville      8199812    199812 - MB WOODVILLE      Yes       15
+
+  106915 Visalia                           8106803     106803 - MB VISALIA             Yes        7     199029 Tulare         8199804    199804 - MB FARMERSVILLE   Yes        3
+
+  106916 Visalia                           8106804     106804 - MB VISALIA             Yes        8     199030 Woodville      8199812    199812 - MB WOODVILLE      Yes       15
+
+  106917 Visalia                           8106803     106803 - MB VISALIA             Yes        7     199031 Woodville      8199812    199812 - MB WOODVILLE      Yes       15
+
+  106918 Visalia                           8106802     106802 - MB VISALIA             Yes        6     199032 Woodville      8199812    199812 - MB WOODVILLE      Yes       15
+
+  106920 Visalia                           8106907     106907 - GRACE COMMUNITY 2                 7     199033 Woodville      8199812    199812 - MB WOODVILLE      Yes       15
+
+  108001 Farmersville                      8108801     108801 - MB FARMERSVILLE        Yes        9     199034 Tulare         8199805    199805 - MB FARMERSVILLE   Yes        3
+
+  108002 Farmersville                      8108801     108801 - MB FARMERSVILLE        Yes        9     199035 Tulare         8199808    199808 - MB TULARE         Yes       12
+
+  108003 Farmersville                      8108801     108801 - MB FARMERSVILLE        Yes        9     199036 Woodville      8199815    199815 - MB WOODVILLE      Yes       18
+
+  108004 Farmersville                      8108801     108801 - MB FARMERSVILLE        Yes        9     199037 Woodville      8199812    199812 - MB WOODVILLE      Yes       15
+
+  108005 Farmersville                      8108005     108005 - FARMERSVILLE CI HALL             10     199038 Woodville      8199812    199812 - MB WOODVILLE      Yes       15
+
+  108006 Farmersville                      8108005     108005 - FARMERSVILLE CI HALL             10     199039 Woodville      8199812    199812 - MB WOODVILLE      Yes       15
+
+  108007 Farmersville                      8108005     108005 - FARMERSVILLE CI HALL             10     199040 Woodville      8199812    199812 - MB WOODVILLE      Yes       15
+
+  108008 Farmersville                      8108005     108005 - FARMERSVILLE CI HALL             10     199041 Visalia        8199817    199817 - MB VISALIA        Yes       19
+
+  108009 Farmersville                      8108802     108802 - MB FARMERSVILLE        Yes       11     199101 Farmersville   8199818    199818 - MB FARMERSVILLE   Yes       20
+
+  108010 Farmersville                      8108005     108005 - FARMERSVILLE CI HALL             10     199102 Visalia        8199805    199805 - MB FARMERSVILLE   Yes        3
+
+  199001 Farmersville                      8199804     199804 - MB FARMERSVILLE        Yes        3     199103 Farmersville   8199804    199804 - MB FARMERSVILLE   Yes        3
+
+  199002 Farmersville                      8199805     199805 - MB FARMERSVILLE        Yes        3     199104 Farmersville   8199805    199805 - MB FARMERSVILLE   Yes        3
+
+  199003 Farmersville                      8199805     199805 - MB FARMERSVILLE        Yes        3     199105 Visalia        8199805    199805 - MB FARMERSVILLE   Yes        3
+
+  199004 Visalia                           8199805     199805 - MB FARMERSVILLE        Yes        3     199106 Farmersville   8199805    199805 - MB FARMERSVILLE   Yes        3
+                                           8199807     199807 - MB SUNDALE             Yes       12                           8199802    199802 - MB LINDSAY        Yes        1
+
+
+
+
+                                                                                                                                                                                     C-2
+  199005 Sundale                                                                                        199107 Farmersville
+  199006 Tulare                            8199808     199808 - MB TULARE              Yes       12     199108 Farmersville   8199819    199819 - MB FARMERSVILLE   Yes       20
+
+  199007 Sundale                           8199807     199807 - MB SUNDALE             Yes       12     199109 Farmersville   8199818    199818 - MB FARMERSVILLE   Yes       20
+
+EWMR010 Regular/Absentee/Voting Pct Xref (Summary) Regular Pct Order
+Printed: 12/5/2016 10:11:40AM
+  Regular Precinct                         Absentee      Voting Precinct             MB?   Bal Type     Regular Precinct     Absentee        Voting Precinct          MB?   Bal Type
+
+  199110 Visalia                           8199817     199817 - MB VISALIA           Yes       19     199320 Three Rivers    8199320    199320 - THREE RIVERS MEM 1             25
+
+  199111 Visalia                           8199817     199817 - MB VISALIA           Yes       19     199321 Three Rivers    8199320    199320 - THREE RIVERS MEM 1             25
+
+  199112 Visalia                           8199817     199817 - MB VISALIA           Yes       19     199322 Woodlake        8199829    199829 - MB THREE RIVERS      Yes       26
+
+  199113 Farmersville                      8199817     199817 - MB VISALIA           Yes       19     199323 Three Rivers    8199829    199829 - MB THREE RIVERS      Yes       26
+
+  199114 Visalia                           8199817     199817 - MB VISALIA           Yes       19     199324 Yokohl Valley   8199822    199822 - MB YOKOHL VALLEY     Yes       22
+
+  199115 Farmersville                      8199816     199816 - MB FARMERSVILLE      Yes       19     199325 Three Rivers    8199829    199829 - MB THREE RIVERS      Yes       26
+
+  199116 Farmersville                      8199817     199817 - MB VISALIA           Yes       19     199326 Three Rivers    8199829    199829 - MB THREE RIVERS      Yes       26
+
+  199117 Farmersville                      8199820     199820 - MB FARMERSVILLE      Yes       21     199327 Three Rivers    8199829    199829 - MB THREE RIVERS      Yes       26
+
+  199118 Farmersville                      8199821     199821 - MB FARMERSVILLE      Yes       21     199328 Three Rivers    8199829    199829 - MB THREE RIVERS      Yes       26
+
+  199119 Farmersville                      8199821     199821 - MB FARMERSVILLE      Yes       21     199329 Three Rivers    8199829    199829 - MB THREE RIVERS      Yes       26
+
+  199120 Farmersville                      8199821     199821 - MB FARMERSVILLE      Yes       21     199330 Three Rivers    8199829    199829 - MB THREE RIVERS      Yes       26
+
+  199121 Farmersville                      8199821     199821 - MB FARMERSVILLE      Yes       21     199331 Three Rivers    8199827    199827 - MB LEMON COVE        Yes       25
+
+  199122 Visalia                           8199817     199817 - MB VISALIA           Yes       19     199332 Three Rivers    8199827    199827 - MB LEMON COVE        Yes       25
+
+  199123 Visalia                           8199817     199817 - MB VISALIA           Yes       19     199333 Three Rivers    8199828    199828 - MB THREE RIVERS      Yes       25
+
+  199124 Farmersville                      8199802     199802 - MB LINDSAY           Yes        1     199334 Woodlake        8199829    199829 - MB THREE RIVERS      Yes       26
+
+  199125 Visalia                           8199817     199817 - MB VISALIA           Yes       19     199335 Three Rivers    8199829    199829 - MB THREE RIVERS      Yes       26
+
+  199126 Visalia                           8199817     199817 - MB VISALIA           Yes       19     199336 Lemon Cove      8199826    199826 - MB LEMON COVE        Yes       24
+
+  199127 Visalia                           8199817     199817 - MB VISALIA           Yes       19     199337 Lemon Cove      8199826    199826 - MB LEMON COVE        Yes       24
+
+  199129 Visalia                           8199805     199805 - MB FARMERSVILLE      Yes        3     199338 Three Rivers    8199828    199828 - MB THREE RIVERS      Yes       25
+
+  199130 Visalia                           8199805     199805 - MB FARMERSVILLE      Yes        3     199339 Three Rivers    8199828    199828 - MB THREE RIVERS      Yes       25
+
+  199132 Visalia                           8199805     199805 - MB FARMERSVILLE      Yes        3     199340 Lemon Cove      8199827    199827 - MB LEMON COVE        Yes       25
+
+  199133 Farmersville                      8199817     199817 - MB VISALIA           Yes       19     199341 Lemon Cove      8199827    199827 - MB LEMON COVE        Yes       25
+
+  199135 Visalia                           8199817     199817 - MB VISALIA           Yes       19     199342 Lemon Cove      8199828    199828 - MB THREE RIVERS      Yes       25
+
+  199136 Visalia                           8199817     199817 - MB VISALIA           Yes       19     199343 Lemon Cove      8199828    199828 - MB THREE RIVERS      Yes       25
+
+  199301 Yokohl Valley                     8199822     199822 - MB YOKOHL VALLEY     Yes       22     199344 Three Rivers    8199829    199829 - MB THREE RIVERS      Yes       26
+
+  199302 Yokohl Valley                     8199824     199824 - MB YOKOHL VALLEY     Yes       23     199345 Three Rivers    8199829    199829 - MB THREE RIVERS      Yes       26
+
+  199303 Yokohl Valley                     8199822     199822 - MB YOKOHL VALLEY     Yes       22     199347 Three Rivers    8199827    199827 - MB LEMON COVE        Yes       25
+
+  199304 Three Rivers                      8199825     199825 - MB THREE RIVERS      Yes       24     199348 Three Rivers    8199827    199827 - MB LEMON COVE        Yes       25
+
+  199305 Lemon Cove                        8199827     199827 - MB LEMON COVE        Yes       25     199349 Three Rivers    8199827    199827 - MB LEMON COVE        Yes       25
+
+  199306 Three Rivers                      8199827     199827 - MB LEMON COVE        Yes       25     199350 Three Rivers    8199825    199825 - MB THREE RIVERS      Yes       24
+
+  199307 Three Rivers                      8199307     199307 - THREE RIVERS MEM 2             26     199351 Lemon Cove      8199827    199827 - MB LEMON COVE        Yes       25
+
+  199308 Three Rivers                      8199827     199827 - MB LEMON COVE        Yes       25     199352 Lemon Cove      8199827    199827 - MB LEMON COVE        Yes       25
+
+  199309 Three Rivers                      8199829     199829 - MB THREE RIVERS      Yes       26     199353 Three Rivers    8199829    199829 - MB THREE RIVERS      Yes       26
+
+  199310 Three Rivers                      8199829     199829 - MB THREE RIVERS      Yes       26     199354 Lemon Cove      8199826    199826 - MB LEMON COVE        Yes       24
+
+  199311 Three Rivers                      8199829     199829 - MB THREE RIVERS      Yes       26     199401 Yokohl Valley   8199822    199822 - MB YOKOHL VALLEY     Yes       22
+
+  199312 Three Rivers                      8199829     199829 - MB THREE RIVERS      Yes       26     199402 Exeter          8199823    199823 - MB EXETER            Yes       23
+
+  199313 Three Rivers                      8199829     199829 - MB THREE RIVERS      Yes       26     199403 Exeter          8199824    199824 - MB YOKOHL VALLEY     Yes       23
+
+  199314 Three Rivers                      8199829     199829 - MB THREE RIVERS      Yes       26     199404 Yokohl Valley   8199824    199824 - MB YOKOHL VALLEY     Yes       23
+
+  199315 Three Rivers                      8199829     199829 - MB THREE RIVERS      Yes       26     199405 Exeter          8199805    199805 - MB FARMERSVILLE      Yes        3
+
+  199316 Three Rivers                      8199827     199827 - MB LEMON COVE        Yes       25     199406 Lindsay         8199806    199806 - MB LINDSAY           Yes        4
+
+
+
+
+                                                                                                                                                                                       C-3
+  199317 Three Rivers                      8199827     199827 - MB LEMON COVE        Yes       25     199407 Exeter          8199819    199819 - MB FARMERSVILLE      Yes       20
+
+  199318 Three Rivers                      8199827     199827 - MB LEMON COVE        Yes       25     199408 Exeter          8199802    199802 - MB LINDSAY           Yes        1
+
+  199319 Three Rivers                      8199827     199827 - MB LEMON COVE        Yes       25     199409 Exeter          8199801    199801 - MB LINDSAY           Yes        1
+
+EWMR010 Regular/Absentee/Voting Pct Xref (Summary) Regular Pct Order
+Printed: 12/5/2016 10:11:40AM
+  Regular Precinct                         Absentee      Voting Precinct           MB?   Bal Type     Regular Precinct     Absentee        Voting Precinct        MB?   Bal Type
+
+  199410 Lindsay                           8199804     199804 - MB FARMERSVILLE    Yes        3     199453 Exeter          8199826    199826 - MB LEMON COVE      Yes       24
+
+  199411 Exeter                            8199824     199824 - MB YOKOHL VALLEY   Yes       23     199454 Woodlake        8199834    199834 - MB WOODLAKE        Yes       30
+
+  199412 Exeter                            8199824     199824 - MB YOKOHL VALLEY   Yes       23     199455 Exeter          8199826    199826 - MB LEMON COVE      Yes       24
+
+  199413 Lindsay                           8199830     199830 - MB LINDSAY         Yes       27     199456 Exeter          8199805    199805 - MB FARMERSVILLE    Yes        3
+
+  199414 Lindsay                           8199806     199806 - MB LINDSAY         Yes        4     199457 Exeter          8199802    199802 - MB LINDSAY         Yes        1
+
+  199415 Exeter                            8199805     199805 - MB FARMERSVILLE    Yes        3     199458 Exeter          8199805    199805 - MB FARMERSVILLE    Yes        3
+
+  199416 Exeter                            8199804     199804 - MB FARMERSVILLE    Yes        3     199459 Exeter          8199802    199802 - MB LINDSAY         Yes        1
+
+  199417 Exeter                            8199804     199804 - MB FARMERSVILLE    Yes        3     199460 Exeter          8199835    199835 - MB EXETER          Yes       31
+
+  199418 Exeter                            8199824     199824 - MB YOKOHL VALLEY   Yes       23     199461 Exeter          8199828    199828 - MB THREE RIVERS    Yes       25
+
+  199419 Lindsay                           8199823     199823 - MB EXETER          Yes       23     199462 Exeter          8199826    199826 - MB LEMON COVE      Yes       24
+
+  199420 Lindsay                           8199823     199823 - MB EXETER          Yes       23     199463 Lemon Cove      8199826    199826 - MB LEMON COVE      Yes       24
+
+  199421 Lindsay                           8199806     199806 - MB LINDSAY         Yes        4     199464 Woodlake        8199826    199826 - MB LEMON COVE      Yes       24
+
+  199422 Lindsay                           8199806     199806 - MB LINDSAY         Yes        4     199465 Exeter          8199826    199826 - MB LEMON COVE      Yes       24
+
+  199423 Lindsay                           8199806     199806 - MB LINDSAY         Yes        4     199466 Exeter          8199826    199826 - MB LEMON COVE      Yes       24
+
+  199424 Lindsay                           8199804     199804 - MB FARMERSVILLE    Yes        3     199467 Woodlake        8199833    199833 - MB WOODLAKE        Yes       29
+
+  199425 Exeter                            8199802     199802 - MB LINDSAY         Yes        1     199468 Exeter          8199802    199802 - MB LINDSAY         Yes        1
+
+  199426 Exeter                            8199832     199832 - MB EXETER          Yes       28     199469 Exeter          8199802    199802 - MB LINDSAY         Yes        1
+
+  199427 Lindsay                           8199806     199806 - MB LINDSAY         Yes        4     199470 Exeter          8199802    199802 - MB LINDSAY         Yes        1
+
+  199428 Lindsay                           8199806     199806 - MB LINDSAY         Yes        4     199471 Exeter          8199802    199802 - MB LINDSAY         Yes        1
+
+  199429 Exeter                            8199805     199805 - MB FARMERSVILLE    Yes        3     199472 Exeter          8199802    199802 - MB LINDSAY         Yes        1
+
+  199430 Lindsay                           8199806     199806 - MB LINDSAY         Yes        4     199473 Exeter          8199826    199826 - MB LEMON COVE      Yes       24
+
+  199431 Lindsay                           8199806     199806 - MB LINDSAY         Yes        4     199474 Woodlake        8199826    199826 - MB LEMON COVE      Yes       24
+
+  199432 Lindsay                           8199806     199806 - MB LINDSAY         Yes        4     199475 Exeter          8199802    199802 - MB LINDSAY         Yes        1
+
+  199433 Exeter                            8199802     199802 - MB LINDSAY         Yes        1     199476 Exeter          8199802    199802 - MB LINDSAY         Yes        1
+
+  199434 Exeter                            8199803     199803 - MB EXETER          Yes        2     199477 Exeter          8199802    199802 - MB LINDSAY         Yes        1
+
+  199435 Exeter                            8199802     199802 - MB LINDSAY         Yes        1     199478 Exeter          8199835    199835 - MB EXETER          Yes       31
+
+  199436 Exeter                            8199805     199805 - MB FARMERSVILLE    Yes        3     199479 Exeter          8199835    199835 - MB EXETER          Yes       31
+
+  199437 Exeter                            8199805     199805 - MB FARMERSVILLE    Yes        3     199480 Yokohl Valley   8199836    199836 - MB YOKOHL VALLEY   Yes       32
+
+  199438 Exeter                            8199824     199824 - MB YOKOHL VALLEY   Yes       23     199481 Exeter          8199822    199822 - MB YOKOHL VALLEY   Yes       22
+
+  199439 Exeter                            8199803     199803 - MB EXETER          Yes        2     199482 Exeter          8199802    199802 - MB LINDSAY         Yes        1
+
+  199440 Exeter                            8199803     199803 - MB EXETER          Yes        2     199483 Exeter          8199805    199805 - MB FARMERSVILLE    Yes        3
+
+  199441 Exeter                            8199803     199803 - MB EXETER          Yes        2     199484 Exeter          8199802    199802 - MB LINDSAY         Yes        1
+
+  199442 Exeter                            8199802     199802 - MB LINDSAY         Yes        1     199485 Exeter          8199802    199802 - MB LINDSAY         Yes        1
+
+  199443 Exeter                            8199832     199832 - MB EXETER          Yes       28     199486 Woodlake        8199826    199826 - MB LEMON COVE      Yes       24
+
+  199444 Lindsay                           8199806     199806 - MB LINDSAY         Yes        4     199487 Exeter          8199826    199826 - MB LEMON COVE      Yes       24
+
+  199445 Exeter                            8199802     199802 - MB LINDSAY         Yes        1     199488 Exeter          8199826    199826 - MB LEMON COVE      Yes       24
+
+  199446 Exeter                            8199805     199805 - MB FARMERSVILLE    Yes        3     199489 Exeter          8199826    199826 - MB LEMON COVE      Yes       24
+
+  199447 Exeter                            8199804     199804 - MB FARMERSVILLE    Yes        3     199491 Lindsay         8199831    199831 - MB LINDSAY         Yes       27
+
+  199448 Exeter                            8199826     199826 - MB LEMON COVE      Yes       24     199492 Lindsay         8199831    199831 - MB LINDSAY         Yes       27
+
+  199449 Yokohl Valley                     8199828     199828 - MB THREE RIVERS    Yes       25     199501 Lindsay         8199830    199830 - MB LINDSAY         Yes       27
+
+
+
+
+                                                                                                                                                                                   C-4
+  199450 Exeter                            8199802     199802 - MB LINDSAY         Yes        1     199502 Strathmore      8199837    199837 - MB STRATHMORE      Yes       33
+
+  199451 Woodlake                          8199833     199833 - MB WOODLAKE        Yes       29     199503 Porterville     8199837    199837 - MB STRATHMORE      Yes       33
+
+  199452 Woodlake                          8199826     199826 - MB LEMON COVE      Yes       24     199504 Lindsay         8199830    199830 - MB LINDSAY         Yes       27
+
+EWMR010 Regular/Absentee/Voting Pct Xref (Summary) Regular Pct Order
+Printed: 12/5/2016 10:11:40AM
+  Regular Precinct                         Absentee      Voting Precinct        MB?   Bal Type     Regular Precinct   Absentee        Voting Precinct     MB?   Bal Type
+
+  199505 Lindsay                           8199830     199830 - MB LINDSAY      Yes       27     199548 Lindsay       8199831    199831 - MB LINDSAY      Yes       27
+
+  199506 Strathmore                        8199839     199839 - MB STRATHMORE   Yes       34     199549 Lindsay       8199831    199831 - MB LINDSAY      Yes       27
+
+  199507 Strathmore                        8199837     199837 - MB STRATHMORE   Yes       33     199550 Lindsay       8199831    199831 - MB LINDSAY      Yes       27
+
+  199508 Lindsay                           8199838     199838 - MB LINDSAY      Yes       33     199551 Lindsay       8199831    199831 - MB LINDSAY      Yes       27
+
+  199509 Lindsay                           8199830     199830 - MB LINDSAY      Yes       27     199552 Lindsay       8199831    199831 - MB LINDSAY      Yes       27
+
+  199510 Lindsay                           8199831     199831 - MB LINDSAY      Yes       27     199553 Porterville   8199837    199837 - MB STRATHMORE   Yes       33
+
+  199511 Lindsay                           8199830     199830 - MB LINDSAY      Yes       27     199554 Strathmore    8199837    199837 - MB STRATHMORE   Yes       33
+
+  199512 Lindsay                           8199806     199806 - MB LINDSAY      Yes        4     199555 Strathmore    8199837    199837 - MB STRATHMORE   Yes       33
+
+  199513 Lindsay                           8199831     199831 - MB LINDSAY      Yes       27     199556 Strathmore    8199837    199837 - MB STRATHMORE   Yes       33
+
+  199514 Lindsay                           8199830     199830 - MB LINDSAY      Yes       27     199557 Strathmore    8199837    199837 - MB STRATHMORE   Yes       33
+
+  199515 Lindsay                           8199806     199806 - MB LINDSAY      Yes        4     199558 Strathmore    8199837    199837 - MB STRATHMORE   Yes       33
+
+  199516 Porterville                       8199837     199837 - MB STRATHMORE   Yes       33     199559 Lindsay       8199830    199830 - MB LINDSAY      Yes       27
+
+  199517 Lindsay                           8199837     199837 - MB STRATHMORE   Yes       33     199560 Strathmore    8199837    199837 - MB STRATHMORE   Yes       33
+
+  199518 Lindsay                           8199838     199838 - MB LINDSAY      Yes       33     199561 Strathmore    8199837    199837 - MB STRATHMORE   Yes       33
+
+  199519 Strathmore                        8199837     199837 - MB STRATHMORE   Yes       33     199562 Strathmore    8199839    199839 - MB STRATHMORE   Yes       34
+
+  199520 Strathmore                        8199837     199837 - MB STRATHMORE   Yes       33     199563 Lindsay       8199830    199830 - MB LINDSAY      Yes       27
+
+  199521 Strathmore                        8199837     199837 - MB STRATHMORE   Yes       33     199564 Lindsay       8199806    199806 - MB LINDSAY      Yes        4
+
+  199522 Lindsay                           8199806     199806 - MB LINDSAY      Yes        4     199565 Lindsay       8199806    199806 - MB LINDSAY      Yes        4
+
+  199523 Lindsay                           8199806     199806 - MB LINDSAY      Yes        4     199566 Lindsay       8199830    199830 - MB LINDSAY      Yes       27
+
+  199524 Lindsay                           8199830     199830 - MB LINDSAY      Yes       27     199567 Lindsay       8199806    199806 - MB LINDSAY      Yes        4
+
+  199525 Lindsay                           8199806     199806 - MB LINDSAY      Yes        4     199568 Lindsay       8199830    199830 - MB LINDSAY      Yes       27
+
+  199526 Lindsay                           8199806     199806 - MB LINDSAY      Yes        4     199569 Lindsay       8199831    199831 - MB LINDSAY      Yes       27
+
+  199527 Lindsay                           8199830     199830 - MB LINDSAY      Yes       27     199570 Strathmore    8199839    199839 - MB STRATHMORE   Yes       34
+
+  199528 Lindsay                           8199830     199830 - MB LINDSAY      Yes       27     199571 Strathmore    8199837    199837 - MB STRATHMORE   Yes       33
+
+  199529 Strathmore                        8199837     199837 - MB STRATHMORE   Yes       33     199572 Strathmore    8199837    199837 - MB STRATHMORE   Yes       33
+
+  199530 Strathmore                        8199837     199837 - MB STRATHMORE   Yes       33     199573 Lindsay       8199831    199831 - MB LINDSAY      Yes       27
+
+  199531 Porterville                       8199837     199837 - MB STRATHMORE   Yes       33     199576 Strathmore    8199839    199839 - MB STRATHMORE   Yes       34
+
+  199532 Porterville                       8199837     199837 - MB STRATHMORE   Yes       33     199577 Strathmore    8199837    199837 - MB STRATHMORE   Yes       33
+
+  199533 Strathmore                        8199837     199837 - MB STRATHMORE   Yes       33     199578 Strathmore    8199839    199839 - MB STRATHMORE   Yes       34
+
+  199534 Strathmore                        8199837     199837 - MB STRATHMORE   Yes       33     199579 Strathmore    8199839    199839 - MB STRATHMORE   Yes       34
+
+  199535 Strathmore                        8199837     199837 - MB STRATHMORE   Yes       33     199580 Strathmore    8199839    199839 - MB STRATHMORE   Yes       34
+
+  199536 Strathmore                        8199837     199837 - MB STRATHMORE   Yes       33     199581 Strathmore    8199837    199837 - MB STRATHMORE   Yes       33
+
+  199537 Lindsay                           8199806     199806 - MB LINDSAY      Yes        4     199582 Strathmore    8199837    199837 - MB STRATHMORE   Yes       33
+
+  199538 Lindsay                           8199840     199840 - MB LINDSAY      Yes       34     199583 Lindsay       8199839    199839 - MB STRATHMORE   Yes       34
+
+  199539 Lindsay                           8199840     199840 - MB LINDSAY      Yes       34     199584 Strathmore    8199837    199837 - MB STRATHMORE   Yes       33
+
+  199540 Strathmore                        8199837     199837 - MB STRATHMORE   Yes       33     199585 Strathmore    8199837    199837 - MB STRATHMORE   Yes       33
+
+  199541 Strathmore                        8199839     199839 - MB STRATHMORE   Yes       34     199586 Strathmore    8199837    199837 - MB STRATHMORE   Yes       33
+
+  199542 Lindsay                           8199839     199839 - MB STRATHMORE   Yes       34     199587 Strathmore    8199837    199837 - MB STRATHMORE   Yes       33
+
+  199543 Lindsay                           8199840     199840 - MB LINDSAY      Yes       34     199588 Strathmore    8199837    199837 - MB STRATHMORE   Yes       33
+
+  199544 Lindsay                           8199840     199840 - MB LINDSAY      Yes       34     199589 Strathmore    8199839    199839 - MB STRATHMORE   Yes       34
+
+
+
+
+                                                                                                                                                                           C-5
+  199545 Lindsay                           8199840     199840 - MB LINDSAY      Yes       34     199590 Strathmore    8199837    199837 - MB STRATHMORE   Yes       33
+
+  199546 Lindsay                           8199831     199831 - MB LINDSAY      Yes       27     199591 Strathmore    8199839    199839 - MB STRATHMORE   Yes       34
+
+  199547 Lindsay                           8199831     199831 - MB LINDSAY      Yes       27     199592 Strathmore    8199839    199839 - MB STRATHMORE   Yes       34
+
+EWMR010 Regular/Absentee/Voting Pct Xref (Summary) Regular Pct Order
+Printed: 12/5/2016 10:11:40AM
+  Regular Precinct                         Absentee      Voting Precinct          MB?   Bal Type     Regular Precinct   Absentee        Voting Precinct      MB?   Bal Type
+
+  199593 Strathmore                        8199837     199837 - MB STRATHMORE     Yes       33     199637 Lindsay       8199801    199801 - MB LINDSAY       Yes        1
+
+  199594 Strathmore                        8199837     199837 - MB STRATHMORE     Yes       33     199638 Strathmore    8199809    199809 - MB STRATHMORE    Yes       13
+
+  199595 Strathmore                        8199837     199837 - MB STRATHMORE     Yes       33     199639 Strathmore    8199841    199841 - MB LINDSAY       Yes       35
+
+  199596 Strathmore                        8199837     199837 - MB STRATHMORE     Yes       33     199640 Lindsay       8199806    199806 - MB LINDSAY       Yes        4
+
+  199597 Porterville                       8199837     199837 - MB STRATHMORE     Yes       33     199641 Lindsay       8199806    199806 - MB LINDSAY       Yes        4
+
+  199598 Lindsay                           8199839     199839 - MB STRATHMORE     Yes       34     199642 Lindsay       8199830    199830 - MB LINDSAY       Yes       27
+
+  199599 Strathmore                        8199839     199839 - MB STRATHMORE     Yes       34     199643 Lindsay       8199806    199806 - MB LINDSAY       Yes        4
+
+  199601 Lindsay                           8199806     199806 - MB LINDSAY        Yes        4     199644 Strathmore    8199809    199809 - MB STRATHMORE    Yes       13
+
+  199602 Lindsay                           8199801     199801 - MB LINDSAY        Yes        1     199645 Strathmore    8199811    199811 - MB STRATHMORE    Yes       14
+
+  199603 Lindsay                           8199804     199804 - MB FARMERSVILLE   Yes        3     199646 Strathmore    8199844    199844 - MB STRATHMORE    Yes       38
+
+  199604 Lindsay                           8199806     199806 - MB LINDSAY        Yes        4     199647 Strathmore    8199845    199845 - MB STRATHMORE    Yes       39
+
+  199605 Lindsay                           8199806     199806 - MB LINDSAY        Yes        4     199648 Strathmore    8199837    199837 - MB STRATHMORE    Yes       33
+
+  199606 Lindsay                           8199806     199806 - MB LINDSAY        Yes        4     199649 Strathmore    8199837    199837 - MB STRATHMORE    Yes       33
+
+  199607 Lindsay                           8199841     199841 - MB LINDSAY        Yes       35     199650 Strathmore    8199837    199837 - MB STRATHMORE    Yes       33
+
+  199608 Strathmore                        8199841     199841 - MB LINDSAY        Yes       35     199651 Lindsay       8199806    199806 - MB LINDSAY       Yes        4
+
+  199609 Strathmore                        8199837     199837 - MB STRATHMORE     Yes       33     199652 Lindsay       8199806    199806 - MB LINDSAY       Yes        4
+
+  199610 Porterville                       8199811     199811 - MB STRATHMORE     Yes       14     199653 Lindsay       8199806    199806 - MB LINDSAY       Yes        4
+
+  199611 Woodville                         8199842     199842 - MB WOODVILLE      Yes       36     199654 Lindsay       8199830    199830 - MB LINDSAY       Yes       27
+
+  199612 Porterville                       8199843     199843 - MB PORTERVILLE    Yes       37     199655 Porterville   8199837    199837 - MB STRATHMORE    Yes       33
+
+  199613 Porterville                       8199837     199837 - MB STRATHMORE     Yes       33     199656 Strathmore    8199837    199837 - MB STRATHMORE    Yes       33
+
+  199614 Woodville                         8199812     199812 - MB WOODVILLE      Yes       15     199657 Woodville     8199812    199812 - MB WOODVILLE     Yes       15
+
+  199615 Woodville                         8199813     199813 - MB WOODVILLE      Yes       16     199658 Strathmore    8199841    199841 - MB LINDSAY       Yes       35
+
+  199616 Lindsay                           8199806     199806 - MB LINDSAY        Yes        4     199659 Strathmore    8199844    199844 - MB STRATHMORE    Yes       38
+
+  199617 Lindsay                           8199830     199830 - MB LINDSAY        Yes       27     199660 Strathmore    8199809    199809 - MB STRATHMORE    Yes       13
+
+  199618 Lindsay                           8199839     199839 - MB STRATHMORE     Yes       34     199661 Strathmore    8199809    199809 - MB STRATHMORE    Yes       13
+
+  199619 Strathmore                        8199809     199809 - MB STRATHMORE     Yes       13     199662 Lindsay       8199806    199806 - MB LINDSAY       Yes        4
+
+  199620 Strathmore                        8199844     199844 - MB STRATHMORE     Yes       38     199663 Strathmore    8199848    199848 - MB STRATHMORE    Yes       42
+
+  199621 Strathmore                        8199844     199844 - MB STRATHMORE     Yes       38     199664 Strathmore    8199839    199839 - MB STRATHMORE    Yes       34
+
+  199622 Strathmore                        8199844     199844 - MB STRATHMORE     Yes       38     199665 Strathmore    8199841    199841 - MB LINDSAY       Yes       35
+
+  199623 Strathmore                        8199841     199841 - MB LINDSAY        Yes       35     199666 Strathmore    8199809    199809 - MB STRATHMORE    Yes       13
+
+  199624 Strathmore                        8199845     199845 - MB STRATHMORE     Yes       39     199667 Strathmore    8199811    199811 - MB STRATHMORE    Yes       14
+
+  199625 Strathmore                        8199811     199811 - MB STRATHMORE     Yes       14     199668 Strathmore    8199841    199841 - MB LINDSAY       Yes       35
+
+  199626 Strathmore                        8199837     199837 - MB STRATHMORE     Yes       33     199669 Strathmore    8199809    199809 - MB STRATHMORE    Yes       13
+
+  199627 Strathmore                        8199837     199837 - MB STRATHMORE     Yes       33     199670 Strathmore    8199837    199837 - MB STRATHMORE    Yes       33
+
+  199628 Porterville                       8199846     199846 - MB PORTERVILLE    Yes       40     199671 Porterville   8199847    199847 - MB PORTERVILLE   Yes       41
+
+  199629 Porterville                       8199847     199847 - MB PORTERVILLE    Yes       41     199672 Strathmore    8199839    199839 - MB STRATHMORE    Yes       34
+
+  199630 Strathmore                        8199844     199844 - MB STRATHMORE     Yes       38     199673 Strathmore    8199849    199849 - MB STRATHMORE    Yes       43
+
+  199631 Porterville                       8199847     199847 - MB PORTERVILLE    Yes       41     199674 Woodville     8199850    199850 - MB WOODVILLE     Yes       44
+
+  199632 Lindsay                           8199806     199806 - MB LINDSAY        Yes        4     199675 Woodville     8199849    199849 - MB STRATHMORE    Yes       43
+
+  199633 Lindsay                           8199806     199806 - MB LINDSAY        Yes        4     199676 Porterville   8199843    199843 - MB PORTERVILLE   Yes       37
+                                                       199806 - MB LINDSAY        Yes                                              199837 - MB STRATHMORE    Yes
+
+
+
+
+                                                                                                                                                                              C-6
+  199634 Lindsay                           8199806                                           4     199677 Strathmore    8199837                                        33
+
+  199635 Lindsay                           8199839     199839 - MB STRATHMORE     Yes       34     199678 Strathmore    8199837    199837 - MB STRATHMORE    Yes       33
+
+  199636 Lindsay                           8199806     199806 - MB LINDSAY        Yes        4     199679 Strathmore    8199837    199837 - MB STRATHMORE    Yes       33
+
+EWMR010 Regular/Absentee/Voting Pct Xref (Summary) Regular Pct Order
+Printed: 12/5/2016 10:11:40AM
+  Regular Precinct                         Absentee      Voting Precinct             MB?   Bal Type     Regular Precinct   Absentee        Voting Precinct          MB?   Bal Type
+
+  199680 Woodlake                          8199826     199826 - MB LEMON COVE        Yes       24     205216 Tulare        8205805    205805 - MB TULARE            Yes       49
+
+  199681 Strathmore                        8199837     199837 - MB STRATHMORE        Yes       33     205301 Tulare        8205807    205807 - MB TULARE            Yes       51
+
+  199682 Strathmore                        8199837     199837 - MB STRATHMORE        Yes       33     205302 Tulare        8205302    205302 - WAYSIDE NAZ 1                  52
+
+  199683 Woodville                         8199812     199812 - MB WOODVILLE         Yes       15     205303 Tulare        8205807    205807 - MB TULARE            Yes       51
+
+  205101 Tulare                            8205801     205801 - MB TULARE            Yes       45     205304 Tulare        8205304    205304 - WAYSIDE NAZ 2                  53
+
+  205102 Tulare                            8205801     205801 - MB TULARE            Yes       45     205305 Tulare        8205304    205304 - WAYSIDE NAZ 2                  53
+
+  205103 Tulare                            8205801     205801 - MB TULARE            Yes       45     205306 Tulare        8205807    205807 - MB TULARE            Yes       51
+
+  205104 Tulare                            8205801     205801 - MB TULARE            Yes       45     205307 Tulare        8205807    205807 - MB TULARE            Yes       51
+
+  205105 Tulare                            8205105     205105 - MISSIONARY BAPTIST             46     205308 Tulare        8205308    205308 - TULARE CO AG                   54
+
+  205106 Tulare                            8205106     205106 - TULARE CHURCH OF GOD           47     205309 Tulare        8205807    205807 - MB TULARE            Yes       51
+
+  205107 Tulare                            8205801     205801 - MB TULARE            Yes       45     205310 Tulare        8205810    205810 - MB TULARE            Yes       54
+
+  205108 Tulare                            8205801     205801 - MB TULARE            Yes       45     205311 Tulare        8205304    205304 - WAYSIDE NAZ 2                  53
+
+  205109 Tulare                            8205802     205802 - MB TULARE            Yes       46     205312 Tulare        8205808    205808 - MB TULARE            Yes       52
+
+  205110 Tulare                            8205802     205802 - MB TULARE            Yes       46     205313 Tulare        8205810    205810 - MB TULARE            Yes       54
+
+  205111 Tulare                            8205801     205801 - MB TULARE            Yes       45     205314 Tulare        8205810    205810 - MB TULARE            Yes       54
+
+  205112 Tulare                            8205801     205801 - MB TULARE            Yes       45     205315 Tulare        8205810    205810 - MB TULARE            Yes       54
+
+  205113 Tulare                            8205105     205105 - MISSIONARY BAPTIST             46     205316 Tulare        8205808    205808 - MB TULARE            Yes       52
+
+  205114 Tulare                            8205802     205802 - MB TULARE            Yes       46     205317 Tulare        8205810    205810 - MB TULARE            Yes       54
+
+  205115 Tulare                            8205803     205803 - MB TULARE            Yes       47     205318 Tulare        8205807    205807 - MB TULARE            Yes       51
+
+  205116 Tulare                            8205803     205803 - MB TULARE            Yes       47     205319 Tulare        8205808    205808 - MB TULARE            Yes       52
+
+  205117 Tulare                            8205803     205803 - MB TULARE            Yes       47     205320 Tulare        8205810    205810 - MB TULARE            Yes       54
+
+  205118 Tulare                            8205801     205801 - MB TULARE            Yes       45     205321 Tulare        8205808    205808 - MB TULARE            Yes       52
+
+  205119 Tulare                            8205801     205801 - MB TULARE            Yes       45     205322 Tulare        8205308    205308 - TULARE CO AG                   54
+
+  205120 Tulare                            8205106     205106 - TULARE CHURCH OF GOD           47     205323 Tulare        8205809    205809 - MB TULARE            Yes       53
+
+  205121 Tulare                            8205801     205801 - MB TULARE            Yes       45     205324 Tulare        8205308    205308 - TULARE CO AG                   54
+
+  205122 Tulare                            8205801     205801 - MB TULARE            Yes       45     205325 Tulare        8205807    205807 - MB TULARE            Yes       51
+
+  205123 Tulare                            8205801     205801 - MB TULARE            Yes       45     205326 Tulare        8205810    205810 - MB TULARE            Yes       54
+
+  205124 Tulare                            8205801     205801 - MB TULARE            Yes       45     205327 Tulare        8205810    205810 - MB TULARE            Yes       54
+
+  205201 Tulare                            8205201     205201 - CHURCH OF CHRIST 1             48     205328 Tulare        8205810    205810 - MB TULARE            Yes       54
+
+  205202 Tulare                            8205805     205805 - MB TULARE            Yes       49     205329 Tulare        8205809    205809 - MB TULARE            Yes       53
+
+  205203 Tulare                            8205804     205804 - MB TULARE            Yes       48     205401 Tulare        8205401    205401 - CHURCH OF CHRIST 2             48
+
+  205204 Tulare                            8205806     205806 - MB TULARE            Yes       50     205402 Tulare        8205401    205401 - CHURCH OF CHRIST 2             48
+
+  205205 Tulare                            8205806     205806 - MB TULARE            Yes       50     205403 Tulare        8205804    205804 - MB TULARE            Yes       48
+
+  205206 Tulare                            8205201     205201 - CHURCH OF CHRIST 1             48     205404 Tulare        8205401    205401 - CHURCH OF CHRIST 2             48
+
+  205207 Tulare                            8205804     205804 - MB TULARE            Yes       48     205405 Tulare        8205805    205805 - MB TULARE            Yes       49
+
+  205208 Tulare                            8205804     205804 - MB TULARE            Yes       48     205406 Tulare        8205406    205406 - TULARE COMM CHURCH             49
+
+  205209 Tulare                            8205804     205804 - MB TULARE            Yes       48     205407 Tulare        8205805    205805 - MB TULARE            Yes       49
+
+  205210 Tulare                            8205804     205804 - MB TULARE            Yes       48     205408 Tulare        8205805    205805 - MB TULARE            Yes       49
+
+  205211 Tulare                            8205806     205806 - MB TULARE            Yes       50     205409 Tulare        8205406    205406 - TULARE COMM CHURCH             49
+
+  205212 Tulare                            8205804     205804 - MB TULARE            Yes       48     205410 Tulare        8205805    205805 - MB TULARE            Yes       49
+                                                       205806 - MB TULARE            Yes                                              205805 - MB TULARE            Yes
+
+
+
+
+                                                                                                                                                                                     C-7
+  205213 Tulare                            8205806                                             50     205411 Tulare        8205805                                            49
+
+  205214 Tulare                            8205201     205201 - CHURCH OF CHRIST 1             48     205412 Tulare        8205804    205804 - MB TULARE            Yes       48
+
+  205215 Tulare                            8205806     205806 - MB TULARE            Yes       50     205413 Tulare        8205804    205804 - MB TULARE            Yes       48
+
+EWMR010 Regular/Absentee/Voting Pct Xref (Summary) Regular Pct Order
+Printed: 12/5/2016 10:11:40AM
+  Regular Precinct                         Absentee      Voting Precinct               MB?   Bal Type     Regular Precinct   Absentee        Voting Precinct   MB?   Bal Type
+
+  205414 Tulare                            8205804     205804 - MB TULARE              Yes       48     299010 Tulare        8299804    299804 - MB TULARE     Yes       58
+
+  205415 Tulare                            8205806     205806 - MB TULARE              Yes       50     299011 Tipton        8299805    299805 - MB TULARE     Yes       59
+
+  205416 Tulare                            8205804     205804 - MB TULARE              Yes       48     299012 Tulare        8299804    299804 - MB TULARE     Yes       58
+
+  205417 Tulare                            8205804     205804 - MB TULARE              Yes       48     299013 Tulare        8299802    299802 - MB TULARE     Yes       49
+
+  205418 Tulare                            8205418     205418 - PROSPERITY BAPTIST 1             50     299014 Waukena       8299806    299806 - MB WAUKENA    Yes       60
+
+  205419 Tulare                            8205806     205806 - MB TULARE              Yes       50     299015 Tulare        8299802    299802 - MB TULARE     Yes       49
+
+  205421 Tulare                            8205804     205804 - MB TULARE              Yes       48     299016 Tulare        8299802    299802 - MB TULARE     Yes       49
+
+  205422 Tulare                            8205804     205804 - MB TULARE              Yes       48     299017 Tulare        8299802    299802 - MB TULARE     Yes       49
+
+  205423 Tulare                            8205806     205806 - MB TULARE              Yes       50     299018 Tulare        8299801    299801 - MB TULARE     Yes       48
+
+  205424 Tulare                            8205806     205806 - MB TULARE              Yes       50     299019 Tulare        8299802    299802 - MB TULARE     Yes       49
+
+  205425 Tulare                            8205806     205806 - MB TULARE              Yes       50     299020 Waukena       8299806    299806 - MB WAUKENA    Yes       60
+
+  205426 Tulare                            8205806     205806 - MB TULARE              Yes       50     299021 Waukena       8299806    299806 - MB WAUKENA    Yes       60
+
+  205427 Tulare                            8205805     205805 - MB TULARE              Yes       49     299022 Tulare        8299804    299804 - MB TULARE     Yes       58
+
+  205428 Tulare                            8205406     205406 - TULARE COMM CHURCH               49     299023 Tulare        8299802    299802 - MB TULARE     Yes       49
+
+  205429 Tulare                            8205804     205804 - MB TULARE              Yes       48     299024 Tulare        8299804    299804 - MB TULARE     Yes       58
+
+  205430 Tulare                            8205805     205805 - MB TULARE              Yes       49     299025 Tulare        8299802    299802 - MB TULARE     Yes       49
+
+  205431 Tulare                            8205804     205804 - MB TULARE              Yes       48     299026 Tulare        8299802    299802 - MB TULARE     Yes       49
+
+  205432 Tulare                            8205401     205401 - CHURCH OF CHRIST 2               48     299027 Waukena       8299802    299802 - MB TULARE     Yes       49
+
+  205501 Tulare                            8205501     205501 - PROSPERITY BAPTIST 2             55     299028 Tulare        8299801    299801 - MB TULARE     Yes       48
+
+  205502 Tulare                            8205502     205502 - TULARE MEM 1                     56     299029 Tulare        8299801    299801 - MB TULARE     Yes       48
+
+  205503 Tulare                            8205501     205501 - PROSPERITY BAPTIST 2             55     299030 Tulare        8299802    299802 - MB TULARE     Yes       49
+
+  205504 Tulare                            8205502     205502 - TULARE MEM 1                     56     299031 Tulare        8299802    299802 - MB TULARE     Yes       49
+
+  205505 Tulare                            8205811     205811 - MB TULARE              Yes       56     299032 Tulare        8299802    299802 - MB TULARE     Yes       49
+
+  205506 Tulare                            8205502     205502 - TULARE MEM 1                     56     299033 Tulare        8299802    299802 - MB TULARE     Yes       49
+
+  205507 Tulare                            8205507     205507 - TULARE MEM 2                     56     299034 Tulare        8299804    299804 - MB TULARE     Yes       58
+
+  205508 Tulare                            8205812     205812 - MB TULARE              Yes       57     299035 Waukena       8299806    299806 - MB WAUKENA    Yes       60
+
+  205509 Tulare                            8205507     205507 - TULARE MEM 2                     56     299036 Tulare        8299802    299802 - MB TULARE     Yes       49
+
+  205510 Tulare                            8205501     205501 - PROSPERITY BAPTIST 2             55     299037 Tulare        8299802    299802 - MB TULARE     Yes       49
+
+  205511 Tulare                            8205501     205501 - PROSPERITY BAPTIST 2             55     299038 Tulare        8299802    299802 - MB TULARE     Yes       49
+
+  205512 Tulare                            8205811     205811 - MB TULARE              Yes       56     299039 Tulare        8299802    299802 - MB TULARE     Yes       49
+
+  205513 Tulare                            8205811     205811 - MB TULARE              Yes       56     299040 Tulare        8299804    299804 - MB TULARE     Yes       58
+
+  205514 Tulare                            8205507     205507 - TULARE MEM 2                     56     299041 Tulare        8299802    299802 - MB TULARE     Yes       49
+
+  205515 Tulare                            8205515     205515 - WAYSIDE NAZ 3                    57     299042 Tulare        8299804    299804 - MB TULARE     Yes       58
+
+  205516 Tulare                            8205812     205812 - MB TULARE              Yes       57     299043 Tulare        8299804    299804 - MB TULARE     Yes       58
+
+  299001 Tulare                            8299801     299801 - MB TULARE              Yes       48     299044 Tulare        8299805    299805 - MB TULARE     Yes       59
+
+  299002 Tulare                            8299804     299804 - MB TULARE              Yes       58     299045 Tulare        8299805    299805 - MB TULARE     Yes       59
+
+  299003 Tulare                            8299802     299802 - MB TULARE              Yes       49     299046 Tulare        8299802    299802 - MB TULARE     Yes       49
+
+  299004 Tulare                            8299804     299804 - MB TULARE              Yes       58     299047 Waukena       8299806    299806 - MB WAUKENA    Yes       60
+
+  299005 Tulare                            8299802     299802 - MB TULARE              Yes       49     299048 Tulare        8299802    299802 - MB TULARE     Yes       49
+
+  299006 Tulare                            8299804     299804 - MB TULARE              Yes       58     299049 Tulare        8299802    299802 - MB TULARE     Yes       49
+                                                       299802 - MB TULARE              Yes                                              299802 - MB TULARE     Yes
+
+
+
+
+                                                                                                                                                                                C-8
+  299007 Tulare                            8299802                                               49     299050 Tulare        8299802                                     49
+
+  299008 Tulare                            8299804     299804 - MB TULARE              Yes       58     299051 Tulare        8299802    299802 - MB TULARE     Yes       49
+
+  299009 Tipton                            8299804     299804 - MB TULARE              Yes       58     299052 Tulare        8299802    299802 - MB TULARE     Yes       49
+
+EWMR010 Regular/Absentee/Voting Pct Xref (Summary) Regular Pct Order
+Printed: 12/5/2016 10:11:40AM
+  Regular Precinct                         Absentee      Voting Precinct       MB?   Bal Type     Regular Precinct   Absentee        Voting Precinct    MB?   Bal Type
+
+  299054 Tulare                            8299802     299802 - MB TULARE      Yes       49     299614 Woodville     8299808    299808 - MB WOODVILLE   Yes       62
+
+  299055 Tulare                            8299803     299803 - MB TULARE      Yes       50     299615 Woodville     8299808    299808 - MB WOODVILLE   Yes       62
+
+  299056 Tulare                            8299804     299804 - MB TULARE      Yes       58     299616 Poplar        8299811    299811 - MB POPLAR      Yes       65
+
+  299057 Tulare                            8299807     299807 - MB TULARE      Yes       61     299617 Earlimart     8299812    299812 - MB EARLIMART   Yes       66
+
+  299058 Woodville                         8299808     299808 - MB WOODVILLE   Yes       62     299618 Earlimart     8299813    299813 - MB EARLIMART   Yes       67
+
+  299059 Tulare                            8299804     299804 - MB TULARE      Yes       58     299619 Richgrove     8299809    299809 - MB DUCOR       Yes       63
+
+  299060 Tulare                            8299804     299804 - MB TULARE      Yes       58     299620 Delano        8299812    299812 - MB EARLIMART   Yes       66
+
+  299061 Tulare                            8299804     299804 - MB TULARE      Yes       58     299621 Delano        8299812    299812 - MB EARLIMART   Yes       66
+
+  299062 Tulare                            8299801     299801 - MB TULARE      Yes       48     299622 Richgrove     8299809    299809 - MB DUCOR       Yes       63
+
+  299063 Tulare                            8299804     299804 - MB TULARE      Yes       58     299623 Richgrove     8299809    299809 - MB DUCOR       Yes       63
+
+  299064 Tulare                            8299802     299802 - MB TULARE      Yes       49     299624 Richgrove     8299809    299809 - MB DUCOR       Yes       63
+
+  299065 Tulare                            8299802     299802 - MB TULARE      Yes       49     299625 Terra Bella   8299810    299810 - MB DUCOR       Yes       64
+
+  299066 Tulare                            8299802     299802 - MB TULARE      Yes       49     299626 Terra Bella   8299810    299810 - MB DUCOR       Yes       64
+
+  299067 Tulare                            8299801     299801 - MB TULARE      Yes       48     299627 Ducor         8299810    299810 - MB DUCOR       Yes       64
+
+  299069 Tulare                            8299801     299801 - MB TULARE      Yes       48     299628 Ducor         8299810    299810 - MB DUCOR       Yes       64
+
+  299070 Tulare                            8299801     299801 - MB TULARE      Yes       48     299629 Poplar        8299814    299814 - MB POPLAR      Yes       68
+
+  299071 Tulare                            8299802     299802 - MB TULARE      Yes       49     299630 Poplar        8299814    299814 - MB POPLAR      Yes       68
+
+  299072 Tulare                            8299801     299801 - MB TULARE      Yes       48     299631 Terra Bella   8299810    299810 - MB DUCOR       Yes       64
+
+  299073 Tulare                            8299801     299801 - MB TULARE      Yes       48     299632 Terra Bella   8299810    299810 - MB DUCOR       Yes       64
+
+  299074 Tulare                            8299801     299801 - MB TULARE      Yes       48     299633 Poplar        8299810    299810 - MB DUCOR       Yes       64
+
+  299075 Tulare                            8299802     299802 - MB TULARE      Yes       49     299634 Terra Bella   8299810    299810 - MB DUCOR       Yes       64
+
+  299076 Tulare                            8299801     299801 - MB TULARE      Yes       48     299635 Earlimart     8299813    299813 - MB EARLIMART   Yes       67
+
+  299077 Tulare                            8299801     299801 - MB TULARE      Yes       48     299636 Pixley        8299810    299810 - MB DUCOR       Yes       64
+
+  299078 Tulare                            8299802     299802 - MB TULARE      Yes       49     299637 Ducor         8299810    299810 - MB DUCOR       Yes       64
+
+  299079 Tulare                            8299804     299804 - MB TULARE      Yes       58     299638 Delano        8299809    299809 - MB DUCOR       Yes       63
+
+  299080 Tulare                            8299802     299802 - MB TULARE      Yes       49     299639 Earlimart     8299812    299812 - MB EARLIMART   Yes       66
+
+  299081 Tulare                            8299802     299802 - MB TULARE      Yes       49     299640 Earlimart     8299813    299813 - MB EARLIMART   Yes       67
+
+  299082 Waukena                           8299802     299802 - MB TULARE      Yes       49     299641 Pixley        8299805    299805 - MB TULARE      Yes       59
+
+  299083 Tulare                            8299801     299801 - MB TULARE      Yes       48     299642 Pixley        8299805    299805 - MB TULARE      Yes       59
+
+  299084 Tulare                            8299802     299802 - MB TULARE      Yes       49     299643 Pixley        8299805    299805 - MB TULARE      Yes       59
+
+  299601 Ducor                             8299809     299809 - MB DUCOR       Yes       63     299644 Pixley        8299805    299805 - MB TULARE      Yes       59
+
+  299602 Ducor                             8299810     299810 - MB DUCOR       Yes       64     299645 Pixley        8299805    299805 - MB TULARE      Yes       59
+
+  299603 Richgrove                         8299810     299810 - MB DUCOR       Yes       64     299646 Pixley        8299805    299805 - MB TULARE      Yes       59
+
+  299604 Poplar                            8299810     299810 - MB DUCOR       Yes       64     299647 Pixley        8299805    299805 - MB TULARE      Yes       59
+
+  299605 Poplar                            8299810     299810 - MB DUCOR       Yes       64     299648 Pixley        8299805    299805 - MB TULARE      Yes       59
+
+  299606 Poplar                            8299810     299810 - MB DUCOR       Yes       64     299649 Pixley        8299805    299805 - MB TULARE      Yes       59
+
+  299607 Pixley                            8299810     299810 - MB DUCOR       Yes       64     299650 Pixley        8299805    299805 - MB TULARE      Yes       59
+
+  299608 Pixley                            8299810     299810 - MB DUCOR       Yes       64     299651 Pixley        8299813    299813 - MB EARLIMART   Yes       67
+
+  299609 Poplar                            8299810     299810 - MB DUCOR       Yes       64     299652 Earlimart     8299805    299805 - MB TULARE      Yes       59
+
+  299610 Poplar                            8299810     299810 - MB DUCOR       Yes       64     299653 Earlimart     8299805    299805 - MB TULARE      Yes       59
+                                                       299810 - MB DUCOR       Yes                                              299805 - MB TULARE      Yes
+
+
+
+
+                                                                                                                                                                         C-9
+  299611 Poplar                            8299810                                       64     299654 Earlimart     8299805                                      59
+
+  299612 Terra Bella                       8299810     299810 - MB DUCOR       Yes       64     299655 Pixley        8299805    299805 - MB TULARE      Yes       59
+
+  299613 Terra Bella                       8299810     299810 - MB DUCOR       Yes       64     299656 Pixley        8299805    299805 - MB TULARE      Yes       59
+
+EWMR010 Regular/Absentee/Voting Pct Xref (Summary) Regular Pct Order
+Printed: 12/5/2016 10:11:40AM
+  Regular Precinct                         Absentee      Voting Precinct         MB?   Bal Type     Regular Precinct   Absentee        Voting Precinct      MB?   Bal Type
+
+  299657 Tipton                            8299805     299805 - MB TULARE        Yes       59     299723 Pixley        8299805    299805 - MB TULARE        Yes       59
+
+  299658 Tipton                            8299805     299805 - MB TULARE        Yes       59     299724 Delano        8299812    299812 - MB EARLIMART     Yes       66
+
+  299681 Alpaugh                           8299815     299815 - MB ALPAUGH       Yes       69     299725 Earlimart     8299813    299813 - MB EARLIMART     Yes       67
+
+  299682 Earlimart                         8299813     299813 - MB EARLIMART     Yes       67     299726 Allensworth   8299817    299817 - MB ALLENSWORTH   Yes       71
+
+  299683 Earlimart                         8299813     299813 - MB EARLIMART     Yes       67     299727 Earlimart     8299813    299813 - MB EARLIMART     Yes       67
+
+  299684 Earlimart                         8299816     299816 - MB EARLIMART     Yes       70     299728 Earlimart     8299813    299813 - MB EARLIMART     Yes       67
+
+  299685 Allensworth                       8299817     299817 - MB ALLENSWORTH   Yes       71     299729 Earlimart     8299813    299813 - MB EARLIMART     Yes       67
+
+  299686 Alpaugh                           8299818     299818 - MB ALPAUGH       Yes       72     299730 Earlimart     8299813    299813 - MB EARLIMART     Yes       67
+
+  299687 Alpaugh                           8299818     299818 - MB ALPAUGH       Yes       72     299731 Alpaugh       8299805    299805 - MB TULARE        Yes       59
+
+  299688 Corcoran                          8299819     299819 - MB CORCORAN      Yes       73     299732 Pixley        8299805    299805 - MB TULARE        Yes       59
+
+  299689 Pixley                            8299805     299805 - MB TULARE        Yes       59     299733 Pixley        8299805    299805 - MB TULARE        Yes       59
+
+  299690 Pixley                            8299805     299805 - MB TULARE        Yes       59     299734 Alpaugh       8299822    299822 - MB ALPAUGH       Yes       76
+
+  299691 Pixley                            8299805     299805 - MB TULARE        Yes       59     299735 Alpaugh       8299822    299822 - MB ALPAUGH       Yes       76
+
+  299692 Pixley                            8299805     299805 - MB TULARE        Yes       59     299736 Alpaugh       8299815    299815 - MB ALPAUGH       Yes       69
+
+  299693 Pixley                            8299805     299805 - MB TULARE        Yes       59     299737 Alpaugh       8299822    299822 - MB ALPAUGH       Yes       76
+
+  299694 Pixley                            8299805     299805 - MB TULARE        Yes       59     299738 Alpaugh       8299822    299822 - MB ALPAUGH       Yes       76
+
+  299695 Pixley                            8299805     299805 - MB TULARE        Yes       59     299739 Alpaugh       8299822    299822 - MB ALPAUGH       Yes       76
+
+  299696 Pixley                            8299805     299805 - MB TULARE        Yes       59     299740 Alpaugh       8299822    299822 - MB ALPAUGH       Yes       76
+
+  299697 Pixley                            8299805     299805 - MB TULARE        Yes       59     299741 Allensworth   8299817    299817 - MB ALLENSWORTH   Yes       71
+
+  299698 Pixley                            8299805     299805 - MB TULARE        Yes       59     299742 Allensworth   8299817    299817 - MB ALLENSWORTH   Yes       71
+
+  299699 Pixley                            8299805     299805 - MB TULARE        Yes       59     299743 Allensworth   8299812    299812 - MB EARLIMART     Yes       66
+
+  299701 Tipton                            8299701     299701 - TIPTON MEM                 59     299744 Pixley        8299805    299805 - MB TULARE        Yes       59
+
+  299702 Tipton                            8299805     299805 - MB TULARE        Yes       59     299745 Pixley        8299805    299805 - MB TULARE        Yes       59
+
+  299703 Tipton                            8299819     299819 - MB CORCORAN      Yes       73     299746 Alpaugh       8299805    299805 - MB TULARE        Yes       59
+
+  299704 Tipton                            8299820     299820 - MB TIPTON        Yes       74     299747 Earlimart     8299813    299813 - MB EARLIMART     Yes       67
+
+  299705 Pixley                            8299805     299805 - MB TULARE        Yes       59     299748 Earlimart     8299748    299748 - EARLIMART MEM              67
+
+  299706 Pixley                            8299805     299805 - MB TULARE        Yes       59     299749 Earlimart     8299813    299813 - MB EARLIMART     Yes       67
+
+  299707 Alpaugh                           8299821     299821 - MB ALPAUGH       Yes       75     299750 Earlimart     8299813    299813 - MB EARLIMART     Yes       67
+
+  299708 Waukena                           8299806     299806 - MB WAUKENA       Yes       60     299751 Earlimart     8299813    299813 - MB EARLIMART     Yes       67
+
+  299709 Tipton                            8299819     299819 - MB CORCORAN      Yes       73     299752 Tipton        8299820    299820 - MB TIPTON        Yes       74
+
+  299710 Pixley                            8299819     299819 - MB CORCORAN      Yes       73     299753 Tipton        8299805    299805 - MB TULARE        Yes       59
+
+  299711 Pixley                            8299819     299819 - MB CORCORAN      Yes       73     299754 Earlimart     8299813    299813 - MB EARLIMART     Yes       67
+
+  299712 Tipton                            8299810     299810 - MB DUCOR         Yes       64     299755 Earlimart     8299813    299813 - MB EARLIMART     Yes       67
+
+  299713 Woodville                         8299808     299808 - MB WOODVILLE     Yes       62     299756 Earlimart     8299813    299813 - MB EARLIMART     Yes       67
+
+  299714 Pixley                            8299805     299805 - MB TULARE        Yes       59     299757 Earlimart     8299813    299813 - MB EARLIMART     Yes       67
+
+  299715 Alpaugh                           8299821     299821 - MB ALPAUGH       Yes       75     299758 Earlimart     8299748    299748 - EARLIMART MEM              67
+
+  299716 Pixley                            8299805     299805 - MB TULARE        Yes       59     299759 Earlimart     8299813    299813 - MB EARLIMART     Yes       67
+
+  299717 Corcoran                          8299801     299801 - MB TULARE        Yes       48     299760 Woodville     8299808    299808 - MB WOODVILLE     Yes       62
+
+  299718 Corcoran                          8299819     299819 - MB CORCORAN      Yes       73     299761 Pixley        8299805    299805 - MB TULARE        Yes       59
+
+  299719 Corcoran                          8299819     299819 - MB CORCORAN      Yes       73     299762 Alpaugh       8299823    299823 - MB ALPAUGH       Yes       77
+
+
+
+
+                                                                                                                                                                             C-10
+  299720 Allensworth                       8299812     299812 - MB EARLIMART     Yes       66     299763 Pixley        8299805    299805 - MB TULARE        Yes       59
+
+  299721 Pixley                            8299805     299805 - MB TULARE        Yes       59     299764 Alpaugh       8299823    299823 - MB ALPAUGH       Yes       77
+
+  299722 Earlimart                         8299813     299813 - MB EARLIMART     Yes       67     299765 Alpaugh       8299823    299823 - MB ALPAUGH       Yes       77
+
+EWMR010 Regular/Absentee/Voting Pct Xref (Summary) Regular Pct Order
+Printed: 12/5/2016 10:11:40AM
+  Regular Precinct                         Absentee      Voting Precinct             MB?   Bal Type     Regular Precinct   Absentee         Voting Precinct          MB?   Bal Type
+
+  299766 Alpaugh                           8299822     299822 - MB ALPAUGH           Yes       76     306012 Visalia       8306804    306804 - MB VISALIA            Yes       84
+
+  299767 Earlimart                         8299813     299813 - MB EARLIMART         Yes       67     306013 Visalia       8306013    306013 - GATEWAY CHURCH VISA             84
+
+  299768 Earlimart                         8299813     299813 - MB EARLIMART         Yes       67     306014 Visalia       8306014    306014 - VISALIA COMM CHURCH 2           84
+
+  299769 Earlimart                         8299813     299813 - MB EARLIMART         Yes       67     306015 Visalia       8306009    306009 - SEVENTH DAY ADVENT              83
+
+  299770 Pixley                            8299805     299805 - MB TULARE            Yes       59     306016 Visalia       8306009    306009 - SEVENTH DAY ADVENT              83
+
+  299771 Pixley                            8299805     299805 - MB TULARE            Yes       59     306017 Visalia       8306017    306017 - CHRIST LUTHERAN 1               81
+
+  299772 Pixley                            8299805     299805 - MB TULARE            Yes       59     306018 Visalia       8306017    306017 - CHRIST LUTHERAN 1               81
+
+  299773 Pixley                            8299805     299805 - MB TULARE            Yes       59     306019 Visalia       8306019    306019 - CHRIST LUTHERAN 2               81
+
+  299774 Pixley                            8299805     299805 - MB TULARE            Yes       59     306020 Visalia       8306019    306019 - CHRIST LUTHERAN 2               81
+
+  299775 Pixley                            8299805     299805 - MB TULARE            Yes       59     306021 Visalia       8306021    306021 - FIRST ASSEMBLY 1                81
+
+  299776 Corcoran                          8299824     299824 - MB CORCORAN          Yes       78     306022 Visalia       8306802    306802 - MB VISALIA            Yes       81
+
+  299777 Corcoran                          8299825     299825 - MB CORCORAN          Yes       79     306023 Visalia       8306804    306804 - MB VISALIA            Yes       84
+
+  299778 Tipton                            8299805     299805 - MB TULARE            Yes       59     306024 Visalia       8306803    306803 - MB VISALIA            Yes       82
+
+  299779 Tipton                            8299805     299805 - MB TULARE            Yes       59     306025 Visalia       8306803    306803 - MB VISALIA            Yes       82
+
+  299780 Tipton                            8299805     299805 - MB TULARE            Yes       59     306026 Visalia       8306803    306803 - MB VISALIA            Yes       82
+
+  299781 Tipton                            8299805     299805 - MB TULARE            Yes       59     306027 Visalia       8306805    306805 - MB VISALIA            Yes       85
+
+  299782 Alpaugh                           8299821     299821 - MB ALPAUGH           Yes       75     306028 Visalia       8306008    306008 - VISALIA CONV CTR                82
+
+  299783 Alpaugh                           8299822     299822 - MB ALPAUGH           Yes       76     306029 Visalia       8306029    306029 - THE ROAD                        84
+
+  299784 Earlimart                         8299813     299813 - MB EARLIMART         Yes       67     306030 Visalia       8306804    306804 - MB VISALIA            Yes       84
+
+  299785 Pixley                            8299805     299805 - MB TULARE            Yes       59     306031 Visalia       8306013    306013 - GATEWAY CHURCH VISA             84
+
+  299786 Pixley                            8299805     299805 - MB TULARE            Yes       59     306032 Visalia       8306029    306029 - THE ROAD                        84
+
+  299787 Pixley                            8299805     299805 - MB TULARE            Yes       59     306033 Visalia       8306029    306029 - THE ROAD                        84
+
+  299788 Tipton                            8299819     299819 - MB CORCORAN          Yes       73     306034 Visalia       8306014    306014 - VISALIA COMM CHURCH 2           84
+
+  299789 Tipton                            8299819     299819 - MB CORCORAN          Yes       73     306035 Visalia       8306014    306014 - VISALIA COMM CHURCH 2           84
+
+  299790 Pixley                            8299805     299805 - MB TULARE            Yes       59     306036 Visalia       8306036    306036 - VISALIA NAZ 2                   85
+
+  299791 Alpaugh                           8299822     299822 - MB ALPAUGH           Yes       76     306037 Visalia       8306037    306037 - HEART OF THE VALLEY             86
+
+  299792 Tipton                            8299805     299805 - MB TULARE            Yes       59     306038 Visalia       8306036    306036 - VISALIA NAZ 2                   85
+
+  299793 Pixley                            8299805     299805 - MB TULARE            Yes       59     306039 Visalia       8306021    306021 - FIRST ASSEMBLY 1                81
+
+  299794 Corcoran                          8299819     299819 - MB CORCORAN          Yes       73     306040 Visalia       8306040    306040 - SEQUOIA BAPTIST                 81
+
+  299795 Tipton                            8299805     299805 - MB TULARE            Yes       59     306041 Visalia       8306040    306040 - SEQUOIA BAPTIST                 81
+
+  299796 Alpaugh                           8299822     299822 - MB ALPAUGH           Yes       76     306042 Visalia       8306802    306802 - MB VISALIA            Yes       81
+
+  299797 Alpaugh                           8299822     299822 - MB ALPAUGH           Yes       76     306043 Visalia       8306043    306043 - FIRST ASSEMBLY 2                81
+
+  299798 Alpaugh                           8299822     299822 - MB ALPAUGH           Yes       76     306044 Visalia       8306043    306043 - FIRST ASSEMBLY 2                81
+
+  306001 Visalia                           8306001     306001 - VISALIA COMM CHURCH 1          80     306045 Visalia       8306043    306043 - FIRST ASSEMBLY 2                81
+
+  306002 Visalia                           8306001     306001 - VISALIA COMM CHURCH 1          80     306046 Visalia       8306036    306036 - VISALIA NAZ 2                   85
+
+  306003 Visalia                           8306003     306003 - VISALIA NAZ 1                  81     306047 Visalia       8306803    306803 - MB VISALIA            Yes       82
+
+  306004 Visalia                           8306001     306001 - VISALIA COMM CHURCH 1          80     306048 Visalia       8306806    306806 - MB VISALIA            Yes       86
+
+  306006 Visalia                           8306001     306001 - VISALIA COMM CHURCH 1          80     306050 Visalia       8306802    306802 - MB VISALIA            Yes       81
+
+  306007 Visalia                           8306801     306801 - MB VISALIA           Yes       80     306051 Visalia       8306802    306802 - MB VISALIA            Yes       81
+
+  306008 Visalia                           8306008     306008 - VISALIA CONV CTR               82     306052 Visalia       8306802    306802 - MB VISALIA            Yes       81
+
+
+
+
+                                                                                                                                                                                      C-11
+  306009 Visalia                           8306009     306009 - SEVENTH DAY ADVENT             83     306053 Visalia       8306807    306807 - MB VISALIA            Yes       87
+
+  306010 Visalia                           8306009     306009 - SEVENTH DAY ADVENT             83     306910 Visalia       8306910    306910 - ST. PAULS PARISH                86
+
+  306011 Visalia                           8306804     306804 - MB VISALIA           Yes       84     306911 Visalia       8306910    306910 - ST. PAULS PARISH                86
+
+EWMR010 Regular/Absentee/Voting Pct Xref (Summary) Regular Pct Order
+Printed: 12/5/2016 10:11:40AM
+  Regular Precinct                         Absentee      Voting Precinct               MB?   Bal Type     Regular Precinct   Absentee         Voting Precinct   MB?   Bal Type
+
+  306912 Visalia                           8306912     306912 - SONS OF ITALY 1                  88     306960 Visalia       8306802    306802 - MB VISALIA     Yes       81
+
+  306913 Visalia                           8306912     306912 - SONS OF ITALY 1                  88     306961 Visalia       8306802    306802 - MB VISALIA     Yes       81
+
+  306914 Visalia                           8306914     306914 - FIRST CHRISTIAN VISA             81     306963 Visalia       8306802    306802 - MB VISALIA     Yes       81
+
+  306915 Visalia                           8306915     306915 - ANTHONY COMM CENTER              89     399001 Visalia       8399803    399803 - MB VISALIA     Yes       92
+
+  306916 Visalia                           8306808     306808 - MB VISALIA             Yes       89     399002 Visalia       8399803    399803 - MB VISALIA     Yes       92
+
+  306918 Visalia                           8306918     306918 - MANUEL HERNANDEZ 1               90     399003 Visalia       8399805    399805 - MB VISALIA     Yes       93
+
+  306922 Visalia                           8306808     306808 - MB VISALIA             Yes       89     399004 Visalia       8399803    399803 - MB VISALIA     Yes       92
+
+  306923 Visalia                           8306923     306923 - SONS OF ITALY 3                  91     399005 Visalia       8399803    399803 - MB VISALIA     Yes       92
+
+  306924 Visalia                           8306923     306923 - SONS OF ITALY 3                  91     399006 Visalia       8399803    399803 - MB VISALIA     Yes       92
+
+  306925 Visalia                           8306923     306923 - SONS OF ITALY 3                  91     399007 Visalia       8399801    399801 - MB VISALIA     Yes       49
+
+  306926 Visalia                           8306808     306808 - MB VISALIA             Yes       89     399008 Visalia       8399803    399803 - MB VISALIA     Yes       92
+
+  306927 Visalia                           8306912     306912 - SONS OF ITALY 1                  88     399009 Visalia       8399803    399803 - MB VISALIA     Yes       92
+
+  306928 Visalia                           8306802     306802 - MB VISALIA             Yes       81     399010 Visalia       8399803    399803 - MB VISALIA     Yes       92
+
+  306929 Visalia                           8306802     306802 - MB VISALIA             Yes       81     399011 Visalia       8399803    399803 - MB VISALIA     Yes       92
+
+  306930 Visalia                           8306808     306808 - MB VISALIA             Yes       89     399012 Visalia       8399803    399803 - MB VISALIA     Yes       92
+
+  306931 Visalia                           8306931     306931 - WYNDHAM HOTEL                    89     399013 Visalia       8399803    399803 - MB VISALIA     Yes       92
+
+  306932 Visalia                           8306931     306931 - WYNDHAM HOTEL                    89     399014 Visalia       8399801    399801 - MB VISALIA     Yes       49
+
+  306933 Visalia                           8306933     306933 - SONS OF ITALY 4                  91     399015 Visalia       8399803    399803 - MB VISALIA     Yes       92
+
+  306934 Visalia                           8306933     306933 - SONS OF ITALY 4                  91     399016 Visalia       8399803    399803 - MB VISALIA     Yes       92
+
+  306935 Visalia                           8306808     306808 - MB VISALIA             Yes       89     399017 Visalia       8399803    399803 - MB VISALIA     Yes       92
+
+  306936 Visalia                           8306808     306808 - MB VISALIA             Yes       89     399018 Visalia       8399803    399803 - MB VISALIA     Yes       92
+
+  306937 Visalia                           8306808     306808 - MB VISALIA             Yes       89     399019 Visalia       8399803    399803 - MB VISALIA     Yes       92
+
+  306938 Visalia                           8306915     306915 - ANTHONY COMM CENTER              89     399020 Goshen        8399803    399803 - MB VISALIA     Yes       92
+
+  306939 Visalia                           8306807     306807 - MB VISALIA             Yes       87     399021 Visalia       8399803    399803 - MB VISALIA     Yes       92
+
+  306940 Visalia                           8306808     306808 - MB VISALIA             Yes       89     399022 Visalia       8399803    399803 - MB VISALIA     Yes       92
+
+  306941 Visalia                           8306808     306808 - MB VISALIA             Yes       89     399023 Visalia       8399806    399806 - MB VISALIA     Yes       94
+
+  306943 Visalia                           8306808     306808 - MB VISALIA             Yes       89     399024 Goshen        8399804    399804 - MB GOSHEN      Yes       93
+
+  306944 Visalia                           8306807     306807 - MB VISALIA             Yes       87     399025 Goshen        8399802    399802 - MB GOSHEN      Yes       92
+
+  306945 Visalia                           8306807     306807 - MB VISALIA             Yes       87     399026 Visalia       8399803    399803 - MB VISALIA     Yes       92
+
+  306946 Visalia                           8306807     306807 - MB VISALIA             Yes       87     399027 Visalia       8399803    399803 - MB VISALIA     Yes       92
+
+  306947 Visalia                           8306914     306914 - FIRST CHRISTIAN VISA             81     399028 Visalia       8399803    399803 - MB VISALIA     Yes       92
+
+  306948 Visalia                           8306802     306802 - MB VISALIA             Yes       81     399029 Goshen        8399803    399803 - MB VISALIA     Yes       92
+
+  306949 Visalia                           8306808     306808 - MB VISALIA             Yes       89     399030 Visalia       8399807    399807 - MB VISALIA     Yes       95
+
+  306950 Visalia                           8306914     306914 - FIRST CHRISTIAN VISA             81     399031 Goshen        8399803    399803 - MB VISALIA     Yes       92
+
+  306951 Visalia                           8306933     306933 - SONS OF ITALY 4                  91     399032 Goshen        8399802    399802 - MB GOSHEN      Yes       92
+
+  306952 Visalia                           8306808     306808 - MB VISALIA             Yes       89     399033 Goshen        8399803    399803 - MB VISALIA     Yes       92
+
+  306953 Visalia                           8306918     306918 - MANUEL HERNANDEZ 1               90     399034 Visalia       8399803    399803 - MB VISALIA     Yes       92
+
+  306954 Visalia                           8306808     306808 - MB VISALIA             Yes       89     399035 Visalia       8399806    399806 - MB VISALIA     Yes       94
+
+  306955 Visalia                           8306955     306955 - SONS OF ITALY 2                  88     399036 Visalia       8399806    399806 - MB VISALIA     Yes       94
+
+  306956 Visalia                           8306915     306915 - ANTHONY COMM CENTER              89     399037 Visalia       8399806    399806 - MB VISALIA     Yes       94
+
+
+
+
+                                                                                                                                                                                 C-12
+  306957 Visalia                           8306807     306807 - MB VISALIA             Yes       87     399038 Goshen        8399808    399808 - MB GOSHEN      Yes       96
+
+  306958 Visalia                           8306808     306808 - MB VISALIA             Yes       89     399039 Goshen        8399802    399802 - MB GOSHEN      Yes       92
+
+  306959 Visalia                           8306955     306955 - SONS OF ITALY 2                  88     399040 Goshen        8399808    399808 - MB GOSHEN      Yes       96
+
+EWMR010 Regular/Absentee/Voting Pct Xref (Summary) Regular Pct Order
+Printed: 12/5/2016 10:11:40AM
+  Regular Precinct                         Absentee      Voting Precinct           MB?   Bal Type     Regular Precinct       Absentee         Voting Precinct         MB?   Bal Type
+
+  399041 Visalia                           8399803     399803 - MB VISALIA         Yes       92     401412 Dinuba - Ward 4   8401801    401801 - MB DINUBA            Yes       48
+
+  399042 Visalia                           8399805     399805 - MB VISALIA         Yes       93     401413 Dinuba - Ward 4   8401801    401801 - MB DINUBA            Yes       48
+
+  399043 Goshen                            8399802     399802 - MB GOSHEN          Yes       92     401501 Dinuba - Ward 5   8401802    401802 - MB DINUBA            Yes       97
+
+  399044 Visalia                           8399801     399801 - MB VISALIA         Yes       49     401502 Dinuba - Ward 5   8401802    401802 - MB DINUBA            Yes       97
+
+  399045 Visalia                           8399806     399806 - MB VISALIA         Yes       94     401503 Dinuba - Ward 5   8401802    401802 - MB DINUBA            Yes       97
+
+  399046 Visalia                           8399803     399803 - MB VISALIA         Yes       92     401504 Dinuba - Ward 5   8401802    401802 - MB DINUBA            Yes       97
+
+  401101 Dinuba - Ward 1                   8401101     401101 - DINUBA COMMUNITY             48     401505 Dinuba - Ward 5   8401802    401802 - MB DINUBA            Yes       97
+
+  401102 Dinuba - Ward 1                   8401801     401801 - MB DINUBA          Yes       48     401506 Dinuba - Ward 5   8401802    401802 - MB DINUBA            Yes       97
+
+  401103 Dinuba - Ward 1                   8401801     401801 - MB DINUBA          Yes       48     401507 Dinuba - Ward 5   8401802    401802 - MB DINUBA            Yes       97
+
+  401104 Dinuba - Ward 1                   8401801     401801 - MB DINUBA          Yes       48     401508 Dinuba - Ward 5   8401802    401802 - MB DINUBA            Yes       97
+
+  401105 Dinuba - Ward 1                   8401801     401801 - MB DINUBA          Yes       48     401509 Dinuba - Ward 5   8401802    401802 - MB DINUBA            Yes       97
+
+  401106 Dinuba - Ward 1                   8401801     401801 - MB DINUBA          Yes       48     401510 Dinuba - Ward 5   8401802    401802 - MB DINUBA            Yes       97
+
+  401107 Dinuba - Ward 1                   8401801     401801 - MB DINUBA          Yes       48     401511 Dinuba - Ward 5   8401802    401802 - MB DINUBA            Yes       97
+
+  401108 Dinuba - Ward 1                   8401801     401801 - MB DINUBA          Yes       48     401512 Dinuba - Ward 5   8401802    401802 - MB DINUBA            Yes       97
+
+  401109 Dinuba - Ward 1                   8401801     401801 - MB DINUBA          Yes       48     401513 Dinuba - Ward 5   8401802    401802 - MB DINUBA            Yes       97
+
+  401201 Dinuba - Ward 2                   8401801     401801 - MB DINUBA          Yes       48     401514 Dinuba - Ward 5   8401802    401802 - MB DINUBA            Yes       97
+
+  401202 Dinuba - Ward 2                   8401801     401801 - MB DINUBA          Yes       48     401515 Dinuba - Ward 5   8401802    401802 - MB DINUBA            Yes       97
+
+  401203 Dinuba - Ward 2                   8401203     401203 - DINUBA MEM                   48     401516 Dinuba - Ward 5   8401802    401802 - MB DINUBA            Yes       97
+
+  401204 Dinuba - Ward 2                   8401801     401801 - MB DINUBA          Yes       48     401517 Dinuba - Ward 5   8401802    401802 - MB DINUBA            Yes       97
+
+  401205 Dinuba - Ward 2                   8401801     401801 - MB DINUBA          Yes       48     406905 Visalia           8406905    406905 - BOY SCOUTS 2                   90
+
+  401206 Dinuba - Ward 2                   8401801     401801 - MB DINUBA          Yes       48     406916 Visalia           8406801    406801 - MB VISALIA           Yes       89
+
+  401207 Dinuba - Ward 2                   8401801     401801 - MB DINUBA          Yes       48     406917 Visalia           8406917    406917 - MANUEL HERNANDEZ 2             98
+
+  401208 Dinuba - Ward 2                   8401801     401801 - MB DINUBA          Yes       48     406919 Visalia           8406905    406905 - BOY SCOUTS 2                   90
+
+  401209 Dinuba - Ward 2                   8401801     401801 - MB DINUBA          Yes       48     406920 Visalia           8406920    406920 - BOY SCOUTS 1                   89
+
+  401210 Dinuba - Ward 2                   8401801     401801 - MB DINUBA          Yes       48     406921 Visalia           8406801    406801 - MB VISALIA           Yes       89
+
+  401301 Dinuba - Ward 3                   8401801     401801 - MB DINUBA          Yes       48     406949 Visalia           8406917    406917 - MANUEL HERNANDEZ 2             98
+
+  401302 Dinuba - Ward 3                   8401101     401101 - DINUBA COMMUNITY             48     407001 Woodlake          8407001    407001 - WOODLAKE MEM 1                 99
+
+  401303 Dinuba - Ward 3                   8401801     401801 - MB DINUBA          Yes       48     407002 Woodlake          8407001    407001 - WOODLAKE MEM 1                 99
+
+  401304 Dinuba - Ward 3                   8401801     401801 - MB DINUBA          Yes       48     407003 Woodlake          8407801    407801 - MB WOODLAKE          Yes     100
+
+  401305 Dinuba - Ward 3                   8401801     401801 - MB DINUBA          Yes       48     407004 Woodlake          8407004    407004 - WOODLAKE MEM 2               100
+
+  401306 Dinuba - Ward 3                   8401306     401306 - DINUBA CHRISTIAN             48     407005 Woodlake          8407802    407802 - MB WOODLAKE          Yes     101
+
+  401307 Dinuba - Ward 3                   8401801     401801 - MB DINUBA          Yes       48     407006 Woodlake          8407801    407801 - MB WOODLAKE          Yes     100
+
+  401401 Dinuba - Ward 4                   8401203     401203 - DINUBA MEM                   48     407007 Woodlake          8407004    407004 - WOODLAKE MEM 2               100
+
+  401402 Dinuba - Ward 4                   8401306     401306 - DINUBA CHRISTIAN             48     407008 Woodlake          8407001    407001 - WOODLAKE MEM 1                 99
+
+  401403 Dinuba - Ward 4                   8401801     401801 - MB DINUBA          Yes       48     407009 Woodlake          8407001    407001 - WOODLAKE MEM 1                 99
+
+  401404 Dinuba - Ward 4                   8401801     401801 - MB DINUBA          Yes       48     407010 Woodlake          8407801    407801 - MB WOODLAKE          Yes     100
+
+  401405 Dinuba - Ward 4                   8401801     401801 - MB DINUBA          Yes       48     499001 Visalia           8499807    499807 - MB VISALIA           Yes       95
+
+  401406 Dinuba - Ward 4                   8401801     401801 - MB DINUBA          Yes       48     499002 Visalia           8499804    499804 - MB VISALIA           Yes       94
+
+  401407 Dinuba - Ward 4                   8401801     401801 - MB DINUBA          Yes       48     499003 Visalia           8499806    499806 - MB VISALIA           Yes       95
+
+  401408 Dinuba - Ward 4                   8401801     401801 - MB DINUBA          Yes       48     499004 Goshen            8499803    499803 - MB GOSHEN            Yes       93
+
+
+
+
+                                                                                                                                                                                       C-13
+  401409 Dinuba - Ward 4                   8401801     401801 - MB DINUBA          Yes       48     499005 Goshen            8499803    499803 - MB GOSHEN            Yes       93
+
+  401410 Dinuba - Ward 4                   8401801     401801 - MB DINUBA          Yes       48     499006 Goshen            8499006    499006 - GOSHEN CSD                   102
+
+  401411 Dinuba - Ward 4                   8401801     401801 - MB DINUBA          Yes       48     499007 Traver            8499810    499810 - MB TRAVER            Yes     103
+
+EWMR010 Regular/Absentee/Voting Pct Xref (Summary) Regular Pct Order
+Printed: 12/5/2016 10:11:40AM
+  Regular Precinct                         Absentee      Voting Precinct             MB?   Bal Type     Regular Precinct      Absentee         Voting Precinct        MB?   Bal Type
+
+  499008 Goshen                            8499802     499802 - MB GOSHEN            Yes       92     499051 Traver           8499810    499810 - MB TRAVER           Yes     103
+
+  499009 Goshen                            8499804     499804 - MB VISALIA           Yes       94     499052 Traver           8499810    499810 - MB TRAVER           Yes     103
+
+  499010 Monson-Sultana                    8499801     499801 - MB MONSON SULTANA    Yes       48     499053 Visalia          8499806    499806 - MB VISALIA          Yes       95
+
+  499011 Cutler-Orosi                      8499811     499811 - MB CUTLER OROSI      Yes      104     499054 Monson-Sultana   8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499012 Visalia                           8499806     499806 - MB VISALIA           Yes       95     499055 Monson-Sultana   8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499013 Visalia                           8499806     499806 - MB VISALIA           Yes       95     499056 Monson-Sultana   8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499014 Kingsburg                         8499810     499810 - MB TRAVER            Yes      103     499057 Monson-Sultana   8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499015 Kingsburg                         8499801     499801 - MB MONSON SULTANA    Yes       48     499058 Monson-Sultana   8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499016 Traver                            8499806     499806 - MB VISALIA           Yes       95     499059 Monson-Sultana   8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499017 Dinuba                            8499801     499801 - MB MONSON SULTANA    Yes       48     499060 Monson-Sultana   8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499018 Dinuba                            8499801     499801 - MB MONSON SULTANA    Yes       48     499061 Monson-Sultana   8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499019 Dinuba                            8499801     499801 - MB MONSON SULTANA    Yes       48     499062 Monson-Sultana   8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499020 Dinuba                            8499801     499801 - MB MONSON SULTANA    Yes       48     499063 London           8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499021 Monson-Sultana                    8499801     499801 - MB MONSON SULTANA    Yes       48     499064 Monson-Sultana   8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499022 Traver                            8499801     499801 - MB MONSON SULTANA    Yes       48     499065 Monson-Sultana   8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499023 Dinuba                            8499801     499801 - MB MONSON SULTANA    Yes       48     499066 Monson-Sultana   8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499024 Dinuba                            8499801     499801 - MB MONSON SULTANA    Yes       48     499067 Monson-Sultana   8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499025 Dinuba                            8499801     499801 - MB MONSON SULTANA    Yes       48     499068 Monson-Sultana   8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499026 Dinuba                            8499801     499801 - MB MONSON SULTANA    Yes       48     499069 Monson-Sultana   8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499027 Visalia                           8499806     499806 - MB VISALIA           Yes       95     499070 Traver           8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499028 Dinuba                            8499801     499801 - MB MONSON SULTANA    Yes       48     499071 Goshen           8499802    499802 - MB GOSHEN           Yes       92
+
+  499029 Dinuba                            8499801     499801 - MB MONSON SULTANA    Yes       48     499072 Goshen           8499804    499804 - MB VISALIA          Yes       94
+
+  499030 Reedley                           8499801     499801 - MB MONSON SULTANA    Yes       48     499073 Goshen           8499804    499804 - MB VISALIA          Yes       94
+
+  499031 Kingsburg                         8499810     499810 - MB TRAVER            Yes      103     499074 Goshen           8499808    499808 - MB WOODLAKE         Yes       96
+
+  499032 Dinuba                            8499801     499801 - MB MONSON SULTANA    Yes       48     499075 Goshen           8499809    499809 - MB GOSHEN           Yes     102
+
+  499033 Kingsburg                         8499810     499810 - MB TRAVER            Yes      103     499076 Dinuba           8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499034 Dinuba                            8499801     499801 - MB MONSON SULTANA    Yes       48     499077 Cutler-Orosi     8499811    499811 - MB CUTLER OROSI     Yes     104
+
+  499035 Dinuba                            8499801     499801 - MB MONSON SULTANA    Yes       48     499078 Kingsburg        8499810    499810 - MB TRAVER           Yes     103
+
+  499036 Traver                            8499810     499810 - MB TRAVER            Yes      103     499079 Dinuba           8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499037 London                            8499801     499801 - MB MONSON SULTANA    Yes       48     499080 Kingsburg        8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499038 Monson-Sultana                    8499801     499801 - MB MONSON SULTANA    Yes       48     499081 Dinuba           8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499039 Monson-Sultana                    8499801     499801 - MB MONSON SULTANA    Yes       48     499082 Traver           8499810    499810 - MB TRAVER           Yes     103
+
+  499040 Monson-Sultana                    8499801     499801 - MB MONSON SULTANA    Yes       48     499083 Monson-Sultana   8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499041 Kingsburg                         8499801     499801 - MB MONSON SULTANA    Yes       48     499084 Monson-Sultana   8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499042 Traver                            8499810     499810 - MB TRAVER            Yes      103     499085 Monson-Sultana   8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499043 Dinuba                            8499801     499801 - MB MONSON SULTANA    Yes       48     499086 Traver           8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499044 Kingsburg                         8499044     499044 - KINGS RIVER SCHOOL             48     499087 Traver           8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499045 Reedley                           8499801     499801 - MB MONSON SULTANA    Yes       48     499088 Kingsburg        8499810    499810 - MB TRAVER           Yes     103
+
+  499046 Woodlake                          8499808     499808 - MB WOODLAKE          Yes       96     499089 Kingsburg        8499810    499810 - MB TRAVER           Yes     103
+
+  499047 Cutler-Orosi                      8499811     499811 - MB CUTLER OROSI      Yes      104     499090 Kingsburg        8499810    499810 - MB TRAVER           Yes     103
+
+
+
+
+                                                                                                                                                                                       C-14
+  499048 Visalia                           8499806     499806 - MB VISALIA           Yes       95     499091 Kingsburg        8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499049 Visalia                           8499806     499806 - MB VISALIA           Yes       95     499092 Kingsburg        8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499050 Visalia                           8499807     499807 - MB VISALIA           Yes       95     499093 Traver           8499810    499810 - MB TRAVER           Yes     103
+
+EWMR010 Regular/Absentee/Voting Pct Xref (Summary) Regular Pct Order
+Printed: 12/5/2016 10:11:40AM
+  Regular Precinct                         Absentee      Voting Precinct            MB?   Bal Type     Regular Precinct      Absentee         Voting Precinct        MB?   Bal Type
+
+  499094 Kingsburg                         8499801     499801 - MB MONSON SULTANA   Yes       48     499138 Yettem           8499811    499811 - MB CUTLER OROSI     Yes     104
+
+  499095 Dinuba                            8499801     499801 - MB MONSON SULTANA   Yes       48     499139 Cutler-Orosi     8499815    499815 - MB CUTLER OROSI     Yes     108
+
+  499096 Dinuba                            8499801     499801 - MB MONSON SULTANA   Yes       48     499140 Dinuba           8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499097 Dinuba                            8499801     499801 - MB MONSON SULTANA   Yes       48     499141 Dinuba           8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499098 Dinuba                            8499801     499801 - MB MONSON SULTANA   Yes       48     499142 Cutler-Orosi     8499811    499811 - MB CUTLER OROSI     Yes     104
+
+  499099 Kingsburg                         8499810     499810 - MB TRAVER           Yes      103     499143 Cutler-Orosi     8499811    499811 - MB CUTLER OROSI     Yes     104
+
+  499101 London                            8499801     499801 - MB MONSON SULTANA   Yes       48     499144 Cutler-Orosi     8499811    499811 - MB CUTLER OROSI     Yes     104
+
+  499102 Visalia                           8499102     499102 - VALLEY OAK                    95     499145 Cutler-Orosi     8499815    499815 - MB CUTLER OROSI     Yes     108
+
+  499103 Visalia                           8499807     499807 - MB VISALIA          Yes       95     499146 Cutler-Orosi     8499811    499811 - MB CUTLER OROSI     Yes     104
+
+  499104 Visalia                           8499807     499807 - MB VISALIA          Yes       95     499147 Cutler-Orosi     8499811    499811 - MB CUTLER OROSI     Yes     104
+
+  499105 Ivanhoe                           8499807     499807 - MB VISALIA          Yes       95     499148 Cutler-Orosi     8499812    499812 - MB CUTLER OROSI     Yes     105
+
+  499106 Ivanhoe                           8499806     499806 - MB VISALIA          Yes       95     499149 Goshen           8499809    499809 - MB GOSHEN           Yes     102
+
+  499107 Visalia                           8499806     499806 - MB VISALIA          Yes       95     499150 Ivanhoe          8499806    499806 - MB VISALIA          Yes       95
+
+  499108 Visalia                           8499804     499804 - MB VISALIA          Yes       94     499151 Cutler-Orosi     8499812    499812 - MB CUTLER OROSI     Yes     105
+
+  499109 Visalia                           8499805     499805 - MB VISALIA          Yes       94     499152 Yettem           8499811    499811 - MB CUTLER OROSI     Yes     104
+
+  499110 Ivanhoe                           8499804     499804 - MB VISALIA          Yes       94     499153 Visalia          8499807    499807 - MB VISALIA          Yes       95
+
+  499111 Visalia                           8499805     499805 - MB VISALIA          Yes       94     499154 Visalia          8499806    499806 - MB VISALIA          Yes       95
+
+  499112 Visalia                           8499806     499806 - MB VISALIA          Yes       95     499155 Ivanhoe          8499806    499806 - MB VISALIA          Yes       95
+
+  499113 Cutler-Orosi                      8499812     499812 - MB CUTLER OROSI     Yes      105     499156 Visalia          8499804    499804 - MB VISALIA          Yes       94
+
+  499114 Visalia                           8499806     499806 - MB VISALIA          Yes       95     499157 Ivanhoe          8499804    499804 - MB VISALIA          Yes       94
+
+  499115 Ivanhoe                           8499804     499804 - MB VISALIA          Yes       94     499158 Visalia          8499804    499804 - MB VISALIA          Yes       94
+
+  499116 Cutler-Orosi                      8499813     499813 - MB CUTLER OROSI     Yes      106     499159 Visalia          8499804    499804 - MB VISALIA          Yes       94
+
+  499117 Cutler-Orosi                      8499814     499814 - MB CUTLER OROSI     Yes      107     499160 Monson-Sultana   8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499118 Cutler-Orosi                      8499811     499811 - MB CUTLER OROSI     Yes      104     499161 Cutler-Orosi     8499806    499806 - MB VISALIA          Yes       95
+
+  499119 Cutler-Orosi                      8499811     499811 - MB CUTLER OROSI     Yes      104     499162 Visalia          8499806    499806 - MB VISALIA          Yes       95
+
+  499120 Cutler-Orosi                      8499811     499811 - MB CUTLER OROSI     Yes      104     499163 Ivanhoe          8499806    499806 - MB VISALIA          Yes       95
+
+  499121 Cutler-Orosi                      8499811     499811 - MB CUTLER OROSI     Yes      104     499164 Ivanhoe          8499806    499806 - MB VISALIA          Yes       95
+
+  499122 Cutler-Orosi                      8499812     499812 - MB CUTLER OROSI     Yes      105     499165 Visalia          8499806    499806 - MB VISALIA          Yes       95
+
+  499123 Cutler-Orosi                      8499811     499811 - MB CUTLER OROSI     Yes      104     499166 Visalia          8499806    499806 - MB VISALIA          Yes       95
+
+  499124 Visalia                           8499806     499806 - MB VISALIA          Yes       95     499167 Ivanhoe          8499807    499807 - MB VISALIA          Yes       95
+
+  499125 Visalia                           8499806     499806 - MB VISALIA          Yes       95     499168 Ivanhoe          8499807    499807 - MB VISALIA          Yes       95
+
+  499126 Cutler-Orosi                      8499126     499126 - CUTLER SCHOOL                106     499169 Yettem           8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499127 Monson-Sultana                    8499801     499801 - MB MONSON SULTANA   Yes       48     499170 Cutler-Orosi     8499813    499813 - MB CUTLER OROSI     Yes     106
+
+  499128 Cutler-Orosi                      8499815     499815 - MB CUTLER OROSI     Yes      108     499172 Visalia          8499806    499806 - MB VISALIA          Yes       95
+
+  499129 Cutler-Orosi                      8499815     499815 - MB CUTLER OROSI     Yes      108     499173 Cutler-Orosi     8499815    499815 - MB CUTLER OROSI     Yes     108
+
+  499130 Monson-Sultana                    8499801     499801 - MB MONSON SULTANA   Yes       48     499174 Visalia          8499806    499806 - MB VISALIA          Yes       95
+
+  499131 Monson-Sultana                    8499801     499801 - MB MONSON SULTANA   Yes       48     499175 Cutler-Orosi     8499815    499815 - MB CUTLER OROSI     Yes     108
+
+  499132 Cutler-Orosi                      8499132     499132 - OROSI MEM                    104     499176 Cutler-Orosi     8499813    499813 - MB CUTLER OROSI     Yes     106
+
+  499133 Monson-Sultana                    8499801     499801 - MB MONSON SULTANA   Yes       48     499177 Cutler-Orosi     8499815    499815 - MB CUTLER OROSI     Yes     108
+
+  499134 Cutler-Orosi                      8499811     499811 - MB CUTLER OROSI     Yes      104     499178 Cutler-Orosi     8499811    499811 - MB CUTLER OROSI     Yes     104
+
+
+
+
+                                                                                                                                                                                      C-15
+  499135 Visalia                           8499806     499806 - MB VISALIA          Yes       95     499179 Cutler-Orosi     8499811    499811 - MB CUTLER OROSI     Yes     104
+
+  499136 Cutler-Orosi                      8499811     499811 - MB CUTLER OROSI     Yes      104     499180 Cutler-Orosi     8499813    499813 - MB CUTLER OROSI     Yes     106
+
+  499137 Yettem                            8499811     499811 - MB CUTLER OROSI     Yes      104     499181 Cutler-Orosi     8499815    499815 - MB CUTLER OROSI     Yes     108
+
+EWMR010 Regular/Absentee/Voting Pct Xref (Summary) Regular Pct Order
+Printed: 12/5/2016 10:11:40AM
+  Regular Precinct                         Absentee      Voting Precinct            MB?   Bal Type     Regular Precinct    Absentee         Voting Precinct        MB?   Bal Type
+
+  499182 Cutler-Orosi                      8499813     499813 - MB CUTLER OROSI     Yes      106     499231 Ivanhoe        8499806    499806 - MB VISALIA          Yes       95
+
+  499183 Cutler-Orosi                      8499815     499815 - MB CUTLER OROSI     Yes      108     499232 Ivanhoe        8499804    499804 - MB VISALIA          Yes       94
+
+  499184 Cutler-Orosi                      8499811     499811 - MB CUTLER OROSI     Yes      104     499233 Yettem         8499817    499817 - MB WOODLAKE         Yes     110
+
+  499185 Cutler-Orosi                      8499811     499811 - MB CUTLER OROSI     Yes      104     499234 Woodlake       8499823    499823 - MB WOODLAKE         Yes     114
+
+  499186 Visalia                           8499806     499806 - MB VISALIA          Yes       95     499235 Woodlake       8499818    499818 - MB WOODLAKE         Yes     111
+
+  499187 Visalia                           8499806     499806 - MB VISALIA          Yes       95     499236 Woodlake       8499820    499820 - MB WOODLAKE         Yes     112
+
+  499188 Visalia                           8499806     499806 - MB VISALIA          Yes       95     499237 Yettem         8499817    499817 - MB WOODLAKE         Yes     110
+
+  499189 Visalia                           8499804     499804 - MB VISALIA          Yes       94     499238 Woodlake       8499817    499817 - MB WOODLAKE         Yes     110
+
+  499190 Visalia                           8499807     499807 - MB VISALIA          Yes       95     499239 Yettem         8499822    499822 - MB WOODLAKE         Yes     114
+
+  499191 Ivanhoe                           8499806     499806 - MB VISALIA          Yes       95     499240 Yettem         8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499192 Cutler-Orosi                      8499813     499813 - MB CUTLER OROSI     Yes      106     499241 Yettem         8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499194 Cutler-Orosi                      8499811     499811 - MB CUTLER OROSI     Yes      104     499242 Yettem         8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499195 Visalia                           8499807     499807 - MB VISALIA          Yes       95     499243 Woodlake       8499820    499820 - MB WOODLAKE         Yes     112
+
+  499201 Exeter                            8499816     499816 - MB EXETER           Yes      109     499244 Woodlake       8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499202 Woodlake                          8499817     499817 - MB WOODLAKE         Yes      110     499245 Ivanhoe        8499806    499806 - MB VISALIA          Yes       95
+
+  499203 Yettem                            8499801     499801 - MB MONSON SULTANA   Yes       48     499246 Ivanhoe        8499806    499806 - MB VISALIA          Yes       95
+
+  499204 Woodlake                          8499818     499818 - MB WOODLAKE         Yes      111     499247 Ivanhoe        8499806    499806 - MB VISALIA          Yes       95
+
+  499205 Woodlake                          8499818     499818 - MB WOODLAKE         Yes      111     499248 Ivanhoe        8499806    499806 - MB VISALIA          Yes       95
+
+  499206 Woodlake                          8499820     499820 - MB WOODLAKE         Yes      112     499249 Ivanhoe        8499249    499249 - IVANHOE MEM                   95
+
+  499207 Woodlake                          8499801     499801 - MB MONSON SULTANA   Yes       48     499250 Ivanhoe        8499806    499806 - MB VISALIA          Yes       95
+
+  499208 Woodlake                          8499817     499817 - MB WOODLAKE         Yes      110     499251 Ivanhoe        8499806    499806 - MB VISALIA          Yes       95
+
+  499209 Woodlake                          8499801     499801 - MB MONSON SULTANA   Yes       48     499252 Ivanhoe        8499806    499806 - MB VISALIA          Yes       95
+
+  499210 Woodlake                          8499817     499817 - MB WOODLAKE         Yes      110     499253 Yettem         8499822    499822 - MB WOODLAKE         Yes     114
+
+  499211 Woodlake                          8499801     499801 - MB MONSON SULTANA   Yes       48     499254 Yettem         8499822    499822 - MB WOODLAKE         Yes     114
+
+  499212 Cutler-Orosi                      8499821     499821 - MB CUTLER OROSI     Yes      113     499255 Ivanhoe        8499806    499806 - MB VISALIA          Yes       95
+
+  499213 Woodlake                          8499818     499818 - MB WOODLAKE         Yes      111     499256 Woodlake       8499806    499806 - MB VISALIA          Yes       95
+
+  499214 Woodlake                          8499818     499818 - MB WOODLAKE         Yes      111     499258 Cutler-Orosi   8499812    499812 - MB CUTLER OROSI     Yes     105
+
+  499215 Woodlake                          8499801     499801 - MB MONSON SULTANA   Yes       48     499259 Yettem         8499817    499817 - MB WOODLAKE         Yes     110
+
+  499216 Woodlake                          8499817     499817 - MB WOODLAKE         Yes      110     499260 Woodlake       8499824    499824 - MB WOODLAKE         Yes     115
+
+  499217 Woodlake                          8499801     499801 - MB MONSON SULTANA   Yes       48     499261 Woodlake       8499824    499824 - MB WOODLAKE         Yes     115
+
+  499218 Woodlake                          8499823     499823 - MB WOODLAKE         Yes      114     499262 Woodlake       8499824    499824 - MB WOODLAKE         Yes     115
+
+  499219 Woodlake                          8499801     499801 - MB MONSON SULTANA   Yes       48     499263 Yettem         8499822    499822 - MB WOODLAKE         Yes     114
+
+  499220 Woodlake                          8499822     499822 - MB WOODLAKE         Yes      114     499264 Cutler-Orosi   8499821    499821 - MB CUTLER OROSI     Yes     113
+
+  499221 Yettem                            8499822     499822 - MB WOODLAKE         Yes      114     499265 Cutler-Orosi   8499821    499821 - MB CUTLER OROSI     Yes     113
+
+  499222 Yettem                            8499823     499823 - MB WOODLAKE         Yes      114     499266 Cutler-Orosi   8499821    499821 - MB CUTLER OROSI     Yes     113
+
+  499223 Woodlake                          8499818     499818 - MB WOODLAKE         Yes      111     499267 Yettem         8499822    499822 - MB WOODLAKE         Yes     114
+
+  499224 Woodlake                          8499818     499818 - MB WOODLAKE         Yes      111     499268 Woodlake       8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499225 Woodlake                          8499820     499820 - MB WOODLAKE         Yes      112     499269 Woodlake       8499801    499801 - MB MONSON SULTANA   Yes       48
+
+  499226 Woodlake                          8499817     499817 - MB WOODLAKE         Yes      110     499270 Woodlake       8499818    499818 - MB WOODLAKE         Yes     111
+
+  499227 Woodlake                          8499801     499801 - MB MONSON SULTANA   Yes       48     499271 Ivanhoe        8499816    499816 - MB EXETER           Yes     109
+
+
+
+
+                                                                                                                                                                                    C-16
+  499228 Cutler-Orosi                      8499821     499821 - MB CUTLER OROSI     Yes      113     499272 Cutler-Orosi   8499812    499812 - MB CUTLER OROSI     Yes     105
+
+  499229 Ivanhoe                           8499806     499806 - MB VISALIA          Yes       95     499273 Ivanhoe        8499806    499806 - MB VISALIA          Yes       95
+
+  499230 Woodlake                          8499806     499806 - MB VISALIA          Yes       95     499274 Yettem         8499801    499801 - MB MONSON SULTANA   Yes       48
+
+EWMR010 Regular/Absentee/Voting Pct Xref (Summary) Regular Pct Order
+Printed: 12/5/2016 10:11:40AM
+  Regular Precinct                         Absentee      Voting Precinct            MB?   Bal Type     Regular Precinct    Absentee        Voting Precinct            MB?   Bal Type
+
+  499275 Woodlake                          8499801     499801 - MB MONSON SULTANA   Yes       48     499322 Three Rivers   8499824    499824 - MB WOODLAKE            Yes     115
+
+  499277 Woodlake                          8499823     499823 - MB WOODLAKE         Yes      114     499323 Woodlake       8499824    499824 - MB WOODLAKE            Yes     115
+
+  499278 Woodlake                          8499823     499823 - MB WOODLAKE         Yes      114     499324 Badger         8499822    499822 - MB WOODLAKE            Yes     114
+
+  499279 Yettem                            8499801     499801 - MB MONSON SULTANA   Yes       48     499325 Three Rivers   8499824    499824 - MB WOODLAKE            Yes     115
+
+  499280 Yettem                            8499801     499801 - MB MONSON SULTANA   Yes       48     499326 Three Rivers   8499824    499824 - MB WOODLAKE            Yes     115
+
+  499281 Woodlake                          8499801     499801 - MB MONSON SULTANA   Yes       48     499327 Cutler-Orosi   8499821    499821 - MB CUTLER OROSI        Yes     113
+
+  499282 Ivanhoe                           8499806     499806 - MB VISALIA          Yes       95     499328 Orange Cove    8499811    499811 - MB CUTLER OROSI        Yes     104
+
+  499283 Exeter                            8499801     499801 - MB MONSON SULTANA   Yes       48     499329 Orange Cove    8499811    499811 - MB CUTLER OROSI        Yes     104
+
+  499284 Yettem                            8499817     499817 - MB WOODLAKE         Yes      110     499331 Three Rivers   8499824    499824 - MB WOODLAKE            Yes     115
+
+  499285 Ivanhoe                           8499806     499806 - MB VISALIA          Yes       95     499332 Woodlake       8499823    499823 - MB WOODLAKE            Yes     114
+
+  499286 Ivanhoe                           8499806     499806 - MB VISALIA          Yes       95     499333 Woodlake       8499822    499822 - MB WOODLAKE            Yes     114
+
+  499287 Ivanhoe                           8499806     499806 - MB VISALIA          Yes       95     499334 Cutler-Orosi   8499811    499811 - MB CUTLER OROSI        Yes     104
+
+  499288 Yettem                            8499823     499823 - MB WOODLAKE         Yes      114     499335 Cutler-Orosi   8499811    499811 - MB CUTLER OROSI        Yes     104
+
+  499289 Yettem                            8499823     499823 - MB WOODLAKE         Yes      114     499336 Badger         8499821    499821 - MB CUTLER OROSI        Yes     113
+
+  499290 Cutler-Orosi                      8499812     499812 - MB CUTLER OROSI     Yes      105     499337 Cutler-Orosi   8499811    499811 - MB CUTLER OROSI        Yes     104
+
+  499291 Woodlake                          8499801     499801 - MB MONSON SULTANA   Yes       48     499338 Cutler-Orosi   8499811    499811 - MB CUTLER OROSI        Yes     104
+
+  499292 Ivanhoe                           8499806     499806 - MB VISALIA          Yes       95     499339 Woodlake       8499824    499824 - MB WOODLAKE            Yes     115
+
+  499293 Ivanhoe                           8499806     499806 - MB VISALIA          Yes       95     499340 Cutler-Orosi   8499811    499811 - MB CUTLER OROSI        Yes     104
+
+  499294 Ivanhoe                           8499806     499806 - MB VISALIA          Yes       95     499341 Cutler-Orosi   8499811    499811 - MB CUTLER OROSI        Yes     104
+
+  499295 Woodlake                          8499801     499801 - MB MONSON SULTANA   Yes       48     499342 Woodlake       8499822    499822 - MB WOODLAKE            Yes     114
+
+  499296 Yettem                            8499817     499817 - MB WOODLAKE         Yes      110     499343 Woodlake       8499822    499822 - MB WOODLAKE            Yes     114
+
+  499297 Ivanhoe                           8499806     499806 - MB VISALIA          Yes       95     499344 Orange Cove    8499811    499811 - MB CUTLER OROSI        Yes     104
+
+  499301 Badger                            8499821     499821 - MB CUTLER OROSI     Yes      113     499345 Orange Cove    8499811    499811 - MB CUTLER OROSI        Yes     104
+
+  499302 Badger                            8499811     499811 - MB CUTLER OROSI     Yes      104     499346 Cutler-Orosi   8499813    499813 - MB CUTLER OROSI        Yes     106
+
+  499303 Badger                            8499822     499822 - MB WOODLAKE         Yes      114     499347 Cutler-Orosi   8499811    499811 - MB CUTLER OROSI        Yes     104
+
+  499304 Badger                            8499822     499822 - MB WOODLAKE         Yes      114     499348 Cutler-Orosi   8499811    499811 - MB CUTLER OROSI        Yes     104
+
+  499305 Three Rivers                      8499824     499824 - MB WOODLAKE         Yes      115     499349 Cutler-Orosi   8499811    499811 - MB CUTLER OROSI        Yes     104
+
+  499306 Orange Cove                       8499811     499811 - MB CUTLER OROSI     Yes      104     499350 Cutler-Orosi   8499811    499811 - MB CUTLER OROSI        Yes     104
+
+  499307 Badger                            8499822     499822 - MB WOODLAKE         Yes      114     499351 Cutler-Orosi   8499811    499811 - MB CUTLER OROSI        Yes     104
+
+  499308 Badger                            8499822     499822 - MB WOODLAKE         Yes      114     499352 Cutler-Orosi   8499811    499811 - MB CUTLER OROSI        Yes     104
+
+  499309 Badger                            8499822     499822 - MB WOODLAKE         Yes      114     499353 Badger         8499819    499819 - MB BADGER              Yes     112
+
+  499310 Woodlake                          8499823     499823 - MB WOODLAKE         Yes      114     499354 Badger         8499822    499822 - MB WOODLAKE            Yes     114
+
+  499311 Woodlake                          8499823     499823 - MB WOODLAKE         Yes      114     499355 Three Rivers   8499824    499824 - MB WOODLAKE            Yes     115
+
+  499312 Woodlake                          8499823     499823 - MB WOODLAKE         Yes      114     499356 Cutler-Orosi   8499811    499811 - MB CUTLER OROSI        Yes     104
+
+  499313 Woodlake                          8499822     499822 - MB WOODLAKE         Yes      114     499357 Orange Cove    8499811    499811 - MB CUTLER OROSI        Yes     104
+
+  499314 Cutler-Orosi                      8499811     499811 - MB CUTLER OROSI     Yes      104     499358 Cutler-Orosi   8499801    499801 - MB MONSON SULTANA      Yes       48
+
+  499315 Cutler-Orosi                      8499811     499811 - MB CUTLER OROSI     Yes      104     499446 Cutler-Orosi   8499811    499811 - MB CUTLER OROSI        Yes     104
+
+  499316 Cutler-Orosi                      8499811     499811 - MB CUTLER OROSI     Yes      104     499447 Dinuba         8499801    499801 - MB MONSON SULTANA      Yes       48
+
+  499317 Cutler-Orosi                      8499811     499811 - MB CUTLER OROSI     Yes      104     499448 Dinuba         8499801    499801 - MB MONSON SULTANA      Yes       48
+
+  499318 Orange Cove                       8499811     499811 - MB CUTLER OROSI     Yes      104     499449 Dinuba         8499801    499801 - MB MONSON SULTANA      Yes       48
+
+
+
+
+                                                                                                                                                                                       C-17
+  499319 Orange Cove                       8499811     499811 - MB CUTLER OROSI     Yes      104     499450 Dinuba         8499801    499801 - MB MONSON SULTANA      Yes       48
+
+  499320 Orange Cove                       8499811     499811 - MB CUTLER OROSI     Yes      104     499911 Kingsburg      8499810    499810 - MB TRAVER              Yes     103
+
+  499321 Cutler-Orosi                      8499811     499811 - MB CUTLER OROSI     Yes      104     504001 Porterville    8504001    504001 - FIRST BAPTIST CHURCH           116
+
+EWMR010 Regular/Absentee/Voting Pct Xref (Summary) Regular Pct Order
+Printed: 12/5/2016 10:11:40AM
+  Regular Precinct                         Absentee      Voting Precinct               MB?   Bal Type     Regular Precinct   Absentee        Voting Precinct            MB?   Bal Type
+
+  504002 Porterville                       8504002     504002 - 1ST UNITED METHODIST 1          116     504047 Porterville   8504801    504801 - MB PORTERVILLE         Yes     116
+
+  504003 Porterville                       8504001     504001 - FIRST BAPTIST CHURCH            116     504048 Porterville   8504801    504801 - MB PORTERVILLE         Yes     116
+
+  504004 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504049 Porterville   8504801    504801 - MB PORTERVILLE         Yes     116
+
+  504005 Porterville                       8504005     504005 - PORTERVILLE MEM 3               117     504901 Porterville   8504901    504901 - SOUTHERN BAPTIST               120
+
+  504006 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504902 Porterville   8504801    504801 - MB PORTERVILLE         Yes     116
+
+  504007 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504903 Porterville   8504002    504002 - 1ST UNITED METHODIST 1         116
+
+  504008 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504904 Porterville   8504904    504904 - GRAND AVE METHODIST            116
+
+  504009 Porterville                       8504803     504803 - MB PORTERVILLE         Yes      118     504905 Porterville   8504905    504905 - FIRST CHRISTIAN PORT           116
+
+  504010 Porterville                       8504804     504804 - MB PORTERVILLE         Yes      119     504906 Porterville   8504801    504801 - MB PORTERVILLE         Yes     116
+
+  504011 Porterville                       8504802     504802 - MB PORTERVILLE         Yes      117     504907 Porterville   8504907    504907 - HENDERSON BAPTIST 1            121
+
+  504012 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504908 Porterville   8504805    504805 - MB PORTERVILLE         Yes     120
+
+  504013 Porterville                       8504013     504013 - PORTERVILLE MEM 4               119     504909 Porterville   8504804    504804 - MB PORTERVILLE         Yes     119
+
+  504014 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504910 Porterville   8504806    504806 - MB PORTERVILLE         Yes     121
+
+  504015 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504911 Porterville   8504805    504805 - MB PORTERVILLE         Yes     120
+
+  504016 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504912 Porterville   8504806    504806 - MB PORTERVILLE         Yes     121
+
+  504017 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504913 Porterville   8504801    504801 - MB PORTERVILLE         Yes     116
+
+  504018 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504914 Porterville   8504806    504806 - MB PORTERVILLE         Yes     121
+
+  504019 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504915 Porterville   8504907    504907 - HENDERSON BAPTIST 1            121
+
+  504020 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504916 Porterville   8504806    504806 - MB PORTERVILLE         Yes     121
+
+  504021 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504917 Porterville   8504801    504801 - MB PORTERVILLE         Yes     116
+
+  504022 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504918 Porterville   8504806    504806 - MB PORTERVILLE         Yes     121
+
+  504023 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504919 Porterville   8504806    504806 - MB PORTERVILLE         Yes     121
+
+  504024 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504920 Porterville   8504920    504920 - PORTERVILLE MEM 2              116
+
+  504025 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504921 Porterville   8504905    504905 - FIRST CHRISTIAN PORT           116
+
+  504026 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504922 Porterville   8504801    504801 - MB PORTERVILLE         Yes     116
+
+  504027 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504923 Porterville   8504801    504801 - MB PORTERVILLE         Yes     116
+
+  504028 Porterville                       8504803     504803 - MB PORTERVILLE         Yes      118     504924 Porterville   8504805    504805 - MB PORTERVILLE         Yes     120
+
+  504029 Porterville                       8504802     504802 - MB PORTERVILLE         Yes      117     504925 Porterville   8504806    504806 - MB PORTERVILLE         Yes     121
+
+  504030 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504926 Porterville   8504806    504806 - MB PORTERVILLE         Yes     121
+
+  504031 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504927 Porterville   8504806    504806 - MB PORTERVILLE         Yes     121
+
+  504032 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504928 Porterville   8504806    504806 - MB PORTERVILLE         Yes     121
+
+  504035 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504929 Porterville   8504805    504805 - MB PORTERVILLE         Yes     120
+
+  504036 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504930 Porterville   8504930    504930 - HENDERSON BAPTIST 2            121
+
+  504037 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504931 Porterville   8504801    504801 - MB PORTERVILLE         Yes     116
+
+  504038 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504932 Porterville   8504806    504806 - MB PORTERVILLE         Yes     121
+
+  504039 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504933 Porterville   8504806    504806 - MB PORTERVILLE         Yes     121
+
+  504040 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504934 Porterville   8504806    504806 - MB PORTERVILLE         Yes     121
+
+  504041 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504935 Porterville   8504935    504935 - TRINITY LUTHERAN               116
+
+  504042 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504936 Porterville   8504935    504935 - TRINITY LUTHERAN               116
+
+  504043 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504937 Porterville   8504806    504806 - MB PORTERVILLE         Yes     121
+
+
+
+
+                                                                                                                                                                                         C-18
+  504044 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504938 Porterville   8504801    504801 - MB PORTERVILLE         Yes     116
+
+  504045 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504939 Porterville   8504801    504801 - MB PORTERVILLE         Yes     116
+
+  504046 Porterville                       8504801     504801 - MB PORTERVILLE         Yes      116     504940 Porterville   8504801    504801 - MB PORTERVILLE         Yes     116
+
+EWMR010 Regular/Absentee/Voting Pct Xref (Summary) Regular Pct Order
+Printed: 12/5/2016 10:11:40AM
+  Regular Precinct                         Absentee      Voting Precinct              MB?   Bal Type     Regular Precinct   Absentee        Voting Precinct         MB?   Bal Type
+
+  504941 Porterville                       8504801     504801 - MB PORTERVILLE        Yes      116     599320 Inyokern      8599810    599810 - MB CA HOT SPRINGS   Yes     124
+
+  504942 Porterville                       8504801     504801 - MB PORTERVILLE        Yes      116     599321 Springville   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+  504943 Porterville                       8504801     504801 - MB PORTERVILLE        Yes      116     599322 Posey         8599806    599806 - MB SPRINGVILLE      Yes       68
+
+  504944 Porterville                       8504801     504801 - MB PORTERVILLE        Yes      116     599323 Terra Bella   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+  504945 Porterville                       8504945     504945 - 1ST UNITED METHODIST 2         116     599324 Terra Bella   8599802    599802 - MB TERRA BELLA      Yes       64
+
+  504946 Porterville                       8504801     504801 - MB PORTERVILLE        Yes      116     599325 Terra Bella   8599802    599802 - MB TERRA BELLA      Yes       64
+
+  504947 Porterville                       8504801     504801 - MB PORTERVILLE        Yes      116     599326 Terra Bella   8599802    599802 - MB TERRA BELLA      Yes       64
+
+  504948 Porterville                       8504801     504801 - MB PORTERVILLE        Yes      116     599327 Inyokern      8599804    599804 - MB INYOKERN         Yes       68
+
+  504949 Porterville                       8504801     504801 - MB PORTERVILLE        Yes      116     599328 Terra Bella   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+  504950 Porterville                       8504801     504801 - MB PORTERVILLE        Yes      116     599329 Terra Bella   8599802    599802 - MB TERRA BELLA      Yes       64
+
+  504951 Porterville                       8504801     504801 - MB PORTERVILLE        Yes      116     599330 Porterville   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+  504952 Porterville                       8504801     504801 - MB PORTERVILLE        Yes      116     599331 Porterville   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+  504953 Porterville                       8504801     504801 - MB PORTERVILLE        Yes      116     599332 Porterville   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+  504954 Porterville                       8504935     504935 - TRINITY LUTHERAN               116     599333 Porterville   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+  504955 Porterville                       8504930     504930 - HENDERSON BAPTIST 2            121     599334 Porterville   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+  504956 Porterville                       8504945     504945 - 1ST UNITED METHODIST 2         116     599335 Porterville   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+  504957 Porterville                       8504801     504801 - MB PORTERVILLE        Yes      116     599336 Springville   8599306    599306 - SPRINGVILLE MEM 1             68
+
+  504958 Porterville                       8504801     504801 - MB PORTERVILLE        Yes      116     599337 Springville   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+  504959 Porterville                       8504801     504801 - MB PORTERVILLE        Yes      116     599338 Springville   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+  504960 Porterville                       8504801     504801 - MB PORTERVILLE        Yes      116     599339 Springville   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+  504961 Porterville                       8504806     504806 - MB PORTERVILLE        Yes      121     599340 Springville   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+  504962 Porterville                       8504806     504806 - MB PORTERVILLE        Yes      121     599341 Springville   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+  504963 Porterville                       8504804     504804 - MB PORTERVILLE        Yes      119     599342 Springville   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+  504964 Porterville                       8504802     504802 - MB PORTERVILLE        Yes      117     599343 Springville   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+  599301 Yokohl Valley                     8599808     599808 - MB YOKOHL VALLEY      Yes      122     599344 Springville   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+  599302 Yokohl Valley                     8599809     599809 - MB YOKOHL VALLEY      Yes      123     599345 Springville   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+  599303 Yokhol Valley                     8599806     599806 - MB SPRINGVILLE        Yes       68     599346 Springville   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+  599304 Calif Hot Springs                 8599806     599806 - MB SPRINGVILLE        Yes       68     599347 Springville   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+  599305 Inyokern                          8599804     599804 - MB INYOKERN           Yes       68     599348 Springville   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+  599306 Springville                       8599306     599306 - SPRINGVILLE MEM 1               68     599349 Springville   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+  599307 Springville                       8599804     599804 - MB INYOKERN           Yes       68     599350 Terra Bella   8599802    599802 - MB TERRA BELLA      Yes       64
+
+  599308 Posey                             8599806     599806 - MB SPRINGVILLE        Yes       68     599351 Terra Bella   8599802    599802 - MB TERRA BELLA      Yes       64
+
+  599309 Calif Hot Springs                 8599810     599810 - MB CA HOT SPRINGS     Yes      124     599352 Terra Bella   8599802    599802 - MB TERRA BELLA      Yes       64
+
+  599310 Calif Hot Springs                 8599810     599810 - MB CA HOT SPRINGS     Yes      124     599353 Terra Bella   8599802    599802 - MB TERRA BELLA      Yes       64
+
+  599311 Springville                       8599806     599806 - MB SPRINGVILLE        Yes       68     599354 Terra Bella   8599802    599802 - MB TERRA BELLA      Yes       64
+
+  599312 Terra Bella                       8599806     599806 - MB SPRINGVILLE        Yes       68     599355 Terra Bella   8599802    599802 - MB TERRA BELLA      Yes       64
+
+  599313 Strathmore                        8599806     599806 - MB SPRINGVILLE        Yes       68     599356 Terra Bella   8599802    599802 - MB TERRA BELLA      Yes       64
+
+  599314 Inyokern                          8599804     599804 - MB INYOKERN           Yes       68     599357 Terra Bella   8599802    599802 - MB TERRA BELLA      Yes       64
+
+  599315 Porterville                       8599806     599806 - MB SPRINGVILLE        Yes       68     599358 Porterville   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+  599316 Porterville                       8599806     599806 - MB SPRINGVILLE        Yes       68     599359 Porterville   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+
+
+
+                                                                                                                                                                                     C-19
+  599317 Springville                       8599306     599306 - SPRINGVILLE MEM 1               68     599360 Porterville   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+  599318 Inyokern                          8599804     599804 - MB INYOKERN           Yes       68     599361 Springville   8599361    599361 - SPRINGVILLE MEM 2             68
+
+  599319 Springville                       8599811     599811 - MB SPRINGVILLE        Yes      125     599362 Springville   8599806    599806 - MB SPRINGVILLE      Yes       68
+
+EWMR010 Regular/Absentee/Voting Pct Xref (Summary) Regular Pct Order
+Printed: 12/5/2016 10:11:40AM
+  Regular Precinct                         Absentee      Voting Precinct            MB?   Bal Type     Regular Precinct   Absentee        Voting Precinct      MB?   Bal Type
+
+  599363 Springville                       8599806     599806 - MB SPRINGVILLE      Yes       68     599528 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599364 Springville                       8599806     599806 - MB SPRINGVILLE      Yes       68     599531 Porterville   8599806    599806 - MB SPRINGVILLE   Yes       68
+
+  599365 Springville                       8599806     599806 - MB SPRINGVILLE      Yes       68     599532 Porterville   8599806    599806 - MB SPRINGVILLE   Yes       68
+
+  599366 Springville                       8599806     599806 - MB SPRINGVILLE      Yes       68     599533 Porterville   8599806    599806 - MB SPRINGVILLE   Yes       68
+
+  599367 Terra Bella                       8599806     599806 - MB SPRINGVILLE      Yes       68     599534 Porterville   8599806    599806 - MB SPRINGVILLE   Yes       68
+
+  599368 Terra Bella                       8599806     599806 - MB SPRINGVILLE      Yes       68     599535 Terra Bella   8599806    599806 - MB SPRINGVILLE   Yes       68
+
+  599369 Terra Bella                       8599806     599806 - MB SPRINGVILLE      Yes       68     599536 Porterville   8599805    599805 - MB PORTERVILLE   Yes       68
+
+  599370 Porterville                       8599806     599806 - MB SPRINGVILLE      Yes       68     599537 Porterville   8599805    599805 - MB PORTERVILLE   Yes       68
+
+  599371 Springville                       8599812     599812 - MB SPRINGVILLE      Yes      125     599538 Porterville   8599805    599805 - MB PORTERVILLE   Yes       68
+
+  599372 Porterville                       8599806     599806 - MB SPRINGVILLE      Yes       68     599539 Porterville   8599805    599805 - MB PORTERVILLE   Yes       68
+
+  599373 Springville                       8599806     599806 - MB SPRINGVILLE      Yes       68     599540 Porterville   8599805    599805 - MB PORTERVILLE   Yes       68
+
+  599374 Springville                       8599361     599361 - SPRINGVILLE MEM 2             68     599541 Porterville   8599805    599805 - MB PORTERVILLE   Yes       68
+
+  599375 Springville                       8599806     599806 - MB SPRINGVILLE      Yes       68     599542 Porterville   8599805    599805 - MB PORTERVILLE   Yes       68
+
+  599376 Springville                       8599361     599361 - SPRINGVILLE MEM 2             68     599543 Porterville   8599805    599805 - MB PORTERVILLE   Yes       68
+
+  599377 Terra Bella                       8599802     599802 - MB TERRA BELLA      Yes       64     599544 Porterville   8599805    599805 - MB PORTERVILLE   Yes       68
+
+  599380 Three Rivers                      8599807     599807 - MB THREE RIVERS     Yes      114     599545 Porterville   8599805    599805 - MB PORTERVILLE   Yes       68
+
+  599381 Three Rivers                      8599811     599811 - MB SPRINGVILLE      Yes      125     599546 Porterville   8599805    599805 - MB PORTERVILLE   Yes       68
+
+  599501 Porterville                       8599806     599806 - MB SPRINGVILLE      Yes       68     599547 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599502 Terra Bella                       8599802     599802 - MB TERRA BELLA      Yes       64     599548 Porterville   8599806    599806 - MB SPRINGVILLE   Yes       68
+
+  599503 Porterville                       8599806     599806 - MB SPRINGVILLE      Yes       68     599549 Porterville   8599806    599806 - MB SPRINGVILLE   Yes       68
+
+  599504 Porterville                       8599806     599806 - MB SPRINGVILLE      Yes       68     599550 Porterville   8599805    599805 - MB PORTERVILLE   Yes       68
+
+  599505 Porterville                       8599806     599806 - MB SPRINGVILLE      Yes       68     599551 Porterville   8599806    599806 - MB SPRINGVILLE   Yes       68
+
+  599506 Lindsay                           8599806     599806 - MB SPRINGVILLE      Yes       68     599552 Porterville   8599805    599805 - MB PORTERVILLE   Yes       68
+
+  599507 Strathmore                        8599806     599806 - MB SPRINGVILLE      Yes       68     599553 Porterville   8599805    599805 - MB PORTERVILLE   Yes       68
+
+  599508 Strathmore                        8599806     599806 - MB SPRINGVILLE      Yes       68     599554 Porterville   8599805    599805 - MB PORTERVILLE   Yes       68
+
+  599509 Porterville                       8599805     599805 - MB PORTERVILLE      Yes       68     599555 Porterville   8599805    599805 - MB PORTERVILLE   Yes       68
+
+  599510 Porterville                       8599805     599805 - MB PORTERVILLE      Yes       68     599556 Porterville   8599805    599805 - MB PORTERVILLE   Yes       68
+
+  599511 Porterville                       8599805     599805 - MB PORTERVILLE      Yes       68     599557 Porterville   8599805    599805 - MB PORTERVILLE   Yes       68
+
+  599512 Porterville                       8599805     599805 - MB PORTERVILLE      Yes       68     599559 Porterville   8599805    599805 - MB PORTERVILLE   Yes       68
+
+  599513 Porterville                       8599805     599805 - MB PORTERVILLE      Yes       68     599560 Porterville   8599805    599805 - MB PORTERVILLE   Yes       68
+
+  599514 Porterville                       8599805     599805 - MB PORTERVILLE      Yes       68     599561 Strathmore    8599806    599806 - MB SPRINGVILLE   Yes       68
+
+  599515 Porterville                       8599805     599805 - MB PORTERVILLE      Yes       68     599562 Strathmore    8599806    599806 - MB SPRINGVILLE   Yes       68
+
+  599516 Porterville                       8599805     599805 - MB PORTERVILLE      Yes       68     599563 Porterville   8599805    599805 - MB PORTERVILLE   Yes       68
+
+  599517 Porterville                       8599806     599806 - MB SPRINGVILLE      Yes       68     599564 Porterville   8599806    599806 - MB SPRINGVILLE   Yes       68
+
+  599518 Porterville                       8599806     599806 - MB SPRINGVILLE      Yes       68     599565 Porterville   8599806    599806 - MB SPRINGVILLE   Yes       68
+
+  599519 Terra Bella                       8599806     599806 - MB SPRINGVILLE      Yes       68     599566 Porterville   8599806    599806 - MB SPRINGVILLE   Yes       68
+
+  599520 Porterville                       8599805     599805 - MB PORTERVILLE      Yes       68     599567 Porterville   8599806    599806 - MB SPRINGVILLE   Yes       68
+
+  599521 Porterville                       8599805     599805 - MB PORTERVILLE      Yes       68     599568 Porterville   8599806    599806 - MB SPRINGVILLE   Yes       68
+
+  599522 Porterville                       8599805     599805 - MB PORTERVILLE      Yes       68     599569 Porterville   8599806    599806 - MB SPRINGVILLE   Yes       68
+
+  599523 Porterville                       8599805     599805 - MB PORTERVILLE      Yes       68     599570 Porterville   8599806    599806 - MB SPRINGVILLE   Yes       68
+                                           8599805     599805 - MB PORTERVILLE      Yes       68                          8599806    599806 - MB SPRINGVILLE   Yes       68
+
+
+
+
+                                                                                                                                                                              C-20
+  599524 Porterville                                                                                 599571 Porterville
+  599526 Terra Bella                       8599802     599802 - MB TERRA BELLA      Yes       64     599573 Porterville   8599805    599805 - MB PORTERVILLE   Yes       68
+
+  599527 Terra Bella                       8599802     599802 - MB TERRA BELLA      Yes       64     599574 Porterville   8599805    599805 - MB PORTERVILLE   Yes       68
+
+EWMR010 Regular/Absentee/Voting Pct Xref (Summary) Regular Pct Order
+Printed: 12/5/2016 10:11:40AM
+  Regular Precinct                         Absentee      Voting Precinct         MB?   Bal Type     Regular Precinct   Absentee        Voting Precinct         MB?   Bal Type
+
+  599575 Porterville                       8599805     599805 - MB PORTERVILLE   Yes       68     599634 Porterville   8599634    599634 - PORTERVILLE MEM 1             68
+
+  599576 Porterville                       8599806     599806 - MB SPRINGVILLE   Yes       68     599635 Porterville   8599805    599805 - MB PORTERVILLE      Yes       68
+
+  599577 Porterville                       8599805     599805 - MB PORTERVILLE   Yes       68     599636 Porterville   8599816    599816 - MB PORTERVILLE      Yes     129
+
+  599578 Porterville                       8599805     599805 - MB PORTERVILLE   Yes       68     599637 Porterville   8599816    599816 - MB PORTERVILLE      Yes     129
+
+  599579 Porterville                       8599806     599806 - MB SPRINGVILLE   Yes       68     599639 Porterville   8599816    599816 - MB PORTERVILLE      Yes     129
+
+  599580 Porterville                       8599805     599805 - MB PORTERVILLE   Yes       68     599640 Porterville   8599823    599823 - MB PORTERVILLE      Yes     136
+
+  599581 Porterville                       8599806     599806 - MB SPRINGVILLE   Yes       68     599641 Poplar        8599818    599818 - MB WOODVILLE        Yes     131
+
+  599582 Porterville                       8599805     599805 - MB PORTERVILLE   Yes       68     599642 Woodville     8599818    599818 - MB WOODVILLE        Yes     131
+
+  599583 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64     599643 Porterville   8599802    599802 - MB TERRA BELLA      Yes       64
+
+  599584 Porterville                       8599805     599805 - MB PORTERVILLE   Yes       68     599644 Porterville   8599824    599824 - MB PORTERVILLE      Yes     137
+
+  599601 Porterville                       8599805     599805 - MB PORTERVILLE   Yes       68     599645 Poplar        8599803    599803 - MB POPLAR           Yes       65
+
+  599602 Poplar                            8599803     599803 - MB POPLAR        Yes       65     599646 Poplar        8599803    599803 - MB POPLAR           Yes       65
+
+  599603 Poplar                            8599805     599805 - MB PORTERVILLE   Yes       68     599647 Poplar        8599803    599803 - MB POPLAR           Yes       65
+
+  599604 Porterville                       8599805     599805 - MB PORTERVILLE   Yes       68     599648 Poplar        8599803    599803 - MB POPLAR           Yes       65
+
+  599605 Poplar                            8599805     599805 - MB PORTERVILLE   Yes       68     599649 Poplar        8599803    599803 - MB POPLAR           Yes       65
+
+  599606 Poplar                            8599802     599802 - MB TERRA BELLA   Yes       64     599650 Poplar        8599803    599803 - MB POPLAR           Yes       65
+
+  599607 Poplar                            8599805     599805 - MB PORTERVILLE   Yes       68     599651 Poplar        8599803    599803 - MB POPLAR           Yes       65
+
+  599608 Porterville                       8599813     599813 - MB PORTERVILLE   Yes      126     599652 Poplar        8599803    599803 - MB POPLAR           Yes       65
+
+  599609 Porterville                       8599814     599814 - MB PORTERVILLE   Yes      127     599653 Porterville   8599805    599805 - MB PORTERVILLE      Yes       68
+
+  599610 Porterville                       8599813     599813 - MB PORTERVILLE   Yes      126     599655 Porterville   8599805    599805 - MB PORTERVILLE      Yes       68
+
+  599611 Porterville                       8599815     599815 - MB PORTERVILLE   Yes      128     599656 Poplar        8599803    599803 - MB POPLAR           Yes       65
+
+  599612 Porterville                       8599816     599816 - MB PORTERVILLE   Yes      129     599657 Poplar        8599803    599803 - MB POPLAR           Yes       65
+
+  599613 Porterville                       8599805     599805 - MB PORTERVILLE   Yes       68     599658 Porterville   8599805    599805 - MB PORTERVILLE      Yes       68
+
+  599614 Porterville                       8599805     599805 - MB PORTERVILLE   Yes       68     599659 Porterville   8599816    599816 - MB PORTERVILLE      Yes     129
+
+  599615 Woodville                         8599817     599817 - MB WOODVILLE     Yes      130     599660 Porterville   8599822    599822 - MB PORTERVILLE      Yes     135
+
+  599616 Woodville                         8599818     599818 - MB WOODVILLE     Yes      131     599661 Porterville   8599816    599816 - MB PORTERVILLE      Yes     129
+
+  599617 Woodville                         8599817     599817 - MB WOODVILLE     Yes      130     599662 Porterville   8599805    599805 - MB PORTERVILLE      Yes       68
+
+  599618 Poplar                            8599805     599805 - MB PORTERVILLE   Yes       68     599663 Porterville   8599805    599805 - MB PORTERVILLE      Yes       68
+
+  599619 Poplar                            8599805     599805 - MB PORTERVILLE   Yes       68     599664 Porterville   8599821    599821 - MB PORTERVILLE      Yes     134
+
+  599620 Poplar                            8599805     599805 - MB PORTERVILLE   Yes       68     599665 Porterville   8599821    599821 - MB PORTERVILLE      Yes     134
+
+  599621 Porterville                       8599805     599805 - MB PORTERVILLE   Yes       68     599666 Porterville   8599805    599805 - MB PORTERVILLE      Yes       68
+
+  599622 Porterville                       8599802     599802 - MB TERRA BELLA   Yes       64     599667 Porterville   8599805    599805 - MB PORTERVILLE      Yes       68
+
+  599623 Porterville                       8599805     599805 - MB PORTERVILLE   Yes       68     599668 Poplar        8599803    599803 - MB POPLAR           Yes       65
+
+  599624 Porterville                       8599805     599805 - MB PORTERVILLE   Yes       68     599669 Poplar        8599803    599803 - MB POPLAR           Yes       65
+
+  599625 Woodville                         8599801     599801 - MB WOODVILLE     Yes       62     599670 Poplar        8599803    599803 - MB POPLAR           Yes       65
+
+  599626 Poplar                            8599819     599819 - MB POPLAR        Yes      132     599671 Porterville   8599805    599805 - MB PORTERVILLE      Yes       68
+
+  599627 Poplar                            8599820     599820 - MB POPLAR        Yes      133     599672 Porterville   8599805    599805 - MB PORTERVILLE      Yes       68
+
+  599628 Poplar                            8599803     599803 - MB POPLAR        Yes       65     599673 Porterville   8599816    599816 - MB PORTERVILLE      Yes     129
+
+  599629 Porterville                       8599813     599813 - MB PORTERVILLE   Yes      126     599674 Porterville   8599805    599805 - MB PORTERVILLE      Yes       68
+
+  599630 Porterville                       8599814     599814 - MB PORTERVILLE   Yes      127     599675 Porterville   8599822    599822 - MB PORTERVILLE      Yes     135
+                                           8599821     599821 - MB PORTERVILLE   Yes      134                          8599816    599816 - MB PORTERVILLE      Yes     129
+
+
+
+
+                                                                                                                                                                                C-21
+  599631 Porterville                                                                              599676 Porterville
+  599632 Porterville                       8599813     599813 - MB PORTERVILLE   Yes      126     599677 Porterville   8599813    599813 - MB PORTERVILLE      Yes     126
+
+  599633 Porterville                       8599822     599822 - MB PORTERVILLE   Yes      135     599678 Porterville   8599805    599805 - MB PORTERVILLE      Yes       68
+
+EWMR010 Regular/Absentee/Voting Pct Xref (Summary) Regular Pct Order
+Printed: 12/5/2016 10:11:40AM
+  Regular Precinct                         Absentee      Voting Precinct         MB?   Bal Type     Regular Precinct   Absentee        Voting Precinct      MB?   Bal Type
+
+  599679 Porterville                       8599823     599823 - MB PORTERVILLE   Yes      136     599819 Ducor         8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599680 Woodville                         8599817     599817 - MB WOODVILLE     Yes      130     599820 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599681 Porterville                       8599805     599805 - MB PORTERVILLE   Yes       68     599821 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599682 Porterville                       8599805     599805 - MB PORTERVILLE   Yes       68     599822 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599684 Porterville                       8599814     599814 - MB PORTERVILLE   Yes      127     599823 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599685 Porterville                       8599805     599805 - MB PORTERVILLE   Yes       68     599824 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599686 Porterville                       8599805     599805 - MB PORTERVILLE   Yes       68     599825 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599687 Porterville                       8599813     599813 - MB PORTERVILLE   Yes      126     599826 Ducor         8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599688 Porterville                       8599805     599805 - MB PORTERVILLE   Yes       68     599827 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599689 Porterville                       8599823     599823 - MB PORTERVILLE   Yes      136     599828 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599690 Poplar                            8599805     599805 - MB PORTERVILLE   Yes       68     599829 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599691 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64     599830 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599692 Ducor                             8599802     599802 - MB TERRA BELLA   Yes       64     599831 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599693 Richgrove                         8599693     599693 - RICHGROVE MEM              63     599832 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599694 Richgrove                         8599802     599802 - MB TERRA BELLA   Yes       64     599833 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599695 Ducor                             8599802     599802 - MB TERRA BELLA   Yes       64     599834 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599696 Poplar                            8599805     599805 - MB PORTERVILLE   Yes       68     599835 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599697 Poplar                            8599805     599805 - MB PORTERVILLE   Yes       68     599836 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599698 Poplar                            8599803     599803 - MB POPLAR        Yes       65     599837 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599701 Poplar                            8599803     599803 - MB POPLAR        Yes       65     599838 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599702 Poplar                            8599803     599803 - MB POPLAR        Yes       65     599839 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599703 Poplar                            8599803     599803 - MB POPLAR        Yes       65     599840 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599704 Poplar                            8599803     599803 - MB POPLAR        Yes       65     599841 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599705 Poplar                            8599803     599803 - MB POPLAR        Yes       65     599842 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599706 Poplar                            8599805     599805 - MB PORTERVILLE   Yes       68     599843 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599801 Terra Bella                       8599805     599805 - MB PORTERVILLE   Yes       68     599844 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599802 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64     599845 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599803 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64     599846 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599804 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64     599847 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599805 Porterville                       8599802     599802 - MB TERRA BELLA   Yes       64     599848 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599806 Ducor                             8599802     599802 - MB TERRA BELLA   Yes       64     599849 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599807 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64     599850 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599808 Richgrove                         8599693     599693 - RICHGROVE MEM              63     599851 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599809 Richgrove                         8599802     599802 - MB TERRA BELLA   Yes       64     599852 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599810 Terra Bella                       8599805     599805 - MB PORTERVILLE   Yes       68     599853 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599811 Terra Bella                       8599805     599805 - MB PORTERVILLE   Yes       68     599854 Richgrove     8599693    599693 - RICHGROVE MEM              63
+
+  599812 Ducor                             8599802     599802 - MB TERRA BELLA   Yes       64     599855 Ducor         8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599813 Ducor                             8599802     599802 - MB TERRA BELLA   Yes       64     599856 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599814 Ducor                             8599802     599802 - MB TERRA BELLA   Yes       64     599857 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599815 Ducor                             8599802     599802 - MB TERRA BELLA   Yes       64     599858 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+                                           8599802     599802 - MB TERRA BELLA   Yes       64                          8599805    599805 - MB PORTERVILLE   Yes       68
+
+
+
+
+                                                                                                                                                                             C-22
+  599816 Ducor                                                                                    599859 Terra Bella
+  599817 Ducor                             8599802     599802 - MB TERRA BELLA   Yes       64     599860 Porterville   8599802    599802 - MB TERRA BELLA   Yes       64
+
+  599818 Ducor                             8599802     599802 - MB TERRA BELLA   Yes       64     599861 Terra Bella   8599802    599802 - MB TERRA BELLA   Yes       64
+
+EWMR010 Regular/Absentee/Voting Pct Xref (Summary) Regular Pct Order
+Printed: 12/5/2016 10:11:40AM
+  Regular Precinct                         Absentee      Voting Precinct         MB?   Bal Type   Regular Precinct   Absentee   Voting Precinct   MB?   Bal Type
+
+  599862 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599863 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599864 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599865 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599866 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599867 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599868 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599869 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599870 Porterville                       8599805     599805 - MB PORTERVILLE   Yes       68
+
+  599871 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599872 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599873 Ducor                             8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599875 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599877 Ducor                             8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599878 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599879 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599880 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599881 Terra Bella                       8599805     599805 - MB PORTERVILLE   Yes       68
+
+  599882 Porterville                       8599805     599805 - MB PORTERVILLE   Yes       68
+
+  599883 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599884 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599885 Ducor                             8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599886 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599887 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599888 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599889 Ducor                             8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599890 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599891 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599892 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599894 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599895 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599896 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599897 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599898 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+  599899 Terra Bella                       8599802     599802 - MB TERRA BELLA   Yes       64
+
+
+
+
+                                                                                                                                                                   C-23
+EWMR010 Regular/Absentee/Voting Pct Xref (Summary) Regular Pct Order
+Printed: 12/5/2016 10:11:40AM
+
