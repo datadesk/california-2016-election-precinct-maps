@@ -1,0 +1,16 @@
+contest_id	contest_name	contest_order	vote_for	page	precinct_id	name	registered_voters	turnout	candidate_1	candidate_2	candidate_3	candidate_4	candidate_5	candidate_6	candidate_7	candidate_8	candidate_9	candidate_10	candidate_11	candidate_12	precinct_order	tally_category_order	sort_order	tally_cat_name
+4	NEVADA COUNTY BOE	100008	1	1	45	Camptonville   5014	448	104	15	8	29	17	0		9	15	41	0			45	1	1	Election Day
+4	NEVADA COUNTY BOE	100008	1	1	45	Camptonville - Vote by Mail	448	234	36	30	59	32	0		15	38	102	4			45	2	1	Vote by Mail
+4	NEVADA COUNTY BOE	100008	1	1	0																9999996	5	1	
+4	NEVADA COUNTY BOE	100008	1	1	0	Precinct Totals	448	104	15	8	29	17	0		9	15	41	0			9999996	10	1	Election Day
+4	NEVADA COUNTY BOE	100008	1	1	0																9999996	15	1	
+4	NEVADA COUNTY BOE	100008	1	1	0	Vote by Mail Totals	448	234	36	30	59	32	0		15	38	102	4			9999996	20	1	Vote by Mail
+4	NEVADA COUNTY BOE	100008	1	1	0																9999999	998	1	
+4	NEVADA COUNTY BOE	100008	1	1	0	Grand Totals	448	338	51	38	88	49	0		24	53	143	4			9999999	999	1	Grand Totals
+4	NEVADA COUNTY BOE	100008	1	1	2	3RD CONGRESSIONAL	448	338	51	38	88	49	0		24	53	143	4			2	1	4	Grand Total
+4	NEVADA COUNTY BOE	100008	1	1	3	4TH SENATE	448	338	51	38	88	49	0		24	53	143	4			3	1	4	Grand Total
+4	NEVADA COUNTY BOE	100008	1	1	4	3RD ASSEMBLY	448	338	51	38	88	49	0		24	53	143	4			4	1	4	Grand Total
+4	NEVADA COUNTY BOE	100008	1	1	5	1ST EQUALIZATION	448	338	51	38	88	49	0		24	53	143	4			5	1	4	Grand Total
+4	NEVADA COUNTY BOE	100008	1	1	10	SUPERVISOR - 5TH	448	338	51	38	88	49	0		24	53	143	4			6	5	4	Grand Total
+4	NEVADA COUNTY BOE	100008	1	1	20	YUBA COUNTY	448	338	51	38	88	49	0		24	53	143	4			13	1	4	Grand Total
+4	NEVADA COUNTY BOE	100008	1	1	23	UNINCORPORATED	448	338	51	38	88	49	0		24	53	143	4			14	3	4	Grand Total
