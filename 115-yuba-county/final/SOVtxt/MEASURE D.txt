@@ -1,4 +1,4 @@
-contest_id	contest_name	contest_order	vote_for	page	precinct_id	name	registered_voters	turnout	candidate_1	candidate_2	candidate_3	candidate_4	candidate_5	candidate_6	candidate_7	candidate_8	candidate_9	candidate_10	candidate_11	candidate_12	precinct_order	tally_category_order	sort_order	tally_cat_name
+contest_id	contest_name	contest_order	vote_for	page	precinct_id	name	registered_voters	turnout	Yes	No											precinct_order	tally_category_order	sort_order	tally_cat_name
 25	NON-PARTISAN  MEASURE D PLUMAS LAKE ELEMENTARY SCHOOL DIST	140043		1	21	Rosser   3007	88	0	0	0											21	1	1	Election Day
 25	NON-PARTISAN  MEASURE D PLUMAS LAKE ELEMENTARY SCHOOL DIST	140043		1	21	Rosser - Vote by Mail	88	67	20	21											21	2	1	Vote by Mail
 25	NON-PARTISAN  MEASURE D PLUMAS LAKE ELEMENTARY SCHOOL DIST	140043		1	23	Cobblestone Schl   4001	1250	314	211	85											23	1	1	Election Day

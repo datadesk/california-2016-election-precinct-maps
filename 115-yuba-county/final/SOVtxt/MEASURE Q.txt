@@ -1,4 +1,4 @@
-contest_id	contest_name	contest_order	vote_for	page	precinct_id	name	registered_voters	turnout	candidate_1	candidate_2	candidate_3	candidate_4	candidate_5	candidate_6	candidate_7	candidate_8	candidate_9	candidate_10	candidate_11	candidate_12	precinct_order	tally_category_order	sort_order	tally_cat_name
+contest_id	contest_name	contest_order	vote_for	page	precinct_id	name	registered_voters	turnout	Yes	No											precinct_order	tally_category_order	sort_order	tally_cat_name
 23	NON-PARTISAN  MEASURE Q YUBA COMMUNITY COLLEGE DISTRICT	140041		1	1	New Life   1001	933	201	127	58											1	1	1	Election Day
 23	NON-PARTISAN  MEASURE Q YUBA COMMUNITY COLLEGE DISTRICT	140041		1	1	New Life - Vote by Mail	933	293	173	98											1	2	1	Vote by Mail
 23	NON-PARTISAN  MEASURE Q YUBA COMMUNITY COLLEGE DISTRICT	140041		1	2	Edgewater A   1002	805	216	132	58											2	1	1	Election Day

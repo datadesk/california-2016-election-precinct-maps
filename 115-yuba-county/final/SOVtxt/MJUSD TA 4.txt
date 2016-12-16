@@ -1,4 +1,4 @@
-contest_id	contest_name	contest_order	vote_for	page	precinct_id	name	registered_voters	turnout	candidate_1	candidate_2	candidate_3	candidate_4	candidate_5	candidate_6	candidate_7	candidate_8	candidate_9	candidate_10	candidate_11	candidate_12	precinct_order	tally_category_order	sort_order	tally_cat_name
+contest_id	contest_name	contest_order	vote_for	page	precinct_id	name	registered_voters	turnout	Bernie Rechs	Paul Allison	Terry J. Biladeau	Write-Ins									precinct_order	tally_category_order	sort_order	tally_cat_name
 7	NON-PARTISAN  MARYSVILLE JOINT USD GOV BRD MBR TA 4	100012	1	1	5	FRC C   1005	480	103	11	13	8	0									5	1	1	Election Day
 7	NON-PARTISAN  MARYSVILLE JOINT USD GOV BRD MBR TA 4	100012	1	1	5	FRC C - Vote by Mail	480	199	22	30	12	0									5	2	1	Vote by Mail
 7	NON-PARTISAN  MARYSVILLE JOINT USD GOV BRD MBR TA 4	100012	1	1	11	Govt Ctr A   2004	910	239	70	82	51	2									11	1	1	Election Day

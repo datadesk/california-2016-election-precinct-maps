@@ -1,4 +1,4 @@
-contest_id	contest_name	contest_order	vote_for	page	precinct_id	name	registered_voters	turnout	candidate_1	candidate_2	candidate_3	candidate_4	candidate_5	candidate_6	candidate_7	candidate_8	candidate_9	candidate_10	candidate_11	candidate_12	precinct_order	tally_category_order	sort_order	tally_cat_name
+contest_id	contest_name	contest_order	vote_for	page	precinct_id	name	registered_voters	turnout	Edward Ritchie	James Gallagher											precinct_order	tally_category_order	sort_order	tally_cat_name
 3	NON-PARTISAN  STATE ASSEMBLY DISTRICT 3	100007	1	1	1	New Life   1001	933	201	69	109											1	1	1	Election Day
 3	NON-PARTISAN  STATE ASSEMBLY DISTRICT 3	100007	1	1	1	New Life - Vote by Mail	933	293	108	158											1	2	1	Vote by Mail
 3	NON-PARTISAN  STATE ASSEMBLY DISTRICT 3	100007	1	1	2	Edgewater A   1002	805	216	88	106											2	1	1	Election Day

@@ -1,4 +1,4 @@
-contest_id	contest_name	contest_order	vote_for	page	precinct_id	name	registered_voters	turnout	candidate_1	candidate_2	candidate_3	candidate_4	candidate_5	candidate_6	candidate_7	candidate_8	candidate_9	candidate_10	candidate_11	candidate_12	precinct_order	tally_category_order	sort_order	tally_cat_name
+contest_id	contest_name	contest_order	vote_for	page	precinct_id	name	registered_voters	turnout	John Nicoletti	Gary F. Elliott	Patrick Ajuria	"Joseph ""Joe"" McLeod"	Write-Ins								precinct_order	tally_category_order	sort_order	tally_cat_name
 17	NON-PARTISAN  MARYSVILLE LEVEE DISTRICT COMMISSIONER	100023	3	1	8	Word of Life A   2001	771	206	86	86	72	72	1								8	1	1	Election Day
 17	NON-PARTISAN  MARYSVILLE LEVEE DISTRICT COMMISSIONER	100023	3	1	8	Word of Life A - Vote by Mail	771	322	138	135	133	123	2								8	2	1	Vote by Mail
 17	NON-PARTISAN  MARYSVILLE LEVEE DISTRICT COMMISSIONER	100023	3	1	9	First Pres   2002	883	250	120	91	78	86	1								9	1	1	Election Day
