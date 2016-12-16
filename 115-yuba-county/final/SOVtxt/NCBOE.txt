@@ -1,4 +1,4 @@
-contest_id	contest_name	contest_order	vote_for	page	precinct_id	name	registered_voters	turnout	candidate_1	candidate_2	candidate_3	candidate_4	candidate_5	candidate_6	candidate_7	candidate_8	candidate_9	candidate_10	candidate_11	candidate_12	precinct_order	tally_category_order	sort_order	tally_cat_name
+contest_id	contest_name	contest_order	vote_for	page	precinct_id	name	registered_voters	turnout	Ashley Neumann	Tracy Lapierre	John Meeks	Caleb Buckley	Write-Ins		Marianna Slade-Troutman	Trevor Michael	Wendy L. Baker	Write-Ins			precinct_order	tally_category_order	sort_order	tally_cat_name
 4	NEVADA COUNTY BOE	100008	1	1	45	Camptonville   5014	448	104	15	8	29	17	0		9	15	41	0			45	1	1	Election Day
 4	NEVADA COUNTY BOE	100008	1	1	45	Camptonville - Vote by Mail	448	234	36	30	59	32	0		15	38	102	4			45	2	1	Vote by Mail
 4	NEVADA COUNTY BOE	100008	1	1	0																9999996	5	1	

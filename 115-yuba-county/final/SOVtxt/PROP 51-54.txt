@@ -1,4 +1,4 @@
-contest_id	contest_name	contest_order	vote_for	page	precinct_id	name	registered_voters	turnout	candidate_1	candidate_2	candidate_3	candidate_4	candidate_5	candidate_6	candidate_7	candidate_8	candidate_9	candidate_10	candidate_11	candidate_12	precinct_order	tally_category_order	sort_order	tally_cat_name
+contest_id	contest_name	contest_order	vote_for	page	precinct_id	name	registered_voters	turnout	Yes	No		Yes	No		Yes	No		Yes	No		precinct_order	tally_category_order	sort_order	tally_cat_name
 18	CALIFORNIA	140024		1	1	New Life   1001	933	201	104	85		112	73		115	70		123	65		1	1	1	Election Day
 18	CALIFORNIA	140024		1	1	New Life - Vote by Mail	933	293	155	128		199	86		172	103		195	84		1	2	1	Vote by Mail
 18	CALIFORNIA	140024		1	2	Edgewater A   1002	805	216	129	80		126	79		104	92		118	74		2	1	1	Election Day

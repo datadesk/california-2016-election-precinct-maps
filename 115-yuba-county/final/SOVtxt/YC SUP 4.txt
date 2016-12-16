@@ -1,4 +1,4 @@
-contest_id	contest_name	contest_order	vote_for	page	precinct_id	name	registered_voters	turnout	candidate_1	candidate_2	candidate_3	candidate_4	candidate_5	candidate_6	candidate_7	candidate_8	candidate_9	candidate_10	candidate_11	candidate_12	precinct_order	tally_category_order	sort_order	tally_cat_name
+contest_id	contest_name	contest_order	vote_for	page	precinct_id	name	registered_voters	turnout	Roger Abe	Gary Bradford	Write-Ins										precinct_order	tally_category_order	sort_order	tally_cat_name
 10	NON-PARTISAN  YUBA COUNTY SUPERVISOR DISTRICT 4	100015	1	1	23	Cobblestone Schl   4001	1250	314	83	203	0										23	1	1	Election Day
 10	NON-PARTISAN  YUBA COUNTY SUPERVISOR DISTRICT 4	100015	1	1	23	Cobblestone Schl - Vote by Mail	1250	697	182	460	2										23	2	1	Vote by Mail
 10	NON-PARTISAN  YUBA COUNTY SUPERVISOR DISTRICT 4	100015	1	1	24	RDO Schl A   4002	1109	285	65	200	1										24	1	1	Election Day

@@ -1,4 +1,4 @@
-contest_id	contest_name	contest_order	vote_for	page	precinct_id	name	registered_voters	turnout	candidate_1	candidate_2	candidate_3	candidate_4	candidate_5	candidate_6	candidate_7	candidate_8	candidate_9	candidate_10	candidate_11	candidate_12	precinct_order	tally_category_order	sort_order	tally_cat_name
+contest_id	contest_name	contest_order	vote_for	page	precinct_id	name	registered_voters	turnout	Susan E. Scott	"Anthony ""Mr. D"" Dannible"	Write-Ins										precinct_order	tally_category_order	sort_order	tally_cat_name
 6	NON-PARTISAN  MARYSVILLE JOINT USD GOV BRD MBR TA 2	100011	1	1	2	Edgewater A   1002	805	216	124	49	4										2	1	1	Election Day
 6	NON-PARTISAN  MARYSVILLE JOINT USD GOV BRD MBR TA 2	100011	1	1	2	Edgewater A - Vote by Mail	805	357	200	109	3										2	2	1	Vote by Mail
 6	NON-PARTISAN  MARYSVILLE JOINT USD GOV BRD MBR TA 2	100011	1	1	3	FRC A   1003	581	124	70	36	1										3	1	1	Election Day

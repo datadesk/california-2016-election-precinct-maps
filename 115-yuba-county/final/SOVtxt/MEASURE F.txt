@@ -1,4 +1,4 @@
-contest_id	contest_name	contest_order	vote_for	page	precinct_id	name	registered_voters	turnout	candidate_1	candidate_2	candidate_3	candidate_4	candidate_5	candidate_6	candidate_7	candidate_8	candidate_9	candidate_10	candidate_11	candidate_12	precinct_order	tally_category_order	sort_order	tally_cat_name
+contest_id	contest_name	contest_order	vote_for	page	precinct_id	name	registered_voters	turnout	Yes	No											precinct_order	tally_category_order	sort_order	tally_cat_name
 27	NON-PARTISAN  MEASURE F CITY OF MARYSVILLE	140045		1	8	Word of Life A   2001	771	206	109	83											8	1	1	Election Day
 27	NON-PARTISAN  MEASURE F CITY OF MARYSVILLE	140045		1	8	Word of Life A - Vote by Mail	771	322	186	106											8	2	1	Vote by Mail
 27	NON-PARTISAN  MEASURE F CITY OF MARYSVILLE	140045		1	9	First Pres   2002	883	250	140	87											9	1	1	Election Day

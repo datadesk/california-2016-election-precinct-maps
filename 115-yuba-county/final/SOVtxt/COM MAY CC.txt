@@ -1,4 +1,4 @@
-contest_id	contest_name	contest_order	vote_for	page	precinct_id	name	registered_voters	turnout	candidate_1	candidate_2	candidate_3	candidate_4	candidate_5	candidate_6	candidate_7	candidate_8	candidate_9	candidate_10	candidate_11	candidate_12	precinct_order	tally_category_order	sort_order	tally_cat_name
+contest_id	contest_name	contest_order	vote_for	page	precinct_id	name	registered_voters	turnout	Ricky A. Samayoa	Bonnie Houk	Christopher Pedigo	Write-Ins		Billy D. Simmons	Charles Nott	David Hobbs	Valerie D. Tootle 	Stephanie A. McKenzie	Write-Ins	candidate_12	precinct_order	tally_category_order	sort_order	tally_cat_name
 11	CITY OF MARYSVILLE	100016	1	1	8	Word of Life A   2001	771	206	103	25	57	2		79	21	52	40	79	0		8	1	1	Election Day
 11	CITY OF MARYSVILLE	100016	1	1	8	Word of Life A - Vote by Mail	771	322	167	57	72	2		130	33	97	79	112	3		8	2	1	Vote by Mail
 11	CITY OF MARYSVILLE	100016	1	1	9	First Pres   2002	883	250	123	45	58	0		79	18	93	65	90	1		9	1	1	Election Day
