@@ -18,12 +18,12 @@ outfile.write('pct16,candidate,total\n')
 # loop through all pdfs
 for filename in os.listdir('pdfs/'):
 
-	call(['pdftotext','-layout',filename])
+	call(['pdftotext','-layout','pdfs/'+filename])
 	pages = []
 	currentPage = ''
 	pageNo = 0
 
-	with open(sys.argv[1].replace('pdf','txt')) as file:
+	with open('pdfs/'+filename.replace('pdf','txt')) as file:
 		# extract every other page (because of write in candidates)
 		raw = file.read()
 		pages = raw.split('')
@@ -47,25 +47,30 @@ for filename in os.listdir('pdfs/'):
 			# else:
 			# 	pagetype = "null"
 
+			precinct = ''
+
 			lines = page.split('\n')
 			for line in lines:
+				if 'Summary For' in line:
+					precinct = line.strip().split(', ')[0][12:]
+
 				lineindex = lines.index(line)
 
-				# store precinct from argument
-				precinct = sys.argv[1][:-4]
-
 				# split page in two
-				leftside = line[:60]
-				rightside = line[61:]
+				leftside = line[:59]
+				rightside = line[59:]
+
+				if "PROPOSITION" in line:
+					print line
 
 				if 'President and Vice President' in leftside:
 					race = 'pres'
-					stein = [int(s) for s in lines[lineindex+8][:60].split() if s.isdigit()][0]
-					clinton = [int(s) for s in lines[lineindex+9][:60].split() if s.isdigit()][0]
-					lariva = [int(s) for s in lines[lineindex+10][:60].split() if s.isdigit()][0]
-					trump = [int(s) for s in lines[lineindex+11][:60].split() if s.isdigit()][0]
-					johnson = [int(s) for s in lines[lineindex+12][:60].split() if s.isdigit()][0]
-					writein = [int(s) for s in lines[lineindex+13][:60].split() if s.isdigit()][0]
+					stein = [int(s) for s in lines[lineindex+8][:59].split() if s.isdigit()][0]
+					clinton = [int(s) for s in lines[lineindex+9][:59].split() if s.isdigit()][0]
+					lariva = [int(s) for s in lines[lineindex+10][:59].split() if s.isdigit()][0]
+					trump = [int(s) for s in lines[lineindex+11][:59].split() if s.isdigit()][0]
+					johnson = [int(s) for s in lines[lineindex+12][:59].split() if s.isdigit()][0]
+					writein = [int(s) for s in lines[lineindex+13][:59].split() if s.isdigit()][0]
 
 					outfile.write(precinct+',pres_clinton,'+str(clinton)+'\n')
 					outfile.write(precinct+',pres_trump,'+str(trump)+'\n')
@@ -75,27 +80,33 @@ for filename in os.listdir('pdfs/'):
 					outfile.write(precinct+',pres_other,'+str(writein)+'\n')
 
 				# for props	
-				elif 'PROPOSITION' in leftside:
+				if 'PROPOSITION' in leftside:
 					propnum = leftside[12:14]
 
-					yesvotes = [int(s) for s in lines[lineindex+8][:60].split() if s.isdigit()][0]
-					novotes = [int(s) for s in lines[lineindex+9][:60].split() if s.isdigit()][0]
+					yesvotes = [int(s) for s in lines[lineindex+8][:59].split() if s.isdigit()][0]
+					novotes = [int(s) for s in lines[lineindex+9][:59].split() if s.isdigit()][0]
 
 					outfile.write(precinct+',prop'+propnum+'yes,'+str(yesvotes)+'\n')
 					outfile.write(precinct+',prop'+propnum+'no,'+str(novotes)+'\n')
 
-				elif 'PROPOSITION' in rightside:
+				if 'PROPOSITION' in rightside:
+					print rightside
+					print line
+
+
 					propnum = rightside[-2:]
 
-					yesvotes = [int(s) for s in lines[lineindex+8][:60].split() if s.isdigit()][0]
-					novotes = [int(s) for s in lines[lineindex+9][:60].split() if s.isdigit()][0]
+					print propnum
+
+					yesvotes = [int(s) for s in lines[lineindex+8][59:].split() if s.isdigit()][0]
+					novotes = [int(s) for s in lines[lineindex+9][59:].split() if s.isdigit()][0]
 
 					outfile.write(precinct+',prop'+propnum+'yes,'+str(yesvotes)+'\n')
 					outfile.write(precinct+',prop'+propnum+'no,'+str(novotes)+'\n')
 
-				elif 'US Senator' in leftside:
-					sanchez = [int(s) for s in lines[lineindex+8][:60].split() if s.isdigit()][0]
-					harris = [int(s) for s in lines[lineindex+9][:60].split() if s.isdigit()][0]
+				if 'US Senator' in leftside:
+					sanchez = [int(s) for s in lines[lineindex+8][:59].split() if s.isdigit()][0]
+					harris = [int(s) for s in lines[lineindex+9][:59].split() if s.isdigit()][0]
 
 					outfile.write(precinct+',ussenate_harris,'+str(harris)+'\n')
 					outfile.write(precinct+',ussenate_sanchez,'+str(sanchez)+'\n')
