@@ -38,7 +38,7 @@ with open(sys.argv[1].replace('pdf','txt')) as file:
 			pagetype = 'writein'
 		elif 'KAMALA' in page:
 			pagetype = 'senate'
-		elif 'Yes' in page:
+		elif 'YES' in page:
 			pagetype = 'prop'
 		else:
 			pagetype = "null"
@@ -64,19 +64,19 @@ with open(sys.argv[1].replace('pdf','txt')) as file:
 				# print numbers
 
 				if pagetype == 'main':
-					outfile.write(fips+precinct+',pres_clinton,'+str(numbers[4])+'\n')
-					outfile.write(fips+precinct+',pres_trump,'+str(numbers[6])+'\n')
-					outfile.write(fips+precinct+',pres_stein,'+str(numbers[3])+'\n')
-					outfile.write(fips+precinct+',pres_lariva,'+str(numbers[5])+'\n')
+					outfile.write(fips+'-'+precinct+',pres_clinton,'+str(numbers[4])+'\n')
+					outfile.write(fips+'-'+precinct+',pres_trump,'+str(numbers[6])+'\n')
+					outfile.write(fips+'-'+precinct+',pres_stein,'+str(numbers[3])+'\n')
+					outfile.write(fips+'-'+precinct+',pres_lariva,'+str(numbers[5])+'\n')
 				elif pagetype == 'writein':
-					outfile.write(fips+precinct+',pres_johnson,'+str(numbers[0])+'\n')
-					outfile.write(fips+precinct+',pres_other,'+str(numbers[1])+'\n')
+					outfile.write(fips+'-'+precinct+',pres_johnson,'+str(numbers[0])+'\n')
+					outfile.write(fips+'-'+precinct+',pres_other,'+str(numbers[1])+'\n')
 				elif pagetype == 'senate':
-					outfile.write(fips+precinct+',ussenate_harris,'+str(numbers[4])+'\n')
-					outfile.write(fips+precinct+',ussenate_sanchez,'+str(numbers[3])+'\n')
+					outfile.write(fips+'-'+precinct+',ussenate_harris,'+str(numbers[4])+'\n')
+					outfile.write(fips+'-'+precinct+',ussenate_sanchez,'+str(numbers[3])+'\n')
 				elif pagetype == 'prop':
-					outfile.write(fips+precinct+','+prop+'_yes,'+str(numbers[3])+'\n')
-					outfile.write(fips+precinct+','+prop+'_no,'+str(numbers[4])+'\n')
+					outfile.write(fips+'-'+precinct+','+prop+'_yes,'+str(numbers[3])+'\n')
+					outfile.write(fips+'-'+precinct+','+prop+'_no,'+str(numbers[4])+'\n')
 				# print lines[lineindex+4]
 			linecount = linecount + 1
 
