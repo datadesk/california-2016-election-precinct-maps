@@ -6,7 +6,7 @@ import csv, time
 # import pandas as pd
 import numpy as np
 from subprocess import call
-fips = '029'
+fips = '093'
 
 call(['pdftotext','-layout',sys.argv[1]])
 pages = []
@@ -38,42 +38,51 @@ with open(sys.argv[1].replace('pdf','txt')) as file:
 			pagetype = 'writein'
 		elif 'KAMALA' in page:
 			pagetype = 'senate'
-		elif 'Yes' in page:
+		elif 'YES' in page:
 			pagetype = 'prop'
 		else:
 			pagetype = "null"
 
+		print pagetype
+
+		linecount = 0
 		lines = page.split('\n')
 		for line in lines:
+			lineindex = linecount
+
 			# look for proposition
 			if 'PROPOSITION' in line:
 				prop = 'prop' + line[12:14]
 
-			# look for precinct number, which is five 
+			# find the precinct
 			precinct = line[:7].strip()
 			if precinct.isdigit():
-				# for when that first bit is a number
-				print precinct
 
-				lineindex = lines.index(line)
-				totalline = lines[lineindex+4].replace(',','')
+			# if 'Election Day' in line:
+
+			# 	precinct = lines[lineindex-1][:30].strip()
+
+				# print precinct
+
+				totalline = lines[lineindex].replace(',','')
 				numbers = [int(s) for s in totalline.split() if s.isdigit()]
+				# print numbers
 
-				print numbers
 				if pagetype == 'main':
-					outfile.write('029-'+precinct+',pres_clinton,'+str(numbers[1])+'\n')
-					outfile.write('029-'+precinct+',pres_trump,'+str(numbers[3])+'\n')
-					outfile.write('029-'+precinct+',pres_johnson,'+str(numbers[4])+'\n')
-					outfile.write('029-'+precinct+',pres_stein,'+str(numbers[0])+'\n')
-					outfile.write('029-'+precinct+',pres_lariva,'+str(numbers[2])+'\n')
+					outfile.write(fips+'-'+precinct+',pres_clinton,'+str(numbers[4])+'\n')
+					outfile.write(fips+'-'+precinct+',pres_trump,'+str(numbers[6])+'\n')
+					outfile.write(fips+'-'+precinct+',pres_stein,'+str(numbers[3])+'\n')
+					outfile.write(fips+'-'+precinct+',pres_lariva,'+str(numbers[5])+'\n')
+					outfile.write(fips+'-'+precinct+',pres_johnson,'+str(numbers[7])+'\n')
 				elif pagetype == 'writein':
-					outfile.write('029-'+precinct+',pres_other,'+str(numbers[0])+'\n')
+					outfile.write(fips+'-'+precinct+',pres_other,'+str(numbers[1])+'\n')
 				elif pagetype == 'senate':
-					outfile.write('029-'+precinct+',ussenate_harris,'+str(numbers[1])+'\n')
-					outfile.write('029-'+precinct+',ussenate_sanchez,'+str(numbers[0])+'\n')
+					outfile.write(fips+'-'+precinct+',ussenate_harris,'+str(numbers[4])+'\n')
+					outfile.write(fips+'-'+precinct+',ussenate_sanchez,'+str(numbers[3])+'\n')
 				elif pagetype == 'prop':
-					outfile.write('029-'+precinct+','+prop+'_yes,'+str(numbers[0])+'\n')
-					outfile.write('029-'+precinct+','+prop+'_no,'+str(numbers[1])+'\n')
+					outfile.write(fips+'-'+precinct+','+prop+'_yes,'+str(numbers[3])+'\n')
+					outfile.write(fips+'-'+precinct+','+prop+'_no,'+str(numbers[4])+'\n')
 				# print lines[lineindex+4]
+			linecount = linecount + 1
 
 outfile.close()
