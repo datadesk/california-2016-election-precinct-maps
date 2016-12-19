@@ -1,0 +1,759 @@
+                                                         Voting/Absentee/Regular Pct Xref (Summary - Voting Pct Order)
+                                                                                 2016 General Election - 11/8/2016
+Voting Precinct                          MB? Abs Pct         Regular Pct                 Ballot Type 
+ 0160603 - 0160603 CP         8160603   0160603 ROSEVILLE                    3  
+ 0160605 - 0160605 CP         8160605   0160605 ROSEVILLE                    3  
+ 0160606 - 0160606 CP         8160606   0160606 ROSEVILLE                    3  
+ 0160607 - 0160607 CP         8160607   0160607 ROSEVILLE                    3  
+ 0160608 - 0160608 CP         8160608   0160608 ROSEVILLE                    1  
+ 0160609 - 0160609 CP         8160609   0160609 ROSEVILLE                    3  
+ 0160610 - 0160610 CP         8160610   0160610 ROSEVILLE                    1  
+ 0160611 - 0160611 CP         8160611   0160611 ROSEVILLE                    1  
+ 0160612 - 0160612 CP         8160612   0160612 ROSEVILLE                    1  
+ 0160613 - 0160613 CP         8160613   0160613 ROSEVILLE                    1  
+ 0160614 - 0160614 CP         8160614   0160614 ROSEVILLE                    1  
+ 0160615 - 0160615 CP         8160615   0160615 ROSEVILLE                    3  
+ 0160616 - 0160616 CP         8160616   0160616 ROSEVILLE                    1  
+ 0160617 - 0160617 CP         8160617   0160617 ROSEVILLE                    1  
+ 0160618 - 0160618 CP         8160618   0160618 ROSEVILLE                    1  
+ 0160619 - 0160619 CP         8160619   0160619 ROSEVILLE                    3  
+ 0160620 - 0160620 CP         8160620   0160620 ROSEVILLE                    3  
+ 0160621 - 0160621 CP         8160621   0160621 ROSEVILLE                    3  
+ 0160622 - 0160622 CP         8160622   0160622 ROSEVILLE                    3  
+ 0160624 - 0160624 CP         8160624   0160624 ROSEVILLE                    1  
+ 0160625 - 0160625 CP         8160625   0160625 ROSEVILLE                    1  
+ 0160626 - 0160626 CP         8160626   0160626 ROSEVILLE                    1  
+ 0160627 - 0160627 CP         8160627   0160627 ROSEVILLE                    1  
+ 0160628 - 0160628 CP         8160628   0160628 ROSEVILLE                    3  
+ 0160629 - 0160629 CP         8160629   0160629 ROSEVILLE                    1  
+ 0160630 - 0160630 CP         8160630   0160630 ROSEVILLE                    1  
+ 0160631 - 0160631 CP         8160631   0160631 ROSEVILLE                    1  
+ 0160632 - 0160632 CP         8160632   0160632 ROSEVILLE                    3  
+ 0160633 - 0160633 CP         8160633   0160633 ROSEVILLE                    3  
+ 0160634 - 0160634 CP         8160634   0160634 ROSEVILLE                    3  
+ 0160635 - 0160635 CP         8160635   0160635 ROSEVILLE                    3  
+ 0160636 - 0160636 CP         8160636   0160636 ROSEVILLE                    3  
+                              8160636   0160649 ROSEVILLE                    3  
+ 0160637 - 0160637 CP         8160637   0160637 ROSEVILLE                    3  
+ 0160638 - 0160638 CP         8160638   0160638 ROSEVILLE              3
+ 0160639 - 0160639 CP         8160639   0160639 ROSEVILLE              3
+ 0160640 - 0160640 CP         8160640   0160640 ROSEVILLE              3
+ 0160643 - 0160643 CP         8160643   0160643 ROSEVILLE              3
+ 0160644 - 0160644 CP         8160644   0160644 ROSEVILLE              3
+ 0160647 - 0160647 CP         8160647   0160647 ROSEVILLE              3
+ 0160648 - 0160648 CP         8160648   0160648 ROSEVILLE              3
+ 0161004 - 0161004 CP         8161004   0161004 W ROSEVILLE            7
+ 0161005 - 0161005 CP         8161005   0161005 W ROSEVILLE            8
+ 0161006 - 0161006 CP         8161006   0161006 W ROSEVILLE            9
+ 0161011 - 0161011 CP         8161011   0161011 W ROSEVILLE            8
+ 0260302 - 0260302 CP         8260302   0260302 LINCOLN               12
+ 0260303 - 0260303 CP         8260303   0260303 LINCOLN               12
+ 0260304 - 0260304 CP         8260304   0260304 LINCOLN               12
+ 0260305 - 0260305 CP         8260305   0260305 LINCOLN               12
+                              8260305   0260309 LINCOLN               12
+ 0260307 - 0260307 CP         8260307   0260307 LINCOLN               12
+ 0260308 - 0260308 CP         8260308   0260308 LINCOLN               12
+ 0260310 - 0260310 CP         8260310   0260310 LINCOLN               12
+                              8260310   0260311 LINCOLN               12
+ 0260312 - 0260312 CP         8260312   0260312 LINCOLN               12
+ 0260313 - 0260313 CP         8260313   0260313 LINCOLN               12
+ 0260314 - 0260314 CP         8260314   0260314 LINCOLN               12
+ 0260315 - 0260315 CP         8260315   0260315 LINCOLN               12
+ 0260316 - 0260316 CP         8260316   0260316 LINCOLN               13
+ 0260317 - 0260317 CP         8260317   0260317 LINCOLN               13
+ 0260318 - 0260318 CP         8260318   0260318 LINCOLN               13
+ 0260319 - 0260319 CP         8260319   0260319 LINCOLN               13
+ 0260320 - 0260320 CP         8260320   0260320 LINCOLN               13
+ 0260321 - 0260321 CP         8260321   0260321 LINCOLN               12
+ 0260322 - 0260322 CP         8260322   0260322 LINCOLN               12
+ 0260323 - 0260323 CP         8260323   0260323 LINCOLN               12
+ 0260324 - 0260324 CP         8260324   0260324 LINCOLN               12
+ 0260325 - 0260325 CP         8260325   0260325 LINCOLN               12
+ 0260326 - 0260326 CP         8260326   0260326 LINCOLN             12  
+ 0260327 - 0260327 CP         8260327   0260327 LINCOLN             12  
+ 0260328 - 0260328 CP         8260328   0260328 LINCOLN             12  
+ 0260329 - 0260329 CP         8260329   0260329 LINCOLN             12  
+ 0260330 - 0260330 CP         8260330   0260330 LINCOLN             13  
+                              8260330   0260331 LINCOLN             13  
+ 0260501 - 0260501 CP         8260501   0260501 ROCKLIN             14  
+ 0260502 - 0260502 CP         8260502   0260502 ROCKLIN             14  
+ 0260503 - 0260503 CP         8260503   0260503 ROCKLIN             14  
+ 0260504 - 0260504 CP         8260504   0260504 ROCKLIN             14  
+ 0260505 - 0260505 CP         8260505   0260505 ROCKLIN             14  
+ 0260506 - 0260506 CP         8260506   0260506 ROCKLIN             14  
+ 0260507 - 0260507 CP         8260507   0260507 ROCKLIN             14  
+ 0260508 - 0260508 CP         8260508   0260508 ROCKLIN             14  
+ 0260509 - 0260509 CP         8260509   0260509 ROCKLIN             14  
+ 0260510 - 0260510 CP         8260510   0260510 ROCKLIN             14  
+ 0260511 - 0260511 CP         8260511   0260511 ROCKLIN             14  
+ 0261102 - 0261102 CP         8261102   0261102 W LINCOLN           16  
+                              8261102   0261105 W LINCOLN           16  
+ 0261201 - 0261201 CP         8261201   0261201 SHERIDAN            16  
+ 0261302 - 0261302 CP         8261302   0261302 N LINCOLN           19  
+                              8261302   0261345 N LINCOLN           19  
+ 0261310 - 0261310 CP         8261310   0261310 N LINCOLN           20  
+ 0261318 - 0261318 CP         8261318   0261318 N LINCOLN           23  
+ 0261334 - 0261334 CP         8261334   0261334 N LINCOLN           23  
+ 0261402 - 0261402 CP         8261402   0261402 E LINCOLN           19  
+                              8261402   0261404 E LINCOLN           19  
+ 0312202 - 0312202 CP         8312202   0312202 W AUBURN            30  
+ 0312211 - 0312211 CP         8312211   0312211 W AUBURN            30  
+ 0312212 - 0312212 CP         8312212   0312212 W AUBURN            30  
+ 0351801 - 0351801 CP         8351801   0351801 NEWCASTLE           35  
+                              8351801   0351806 NEWCASTLE           35  
+ 0351802 - 0351802 CP         8351802   0351802 NEWCASTLE           35  
+ 0351803 - 0351803 CP         8351803   0351803 NEWCASTLE           35  
+ 0351903 - 0351903 CP         8351903   0351903 S AUBURN            34  
+ 0352109 - 0352109 CP         8352109   0352109 OPHIR               41  
+ 0352110 - 0352110 CP         8352110   0352110 OPHIR               43  
+  0360403 - 0360403 CP        8360403   0360403 LOOMIS             45
+ 0360406 - 0360406 CP         8360406   0360406 LOOMIS             45
+ 0360408 - 0360408 CP         8360408   0360408 LOOMIS             45
+ 0360409 - 0360409 CP         8360409   0360409 LOOMIS             45
+ 0360412 - 0360412 CP         8360412   0360412 LOOMIS             45
+ 0360501 - 0360501 CP         8360501   0360501 ROCKLIN            14
+ 0360502 - 0360502 CP         8360502   0360502 ROCKLIN            14
+ 0360503 - 0360503 CP         8360503   0360503 ROCKLIN            14
+ 0360504 - 0360504 CP         8360504   0360504 ROCKLIN            14
+ 0360505 - 0360505 CP         8360505   0360505 ROCKLIN            48
+ 0360507 - 0360507 CP         8360507   0360507 ROCKLIN            14
+ 0360508 - 0360508 CP         8360508   0360508 ROCKLIN            14
+ 0360509 - 0360509 CP         8360509   0360509 ROCKLIN            14
+ 0360511 - 0360511 CP         8360511   0360511 ROCKLIN            14
+ 0360512 - 0360512 CP         8360512   0360512 ROCKLIN            14
+ 0360513 - 0360513 CP         8360513   0360513 ROCKLIN            14
+ 0360514 - 0360514 CP         8360514   0360514 ROCKLIN            14
+ 0360517 - 0360517 CP         8360517   0360517 ROCKLIN            14
+                              8360517   0360530 ROCKLIN            14
+ 0360518 - 0360518 CP         8360518   0360518 ROCKLIN            14
+ 0360519 - 0360519 CP         8360519   0360519 ROCKLIN            14
+ 0360520 - 0360520 CP         8360520   0360520 ROCKLIN            14
+                              8360520   0360531 ROCKLIN            14
+ 0360521 - 0360521 CP         8360521   0360521 ROCKLIN            14
+ 0360522 - 0360522 CP         8360522   0360522 ROCKLIN            14
+ 0360523 - 0360523 CP         8360523   0360523 ROCKLIN            14
+ 0360524 - 0360524 CP         8360524   0360524 ROCKLIN            14
+ 0360525 - 0360525 CP         8360525   0360525 ROCKLIN            14
+ 0360526 - 0360526 CP         8360526   0360526 ROCKLIN            14
+                              8360526   0360532 ROCKLIN            14
+ 0360527 - 0360527 CP         8360527   0360527 ROCKLIN            14
+ 0360533 - 0360533 CP         8360533   0360533 ROCKLIN            14
+ 0361501 - 0361501 CP         8361501   0361501 E LOOMIS           50
+                              8361501   0361512 E LOOMIS           50
+ 0361502 - 0361502 CP         8361502   0361502 E LOOMIS           50
+ 0361503 - 0361503 CP         8361503   0361503 E LOOMIS           50
+ 0361508 - 0361508 CP         8361508   0361508 E LOOMIS           50
+ 0361511 - 0361511 CP         8361511   0361511 E LOOMIS                 51  
+                              8361511   0361708 PENRYN                   51  
+                              8361511   0361710 PENRYN                   51  
+                              8361511   0361721 PENRYN                   51  
+ 0361601 - 0361601 CP         8361601   0361601 ROCKLIN ISLAND           14  
+                              8361601   0361602 ROCKLIN ISLAND           14  
+ 0361704 - 0361704 CP         8361704   0361704 PENRYN                   51  
+                              8361704   0361705 PENRYN                   51  
+ 0460601 - 0460601 CP         8460601   0460601 ROSEVILLE                 3  
+ 0460602 - 0460602 CP         8460602   0460602 ROSEVILLE                 3  
+ 0460603 - 0460603 CP         8460603   0460603 ROSEVILLE                 3  
+ 0460607 - 0460607 CP         8460607   0460607 ROSEVILLE                 3  
+ 0460608 - 0460608 CP         8460608   0460608 ROSEVILLE                 3  
+ 0460611 - 0460611 CP         8460611   0460611 ROSEVILLE                 3  
+ 0460612 - 0460612 CP         8460612   0460612 ROSEVILLE                 3  
+ 0460613 - 0460613 CP         8460613   0460613 ROSEVILLE                 3  
+ 0460614 - 0460614 CP         8460614   0460614 ROSEVILLE                 3  
+ 0460615 - 0460615 CP         8460615   0460615 ROSEVILLE                 3  
+ 0460616 - 0460616 CP         8460616   0460616 ROSEVILLE                 3  
+ 0460617 - 0460617 CP         8460617   0460617 ROSEVILLE                 3  
+ 0460618 - 0460618 CP         8460618   0460618 ROSEVILLE                 3  
+ 0460619 - 0460619 CP         8460619   0460619 ROSEVILLE                 1  
+ 0460620 - 0460620 CP         8460620   0460620 ROSEVILLE                 3  
+ 0460621 - 0460621 CP         8460621   0460621 ROSEVILLE                 1  
+ 0460622 - 0460622 CP         8460622   0460622 ROSEVILLE                59  
+ 0460623 - 0460623 CP         8460623   0460623 ROSEVILLE                59  
+ 0460624 - 0460624 CP         8460624   0460624 ROSEVILLE                 1  
+ 0460625 - 0460625 CP         8460625   0460625 ROSEVILLE                 3  
+ 0460626 - 0460626 CP         8460626   0460626 ROSEVILLE                 1  
+ 0460627 - 0460627 CP         8460627   0460627 ROSEVILLE                 3  
+ 0460628 - 0460628 CP         8460628   0460628 ROSEVILLE                 3  
+ 0460629 - 0460629 CP         8460629   0460629 ROSEVILLE                 3  
+                              8460629   0460632 ROSEVILLE                 3  
+ 0460630 - 0460630 CP         8460630   0460630 ROSEVILLE                 3  
+ 0460634 - 0460634 CP         8460634   0460634 ROSEVILLE                 3  
+ 0460635 - 0460635 CP         8460635   0460635 ROSEVILLE                 3  
+ 0460636 - 0460636 CP         8460636   0460636 ROSEVILLE                 3  
+                              8460636   0460640 ROSEVILLE              3
+ 0460637 - 0460637 CP         8460637   0460637 ROSEVILLE              3
+ 0460638 - 0460638 CP         8460638   0460638 ROSEVILLE              3
+ 0460639 - 0460639 CP         8460639   0460639 ROSEVILLE              3
+ 0462401 - 0462401 CP         8462401   0462401 GRANITE BAY           66
+ 0462402 - 0462402 CP         8462402   0462402 GRANITE BAY           66
+ 0462403 - 0462403 CP         8462403   0462403 GRANITE BAY           66
+ 0462404 - 0462404 CP         8462404   0462404 GRANITE BAY           66
+ 0462405 - 0462405 CP         8462405   0462405 GRANITE BAY           66
+ 0462406 - 0462406 CP         8462406   0462406 GRANITE BAY           66
+ 0462407 - 0462407 CP         8462407   0462407 GRANITE BAY           66
+ 0462410 - 0462410 CP         8462410   0462410 GRANITE BAY           66
+ 0462411 - 0462411 CP         8462411   0462411 GRANITE BAY           66
+ 0462412 - 0462412 CP         8462412   0462412 GRANITE BAY           66
+ 0462413 - 0462413 CP         8462413   0462413 GRANITE BAY           66
+ 0462416 - 0462416 CP         8462416   0462416 GRANITE BAY           66
+ 0462417 - 0462417 CP         8462417   0462417 GRANITE BAY           66
+ 0462418 - 0462418 CP         8462418   0462418 GRANITE BAY           50
+ 0462420 - 0462420 CP         8462420   0462420 GRANITE BAY           69
+ 0462433 - 0462433 CP         8462433   0462433 GRANITE BAY           50
+ 0510201 - 0510201 CP         8510201   0510201 COLFAX                72
+ 0512501 - 0512501 CP         8512501   0512501 N AUBURN              74
+ 0512502 - 0512502 CP         8512502   0512502 N AUBURN              73
+                              8512502   0512504 N AUBURN              73
+ 0512505 - 0512505 CP         8512505   0512505 N AUBURN              74
+ 0512506 - 0512506 CP         8512506   0512506 N AUBURN              74
+ 0512509 - 0512509 CP         8512509   0512509 N AUBURN              74
+                              8512509   0512539 N AUBURN              74
+ 0512510 - 0512510 CP         8512510   0512510 N AUBURN              74
+                              8512510   0512535 N AUBURN              74
+                              8512510   0512536 N AUBURN              74
+ 0512513 - 0512513 CP         8512513   0512513 N AUBURN              75
+                              8512513   0512515 N AUBURN              75
+ 0512514 - 0512514 CP         8512514   0512514 N AUBURN              73
+ 0512520 - 0512520 CP         8512520   0512520 N AUBURN              74
+ 0512524 - 0512524 CP         8512524   0512524 N AUBURN              75
+ 0512527 - 0512527 CP         8512527   0512527 N AUBURN              75
+ 0512529 - 0512529 CP         8512529   0512529 N AUBURN                 74  
+ 0512602 - 0512602 CP         8512602   0512602 FORESTHILL               77  
+                              8512602   0512607 FORESTHILL               77  
+ 0512603 - 0512603 CP         8512603   0512603 FORESTHILL               77  
+ 0512604 - 0512604 CP         8512604   0512604 FORESTHILL               77  
+ 0512605 - 0512605 CP         8512605   0512605 FORESTHILL               77  
+ 0512606 - 0512606 CP         8512606   0512606 FORESTHILL               77  
+ 0512702 - 0512702 CP         8512702   0512702 MEADOW VISTA             74  
+ 0512705 - 0512705 CP         8512705   0512705 MEADOW VISTA             74  
+ 0512706 - 0512706 CP         8512706   0512706 MEADOW VISTA             74  
+ 0512717 - 0512717 CP         8512717   0512717 MEADOW VISTA             74  
+ 0512803 - 0512803 CP         8512803   0512803 WEIMAR                   74  
+ 0512806 - 0512806 CP         8512806   0512806 WEIMAR                   74  
+ 0512807 - 0512807 CP         8512807   0512807 WEIMAR                   74  
+ 0512901 - 0512901 CP         8512901   0512901 GREATER COLFAX           79  
+ 0512903 - 0512903 CP         8512903   0512903 GREATER COLFAX           79  
+                              8512903   0512904 GREATER COLFAX           79  
+                              8512903   0512905 GREATER COLFAX           79  
+                              8512903   0512906 GREATER COLFAX           79  
+                              8512903   0512907 GREATER COLFAX           79  
+                              8512903   0512908 GREATER COLFAX           79  
+ 0513101 - 0513101 CP         8513101   0513101 DUTCH FLAT               74  
+                              8513101   0513103 DUTCH FLAT               74  
+ 0513102 - 0513102 CP         8513102   0513102 DUTCH FLAT               74  
+ 0513203 - 0513203 CP         8513203   0513203 TRUCKEE                  82  
+                              8513203   0513204 TRUCKEE                  82  
+                              8513203   0513205 TRUCKEE                  82  
+ 0513302 - 0513302 CP         8513302   0513302 N TAHOE                  84  
+                              8513302   0513402 SQUAW VALLEY             84  
+                              8513302   0513921 NE PLACER                84  
+ 0513403 - 0513403 CP         8513403   0513403 SQUAW VALLEY             83  
+                              8513403   0513404 SQUAW VALLEY             83  
+                              8513403   0513405 SQUAW VALLEY             83  
+                              8513403   0513407 SQUAW VALLEY             83  
+                              8513403   0513608 TAHOE CITY               83  
+ 0513607 - 0513607 CP         8513607   0513607 TAHOE CITY               86  
+ 0513609 - 0513609 CP         8513609   0513609 TAHOE CITY               87  
+  0513613 - 0513613 CP        8513613   0513613 TAHOE CITY            87
+ 0513615 - 0513615 CP         8513615   0513615 TAHOE CITY            89
+ 0513702 - 0513702 CP         8513702   0513702 KINGS BEACH           89
+                              8513702   0513704 KINGS BEACH           89
+ 0513706 - 0513706 CP         8513706   0513706 KINGS BEACH           89
+ 0550101 - 0550101 CP         8550101   0550101 AUBURN                95
+ 0550102 - 0550102 CP         8550102   0550102 AUBURN                95
+ 0550103 - 0550103 CP         8550103   0550103 AUBURN                95
+ 0550104 - 0550104 CP         8550104   0550104 AUBURN                95
+ 0550106 - 0550106 CP         8550106   0550106 AUBURN                95
+                              8550106   0550108 AUBURN                95
+ 0550107 - 0550107 CP         8550107   0550107 AUBURN                95
+ 0550109 - 0550109 CP         8550109   0550109 AUBURN                95
+                              8550109   0550113 AUBURN                95
+ 0550110 - 0550110 CP         8550110   0550110 AUBURN                95
+ 0550111 - 0550111 CP         8550111   0550111 AUBURN                95
+                              8550111   0550115 AUBURN                95
+ 0550114 - 0550114 CP         8550114   0550114 AUBURN                95
+                              8550114   0550117 AUBURN                95
+                              8550114   0550118 AUBURN                95
+ 0550116 - 0550116 CP         8550116   0550116 AUBURN                95
+ 0562204 - 0562204 CP         8562204   0562204 W AUBURN              100
+ 0562206 - 0562206 CP         8562206   0562206 W AUBURN              100
+ 0562503 - 0562503 CP         8562503   0562503 N AUBURN              103
+ 6160601 - 6160601 MB   Yes   *         0160601 ROSEVILLE              1
+ 6160602 - 6160602 MB   Yes   *         0160602 ROSEVILLE              2
+                        Yes   *         0160604 ROSEVILLE              2
+ 6160623 - 6160623 MB   Yes   *         0160623 ROSEVILLE              4
+                        Yes   *         0160642 ROSEVILLE              4
+ 6160641 - 6160641 MB   Yes   *         0160641 ROSEVILLE              3
+                        Yes   *         0160645 ROSEVILLE              3
+                        Yes   *         0160646 ROSEVILLE              3
+ 6161001 - 6161001 MB   Yes   *         0161001 W ROSEVILLE            5
+ 6161002 - 6161002 MB   Yes   *         0161002 W ROSEVILLE            6
+                        Yes   *         0161003 W ROSEVILLE            6
+ 6161009 - 6161009 MB   Yes   *         0161009 W ROSEVILLE           10
+                        Yes   *         0161010 W ROSEVILLE           10
+ 6251401 - 6251401 MB   Yes   *         0251401 E LINCOLN             11  
+ 6260301 - 6260301 MB   Yes   *         0260301 LINCOLN               12  
+                        Yes   *         0260306 LINCOLN               12  
+                        Yes   *         0260332 LINCOLN               12  
+                        Yes   *         0260333 LINCOLN               12  
+ 6260601 - 6260601 MB   Yes   *         0260601 ROSEVILLE              3  
+                        Yes   *         0260602 ROSEVILLE              3  
+                        Yes   *         0260603 ROSEVILLE              3  
+ 6261001 - 6261001 MB   Yes   *         0261001 W ROSEVILLE            6  
+                        Yes   *         0261002 W ROSEVILLE            6  
+ 6261003 - 6261003 MB   Yes   *         0261003 W ROSEVILLE           10  
+                        Yes   *         0261004 W ROSEVILLE           10  
+                        Yes   *         0261005 W ROSEVILLE           10  
+                        Yes   *         0261007 W ROSEVILLE           10  
+                        Yes   *         0261008 W ROSEVILLE           10  
+                        Yes   *         0261009 W ROSEVILLE           10  
+ 6261101 - 6261101 MB   Yes   *         0261101 W LINCOLN             15  
+ 6261103 - 6261103 MB   Yes   *         0261103 W LINCOLN             17  
+                        Yes   *         0261104 W LINCOLN             17  
+                        Yes   *         0261107 W LINCOLN             17  
+                        Yes   *         0261108 W LINCOLN             17  
+                        Yes   *         0261109 W LINCOLN             17  
+                        Yes   *         0261110 W LINCOLN             17  
+                        Yes   *         0261301 N LINCOLN             17  
+                        Yes   *         0261303 N LINCOLN             17  
+                        Yes   *         0261304 N LINCOLN             17  
+                        Yes   *         0261305 N LINCOLN             17  
+                        Yes   *         0261306 N LINCOLN             17  
+                        Yes   *         0261307 N LINCOLN             17  
+                        Yes   *         0261308 N LINCOLN             17  
+                        Yes   *         0261346 N LINCOLN             17  
+                        Yes   *         0261347 N LINCOLN             17  
+ 6261106 - 6261106 MB   Yes   *         0261106 W LINCOLN             16  
+                        Yes   *         0261202 SHERIDAN              16  
+                        Yes   *         0261203 SHERIDAN              16  
+                        Yes   *         0261204 SHERIDAN              16  
+                        Yes   *         0261205 SHERIDAN              16  
+                        Yes   *         0261206 SHERIDAN            16
+                        Yes   *         0261208 SHERIDAN            16
+                        Yes   *         0261316 N LINCOLN           16
+ 6261207 - 6261207 MB   Yes   *         0261207 SHERIDAN            18
+                        Yes   *         0261319 N LINCOLN           18
+                        Yes   *         0261320 N LINCOLN           18
+                        Yes   *         0261335 N LINCOLN           18
+ 6261309 - 6261309 MB   Yes   *         0261309 N LINCOLN           17
+                        Yes   *         0261401 E LINCOLN           17
+                        Yes   *         0261403 E LINCOLN           17
+ 6261311 - 6261311 MB   Yes   *         0261311 N LINCOLN           21
+                        Yes   *         0261312 N LINCOLN           21
+                        Yes   *         0261313 N LINCOLN           21
+                        Yes   *         0261321 N LINCOLN           21
+                        Yes   *         0261322 N LINCOLN           21
+                        Yes   *         0261327 N LINCOLN           21
+                        Yes   *         0261329 N LINCOLN           21
+                        Yes   *         0261332 N LINCOLN           21
+ 6261314 - 6261314 MB   Yes   *         0261314 N LINCOLN           22
+                        Yes   *         0261315 N LINCOLN           22
+                        Yes   *         0261317 N LINCOLN           22
+                        Yes   *         0261337 N LINCOLN           22
+                        Yes   *         0261338 N LINCOLN           22
+                        Yes   *         0261339 N LINCOLN           22
+                        Yes   *         0261340 N LINCOLN           22
+ 6261323 - 6261323 MB   Yes   *         0261323 N LINCOLN           24
+                        Yes   *         0261326 N LINCOLN           24
+                        Yes   *         0261343 N LINCOLN           24
+ 6261324 - 6261324 MB   Yes   *         0261324 N LINCOLN           25
+                        Yes   *         0261325 N LINCOLN           25
+                        Yes   *         0261333 N LINCOLN           25
+ 6261328 - 6261328 MB   Yes   *         0261328 N LINCOLN           20
+                        Yes   *         0261330 N LINCOLN           20
+                        Yes   *         0261341 N LINCOLN           20
+                        Yes   *         0261342 N LINCOLN           20
+ 6261331 - 6261331 MB   Yes   *         0261331 N LINCOLN           26
+ 6261344 - 6261344 MB   Yes   *         0261344 N LINCOLN           23
+ 6261405 - 6261405 MB   Yes   *         0261405 E LINCOLN           27  
+ 6261406 - 6261406 MB   Yes   *         0261406 E LINCOLN           28  
+ 6312201 - 6312201 MB   Yes   *         0312201 W AUBURN            29  
+                        Yes   *         0312203 W AUBURN            29  
+                        Yes   *         0312204 W AUBURN            29  
+                        Yes   *         0312206 W AUBURN            29  
+                        Yes   *         0312210 W AUBURN            29  
+                        Yes   *         0312213 W AUBURN            29  
+ 6312205 - 6312205 MB   Yes   *         0312205 W AUBURN            30  
+                        Yes   *         0312207 W AUBURN            30  
+ 6312208 - 6312208 MB   Yes   *         0312208 W AUBURN            30  
+ 6312209 - 6312209 MB   Yes   *         0312209 W AUBURN            30  
+ 6312214 - 6312214 MB   Yes   *         0312214 W AUBURN            31  
+ 6350101 - 6350101 MB   Yes   *         0350101 AUBURN              32  
+ 6351701 - 6351701 MB   Yes   *         0351701 PENRYN              33  
+                        Yes   *         0351702 PENRYN              33  
+ 6351703 - 6351703 MB   Yes   *         0351703 PENRYN              34  
+                        Yes   *         0351813 NEWCASTLE           34  
+                        Yes   *         0351822 NEWCASTLE           34  
+                        Yes   *         0351827 NEWCASTLE           34  
+                        Yes   *         0351902 S AUBURN            34  
+ 6351804 - 6351804 MB   Yes   *         0351804 NEWCASTLE           35  
+                        Yes   *         0351805 NEWCASTLE           35  
+                        Yes   *         0351807 NEWCASTLE           35  
+ 6351808 - 6351808 MB   Yes   *         0351808 NEWCASTLE           36  
+                        Yes   *         0351809 NEWCASTLE           36  
+                        Yes   *         0351810 NEWCASTLE           36  
+                        Yes   *         0351811 NEWCASTLE           36  
+                        Yes   *         0351812 NEWCASTLE           36  
+                        Yes   *         0351828 NEWCASTLE           36  
+ 6351814 - 6351814 MB   Yes   *         0351814 NEWCASTLE           37  
+                        Yes   *         0352101 OPHIR               37  
+                        Yes   *         0352102 OPHIR               37  
+                        Yes   *         0352111 OPHIR               37  
+                        Yes   *         0352112 OPHIR               37  
+                        Yes   *         0352113 OPHIR               37  
+                        Yes   *         0352115 OPHIR               37  
+                        Yes   *         0352116 OPHIR               37
+                        Yes   *         0352117 OPHIR               37
+                        Yes   *         0352121 OPHIR               37
+                        Yes   *         0352122 OPHIR               37
+                        Yes   *         0352123 OPHIR               37
+ 6351815 - 6351815 MB   Yes   *         0351815 NEWCASTLE           38
+                        Yes   *         0351816 NEWCASTLE           38
+                        Yes   *         0351819 NEWCASTLE           38
+                        Yes   *         0351823 NEWCASTLE           38
+                        Yes   *         0351826 NEWCASTLE           38
+ 6351817 - 6351817 MB   Yes   *         0351817 NEWCASTLE           39
+                        Yes   *         0351820 NEWCASTLE           39
+ 6351818 - 6351818 MB   Yes   *         0351818 NEWCASTLE           40
+                        Yes   *         0351821 NEWCASTLE           40
+ 6351824 - 6351824 MB   Yes   *         0351824 NEWCASTLE           41
+                        Yes   *         0351825 NEWCASTLE           41
+ 6351901 - 6351901 MB   Yes   *         0351901 S AUBURN            37
+                        Yes   *         0352103 OPHIR               37
+                        Yes   *         0352104 OPHIR               37
+ 6352105 - 6352105 MB   Yes   *         0352105 OPHIR               42
+                        Yes   *         0352108 OPHIR               42
+                        Yes   *         0352135 OPHIR               42
+ 6352106 - 6352106 MB   Yes   *         0352106 OPHIR               42
+                        Yes   *         0352107 OPHIR               42
+                        Yes   *         0352114 OPHIR               42
+                        Yes   *         0352118 OPHIR               42
+                        Yes   *         0352119 OPHIR               42
+                        Yes   *         0352124 OPHIR               42
+                        Yes   *         0352126 OPHIR               42
+                        Yes   *         0352127 OPHIR               42
+                        Yes   *         0352133 OPHIR               42
+                        Yes   *         0352134 OPHIR               42
+                        Yes   *         0352136 OPHIR               42
+ 6352120 - 6352120 MB   Yes   *         0352120 OPHIR               43
+ 6352125 - 6352125 MB   Yes   *         0352125 OPHIR               43
+                        Yes   *         0352128 OPHIR               43
+                        Yes   *         0352132 OPHIR               43
+ 6352129 - 6352129 MB   Yes   *         0352129 OPHIR               11  
+                        Yes   *         0352131 OPHIR               11  
+ 6352130 - 6352130 MB   Yes   *         0352130 OPHIR               44  
+ 6360401 - 6360401 MB   Yes   *         0360401 LOOMIS              45  
+                        Yes   *         0360411 LOOMIS              45  
+ 6360402 - 6360402 MB   Yes   *         0360402 LOOMIS              45  
+                        Yes   *         0360413 LOOMIS              45  
+ 6360404 - 6360404 MB   Yes   *         0360404 LOOMIS              46  
+                        Yes   *         0360405 LOOMIS              46  
+                        Yes   *         0360407 LOOMIS              46  
+ 6360410 - 6360410 MB   Yes   *         0360410 LOOMIS              47  
+ 6360506 - 6360506 MB   Yes   *         0360506 ROCKLIN             49  
+ 6360510 - 6360510 MB   Yes   *         0360510 ROCKLIN             14  
+                        Yes   *         0360534 ROCKLIN             14  
+ 6360515 - 6360515 MB   Yes   *         0360515 ROCKLIN             48  
+                        Yes   *         0360516 ROCKLIN             48  
+                        Yes   *         0360528 ROCKLIN             48  
+                        Yes   *         0360529 ROCKLIN             48  
+ 6361301 - 6361301 MB   Yes   *         0361301 N LINCOLN           24  
+ 6361302 - 6361302 MB   Yes   *         0361302 N LINCOLN           25  
+ 6361504 - 6361504 MB   Yes   *         0361504 E LOOMIS            50  
+                        Yes   *         0361509 E LOOMIS            50  
+                        Yes   *         0361514 E LOOMIS            50  
+ 6361505 - 6361505 MB   Yes   *         0361505 E LOOMIS            50  
+                        Yes   *         0361507 E LOOMIS            50  
+                        Yes   *         0361513 E LOOMIS            50  
+                        Yes   *         0361702 PENRYN              50  
+                        Yes   *         0361703 PENRYN              50  
+                        Yes   *         0361727 PENRYN              50  
+                        Yes   *         0361728 PENRYN              50  
+ 6361506 - 6361506 MB   Yes   *         0361506 E LOOMIS            50  
+ 6361510 - 6361510 MB   Yes   *         0361510 E LOOMIS            50  
+                        Yes   *         0361711 PENRYN              50  
+                        Yes   *         0361722 PENRYN              50  
+                        Yes   *         0361723 PENRYN              50  
+                        Yes   *         0361726 N LINCOLN           50  
+ 6361515 - 6361515 MB   Yes   *         0361515 E LOOMIS            51  
+                        Yes   *         0361706 PENRYN                        51
+                        Yes   *         0361707 PENRYN                        51
+                        Yes   *         0361709 PENRYN                        51
+                        Yes   *         0361720 PENRYN                        51
+                        Yes   *         0361729 PENRYN                        51
+ 6361701 - 6361701 MB   Yes   *         0361701 PENRYN                        50
+ 6361712 - 6361712 MB   Yes   *         0361712 PENRYN                        19
+                        Yes   *         0361714 PENRYN                        19
+ 6361713 - 6361713 MB   Yes   *         0361713 PENRYN                        17
+                        Yes   *         0361725 PENRYN                        17
+ 6361715 - 6361715 MB   Yes   *         0361715 PENRYN                        52
+                        Yes   *         0361718 PENRYN                        52
+ 6361716 - 6361716 MB   Yes   *         0361716 PENRYN                        28
+                        Yes   *         0361724 PENRYN                        28
+ 6361717 - 6361717 MB   Yes   *         0361717 PENRYN                        27
+ 6361719 - 6361719 MB   Yes   *         0361719 PENRYN                        53
+ 6361801 - 6361801 MB   Yes   *         0361801 NEWCASTLE                     54
+ 6361802 - 6361802 MB   Yes   *         0361802 NEWCASTLE                     55
+ 6460604 - 6460604 MB   Yes   *         0460604 ROSEVILLE                     56
+ 6460605 - 6460605 MB   Yes   *         0460605 ROSEVILLE                     57
+ 6460606 - 6460606 MB   Yes   *         0460606 ROSEVILLE                      3
+ 6460609 - 6460609 MB   Yes   *         0460609 ROSEVILLE                     58
+                        Yes   *         0460610 ROSEVILLE                     58
+ 6460631 - 6460631 MB   Yes   *         0460631 ROSEVILLE                     60
+ 6460633 - 6460633 MB   Yes   *         0460633 ROSEVILLE                     61
+ 6462301 - 6462301 MB   Yes   *         0462301 S ROSEVILLE ISLANDS           62
+                        Yes   *         0462304 S ROSEVILLE ISLANDS           62
+                        Yes   *         0462306 S ROSEVILLE ISLANDS           62
+ 6462302 - 6462302 MB   Yes   *         0462302 S ROSEVILLE ISLANDS           63
+                        Yes   *         0462303 S ROSEVILLE ISLANDS           63
+ 6462305 - 6462305 MB   Yes   *         0462305 S ROSEVILLE ISLANDS           62
+                        Yes   *         0462307 S ROSEVILLE ISLANDS           62
+ 6462308 - 6462308 MB   Yes   *         0462308 S ROSEVILLE ISLANDS           64
+ 6462309 - 6462309 MB   Yes   *         0462309 S ROSEVILLE ISLANDS           65
+                        Yes   *         0462310 S ROSEVILLE ISLANDS           65
+ 6462408 - 6462408 MB   Yes   *         0462408 GRANITE BAY                   67
+ 6462409 - 6462409 MB   Yes   *         0462409 GRANITE BAY                   68
+
+EWMR008 Voting/Absentee/Regular Pct Xref (Summary) Voting Pct Order                                                                                                     Page 7 of 11
+Printed: 12/16/2016 4:11:08PM
+Voting Precinct                          MB? Abs Pct         Regular Pct           Ballot Type     Voting Precinct      MB?   Abs Pct   Regular Pct            Ballot Type
+ 6462409 - 6462409 MB                    Yes   *             0462414 GRANITE BAY           68    6512518 - 6512518 MB   Yes   *         0512518 N AUBURN               75
+
+                                         Yes   *             0462422 GRANITE BAY           68                           Yes   *         0512519 N AUBURN               75
+
+                                         Yes   *             0462424 GRANITE BAY           68                           Yes   *         0512522 N AUBURN               75
+
+ 6462415 - 6462415 MB                    Yes   *             0462415 GRANITE BAY           69                           Yes   *         0512528 N AUBURN               75
+
+                                         Yes   *             0462419 GRANITE BAY           69    6512521 - 6512521 MB   Yes   *         0512521 N AUBURN               74
+
+                                         Yes   *             0462425 GRANITE BAY           69                           Yes   *         0512703 MEADOW VISTA           74
+
+                                         Yes   *             0462428 GRANITE BAY           69                           Yes   *         0512704 MEADOW VISTA           74
+
+                                         Yes   *             0462431 GRANITE BAY           69                           Yes   *         0512707 MEADOW VISTA           74
+
+                                         Yes   *             0462432 GRANITE BAY           69                           Yes   *         0512711 MEADOW VISTA           74
+
+                                         Yes   *             0462434 GRANITE BAY           69                           Yes   *         0512712 MEADOW VISTA           74
+
+ 6462421 - 6462421 MB                    Yes   *             0462421 GRANITE BAY           50                           Yes   *         0512713 MEADOW VISTA           74
+
+                                         Yes   *             0462423 GRANITE BAY           50                           Yes   *         0512714 MEADOW VISTA           74
+
+                                         Yes   *             0462426 GRANITE BAY           50                           Yes   *         0512715 MEADOW VISTA           74
+
+                                         Yes   *             0462429 GRANITE BAY           50    6512533 - 6512533 MB   Yes   *         0512533 N AUBURN               76
+
+                                         Yes   *             0462430 GRANITE BAY           50                           Yes   *         0512601 FORESTHILL             76
+
+                                         Yes   *             0462435 GRANITE BAY           50                           Yes   *         0512611 FORESTHILL             76
+
+ 6462427 - 6462427 MB                    Yes   *             0462427 GRANITE BAY           69                           Yes   *         0512811 WEIMAR                 76
+
+ 6510101 - 6510101 MB                    Yes   *             0510101 AUBURN                70                           Yes   *         0513002 TAHOE FOREST           76
+
+ 6510102 - 6510102 MB                    Yes   *             0510102 AUBURN                71                           Yes   *         0513003 TAHOE FOREST           76
+
+                                         Yes   *             0510103 AUBURN                71                           Yes   *         0513004 TAHOE FOREST           76
+
+ 6510202 - 6510202 MB                    Yes   *             0510202 COLFAX                72                           Yes   *         0513005 TAHOE FOREST           76
+
+                                         Yes   *             0510203 COLFAX                72                           Yes   *         0513915 NE PLACER              76
+
+ 6512201 - 6512201 MB                    Yes   *             0512201 W AUBURN              73    6512537 - 6512537 MB   Yes   *         0512537 N AUBURN               75
+
+                                         Yes   *             0512541 N AUBURN              73                           Yes   *         0512538 N AUBURN               75
+
+ 6512503 - 6512503 MB                    Yes   *             0512503 N AUBURN              74                           Yes   *         0512543 N AUBURN               75
+
+                                         Yes   *             0512507 N AUBURN              74                           Yes   *         0512708 MEADOW VISTA           75
+
+                                         Yes   *             0512508 N AUBURN              74                           Yes   *         0512801 WEIMAR                 75
+
+                                         Yes   *             0512512 N AUBURN              74                           Yes   *         0512802 WEIMAR                 75
+
+                                         Yes   *             0512516 N AUBURN              74                           Yes   *         0512809 WEIMAR                 75
+
+                                         Yes   *             0512523 N AUBURN              74                           Yes   *         0512812 WEIMAR                 75
+
+                                         Yes   *             0512525 N AUBURN              74    6512540 - 6512540 MB   Yes   *         0512540 N AUBURN               74
+
+                                         Yes   *             0512526 N AUBURN              74                           Yes   *         0512542 N AUBURN               74
+
+                                         Yes   *             0512534 N AUBURN              74                           Yes   *         0512701 MEADOW VISTA           74
+
+ 6512511 - 6512511 MB                    Yes   *             0512511 N AUBURN              74    6512608 - 6512608 MB   Yes   *         0512608 FORESTHILL             78
+
+                                         Yes   *             0512517 N AUBURN              74                           Yes   *         0512609 FORESTHILL             78
+
+                                         Yes   *             0512530 N AUBURN              74                           Yes   *         0512610 FORESTHILL             78
+
+                                         Yes   *             0512531 N AUBURN              74    6512612 - 6512612 MB   Yes   *         0512612 FORESTHILL             77
+
+EWMR008 Voting/Absentee/Regular Pct Xref (Summary) Voting Pct Order                                                                                                Page 8 of 11
+Printed: 12/16/2016 4:11:08PM
+Voting Precinct                          MB? Abs Pct         Regular Pct              Ballot Type     Voting Precinct      MB?   Abs Pct   Regular Pct            Ballot Type
+ 6512709 - 6512709 MB                    Yes   *             0512709 MEADOW VISTA             74                           Yes   *         0513309 N TAHOE                83
+
+                                         Yes   *             0512710 MEADOW VISTA             74                           Yes   *         0513310 N TAHOE                83
+
+ 6512716 - 6512716 MB                    Yes   *             0512716 MEADOW VISTA             74                           Yes   *         0513311 N TAHOE                83
+
+                                         Yes   *             0512718 MEADOW VISTA             74                           Yes   *         0513312 N TAHOE                83
+
+                                         Yes   *             0512808 WEIMAR                   74                           Yes   *         0513313 N TAHOE                83
+
+                                         Yes   *             0512810 WEIMAR                   74                           Yes   *         0513314 N TAHOE                83
+
+                                         Yes   *             0513901 NE PLACER                74                           Yes   *         0513315 N TAHOE                83
+
+ 6512719 - 6512719 MB                    Yes   *             0512719 MEADOW VISTA             74                           Yes   *         0513408 SQUAW VALLEY           83
+
+                                         Yes   *             0512720 MEADOW VISTA             74                           Yes   *         0513409 SQUAW VALLEY           83
+
+                                         Yes   *             0512721 MEADOW VISTA             74                           Yes   *         0513411 SQUAW VALLEY           83
+
+ 6512722 - 6512722 MB                    Yes   *             0512722 MEADOW VISTA             74                           Yes   *         0513412 SQUAW VALLEY           83
+
+ 6512804 - 6512804 MB                    Yes   *             0512804 WEIMAR                   74                           Yes   *         0513501 W TAHOE                83
+
+                                         Yes   *             0512805 WEIMAR                   74                           Yes   *         0513502 W TAHOE                83
+
+ 6512902 - 6512902 MB                    Yes   *             0512902 GREATER COLFAX           79                           Yes   *         0513503 W TAHOE                83
+
+ 6513001 - 6513001 MB                    Yes   *             0513001 TAHOE FOREST             80                           Yes   *         0513610 TAHOE CITY             83
+
+ 6513201 - 6513201 MB                    Yes   *             0513201 TRUCKEE                  81                           Yes   *         0513611 TAHOE CITY             83
+
+                                         Yes   *             0513305 N TAHOE                  81                           Yes   *         0513616 TAHOE CITY             83
+
+                                         Yes   *             0513307 N TAHOE                  81                           Yes   *         0513705 KINGS BEACH            83
+
+                                         Yes   *             0513318 TAHOE CITY               81                           Yes   *         0513707 KINGS BEACH            83
+
+                                         Yes   *             0513802 SODA SPRINGS             81                           Yes   *         0513904 NE PLACER              83
+
+                                         Yes   *             0513806 SODA SPRINGS             81                           Yes   *         0513906 NE PLACER              83
+
+                                         Yes   *             0513809 SODA SPRINGS             81                           Yes   *         0513907 NE PLACER              83
+
+                                         Yes   *             0513905 NE PLACER                81                           Yes   *         0513909 NE PLACER              83
+
+                                         Yes   *             0513911 NE PLACER                81                           Yes   *         0513916 NE PLACER              83
+
+                                         Yes   *             0513912 NE PLACER                81                           Yes   *         0513918 NE PLACER              83
+
+                                         Yes   *             0513920 NE PLACER                81                           Yes   *         0513919 NE PLACER              83
+
+                                         Yes   *             0513922 NE PLACER                81    6513401 - 6513401 MB   Yes   *         0513401 SQUAW VALLEY           85
+
+ 6513202 - 6513202 MB                    Yes   *             0513202 TRUCKEE                  81    6513406 - 6513406 MB   Yes   *         0513406 SQUAW VALLEY           86
+
+ 6513206 - 6513206 MB                    Yes   *             0513206 TRUCKEE                  82                           Yes   *         0513617 TAHOE CITY             86
+
+                                         Yes   *             0513207 TRUCKEE                  82    6513410 - 6513410 MB   Yes   *         0513410 SQUAW VALLEY           87
+
+                                         Yes   *             0513807 SODA SPRINGS             82                           Yes   *         0513414 SQUAW VALLEY           87
+
+                                         Yes   *             0513808 SODA SPRINGS             82                           Yes   *         0513415 SQUAW VALLEY           87
+
+ 6513301 - 6513301 MB                    Yes   *             0513301 N TAHOE                  83                           Yes   *         0513504 W TAHOE                87
+
+                                         Yes   *             0513303 N TAHOE                  83                           Yes   *         0513601 TAHOE CITY             87
+
+                                         Yes   *             0513304 N TAHOE                  83                           Yes   *         0513612 TAHOE CITY             87
+
+                                         Yes   *             0513306 N TAHOE                  83                           Yes   *         0513910 NE PLACER              87
+
+                                         Yes   *             0513308 N TAHOE                  83    6513413 - 6513413 MB   Yes   *         0513413 SQUAW VALLEY           88
+
+EWMR008 Voting/Absentee/Regular Pct Xref (Summary) Voting Pct Order                                                                                                   Page 9 of 11
+Printed: 12/16/2016 4:11:08PM
+Voting Precinct                          MB? Abs Pct         Regular Pct               Ballot Type     Voting Precinct      MB?   Abs Pct   Regular Pct        Ballot Type
+ 6513413 - 6513413 MB                    Yes   *             0513602 TAHOE CITY                88    6562505 - 6562505 MB   Yes   *         0562505 N AUBURN           103
+
+                                         Yes   *             0513603 TAHOE CITY                88                           Yes   *         0562508 N AUBURN           103
+
+                                         Yes   *             0513604 TAHOE CITY                88                           Yes   *         0562510 N AUBURN           103
+
+                                         Yes   *             0513605 TAHOE CITY                88
+
+                                         Yes   *             0513606 TAHOE CITY                88
+
+ 6513614 - 6513614 MB                    Yes   *             0513614 TAHOE CITY                89
+
+                                         Yes   *             0513701 KINGS BEACH               89
+
+                                         Yes   *             0513703 KINGS BEACH               89
+
+                                         Yes   *             0513708 KINGS BEACH               89
+
+ 6513801 - 6513801 MB                    Yes   *             0513801 SODA SPRINGS              81
+
+                                         Yes   *             0513805 SODA SPRINGS              81
+
+ 6513902 - 6513902 MB                    Yes   *             0513902 NE PLACER                 90
+
+ 6513903 - 6513903 MB                    Yes   *             0513903 NE PLACER                 91
+
+ 6513908 - 6513908 MB                    Yes   *             0513908 NE PLACER                 92
+
+ 6513913 - 6513913 MB                    Yes   *             0513913 NE PLACER                 93
+
+ 6513914 - 6513914 MB                    Yes   *             0513914 NE PLACER                 94
+
+                                         Yes   *             0513917 NE PLACER                 94
+
+ 6550105 - 6550105 MB                    Yes   *             0550105 AUBURN                    95
+
+                                         Yes   *             0550112 AUBURN                    95
+
+ 6551901 - 6551901 MB                    Yes   *             0551901 S AUBURN                  96
+
+                                         Yes   *             0551902 S AUBURN                  96
+
+ 6552001 - 6552001 MB                    Yes   *             0552001 MAIDU RANCHERIA           97
+
+ 6552201 - 6552201 MB                    Yes   *             0552201 W AUBURN                  98
+
+ 6552202 - 6552202 MB                    Yes   *             0552202 W AUBURN                  99
+
+                                         Yes   *             0552203 W AUBURN                  99
+
+                                         Yes   *             0552501 N AUBURN                  99
+
+                                         Yes   *             0552502 N AUBURN                  99
+
+ 6562201 - 6562201 MB                    Yes   *             0562201 W AUBURN                  100
+
+                                         Yes   *             0562203 W AUBURN                  100
+
+                                         Yes   *             0562205 W AUBURN                  100
+
+ 6562202 - 6562202 MB                    Yes   *             0562202 W AUBURN                  101
+
+                                         Yes   *             0562502 N AUBURN                  101
+
+                                         Yes   *             0562504 N AUBURN                  101
+
+                                         Yes   *             0562506 N AUBURN                  101
+
+                                         Yes   *             0562507 N AUBURN                  101
+
+                                         Yes   *             0562509 N AUBURN                  101
+
+ 6562501 - 6562501 MB                    Yes   *             0562501 N AUBURN                  102
+
+EWMR008 Voting/Absentee/Regular Pct Xref (Summary) Voting Pct Order                                                                                               Page 10 of 11
+Printed: 12/16/2016 4:11:08PM
+ Voting Precinct                         MB? Abs Pct         Regular Pct   Ballot Type   Voting Precinct   MB?   Abs Pct   Regular Pct   Ballot Type
+
+Total Voting Precincts: 363
+
+
+
+
+EWMR008 Voting/Absentee/Regular Pct Xref (Summary) Voting Pct Order                                                                         Page 11 of 11
+Printed: 12/16/2016 4:11:08PM
+
