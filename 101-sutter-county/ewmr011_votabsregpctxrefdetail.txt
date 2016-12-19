@@ -1,0 +1,722 @@
+                                                                          Voting Pct/Absentee Pct/Regular Pct Xref (Detail)
+                                                                                  PRESIDENTIAL GENERAL ELECTION - 11/8/2016
+Voting Precinct                  Ballot Type         Absentee Pct   Regular Pct            CONG      SEN      ASMB      SUPV   CITY                    Mail Ballot?               Pct Registration
+0000001 - LO Comm 01                                                                                                                                      NO
+           Live Oak Community Building
+
+
+           10200 O St
+           Live Oak, CA 95953
+                                         3           8000001        0000108                *103      *204     *303      *401   City Of Live Oak                                         536
+                                         3           8000001        0000110                *103      *204     *303      *401   City Of Live Oak                                         298
+                                         3           8000001        0000111                *103      *204     *303      *401   City Of Live Oak                                         463
+                                                                                                                                             Total for Voting Precinct 0000001:        1,297
+0000002 - LO Comm 02                                                                                                                                      NO
+           Live Oak Community Building
+
+
+           10200 O St
+           Live Oak, CA 95953
+                                         3           8000002        0000109                *103      *204     *303      *401   City Of Live Oak                                         432
+                                         3           8000002        0000112                *103      *204     *303      *401   City Of Live Oak                                         617
+                                         3           8000002        0000113-A              *103      *204     *303      *401   City Of Live Oak                                         229
+                                         3           8000002        0000113-B              *103      *204     *303      *401   City Of Live Oak                                            9
+                                         3           8000002        0000146-A              *103      *204     *303      *401   City Of Live Oak                                         712
+                                         3           8000002        0000146-B              *103      *204     *303      *401   City Of Live Oak                                           10
+                                                                                                                                             Total for Voting Precinct 0000002:        2,009
+0000003 - Dell Wayne 03                                                                                                                                   NO
+           Dell-Wayne Estates
+
+
+           3120 Live Oak Blvd Sp 104
+           Yuba City, CA 95991
+                                         4           8000003        0000119-A              *103      *204     *303      *401   City Of Yuba City                                          39
+                                         4           8000003        0000119-B              *103      *204     *303      *401   City Of Yuba City                                         436
+                                         4           8000003        0000121-A              *103      *204     *303      *401   City Of Yuba City                                         228
+                                         4           8000003        0000121-B              *103      *204     *303      *401   City Of Yuba City                                         181
+                                                                                                                                             Total for Voting Precinct 0000003:          884
+
+
+
+
+Voting Pct/Absentee Pct/Regular Pct Xref (Detail) - EWMR011                                                                                                                          Page 1 of 15
+Printed: 12/16/2016 3:06:22PM
+Voting Precinct                  Ballot Type         Absentee Pct   Regular Pct   CONG   SEN    ASMB   SUPV   CITY                    Mail Ballot?               Pct Registration
+0000004 - United Pent 04                                                                                                                 NO
+           United Pentecostal Church
+
+
+           2649 E Onstott Rd
+           Yuba City, CA 95991
+                                         4           8000004        0000118       *103   *204   *303   *401   City Of Yuba City                                        180
+                                         4           8000004        0000120-A     *103   *204   *303   *401   City Of Yuba City                                          64
+                                         4           8000004        0000120-B     *103   *204   *303   *401   City Of Yuba City                                        216
+                                         5           8000004        0000141-A     *103   *204   *303   *401   City Of Yuba City                                        217
+                                         5           8000004        0000141-B     *103   *204   *303   *401   City Of Yuba City                                          84
+                                         5           8000004        0000142-A     *103   *204   *303   *401   City Of Yuba City                                        182
+                                         5           8000004        0000142-B     *103   *204   *303   *401   City Of Yuba City                                           3
+                                         5           8000004        0000147-A     *103   *204   *303   *401   City Of Yuba City                                        465
+                                         5           8000004        0000147-B     *103   *204   *303   *401   City Of Yuba City                                        212
+                                         5           8000004        0000157       *103   *204   *303   *401   City Of Yuba City                                        373
+                                                                                                                            Total for Voting Precinct 0000004:        1,996
+0000005 - United Pent 05                                                                                                                 NO
+           United Pentecostal Church
+
+
+           2649 E Onstott Rd
+           Yuba City, CA 95991
+                                         5           8000005        0000124       *103   *204   *303   *401   City Of Yuba City                                        215
+                                         5           8000005        0000138       *103   *204   *303   *401   City Of Yuba City                                        219
+                                         5           8000005        0000143       *103   *204   *303   *401   City Of Yuba City                                        255
+                                         5           8000005        0000148       *103   *204   *303   *401   City Of Yuba City                                        335
+                                         5           8000005        0000154       *103   *204   *303   *401   City Of Yuba City                                        243
+                                         5           8000005        0000158       *103   *204   *303   *401   City Of Yuba City                                        179
+                                                                                                                            Total for Voting Precinct 0000005:        1,446
+0000006 - 7th Day 06                                                                                                                     NO
+           Seventh Day Adventist Church
+
+
+           1460 Richland Rd
+           Yuba City, CA 95993
+                                         7           8000006        0000403       *103   *204   *303   *404                                                             173
+                                         7           8000006        0000406       *103   *204   *303   *404                                                              14
+                                         7           8000006        0000449-A     *103   *204   *303   *404                                                              24
+                                         7           8000006        0000449-B     *103   *204   *303   *404                                                               0
+                                         7           8000006        0000460       *103   *204   *303   *404                                                              80
+                                                                                                                            Total for Voting Precinct 0000006:          291
+
+
+
+
+Voting Pct/Absentee Pct/Regular Pct Xref (Detail) - EWMR011                                                                                                         Page 2 of 15
+Printed: 12/16/2016 3:06:24PM
+Voting Precinct                  Ballot Type         Absentee Pct   Regular Pct   CONG   SEN    ASMB   SUPV   CITY                    Mail Ballot?               Pct Registration
+0000007 - Sutter Estates 07                                                                                                              NO
+           Sutter Estates
+
+
+           1230 Plumas Street
+           Yuba City, CA 95991
+                                         8           8000007        0000203-A     *103   *204   *303   *402   City Of Yuba City                                           7
+                                         8           8000007        0000203-B     *103   *204   *303   *402   City Of Yuba City                                         166
+                                         8           8000007        0000215       *103   *204   *303   *402   City Of Yuba City                                         205
+                                         9           8000007        0000242       *103   *204   *303   *402   City Of Yuba City                                         253
+                                                                                                                            Total for Voting Precinct 0000007:          631
+0000008 - YS Fair 08                                                                                                                     NO
+           Yuba- Sutter Fairgrounds
+           Franklin Hall
+           442 Franklin Ave
+           Yuba City, CA 95991
+                                         9           8000008        0000205-A     *103   *204   *303   *402   City Of Yuba City                                          80
+                                         9           8000008        0000205-B     *103   *204   *303   *402   City Of Yuba City                                          74
+                                         9           8000008        0000207-A     *103   *204   *303   *402   City Of Yuba City                                          20
+                                         9           8000008        0000207-B     *103   *204   *303   *402   City Of Yuba City                                         178
+                                         9           8000008        0000216-A     *103   *204   *303   *402   City Of Yuba City                                         272
+                                         9           8000008        0000216-B     *103   *204   *303   *402   City Of Yuba City                                           0
+                                         9           8000008        0000221       *103   *204   *303   *402   City Of Yuba City                                         188
+                                                                                                                            Total for Voting Precinct 0000008:          812
+0000009 - YS Fair 09                                                                                                                     NO
+           Yuba- Sutter Fairgrounds
+           Franklin Hall
+           442 Franklin Ave
+           Yuba City, CA 95991
+                                         9           8000009        0000206       *103   *204   *303   *402   City Of Yuba City                                         146
+                                         9           8000009        0000229-A     *103   *204   *303   *402   City Of Yuba City                                         139
+                                         9           8000009        0000229-B     *103   *204   *303   *402   City Of Yuba City                                          36
+                                         9           8000009        0000251       *103   *204   *303   *402   City Of Yuba City                                         197
+                                         9           8000009        0000254       *103   *204   *303   *402   City Of Yuba City                                         159
+                                         9           8000009        0000256-A     *103   *204   *303   *402   City Of Yuba City                                         104
+                                         9           8000009        0000256-B     *103   *204   *303   *402   City Of Yuba City                                          73
+                                                                                                                            Total for Voting Precinct 0000009:          854
+0000010 - St Isidore 10                                                                                                                  NO
+           Saint Isidore Church
+
+
+           222 Clark Ave
+           Yuba City, CA 95991
+                                         9           8000010        0000235       *103   *204   *303   *402   City Of Yuba City                                         141
+                                         9           8000010        0000239       *103   *204   *303   *402   City Of Yuba City                                          89
+                                         9           8000010        0000244       *103   *204   *303   *402   City Of Yuba City                                         175
+                                         9           8000010        0000245       *103   *204   *303   *402   City Of Yuba City                                          30
+                                         9           8000010        0000246       *103   *204   *303   *402   City Of Yuba City                                         154
+                                         9           8000010        0000257       *103   *204   *303   *402   City Of Yuba City                                          87
+                                                                                                                            Total for Voting Precinct 0000010:          676
+
+Voting Pct/Absentee Pct/Regular Pct Xref (Detail) - EWMR011                                                                                                         Page 3 of 15
+Printed: 12/16/2016 3:06:24PM
+Voting Precinct                  Ballot Type         Absentee Pct   Regular Pct   CONG   SEN    ASMB   SUPV   CITY             Mail Ballot?               Pct Registration
+0000011 - Sutter HS 11                                                                                                            NO
+           Sutter Union High School
+           PO Box 498
+           2665 Acacia Ave
+           Sutter, Ca 95982
+                                        10           8000011        0000313-X     *103   *204   *303   *403                                                      263
+                                        10           8000011        0000325-A     *103   *204   *303   *403                                                       63
+                                        10           8000011        0000325-B     *103   *204   *303   *403                                                        0
+                                        10           8000011        0000325-C     *103   *204   *303   *403                                                      110
+                                        10           8000011        0000325-D     *103   *204   *303   *403                                                        0
+                                        10           8000011        0000333-A     *103   *204   *303   *403                                                        5
+                                        10           8000011        0000333-B     *103   *204   *303   *403                                                        9
+                                        10           8000011        0000333-X     *103   *204   *303   *403                                                      238
+                                        10           8000011        0000367-A     *103   *204   *303   *403                                                        0
+                                        10           8000011        0000367-B     *103   *204   *303   *403                                                        4
+                                        10           8000011        0000368       *103   *204   *303   *403                                                       17
+                                                                                                                     Total for Voting Precinct 0000011:          709
+0000012 - Sutter HS 12                                                                                                            NO
+           Sutter Union High School
+           PO Box 498
+           2665 Acacia Ave
+           Sutter, Ca 95982
+                                        10           8000012        0000310-A     *103   *204   *303   *403                                                       98
+                                        11           8000012        0000310-C     *103   *204   *303   *403                                                       34
+                                        10           8000012        0000310-X     *103   *204   *303   *403                                                     507
+                                        11           8000012        0000312-A     *103   *204   *303   *403                                                        9
+                                        10           8000012        0000312-X     *103   *204   *303   *403                                                     322
+                                        11           8000012        0000327-A     *103   *204   *303   *403                                                       26
+                                        10           8000012        0000327-B     *103   *204   *303   *403                                                       67
+                                        11           8000012        0000327-C     *103   *204   *303   *403                                                        2
+                                        10           8000012        0000327-D     *103   *204   *303   *403                                                       61
+                                        10           8000012        0000327-X     *103   *204   *303   *403                                                     474
+                                        11           8000012        0000348       *103   *204   *303   *403                                                       18
+                                                                                                                     Total for Voting Precinct 0000012:        1,618
+
+
+
+
+Voting Pct/Absentee Pct/Regular Pct Xref (Detail) - EWMR011                                                                                                  Page 4 of 15
+Printed: 12/16/2016 3:06:24PM
+Voting Precinct                  Ballot Type         Absentee Pct   Regular Pct   CONG   SEN    ASMB   SUPV   CITY                    Mail Ballot?               Pct Registration
+0000013 - Franklin 13                                                                                                                    NO
+           Franklin Elementary School
+
+
+           332 N Township Rd
+           Yuba City, CA 95993
+                                        10           8000013        0000305-A     *103   *204   *303   *403                                                              26
+                                        10           8000013        0000305-B     *103   *204   *303   *403                                                             147
+                                        10           8000013        0000326-A     *103   *204   *303   *403                                                              58
+                                        10           8000013        0000326-B     *103   *204   *303   *403                                                              83
+                                         7           8000013        0000362       *103   *204   *303   *403                                                              46
+                                        10           8000013        0000363-A     *103   *204   *303   *403                                                              69
+                                        10           8000013        0000363-B     *103   *204   *303   *403                                                              12
+                                        10           8000013        0000387-A     *103   *204   *303   *403                                                              17
+                                        10           8000013        0000387-B     *103   *204   *303   *403                                                               0
+                                                                                                                            Total for Voting Precinct 0000013:          458
+0000014 - Meridian 14                                                                                                                    NO
+           Meridian Elementary School
+
+
+           15898 Central St
+           Meridian, CA 95957
+                                        10           8000014        0000302       *103   *204   *303   *403                                                               9
+                                        13           8000014        0000369       *103   *204   *303   *403                                                               0
+                                        13           8000014        0000370-A     *103   *204   *303   *403                                                              32
+                                        13           8000014        0000370-B     *103   *204   *303   *403                                                               9
+                                        10           8000014        0000371       *103   *204   *303   *403                                                             192
+                                        10           8000014        0000372       *103   *204   *303   *403                                                             103
+                                                                                                                            Total for Voting Precinct 0000014:          345
+0000015 - 1st United 15                                                                                                                  NO
+           First United Methodist Church
+
+
+           3101 Colusa Hwy
+           Yuba City, CA 95993
+                                         9           8000015        0000306       *103   *204   *303   *403   City Of Yuba City                                          19
+                                         9           8000015        0000355       *103   *204   *303   *403   City Of Yuba City                                           2
+                                         9           8000015        0000375-A     *103   *204   *303   *403   City Of Yuba City                                        201
+                                         9           8000015        0000375-B     *103   *204   *303   *403   City Of Yuba City                                        251
+                                         9           8000015        0000376-A     *103   *204   *303   *403   City Of Yuba City                                        787
+                                         9           8000015        0000376-B     *103   *204   *303   *403   City Of Yuba City                                          53
+                                         9           8000015        0000382       *103   *204   *303   *403   City Of Yuba City                                        108
+                                                                                                                            Total for Voting Precinct 0000015:        1,421
+
+
+
+
+Voting Pct/Absentee Pct/Regular Pct Xref (Detail) - EWMR011                                                                                                         Page 5 of 15
+Printed: 12/16/2016 3:06:24PM
+Voting Precinct                  Ballot Type         Absentee Pct   Regular Pct   CONG   SEN    ASMB   SUPV   CITY                    Mail Ballot?               Pct Registration
+0000016 - 1st United 16                                                                                                                  NO
+           First United Methodist Church
+
+
+           3101 Colusa Hwy
+           Yuba City, CA 95993
+                                         9           8000016        0000374       *103   *204   *303   *403   City Of Yuba City                                        161
+                                         9           8000016        0000377       *103   *204   *303   *403   City Of Yuba City                                        419
+                                         9           8000016        0000378       *103   *204   *303   *403   City Of Yuba City                                        189
+                                         9           8000016        0000379       *103   *204   *303   *403   City Of Yuba City                                        208
+                                         9           8000016        0000381       *103   *204   *303   *403   City Of Yuba City                                        299
+                                                                                                                            Total for Voting Precinct 0000016:        1,276
+0000017 - Veterans 17                                                                                                                    NO
+           Veterans Center
+
+
+           1425 Veterans Memorial Circle
+           Yuba City, CA 95993
+                                         8           8000017        0000304       *103   *204   *303   *403   City Of Yuba City                                          61
+                                         8           8000017        0000319       *103   *204   *303   *403   City Of Yuba City                                        188
+                                         9           8000017        0000352       *103   *204   *303   *403   City Of Yuba City                                        535
+                                         9           8000017        0000373-A     *103   *204   *303   *403   City Of Yuba City                                        135
+                                         9           8000017        0000373-B     *103   *204   *303   *403   City Of Yuba City                                        179
+                                         9           8000017        0000383       *103   *204   *303   *403   City Of Yuba City                                        150
+                                                                                                                            Total for Voting Precinct 0000017:        1,248
+0000018 - Veterans 18                                                                                                                    NO
+           Veterans Center
+
+
+           1425 Veterans Memorial Circle
+           Yuba City, CA 95993
+                                         9           8000018        0000328       *103   *204   *303   *403   City Of Yuba City                                        193
+                                         9           8000018        0000329       *103   *204   *303   *403   City Of Yuba City                                        236
+                                         9           8000018        0000331       *103   *204   *303   *403   City Of Yuba City                                        294
+                                         9           8000018        0000334-A     *103   *204   *303   *403   City Of Yuba City                                        206
+                                         9           8000018        0000334-B     *103   *204   *303   *403   City Of Yuba City                                          21
+                                         9           8000018        0000336       *103   *204   *303   *403   City Of Yuba City                                          62
+                                                                                                                            Total for Voting Precinct 0000018:        1,012
+
+
+
+
+Voting Pct/Absentee Pct/Regular Pct Xref (Detail) - EWMR011                                                                                                         Page 6 of 15
+Printed: 12/16/2016 3:06:24PM
+Voting Precinct                  Ballot Type         Absentee Pct   Regular Pct   CONG   SEN    ASMB   SUPV   CITY                    Mail Ballot?               Pct Registration
+0000019 - Veterans 19                                                                                                                    NO
+           Veterans Center
+
+
+           1425 Veterans Memorial Circle
+           Yuba City, CA 95993
+                                         9           8000019        0000308       *103   *204   *303   *403   City Of Yuba City                                         318
+                                         9           8000019        0000314       *103   *204   *303   *403   City Of Yuba City                                          71
+                                         9           8000019        0000315       *103   *204   *303   *403   City Of Yuba City                                         219
+                                         9           8000019        0000323-A     *103   *204   *303   *403   City Of Yuba City                                           4
+                                         9           8000019        0000323-B     *103   *204   *303   *403   City Of Yuba City                                          34
+                                         9           8000019        0000323-C     *103   *204   *303   *403   City Of Yuba City                                           0
+                                         9           8000019        0000340-A     *103   *204   *303   *403   City Of Yuba City                                          25
+                                         9           8000019        0000340-B     *103   *204   *303   *403   City Of Yuba City                                         275
+                                                                                                                            Total for Voting Precinct 0000019:          946
+0000020 - Veterans 20                                                                                                                    NO
+           Veterans Center
+
+
+           1425 Veterans Memorial Circle
+           Yuba City, CA 95993
+                                         9           8000020        0000346-A     *103   *204   *303   *403   City Of Yuba City                                         224
+                                         9           8000020        0000346-B     *103   *204   *303   *403   City Of Yuba City                                          31
+                                         9           8000020        0000358       *103   *204   *303   *403   City Of Yuba City                                         192
+                                         9           8000020        0000380       *103   *204   *303   *403   City Of Yuba City                                         117
+                                         9           8000020        0000384-A     *103   *204   *303   *403   City Of Yuba City                                          23
+                                         9           8000020        0000384-B     *103   *204   *303   *403   City Of Yuba City                                         159
+                                         9           8000020        0000385-A     *103   *204   *303   *403   City Of Yuba City                                          97
+                                         9           8000020        0000385-B     *103   *204   *303   *403   City Of Yuba City                                          29
+                                                                                                                            Total for Voting Precinct 0000020:          872
+0000021 - St Andrew 21                                                                                                                   NO
+           Saint Andrew Presbyterian Church
+
+
+           1390 Franklin Rd
+           Yuba City, CA 95993
+                                         9           8000021        0000405       *103   *204   *303   *404   City Of Yuba City                                        169
+                                         9           8000021        0000421       *103   *204   *303   *404   City Of Yuba City                                        257
+                                         9           8000021        0000452-A     *103   *204   *303   *404   City Of Yuba City                                        209
+                                         9           8000021        0000452-B     *103   *204   *303   *404   City Of Yuba City                                        537
+                                         9           8000021        0000458       *103   *204   *303   *404   City Of Yuba City                                        212
+                                         9           8000021        0000491       *103   *204   *303   *404   City Of Yuba City                                        150
+                                                                                                                            Total for Voting Precinct 0000021:        1,534
+
+
+
+
+Voting Pct/Absentee Pct/Regular Pct Xref (Detail) - EWMR011                                                                                                         Page 7 of 15
+Printed: 12/16/2016 3:06:24PM
+Voting Precinct                  Ballot Type         Absentee Pct   Regular Pct   CONG   SEN    ASMB   SUPV   CITY                    Mail Ballot?               Pct Registration
+0000022 - St Andrew 22                                                                                                                   NO
+           Saint Andrew Presbyterian Church
+
+
+           1390 Franklin Rd
+           Yuba City, CA 95993
+                                         9           8000022        0000467-A     *103   *204   *303   *404   City Of Yuba City                                        166
+                                         9           8000022        0000467-B     *103   *204   *303   *404   City Of Yuba City                                        432
+                                         9           8000022        0000468       *103   *204   *303   *404   City Of Yuba City                                        209
+                                         9           8000022        0000472-A     *103   *204   *303   *404   City Of Yuba City                                        177
+                                         9           8000022        0000472-B     *103   *204   *303   *404   City Of Yuba City                                          54
+                                         9           8000022        0000475-A     *103   *204   *303   *404   City Of Yuba City                                        288
+                                         9           8000022        0000475-B     *103   *204   *303   *404   City Of Yuba City                                          49
+                                         9           8000022        0000492       *103   *204   *303   *404   City Of Yuba City                                        279
+                                                                                                                            Total for Voting Precinct 0000022:        1,654
+0000023 - AK School 23                                                                                                                   NO
+           Andros Karperos School
+
+
+           1700 Camino DE Flores
+           Yuba City, CA 95993
+                                         9           8000023        0000470-A     *103   *204   *303   *404   City Of Yuba City                                        268
+                                         9           8000023        0000470-B     *103   *204   *303   *404   City Of Yuba City                                          85
+                                         9           8000023        0000471-A     *103   *204   *303   *404   City Of Yuba City                                          86
+                                         9           8000023        0000471-B     *103   *204   *303   *404   City Of Yuba City                                        145
+                                         9           8000023        0000474       *103   *204   *303   *404   City Of Yuba City                                        169
+                                         9           8000023        0000478       *103   *204   *303   *404   City Of Yuba City                                        257
+                                         9           8000023        0000480       *103   *204   *303   *404   City Of Yuba City                                        393
+                                         9           8000023        0000482-A     *103   *204   *303   *404   City Of Yuba City                                          38
+                                         9           8000023        0000482-B     *103   *204   *303   *404   City Of Yuba City                                        231
+                                         9           8000023        0000482-C     *103   *204   *303   *404   City Of Yuba City                                        117
+                                                                                                                            Total for Voting Precinct 0000023:        1,789
+0000024 - AK School 24                                                                                                                   NO
+           Andros Karperos School
+
+
+           1700 Camino DE Flores
+           Yuba City, CA 95993
+                                         9           8000024        0000469-A     *103   *204   *303   *404   City Of Yuba City                                        138
+                                         9           8000024        0000469-B     *103   *204   *303   *404   City Of Yuba City                                        155
+                                         9           8000024        0000469-C     *103   *204   *303   *404   City Of Yuba City                                        307
+                                         9           8000024        0000469-D     *103   *204   *303   *404   City Of Yuba City                                          47
+                                         9           8000024        0000473-A     *103   *204   *303   *404   City Of Yuba City                                          96
+                                         9           8000024        0000473-B     *103   *204   *303   *404   City Of Yuba City                                        375
+                                         9           8000024        0000476-A     *103   *204   *303   *404   City Of Yuba City                                          65
+                                         9           8000024        0000476-B     *103   *204   *303   *404   City Of Yuba City                                        208
+                                         9           8000024        0000477       *103   *204   *303   *404   City Of Yuba City                                        583
+                                                                                                                            Total for Voting Precinct 0000024:        1,974
+
+
+
+
+Voting Pct/Absentee Pct/Regular Pct Xref (Detail) - EWMR011                                                                                                         Page 8 of 15
+Printed: 12/16/2016 3:06:24PM
+Voting Precinct                  Ballot Type         Absentee Pct   Regular Pct   CONG   SEN    ASMB   SUPV   CITY                    Mail Ballot?               Pct Registration
+0000025 - St James 25                                                                                                                    NO
+           Saint James Of Jerusalem Episcopal Chrch
+
+
+           556 N Geo Wash Blvd
+           Yuba City, CA 95993
+                                        14           8000025        0000416       *103   *204   *303   *404   City Of Yuba City                                         249
+                                         9           8000025        0000429-A     *103   *204   *303   *404   City Of Yuba City                                         270
+                                         9           8000025        0000429-B     *103   *204   *303   *404   City Of Yuba City                                          73
+                                         9           8000025        0000436       *103   *204   *303   *404   City Of Yuba City                                          62
+                                         9           8000025        0000437       *103   *204   *303   *404   City Of Yuba City                                           2
+                                         9           8000025        0000498       *103   *204   *303   *404   City Of Yuba City                                           7
+                                                                                                                            Total for Voting Precinct 0000025:          663
+0000026 - Walnut Ave 26                                                                                                                  NO
+           Walnut Avenue Community Center
+
+
+           1431 Walnut Ave
+           Yuba City, CA 95993
+                                        19           8000026        0000512-A     *103   *204   *303   *405                                                            144
+                                        19           8000026        0000512-B     *103   *204   *303   *405                                                               1
+                                        19           8000026        0000512-C     *103   *204   *303   *405                                                              55
+                                        19           8000026        0000512-D     *103   *204   *303   *405                                                               4
+                                        19           8000026        0000512-G     *103   *204   *303   *405                                                              32
+                                        19           8000026        0000519       *103   *204   *303   *405                                                            385
+                                        19           8000026        0000521       *103   *204   *303   *405                                                            267
+                                        19           8000026        0000526       *103   *204   *303   *405                                                            153
+                                                                                                                            Total for Voting Precinct 0000026:        1,041
+0000027 - Walnut Ave 27                                                                                                                  NO
+           Walnut Avenue Community Center
+
+
+           1431 Walnut Ave
+           Yuba City, CA 95993
+                                        19           8000027        0000513-A     *103   *204   *303   *405                                                             251
+                                        19           8000027        0000513-B     *103   *204   *303   *405                                                               5
+                                        19           8000027        0000525       *103   *204   *303   *405                                                             189
+                                        19           8000027        0000527       *103   *204   *303   *405                                                             241
+                                        19           8000027        0000528       *103   *204   *303   *405                                                             259
+                                                                                                                            Total for Voting Precinct 0000027:          945
+
+
+
+
+Voting Pct/Absentee Pct/Regular Pct Xref (Detail) - EWMR011                                                                                                         Page 9 of 15
+Printed: 12/16/2016 3:06:24PM
+Voting Precinct                  Ballot Type         Absentee Pct   Regular Pct   CONG   SEN    ASMB   SUPV   CITY                    Mail Ballot?               Pct Registration
+0000028 - NV Calvary 28                                                                                                                  NO
+           North Valley Calvary Chapel
+
+
+           613 Bogue Rd
+           Yuba City, CA 95991
+                                        18           8000028        0000515-A     *103   *204   *303   *405   City Of Yuba City                                        224
+                                        18           8000028        0000515-B     *103   *204   *303   *405   City Of Yuba City                                          82
+                                        18           8000028        0000524-A     *103   *204   *303   *405   City Of Yuba City                                        213
+                                        18           8000028        0000524-B     *103   *204   *303   *405   City Of Yuba City                                          27
+                                        18           8000028        0000540-A     *103   *204   *303   *405   City Of Yuba City                                        123
+                                        18           8000028        0000540-Z     *103   *204   *303   *405   City Of Yuba City                                        649
+                                        18           8000028        0000542-A     *103   *204   *303   *405   City Of Yuba City                                        214
+                                        18           8000028        0000542-Z     *103   *204   *303   *405   City Of Yuba City                                          36
+                                                                                                                            Total for Voting Precinct 0000028:        1,568
+0000029 - NV Calvary 29                                                                                                                  NO
+           North Valley Calvary Chapel
+
+
+           613 Bogue Rd
+           Yuba City, CA 95991
+                                        18           8000029        0000506-A     *103   *204   *303   *405   City Of Yuba City                                          76
+                                        18           8000029        0000506-B     *103   *204   *303   *405   City Of Yuba City                                        186
+                                        18           8000029        0000552       *103   *204   *303   *405   City Of Yuba City                                        246
+                                        18           8000029        0000553-A     *103   *204   *303   *405   City Of Yuba City                                           5
+                                        18           8000029        0000553-C     *103   *204   *303   *405   City Of Yuba City                                        452
+                                        18           8000029        0000553-Z     *103   *204   *303   *405   City Of Yuba City                                           1
+                                        18           8000029        0000555       *103   *204   *303   *405   City Of Yuba City                                        674
+                                                                                                                            Total for Voting Precinct 0000029:        1,640
+0000030 - Riverbend 30                                                                                                                   NO
+           Riverbend School
+
+
+           301 Stewart Rd
+           Yuba City, CA 95991
+                                        18           8000030        0000541       *103   *204   *303   *405   City Of Yuba City                                        920
+                                        18           8000030        0000554       *103   *204   *303   *405   City Of Yuba City                                        299
+                                                                                                                            Total for Voting Precinct 0000030:        1,219
+0000031 - 1st Reform 31                                                                                                                  NO
+           First Reformed Church
+
+
+           9882 Garden Hwy
+           Yuba City, CA 95991
+                                        19           8000031        0000518-A     *103   *204   *303   *405                                                             205
+                                        19           8000031        0000518-B     *103   *204   *303   *405                                                               3
+                                        19           8000031        0000523-A     *103   *204   *303   *405                                                             109
+                                        19           8000031        0000523-B     *103   *204   *303   *405                                                               1
+                                        19           8000031        0000523-D     *103   *204   *303   *405                                                              34
+                                                                                                                            Total for Voting Precinct 0000031:          352
+
+
+
+
+Voting Pct/Absentee Pct/Regular Pct Xref (Detail) - EWMR011                                                                                                        Page 10 of 15
+Printed: 12/16/2016 3:06:24PM
+Voting Precinct                  Ballot Type         Absentee Pct   Regular Pct   CONG   SEN    ASMB   SUPV   CITY             Mail Ballot?               Pct Registration
+0000032 - P Grove 32                                                                                                              NO
+           Pleasant Grove Fire Department
+
+
+           3100 Howsley Rd
+           Pleasant Grove, CA 95668
+                                        16           8000032        0000509       *103   *204   *303   *405                                                       37
+                                        16           8000032        0000510       *103   *204   *303   *405                                                      134
+                                        16           8000032        0000548       *103   *204   *303   *405                                                       68
+                                        16           8000032        0000549       *103   *204   *303   *405                                                      269
+                                                                                                                     Total for Voting Precinct 0000032:          508
+0000033 - E Nicolaus 33                                                                                                           NO
+           East Nicolaus Fire Department
+
+
+           1988 Nicolaus Ave
+           East Nicolaus, CA 95659
+                                        16           8000033        0000502       *103   *204   *303   *405                                                      170
+                                        16           8000033        0000503       *103   *204   *303   *405                                                      327
+                                        16           8000033        0000504       *103   *204   *303   *405                                                      185
+                                        16           8000033        0000507       *103   *204   *303   *405                                                      189
+                                                                                                                     Total for Voting Precinct 0000033:          871
+0000034 - Mail Ballot 34                                                                                                          YES
+                                         1           8000034        0000102       *103   *204   *303   *401                                                       45
+                                         1           8000034        0000103-A     *103   *204   *303   *401                                                      263
+                                         1           8000034        0000103-B     *103   *204   *303   *401                                                        6
+                                         1           8000034        0000105       *103   *204   *303   *401                                                      166
+                                         1           8000034        0000106-E     *103   *204   *303   *401                                                       52
+                                         1           8000034        0000106-G     *103   *204   *303   *401                                                        0
+                                         1           8000034        0000106-I     *103   *204   *303   *401                                                       83
+                                         1           8000034        0000106-K     *103   *204   *303   *401                                                        2
+                                         1           8000034        0000107-F     *103   *204   *303   *401                                                       20
+                                                                                                                     Total for Voting Precinct 0000034:          637
+0000035 - Mail Ballot 35                                                                                                          YES
+                                         1           8000035        0000114-A     *103   *204   *303   *401                                                      103
+                                         1           8000035        0000114-C     *103   *204   *303   *401                                                        3
+                                         1           8000035        0000114-G     *103   *204   *303   *401                                                        3
+                                         1           8000035        0000123       *103   *204   *303   *401                                                      153
+                                         1           8000035        0000128       *103   *204   *303   *401                                                      180
+                                                                                                                     Total for Voting Precinct 0000035:          442
+0000036 - Mail Ballot 36                                                                                                          YES
+                                         2           8000036        0000104-A     *103   *204   *303   *401                                                       15
+                                         2           8000036        0000107-A     *103   *204   *303   *401                                                      113
+                                         2           8000036        0000107-C     *103   *204   *303   *401                                                       44
+                                         2           8000036        0000127       *103   *204   *303   *401                                                       10
+                                         6           8000036        0000129       *103   *204   *303   *401                                                       51
+                                         2           8000036        0000155       *103   *204   *303   *401                                                       18
+                                                                                                                     Total for Voting Precinct 0000036:          251
+
+
+
+Voting Pct/Absentee Pct/Regular Pct Xref (Detail) - EWMR011                                                                                                 Page 11 of 15
+Printed: 12/16/2016 3:06:24PM
+Voting Precinct                  Ballot Type         Absentee Pct   Regular Pct   CONG   SEN    ASMB   SUPV   CITY             Mail Ballot?               Pct Registration
+0000037 - Mail Ballot 37                                                                                                          YES
+                                        10           8000037        0000411       *103   *204   *303   *404                                                      160
+                                        10           8000037        0000495-A     *103   *204   *303   *404                                                       86
+                                        10           8000037        0000495-B     *103   *204   *303   *404                                                      105
+                                        10           8000037        0000496       *103   *204   *303   *404                                                      145
+                                        10           8000037        0000497       *103   *204   *303   *404                                                       27
+                                                                                                                     Total for Voting Precinct 0000037:          523
+0000038 - Mail Ballot 38                                                                                                          YES
+                                         7           8000038        0000202       *103   *204   *303   *402                                                      102
+                                         7           8000038        0000233       *103   *204   *303   *402                                                      166
+                                         7           8000038        0000238       *103   *204   *303   *402                                                      186
+                                         7           8000038        0000240       *103   *204   *303   *402                                                       43
+                                                                                                                     Total for Voting Precinct 0000038:          497
+0000039 - Mail Ballot 39                                                                                                          YES
+                                         7           8000039        0000301       *103   *204   *303   *403                                                      103
+                                         7           8000039        0000307-A     *103   *204   *303   *403                                                        3
+                                         7           8000039        0000307-B     *103   *204   *303   *403                                                       22
+                                         7           8000039        0000317       *103   *204   *303   *403                                                       31
+                                         7           8000039        0000330-A     *103   *204   *303   *403                                                      177
+                                         7           8000039        0000330-B     *103   *204   *303   *403                                                       13
+                                         7           8000039        0000356-A     *103   *204   *303   *403                                                       91
+                                         7           8000039        0000356-B     *103   *204   *303   *403                                                       23
+                                        12           8000039        0000356-C     *103   *204   *303   *403                                                       11
+                                         7           8000039        0000359       *103   *204   *303   *403                                                       33
+                                                                                                                     Total for Voting Precinct 0000039:          507
+0000040 - Mail Ballot 40                                                                                                          YES
+                                         7           8000040        0000415       *103   *204   *303   *404                                                       38
+                                         7           8000040        0000420-A     *103   *204   *303   *404                                                       22
+                                         7           8000040        0000420-B     *103   *204   *303   *404                                                        8
+                                         7           8000040        0000422-A     *103   *204   *303   *404                                                       66
+                                         7           8000040        0000422-B     *103   *204   *303   *404                                                       19
+                                         7           8000040        0000422-C     *103   *204   *303   *404                                                       17
+                                         7           8000040        0000434       *103   *204   *303   *404                                                       20
+                                         7           8000040        0000461       *103   *204   *303   *404                                                        5
+                                                                                                                     Total for Voting Precinct 0000040:          195
+0000041 - Mail Ballot 41                                                                                                          YES
+                                        11           8000041        0000303-A     *103   *204   *303   *403                                                        7
+                                        11           8000041        0000303-F     *103   *204   *303   *403                                                        0
+                                        11           8000041        0000303-G     *103   *204   *303   *403                                                        4
+                                        11           8000041        0000309       *103   *204   *303   *403                                                        0
+                                        11           8000041        0000318-A     *103   *204   *303   *403                                                        5
+                                        11           8000041        0000318-B     *103   *204   *303   *403                                                       19
+                                        11           8000041        0000365       *103   *204   *303   *403                                                        3
+                                        11           8000041        0000366       *103   *204   *303   *403                                                       13
+                                                                                                                     Total for Voting Precinct 0000041:           51
+
+
+
+
+Voting Pct/Absentee Pct/Regular Pct Xref (Detail) - EWMR011                                                                                                 Page 12 of 15
+Printed: 12/16/2016 3:06:24PM
+Voting Precinct                  Ballot Type         Absentee Pct   Regular Pct   CONG   SEN    ASMB   SUPV   CITY                    Mail Ballot?               Pct Registration
+0000042 - Mail Ballot 42                                                                                                                 YES
+                                         9           8000042        0000208       *103   *204   *303   *402   City Of Yuba City                                         253
+                                         9           8000042        0000209       *103   *204   *303   *402   City Of Yuba City                                         135
+                                         9           8000042        0000210       *103   *204   *303   *402   City Of Yuba City                                           5
+                                         9           8000042        0000211       *103   *204   *303   *402   City Of Yuba City                                         241
+                                         9           8000042        0000212       *103   *204   *303   *402   City Of Yuba City                                         157
+                                         9           8000042        0000213       *103   *204   *303   *402   City Of Yuba City                                         126
+                                                                                                                            Total for Voting Precinct 0000042:          917
+0000043 - Mail Ballot 43                                                                                                                 YES
+                                         9           8000043        0000214       *103   *204   *303   *402   City Of Yuba City                                         119
+                                         9           8000043        0000217       *103   *204   *303   *402   City Of Yuba City                                         166
+                                         9           8000043        0000218       *103   *204   *303   *402   City Of Yuba City                                         118
+                                         9           8000043        0000219       *103   *204   *303   *402   City Of Yuba City                                         113
+                                         9           8000043        0000220       *103   *204   *303   *402   City Of Yuba City                                         222
+                                         9           8000043        0000222       *103   *204   *303   *402   City Of Yuba City                                         172
+                                                                                                                            Total for Voting Precinct 0000043:          910
+0000044 - Mail Ballot 44                                                                                                                 YES
+                                         9           8000044        0000223       *103   *204   *303   *402   City Of Yuba City                                         174
+                                         9           8000044        0000225       *103   *204   *303   *402   City Of Yuba City                                         155
+                                         9           8000044        0000226       *103   *204   *303   *402   City Of Yuba City                                         124
+                                         9           8000044        0000227-A     *103   *204   *303   *402   City Of Yuba City                                         149
+                                         9           8000044        0000227-B     *103   *204   *303   *402   City Of Yuba City                                          35
+                                         9           8000044        0000230       *103   *204   *303   *402   City Of Yuba City                                          90
+                                         9           8000044        0000231       *103   *204   *303   *402   City Of Yuba City                                         139
+                                                                                                                            Total for Voting Precinct 0000044:          866
+0000045 - Mail Ballot 45                                                                                                                 YES
+                                         9           8000045        0000234-A     *103   *204   *303   *402   City Of Yuba City                                          76
+                                         9           8000045        0000234-B     *103   *204   *303   *402   City Of Yuba City                                           9
+                                         9           8000045        0000237-A     *103   *204   *303   *402   City Of Yuba City                                         129
+                                         8           8000045        0000237-B     *103   *204   *303   *402   City Of Yuba City                                          33
+                                         9           8000045        0000241       *103   *204   *303   *402   City Of Yuba City                                         117
+                                         9           8000045        0000243       *103   *204   *303   *402   City Of Yuba City                                         230
+                                         9           8000045        0000248       *103   *204   *303   *402   City Of Yuba City                                           2
+                                         9           8000045        0000258       *103   *204   *303   *402   City Of Yuba City                                           4
+                                                                                                                            Total for Voting Precinct 0000045:          600
+0000046 - Mail Ballot 46                                                                                                                 YES
+                                         9           8000046        0000320       *103   *204   *303   *403   City Of Yuba City                                          99
+                                         9           8000046        0000321       *103   *204   *303   *403   City Of Yuba City                                          28
+                                         9           8000046        0000322       *103   *204   *303   *403   City Of Yuba City                                         116
+                                         9           8000046        0000324       *103   *204   *303   *403   City Of Yuba City                                         126
+                                         9           8000046        0000335       *103   *204   *303   *403   City Of Yuba City                                          66
+                                                                                                                            Total for Voting Precinct 0000046:          435
+
+
+
+
+Voting Pct/Absentee Pct/Regular Pct Xref (Detail) - EWMR011                                                                                                        Page 13 of 15
+Printed: 12/16/2016 3:06:24PM
+Voting Precinct                  Ballot Type         Absentee Pct   Regular Pct   CONG   SEN    ASMB   SUPV   CITY                    Mail Ballot?               Pct Registration
+0000047 - Mail Ballot 47                                                                                                                 YES
+                                         9           8000047        0000441       *103   *204   *303   *404   City Of Yuba City                                         109
+                                         9           8000047        0000479-A     *103   *204   *303   *404   City Of Yuba City                                          30
+                                         9           8000047        0000479-B     *103   *204   *303   *404   City Of Yuba City                                          77
+                                         9           8000047        0000481-A     *103   *204   *303   *404   City Of Yuba City                                          47
+                                         9           8000047        0000481-B     *103   *204   *303   *404   City Of Yuba City                                         154
+                                         9           8000047        0000490       *103   *204   *303   *404   City Of Yuba City                                         125
+                                         9           8000047        0000493       *103   *204   *303   *404   City Of Yuba City                                         205
+                                        14           8000047        0000494-A     *103   *204   *303   *404   City Of Yuba City                                          19
+                                        14           8000047        0000494-B     *103   *204   *303   *404   City Of Yuba City                                         224
+                                                                                                                            Total for Voting Precinct 0000047:          990
+0000048 - Mail Ballot 48                                                                                                                 YES
+                                        10           8000048        0000303-B     *103   *204   *303   *403                                                               0
+                                        10           8000048        0000303-C     *103   *204   *303   *403                                                              27
+                                        10           8000048        0000316-A     *103   *204   *303   *403                                                               2
+                                        10           8000048        0000316-B     *103   *204   *303   *403                                                               1
+                                        10           8000048        0000364       *103   *204   *303   *403                                                              30
+                                        10           8000048        0000388-A     *103   *204   *303   *403                                                               0
+                                        10           8000048        0000388-B     *103   *204   *303   *403                                                               8
+                                                                                                                            Total for Voting Precinct 0000048:           68
+0000049 - Mail Ballot 49                                                                                                                 YES
+                                        19           8000049        0000514       *103   *204   *303   *405                                                             203
+                                        19           8000049        0000516       *103   *204   *303   *405                                                             224
+                                        19           8000049        0000517-A     *103   *204   *303   *405                                                             143
+                                        19           8000049        0000517-B     *103   *204   *303   *405                                                              31
+                                        19           8000049        0000517-D     *103   *204   *303   *405                                                               0
+                                        19           8000049        0000533       *103   *204   *303   *405                                                             178
+                                        19           8000049        0000543       *103   *204   *303   *405                                                              63
+                                                                                                                            Total for Voting Precinct 0000049:          842
+0000050 - Mail Ballot 50                                                                                                                 YES
+                                        15           8000050        0000501       *103   *204   *303   *405                                                              16
+                                        17           8000050        0000505       *103   *204   *303   *405                                                              74
+                                        15           8000050        0000508-A     *103   *204   *303   *405                                                              67
+                                        15           8000050        0000508-X     *103   *204   *303   *405                                                             103
+                                        15           8000050        0000557       *103   *204   *303   *405                                                               7
+                                                                                                                            Total for Voting Precinct 0000050:          267
+0000051 - Mail Ballot 51                                                                                                                 YES
+                                        18           8000051        0000539-A     *103   *204   *303   *405   City Of Yuba City                                           0
+                                        18           8000051        0000539-B     *103   *204   *303   *405   City Of Yuba City                                           0
+                                        18           8000051        0000546       *103   *204   *303   *405   City Of Yuba City                                         110
+                                                                                                                            Total for Voting Precinct 0000051:          110
+
+
+
+
+Voting Pct/Absentee Pct/Regular Pct Xref (Detail) - EWMR011                                                                                                        Page 14 of 15
+Printed: 12/16/2016 3:06:24PM
+Voting Precinct                  Ballot Type         Absentee Pct       Regular Pct                 CONG            SEN              ASMB             SUPV        CITY            Mail Ballot?        Pct Registration
+
+             Polling Place Precincts:                   33                    Total Polling Place Precinct Registration:                              36,559
+                Mail Ballot Precincts:                  18                      Total Mail Ballot Precinct Registration:                               9,108
+                      Total Precincts:                  51                                           Total Registration:                              45,667
+
+
+
+                                                                                     ---------- Voting Precinct Statistics by District ----------
+ MAJOR DISTRICT TYPE                                          DISTRICT ID         MAIL BALLOT             POLLING PLACE                       TOTAL          TOTAL REGISTRATION    ABSENTEE PRECINCTS
+ Congressional District Districts                             *103                            18                         33                    51                        45,667                  51
+
+ State Senator Districts                                      *204                            18                         33                    51                        45,667                  51
+
+ Member of the State Assembly Districts                       *303                            18                         33                    51                        45,667                  51
+
+ County Supervisor Districts                                  *401                             3                          5                     8                         8,962                   8
+                                                              *402                             5                          4                     9                         6,763                   9
+                                                              *403                             4                         10                    14                        10,966                  14
+                                                              *404                             3                          6                     9                         9,613                   9
+                                                              *405                             3                          8                    11                         9,363                  11
+
+
+
+
+Voting Pct/Absentee Pct/Regular Pct Xref (Detail) - EWMR011                                                                                                                                             Page 15 of 15
+Printed: 12/16/2016 3:06:24PM
+
