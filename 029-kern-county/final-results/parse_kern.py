@@ -33,7 +33,7 @@ with open(sys.argv[1].replace('pdf','txt')) as file:
 		if 'HILLARY CLINTON' in page:
 			# print 'MAIN CANDIDATE PAGE'
 			pagetype = 'main'
-		elif 'EVAN MCMULLIN' in page:
+		elif 'MCMULLIN' in page:
 			# print 'write-in page'
 			pagetype = 'writein'
 		elif 'KAMALA' in page:
