@@ -13,7 +13,7 @@ addedhdrs = ['pres_clinton_per','pres_trump_per','pres_third_per','pres_winner',
 
 
 
-with open(file+'.csv','r',newline="") as csvinput:
+with open(file+'.csv','r') as csvinput:
     with open(file+'-munged.csv', 'w') as csvoutput:
         writer = csv.writer(csvoutput, lineterminator='\n')
         reader = csv.reader(csvinput,delimiter=',')
@@ -86,7 +86,7 @@ with open(file+'.csv','r',newline="") as csvinput:
                 newvals = [pres_clinton_per, pres_trump_per, pres_third_per, pres_winner, pres_margin]
 
                 # script out prop row values
-                for x in range(9,42,2):
+                for x in range(5,38,2):
                     valName = addedhdrs[x-2]
                     x1 = x # first val
                     x2 = x+1 # second val
