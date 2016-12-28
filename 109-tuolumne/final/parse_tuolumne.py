@@ -6,7 +6,7 @@ lines = file.readlines()
 outfile = open('results.csv','w')
 outfile.write('pct16,candidate,total\n')
 
-fips = '011'
+fips = '109'
 
 lineindex = 0
 for line in lines:
