@@ -15,7 +15,7 @@ for line in lines:
     # find precinct number
     if line[:2] == '00':
         precinctnum = line[:4]
-        precinctname = line[5:]
+        precinctname = line[5:].replace('\n','')
 
         pct = precinctname
 
