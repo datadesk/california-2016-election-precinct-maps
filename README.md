@@ -1,17 +1,17 @@
 # California's most detailed election result map EVER
 
-We're gonna make a precinct-level map of results from the 2016 General Election. And we're gonna do it within 24 hours of polls closing.
+We at the Los Angeles Times Graphics Desk wanted to make the most detailed maps of the 2016 election possible. To do that we had to work with each county. The secretary of state DOES NOT keep precinct-level results. But the good folks at statewidedatabase.org do organize these results. But not until at least six months after the election. 
 
-[Google Spreadsheet with current status](https://docs.google.com/spreadsheets/d/1_4YN6v-GzB5s8DQ7JbImkeJAqj-o3DrISaB7aS-PHHA/edit?usp=drive_web)
+The layout of this repo is a little messy. Each county has a folder with its three-digit FIPS code. Inside you'll find the original shapefile, any consolidation documents and the results. 
 
-These results will power these projects
-- How many people near you voted to...[elect Trump|elect Clintion|legalize weed|etc.]
-- 2016: The year Orange County turned blue
-- Support of the repeal of the death penalty
-- Perscription drugs costs
-- Gun control
-- Legalizing recreational marijuana
-- Mapping support/opposition of L.A. County measures A and M, School issue CC and L.A. city issues HHH, JJJ, RRR and SSS.
+Inside ready-precincts and for-merge you'll find the finalized precinct shapefiles for each county. Join these together if you want to do the whole state.
+
+Similarly the results are stored in separate files for each county in the final-results folder. They have a base file, a "munged" file and a "munged" CSVT file. Use the "munged" file for results, because it contains the percentage of voters and vote density for each precinct, including the winner of the presidential race.
+
+## Questions?
+Contact Jon Schleuss or Joe Fox 
+https://twitter.com/gaufre
+https://twitter.com/joemfox
 
 ## Shapefiles
 All shapefiles should be projected in WGS 84 and contain two columns:
