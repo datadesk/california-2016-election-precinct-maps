@@ -8,6 +8,8 @@
 
 ## What is this?
 
+It is [this](http://www.latimes.com/projects/la-pol-ca-california-neighborhood-election-results/).
+
 We at the Los Angeles Times Data Viz team wanted to make the most detailed California election maps ever. To do that we had to work with each of the 58 counties. The secretary of state DOES NOT keep precinct-level results. The good folks at [Statewide Database at U.C. Berkeley Law](http://statewidedatabase.org) do organize these results, but not until at least six months after the election. We wanted to publish as soon as possible.
 
 The layout of this repo is a little messy (sorry). Each county has a folder with its three-digit FIPS code. Inside you should find the original shapefile, consolidation documents (if needed) and results. These folders are where we did our work, so there may be other files in them like parsers, preliminary results, unprojected shapefiles or other scripts. Those scripts are buggy, probably crappy, and not intended to output a standard format or final data. If you use them, it’s at your own risk — be sure to check your results.
