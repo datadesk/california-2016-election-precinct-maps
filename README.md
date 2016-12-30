@@ -32,7 +32,7 @@ All map files in the “shapefiles” folder are projected in WGS 84 and contain
 - area (area will be in square meters calculated under projection NAD83 / UTM zone 10N)
 
 
-## Data format
+## Results
 Results in the final-results directory will have the following fields:
 - pct16
 - pres_clinton
