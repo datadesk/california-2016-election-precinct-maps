@@ -3,8 +3,8 @@
 ![calif-precincts](https://cloud.githubusercontent.com/assets/695934/21558065/5e417640-cde9-11e6-85d1-ebfa1eb49178.png)
 
 ## TL;DR
-- If you want precinct-level results for all of California for statewide races in the Nov. 8, 2016, election, look in the “final-results” directory.
-- If you want California precinct shapefiles by county, look in the “shapefiles” directory.
+- If you want precinct-level results for all of California for statewide races in the Nov. 8, 2016, election, look in the [final-results](https://github.com/datadesk/california-2016-election-precinct-maps/tree/master/final-results) directory.
+- If you want California precinct shapefiles by county, look in the [shapefiles](https://github.com/datadesk/california-2016-election-precinct-maps/tree/master/shapefiles) directory.
 
 ## What is this?
 
@@ -136,8 +136,10 @@ pct16,pres_clinton,pres_trump,pres_johnson,pres_stein,pres_lariva,pres_other,uss
 079-CON102-02,431.0,1133.0,59.0,13.0,2.0,33.0,721.0,462.0,615.0,988.0,890.0,698.0,866.0,689.0,973.0,595.0,728.0,865.0,681.0,966.0,809.0,804.0,991.0,619.0,601.0,927.0,548.0,1007.0,468.0,1104.0,360.0,1252.0,478.0,1150.0,894.0,754.0,635.0,960.0,946.0,586.0,712.0,893.0,25.79,67.8,6.4,trump,42.01,17.549261359524948,38.37,61.63,56.05,43.95,55.69,44.31,62.05,37.95,45.7,54.3,41.35,58.65,50.15,49.85,61.55,38.45,39.33,60.67,35.24,64.76,29.77,70.23,22.33,77.67,29.36,70.64,54.25,45.75,39.81,60.19,61.75,38.25,44.36,55.64
 ```
 
+## Problems
+The final results of Santa Clara and Lake counties differ very slightly from the California Secretary of State. We'll make adjustments once we know which party has the correct results. Leaning on counties for the moment.
 
+Some counties have results that couldn't be combined with a geographic region. There aren't many, but they do exist.
 
-
-## Questions?
+## Questions, comments, bugs?
 Contact [Jon Schleuss](https://twitter.com/gaufre) or [Joe Fox](https://twitter.com/joemfox) 
