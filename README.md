@@ -78,7 +78,7 @@ Results in the final-results directory will have the following fields:
 - prop67_yes
 - prop67_no
 
-For example, here are three lines from `091-sirra.csv`:
+For example, here are three lines from `091-sierra.csv`:
 ```
 pct16,pres_clinton,pres_trump,pres_johnson,pres_stein,pres_lariva,pres_other,ussenate_harris,ussenate_sanchez,prop51_yes,prop51_no,prop52_yes,prop52_no,prop53_yes,prop53_no,prop54_yes,prop54_no,prop55_yes,prop55_no,prop56_yes,prop56_no,prop57_yes,prop57_no,prop58_yes,prop58_no,prop59_yes,prop59_no,prop60_yes,prop60_no,prop61_yes,prop61_no,prop62_yes,prop62_no,prop63_yes,prop63_no,prop64_yes,prop64_no,prop65_yes,prop65_no,prop66_yes,prop66_no,prop67_yes,prop67_no
 091-4,15,31,7,2,1,1,20,16,25,25,38,12,26,24,35,14,25,25,13,42,28,19,30,18,27,21,17,27,17,30,18,32,8,46,31,22,15,34,23,19,19,29
