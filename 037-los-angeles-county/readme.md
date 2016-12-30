@@ -1,0 +1,1 @@
+note: Rows beginning with 999 are what Los Angeles County refers to as "ballot groups," which cannot be attributed to a physical precinct.
