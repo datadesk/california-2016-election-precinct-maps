@@ -1,0 +1,1 @@
+note: San Bernardino reported "write-in" votes for candidates that were not included in precinct totals but were reported to the California Secretary of State. These totals can be found in the county statement of vote.
