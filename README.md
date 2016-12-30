@@ -2,7 +2,6 @@
 
 ![calif-precincts](https://cloud.githubusercontent.com/assets/695934/21558065/5e417640-cde9-11e6-85d1-ebfa1eb49178.png)
 
-
 We at the Los Angeles Times Graphics Desk wanted to make the most detailed maps of the 2016 election possible. To do that we had to work with each county. The secretary of state DOES NOT keep precinct-level results. But the good folks at [Statewide Database at U.C. Berkeley Law](http://statewidedatabase.org) do organize these results. But not until at least six months after the election. 
 
 The layout of this repo is a little messy. Each county has a folder with its three-digit FIPS code. Inside you'll find the original shapefile, any consolidation documents and the results. 
