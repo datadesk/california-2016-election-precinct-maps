@@ -2,38 +2,38 @@
 
 ![calif-precincts](https://cloud.githubusercontent.com/assets/695934/21558065/5e417640-cde9-11e6-85d1-ebfa1eb49178.png)
 
-We at the Los Angeles Times Graphics Desk wanted to make the most detailed maps of the 2016 election possible. To do that we had to work with each county. The secretary of state DOES NOT keep precinct-level results. But the good folks at [Statewide Database at U.C. Berkeley Law](http://statewidedatabase.org) do organize these results. But not until at least six months after the election. 
+## TLDR
+- If you want precinct-level results for all of California for statewide races in the Nov. 8, 2016, election, look in the “final-results” directory.
+- If you want California precinct shapefiles by county, look in the “shapefiles” directory.
 
-The layout of this repo is a little messy. Each county has a folder with its three-digit FIPS code. Inside you'll find the original shapefile, any consolidation documents and the results. 
+## What is this?
 
-Inside ready-precincts and for-merge you'll find the finalized precinct shapefiles for each county. Join these together if you want to do the whole state.
+We at the Los Angeles Times Data Viz team wanted to make the most detailed California election maps ever. To do that we had to work with each of the 58 counties. The secretary of state DOES NOT keep precinct-level results. The good folks at [Statewide Database at U.C. Berkeley Law](http://statewidedatabase.org) do organize these results, but not until at least six months after the election. We wanted to publish as soon as possible.
 
-Similarly the results are stored in separate files for each county in the final-results folder. They have a base file, a "munged" file and a "munged" CSVT file. Use the "munged" file for results, because it contains the percentage of voters and vote density for each precinct, including the winner of the presidential race.
+The layout of this repo is a little messy (sorry). Each county has a folder with its three-digit FIPS code. Inside you should find the original shapefile, consolidation documents (if needed) and results. These folders are where we did our work, so there may be other files in them like parsers, preliminary results, unprojected shapefiles or other scripts. Those scripts are buggy, probably crappy, and not intended to output a standard format or final data. If you use them, it’s at your own risk — be sure to check your results.
 
-## Questions?
-Contact [Jon Schleuss](https://twitter.com/gaufre) or [Joe Fox](https://twitter.com/joemfox) 
+Inside “shapefiles,” you'll find the finalized, consolidated precinct shapefiles for each county. Join these together if you want to do the whole state.
 
+In QGIS, go to Vector > Data Management Tools > Merge Shapefiles to One…
 
+![screen shot 2016-12-29 at 5 28 28 pm](https://cloud.githubusercontent.com/assets/695934/21558288/3fa2a198-cdec-11e6-90be-0e836d87b13f.png)
+
+Run this ogr2ogr from your command line:
+
+```
+for f in shapefiles/*.shp; do ogr2ogr -update -append merged.shp $f -f "ESRI Shapefile"; done;
+```
+
+After that, you should be able to join with [all_precinct_results.csv](https://github.com/datadesk/california-2016-election-precinct-maps/blob/master/final-results/all_precinct_results.csv).
 
 ## Shapefiles
-All shapefiles should be projected in WGS 84 and contain two columns:
-- pct16
-- area (area will be in square meters if calculated under projection NAD83 / UTM zone 10N. Use field calculator to create a new field, type Decimal number (real), 20-length with 5-precision. Use "$area" under Geometry.)
+All map files in the “shapefiles” folder are projected in WGS 84 and contain two columns:
+- pct16 (a STRING column named "pct16" with the 3-digit county FIPS code and precinct number. For example, a Los Angeles County precinct might read `037-0080052A`)
+- area (area will be in square meters calculated under projection NAD83 / UTM zone 10N)
 
-## Workflow
-Each county is going to be different based on how the data is formatted and where and when we get it. But these should be the basic steps:
-  1. Get data from county
-  2. Reformat data as comma-delimited file with column names that match our field template (see below)
-  3. Use the "data munger" to add relevant columns to a new file
-  4. Pull main csv from this github repo
-  5. Append/merge your "munged" csv with the main csv
-  6. Push file back to repo
-  7. Replace current Carto table with new version of the main csv
 
 ## Data format
-We'll stitch together all the (coastline-clipped) precincts as one WGS84 file that includes the shapes for the counties. Each feature must have a STRING column named "pct16" with the 3-digit county FIPS code and precinct number. For example, a Los Angeles County precinct might read `037-0080052A`
-
-Results will need that same format for the unique precinct number and include the following fields:
+Results in the final-results directory will have the following fields:
 - pct16
 - pres_clinton
 - pres_johnson
@@ -78,7 +78,7 @@ Results will need that same format for the unique precinct number and include th
 - prop67_yes
 - prop67_no
 
-A "data munger" script will add these fields:
+Results with “-munged” appended to the filename additionally contain these fields:
 - pres_clinton_per
 - pres_trump_per
 - pres_third_per
@@ -119,3 +119,6 @@ A "data munger" script will add these fields:
 - prop66_no_per
 - prop67_yes_per
 - prop67_no_per
+
+## Questions?
+Contact [Jon Schleuss](https://twitter.com/gaufre) or [Joe Fox](https://twitter.com/joemfox) 
