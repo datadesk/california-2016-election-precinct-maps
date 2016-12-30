@@ -3,8 +3,8 @@
 ![calif-precincts](https://cloud.githubusercontent.com/assets/695934/21558065/5e417640-cde9-11e6-85d1-ebfa1eb49178.png)
 
 ## TL;DR
-- If you want precinct-level results for all of California for statewide races in the Nov. 8, 2016, election, look in the “final-results” directory.
-- If you want California precinct shapefiles by county, look in the “shapefiles” directory.
+- If you want precinct-level results for all of California for statewide races in the Nov. 8, 2016, election, look in the [final-results](https://github.com/datadesk/california-2016-election-precinct-maps/tree/master/final-results) directory.
+- If you want California precinct shapefiles by county, look in the [shapefiles](https://github.com/datadesk/california-2016-election-precinct-maps/tree/master/shapefiles) directory.
 
 ## What is this?
 
