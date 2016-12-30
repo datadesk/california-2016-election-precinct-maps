@@ -1,6 +1,6 @@
 # California's most detailed election result map EVER
 
-![calif-precincts](https://cloud.githubusercontent.com/assets/695934/21558049/37650348-cde9-11e6-86a7-4c4aebf8e979.png)
+![calif-precincts](https://cloud.githubusercontent.com/assets/695934/21558065/5e417640-cde9-11e6-85d1-ebfa1eb49178.png)
 
 
 We at the Los Angeles Times Graphics Desk wanted to make the most detailed maps of the 2016 election possible. To do that we had to work with each county. The secretary of state DOES NOT keep precinct-level results. But the good folks at [Statewide Database at U.C. Berkeley Law](http://statewidedatabase.org) do organize these results. But not until at least six months after the election. 
