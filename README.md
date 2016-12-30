@@ -8,7 +8,7 @@
 
 ## What is this?
 
-It is [this](http://www.latimes.com/projects/la-pol-ca-california-neighborhood-election-results/).
+[This](http://www.latimes.com/projects/la-pol-ca-california-neighborhood-election-results/).
 
 We at the Los Angeles Times Data Viz team wanted to make the most detailed California election maps ever. To do that we had to work with each of the 58 counties. The secretary of state DOES NOT keep precinct-level results. The good folks at [Statewide Database at U.C. Berkeley Law](http://statewidedatabase.org) do organize these results, but not until at least six months after the election. We wanted to publish as soon as possible.
 
