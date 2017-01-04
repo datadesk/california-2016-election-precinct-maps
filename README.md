@@ -139,7 +139,9 @@ pct16,pres_clinton,pres_trump,pres_johnson,pres_stein,pres_lariva,pres_other,uss
 ## Problems
 The final results of Santa Clara and Lake counties differ very slightly from the California Secretary of State. We'll make adjustments once we know which party has the correct results. Leaning on counties for the moment.
 
-Some counties have results that couldn't be combined with a geographic region. There aren't many, but they do exist.
+San Bernardino County results also differ from the Secretary of State results because write-ins weren't reported by precinct (don't worry, they still add up right in the end).
+
+Some counties have results that couldn't be combined with a geographic region. There aren't many, but they do exist (Los Angeles County is one).
 
 ## Questions, comments, bugs?
 Contact [Jon Schleuss](https://twitter.com/gaufre) or [Joe Fox](https://twitter.com/joemfox) 
