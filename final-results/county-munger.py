@@ -76,7 +76,7 @@ with open(file+'.csv','r') as csvinput:
                 votedensity = 0
 
                 # get precinct's vote desnity from matching shapefile and total pres vote
-                shapefile = "../ready-precincts/"+file+".shp"
+                shapefile = "../shapefiles/"+file+".shp"
                 driver = ogr.GetDriverByName("ESRI Shapefile")
                 dataSource = driver.Open(shapefile, 0)
 
