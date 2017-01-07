@@ -28,7 +28,7 @@ for f in shapefiles/*.shp; do ogr2ogr -update -append merged.shp $f -f "ESRI Sha
 
 After that, you should be able to join with [all_precinct_results.csv](https://github.com/datadesk/california-2016-election-precinct-maps/blob/master/final-results/all_precinct_results.csv).
 
-If you need to recompile the `all_precinct_results.csv` you can run this [csvstack command](http://csvkit.readthedocs.io/en/1.0.1/scripts/csvstack.html)
+If you need to recompile the `all_precinct_results.csv` you can run this [csvstack command](http://csvkit.readthedocs.io/en/1.0.1/scripts/csvstack.html):
 ```
 csvstack final-results/*-munged.csv > final-results/all_precinct_results.csv;
 ```
