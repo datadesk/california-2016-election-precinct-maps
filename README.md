@@ -28,6 +28,11 @@ for f in shapefiles/*.shp; do ogr2ogr -update -append merged.shp $f -f "ESRI Sha
 
 After that, you should be able to join with [all_precinct_results.csv](https://github.com/datadesk/california-2016-election-precinct-maps/blob/master/final-results/all_precinct_results.csv).
 
+If you need to recompile the `all_precinct_results.csv` you can run this [csvstack command](http://csvkit.readthedocs.io/en/1.0.1/scripts/csvstack.html)
+```
+csvstack final-results/*-munged.csv > final-results/all_precinct_results.csv;
+```
+
 ## Shapefiles
 All map files in the “shapefiles” folder are projected in WGS 84 and contain two columns:
 - pct16 (a STRING column named "pct16" with the 3-digit county FIPS code and precinct number. For example, a Los Angeles County precinct might read `037-0080052A`)
